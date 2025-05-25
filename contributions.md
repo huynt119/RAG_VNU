@@ -9,3 +9,4 @@
 	+ Build vector database
 	+ Build retriever
 	+ Build multi-hop RAG system
+	+ Write report
