@@ -1,0 +1,62 @@
+Nguồn: education.vnu.edu.vn_index.php_WebControl_viewnews_82.txt
+
+Chuyên ngành Quản trị trường học
+3.1.5.1. Đối tượng và điều kiện dự thi
+Thí sinh dự tuyển vào chương trình đào tạo thạc sĩ chuyên ngành Quản trị trường học phải đáp ứng 1 trong các điều kiện sau đây:
+- Có bằng đại học ngành đúng, ngành phù hợp được dự thi ngay sau khi tốt nghiệp đại học;
+- Có bằng đại học ngành gần phải có ít nhất 01 năm kinh nghiệm công tác; đối với người có bằng đại học ngành khác phải có ít nhất 02 năm kinh nghiệm công tác (tính từ ngày ký quyết định công nhận tốt nghiệp đại học đến ngày dự thi) trong lĩnh vực giáo dục đào tạo và đã hoặc đang giữ một trong các vị trí công tác sau đây:
++ Hiệu trưởng, phó hiệu trưởng (hoặc tương đương) các trường mầm non;
++ Hiệu trưởng, phó hiệu trưởng, tổ trưởng, tổ phó chuyên môn của các trường Tiểu học, Trung học cơ sở, Trung học phổ thông (hoặc tương đương);
++ Giám đốc, phó Giám đốc, trưởng phòng, phó trưởng phòng, chuyên viên của các trung tâm giáo dục và đào tạo;
++ Hiệu trưởng, phó hiệu trưởng, trưởng phòng, phó trưởng phòng, chuyên viên của các phòng/ban, chủ nhiệm, phó chủ nhiệm khoa của các cơ sở giáo dục và đào tạo (Đại học, trường Đại học, Cao đẳng, Trung cấp);
++ Lãnh đạo, chuyên viên của các viện, trung tâm thuộc các trường đại học, cao đẳng, trung cấp;
++ Cán bộ phụ trách công tác Đoàn, Đảng, Công đoàn trong các cơ sở giáo dục và đào tạo. Danh mục các học phần bổ sung kiến thức
++ Đối với người có bằng tốt nghiệp đại học ngành gần:
+STT
+Tên học phần
+Số tín chỉ
+1
+Giáo dục học
+3
+2
+Đại cương khoa học quản lí
+3
+3
+Tổ chức và quản lí cơ sở giáo dục và nhà trường
+3
+4
+Quản lí hành chính nhà nước và quản lí ngành giáo dục và đào tạo
+3
+5
+Đại cương về tâm lí và tâm lí học nhà trường
+3
+Tổng
+15
++ Đối với người có bằng tốt nghiệp đại học ngành khác:
+STT
+Tên học phần
+Số tín chỉ
+1
+Giáo dục học
+3
+2
+Đại cương khoa học quản lí
+3
+3
+Tổ chức và quản lí cơ sở giáo dục và nhà trường
+3
+4
+Quản lí hành chính nhà nước và quản lí ngành giáo dục và đào tạo
+3
+5
+Đại cương về tâm lí và tâm lí học nhà trường
+3
+6
+Hệ thống giáo dục quốc dân và bộ máy Quản lí giáo dục
+3
+7
+Phát triển nguồn nhân lực và quản lí tài chính, cơ sở vật chất trong giáo dục
+3
+Tổng
+21
+3.2.

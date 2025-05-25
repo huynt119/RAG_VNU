@@ -1,0 +1,12 @@
+Nguồn: uet.vnu.edu.vn_thong_tin_luan_cua_ncs_nguyen_hoang_anh_.txt
+
+(3) Đề xuất một hệ thống giao diện não máy tính hoàn chỉnh ứng dụng trong điều khiển thiết bị điện tử gia dụng
+Đề xuất mô hình và thực hiện hệ giao diện não máy tính trong điều khiển thiết bị điện tử gia dụng. Phân loại tín hiệu điện não sử dụng mô hình dựa trên máy học kết hợp là một cách tiếp cận phù hợp để phát triển hệ BCI trong điều khiển thiết bị điện tử gia dụng thông minh. Khả năng ứng dụng trong thực tiễn:
+– Trong các hệ thống giao diện não máy tính,
+– Tích hợp vào thiết bị thu tín hiệu điện não để tăng cường chất lượng tín hiệu thu
+– Ứng dụng trong việc chẩn đoán, hỗ trợ điều trị các bệnh lý thần kinh. Những hướng nghiên cứu tiếp theo:
+Tích hợp biến đổi wavelet package để cải tiến phương pháp DWSAE
+Thực hiện các hệ BCI dựa trên các phương pháp được đề xuất
+Tiếp tục áp dụng các phương pháp học máy để cải tiến DWSAE hướng tới khử các loại nhiễu tín hiệu điện não khác cũng như loại nhiễu trên các loại tín hiệu hình ảnh, âm thanh…
+Nghiên cứu và phát triển hệ BCI dựa trên đặc trưng P300, nhịp vận động cảm giác và các đặc trưng tín hiệu điện não khác
+14.

@@ -1,0 +1,97 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_368.txt
+
+Các thông tin khác (nếu có)
+Dự kiến ngưỡng đảm bảo chất lượng đầu vào, điều kiện nhận hồ sơ ĐKXT:
+- Ngành Luật (mã ngành 7380101): 17,0
+- Ngành Luật CLC TT23 ((mã ngành 7380101): 16,5
+- Ngành Luật Kinh doanh (mã ngành 7380110): 17,0
+- Ngành Luật Thương mại Quốc tế (mã ngành
+7380109
+): 17,0
+6. Thông tin về ngành/ nhóm ngành, chỉ tiêu, tổ hợp xét tuyển:
+- Xét tuyển chỉ tiêu theo từng tổ hợp: ngành Luật – mã xét tuyển QHL01 – mã ngành: 7380101
+- Xét tuyển theo ngành: các ngành còn lại (ngành Luật CLC, Luật Kinh doanh và Luật Thương mại quốc tế). TT
+Mã trường
+Tên ngành
+Mã xét tuyển
+Mã ngành
+Chỉ tiêu
+(
+Dự kiến
+)
+Tổ hợp môn xét tuyển 1
+Tổ hợp môn xét tuyển 2
+Tổ hợp môn
+xét tuyển 3
+Tổ hợp môn
+xét tuyển 4
+Theo KQ thi THPT QG
+Theo phương thức khác
+Mã tổ hợp môn
+Chỉ tiêu
+Mã tổ hợp môn
+Chỉ tiêu
+Mã tổ hợp môn
+Chỉ tiêu
+Mã tổ hợp môn
+Chỉ tiêu
+1
+QHL
+Luật
+QHL01
+7380101
+320
+10
+C00
+110
+A00
+50
+D01,03
+D01:100
+D03: 20
+D78, 82
+D78: 40 D82: 10
+2
+QHL
+Luật CLC
+(thu học phí  theo điều kiện đảm bảo chất lượng đáp ứng Thông tư 23 của Bộ GDĐT)
+QHL40
+7380101 CLC
+45
+5
+A01
+D01
+D07
+D78
+3
+QHL
+Luật kinh doanh
+QHL02
+7380110
+150
+10
+A00
+A01
+D01,03
+D78, 82
+4
+QHL
+Luật thương mại quốc tế
+QHL03
+7380109
+55
+5
+A00
+A01
+D01
+D78, 82
+Tổng : 600 chỉ tiêu
+570
+30
+Tiêu chí phụ:
++ Đối với chương trình chuẩn:
+Trong trường hợp tại ngưỡng điểm trúng tuyển của từng
+n
+gành, số thí sinh bằng ngưỡng điểm trúng tuyển nhiều hơn số chỉ tiêu xét tuyển còn lại của từng
+n
+gành thì tiêu chí phụ là tổng điểm xét tuyển không bao gồm điểm ưu tiên khu vực và đối tượng. + Chương trình CLC thu học phí theo điều kiện đảm bảo chất lượng đáp ứng Thông tư 23 của Bộ GDĐT: Đối với các thí sinh bằng điểm xét tuyển ở cuối danh sách thì xét trúng tuyển căn cứ theo điểm từ cao xuống thấp của môn thi Tiếng Anh.

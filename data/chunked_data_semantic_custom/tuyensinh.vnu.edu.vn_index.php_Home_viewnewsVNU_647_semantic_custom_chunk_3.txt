@@ -1,0 +1,79 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_647.txt
+
+Tên trường, mã trường, mã ngành, tổ hợp xét tuyển
+Tên trường: Khoa Luật – Đại học Quốc gia Hà Nội
+Mã trường: QHL
+TT
+Tên ngành đào tạo/Tổ hợp xét tuyển
+Mã ngành
+Mã tổ hợp
+Chỉ tiêu
+Ghi chú
+Thi THPT
+Phương thức khác
+1
+Luật
+1.1
+Luật
+7380101
+270
+30
+Ngữ văn, Lịch sử, Địa lý
+C00
+95
+Xét tuyển theo chỉ tiêu từng tổ hợp
+Toán, Vật lý, Hóa học
+A00
+45
+Ngữ văn, Toán, Ngoại ngữ
+D01, 03
+D01: 85
+D03: 05
+Ngữ Văn, Ngoại ngữ, KHXH
+D78, 82
+D78: 35
+D82: 05
+1.2
+Luật chất lượng cao theo TT23
+(thu học phí  theo điều kiện đảm bảo chất lượng đáp ứng Thông tư 23 của Bộ GD&ĐT)
+7380101CLC
+45
+05
+Xét điểm theo ngành, điểm thi THPT tiếng Anh tối thiểu 4.0/10
+Toán, Vật lý, Tiếng Anh
+A01
+Ngữ văn, Toán, Tiếng Anh
+D01
+Toán, Hóa học, Tiếng Anh
+D07
+Ngữ Văn, Tiếng Anh, KHXH
+D78
+2
+Luật Kinh doanh
+7380110
+150
+20
+Xét điểm theo ngành
+Toán, Vật lý, Hóa học
+A00
+Toán, Vật lý, Tiếng Anh
+A01
+Ngữ văn, Toán, Ngoại ngữ
+D01, 03
+Toán, Ngoại ngữ, KHTN
+D90, 91
+3
+Luật Thương mại quốc tế
+7380109
+45
+05
+Xét điểm theo ngành
+Toán, Vật lý, Hóa học
+A00
+Toán, Vật lý, Tiếng Anh
+A01
+Ngữ văn, Toán, Ngoại ngữ
+D01
+Ngữ Văn, Ngoại ngữ, KHXH
+D78, 82
+1.6.2.

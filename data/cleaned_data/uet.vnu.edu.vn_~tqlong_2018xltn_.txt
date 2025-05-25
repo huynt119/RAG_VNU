@@ -1,0 +1,58 @@
+INT3411 - Speech Processing - Xử lý tiếng nói
+Semester II, 2017-2018
+Credits: 3
+Instructor:
+Tran Quoc Long
+(tqlong at vnu.edu.vn)
+Group:
+Facebook
+,
+Group email
+News - Announcement
+(12/02) Link to
+Proposal template
+. Submit
+here
+(16/01) Semester starts: It was nice to meet you all.
+Course contents: Speech Processing:
+Automatic Speech Recognition (ASR)
+Text-To-Speech (TTS)
+Practical tools for speech processing
+Course materials:
+Slides and document links to the Internet provided in this page.
+Assessment (tentative):
+Studying progress (project report and presentation):
+40%
+Final exam:
+60%
+Schedule:
+Contents
+Deadline
+01
+Introduction
+02
+Fourier transform, Feature extraction
+Dynamic Time Warping
+Learning how to learn, week 1
+03
+Guassian, Gaussian Mixtures, EM Algorithm
+04
+Project proposal due
+05
+Learning how to learn, week 2
+06
+07
+Project progress report 1 due
+08
+Learning how to learn, week 3
+09
+10
+11
+Project progress report 2 due
+12
+Learning how to learn, week 4
+13
+14
+Final presentation
+15
+Final presentation and Final project report due

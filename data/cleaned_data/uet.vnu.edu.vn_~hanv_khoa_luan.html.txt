@@ -1,0 +1,132 @@
+Danh sách hướng dẫn khóa luận, luận văn, luận án
+Luận án tiến sĩ
+Trịnh Thanh Bình,
+Kiểm chứng các thành phần Java tương tranh
+,
+(Hướng dẫn phụ: PGS. TS. Nguyễn Ngọc Bình), 2012.
+Luận văn thạc sĩ
+Hồ Văn Bảo: Tìm kiếm và tích hợp thông tin sử dụng Agent phần mềm, 2013.
+Nguyễn Việt Anh: Kiểm thử ứng dụng web, 2012.
+Nguyễn Thị Thu Phương: Nghiên cứu phương pháp điều khiển truy cập dựa vai trò trong việc đảm bảo an toàn cho các ứng dụng dựa thành phần, 2011.
+Phạm Đình Phong: Nghiên cứu về kiểm chứng bất biến của đối tượng sử dụng lập trình hướng khía cạnh, 2010.
+Vũ Thị Hồng Hạnh: Kiểm tra ràng buộc thời gian sử dụng phương pháp AOP, 2010.
+Tô Lan Hương: Ước lượng chi phí phần mềm bằng phương pháp CBR, 2010.
+Nguyễn Ngọc Khải: Nghiên cứu về tác tử phần mềm và ứng dụng vào bài toán đặt lịch họp, 2010.
+Nguyễn Thị Thúy Hằng: Ứng dụng agent phần mềm trong tích hợp thông tin về phương tiện giao thông, 2009.
+Nguyễn Thị Bình Giang: Công nghệ web service và ứng dụng để xây dựng kiến trúc hướng dịch vụ, 2009.
+Lê Khánh Trình: Phân tích thiết kế hệ chuyên gia đánh giá khả năng chi trả của khách hàng, 2009.
+Nguyễn Thị Thu Thảo: Nghiên cứu về trắc nghiệm thích nghi, 2008
+Nguyễn Ngọc Định: Hệ thống lọc và sắp xếp tin tức theo ngữ cảnh người dùng, 2008
+Nguyễn Thị Tâm: Chia sẻ dữ liệu động giữa các hệ LMS, 2007.
+Nguyễn Thị Thu Trang: Mô hình hóa và kiểm chứng Aspect, Trường ĐH Bách Khoa Hà Nội, 2007.
+Phan Hồ Việt Phương: Ứng dụng công nghệ web ngữ nghĩa trong đào tạo điện tử, 2006.
+Nguyễn Vân Anh: Nghiên cứu và xây dựng hệ thống thi trực tuyến, 2006.
+Đỗ Văn Chiểu: Tính độ tương tự và áp dụng trong lập luận theo tình huống, 2005.
+Trịnh Thanh Bình: Lập luận theo kinh nghiệm và ứng dụng trong xây dựng hệ hỗ trợ khách hàng, 2004.
+Khóa luận cử nhân
+Năm 2013
+Nguyễn Trọng Trung Anh: A Runtime Approach for predicting program resource Usage.
+Nguyễn Sách Sơn: A Study on web data searching algorithms.
+Nguyễn Văn Thắng: A Study of scalable connectivity based on mobile agents.
+Cấn Mạnh Hùng: A Study of mobile agent development.
+Nguyễn Hoàng Khanh: Kỹ thuật hiển thị dữ liệu trên bản đồ.
+Nguyễn Sỹ Khiêm: Xây dựng giao diện ZUI cho web.
+Năm 2012
+Trần Bảo Thái: Tìm hiểu và xây dựng hệ thống phân tải client-server sử dụng Mobile agent.
+Nguyễn Hữu Hà: Thuật toán và phương pháp biểu diễn dữ liệu web trên thiết bị di động.
+Nguyễn Xuân Nhân: Nghiên cứu vấn đề kiểm thử trong công nghệ phần mềm.
+Đỗ Vũ Tuấn: Frequenry of using data in web application.
+Đỗ Đức Bình: Web application white- box testing.
+Năm 2011
+Đinh Đức Cường: Kiểm chứng tính bất biến của đối tượng Java trong thời gian chạy.
+Trương Đức Kiên: Xây dựng phương pháp đánh chỉ mục trong không gian dữ liệu giao thông.
+Bùi Phi Điệp: Giải thuật layout dữ liệu 3D  (
+đồng hướng dẫn
+).
+Nguyễn Thành Đức: Xây dựng phương pháp truy vấn và tìm kiếm trong không gian dữ liệu giao thông (
+đồng hướng dẫn
+).
+Nguyễn Quỳnh Anh: Thuật toán sắp xếp dữ liệu trong không gian sử dụng 3D treemap (
+đồng hướng dẫn
+).
+Năm 2010
+Trần Thị Vân Dung: Nghiên cứu về kiểm chứng phần mềm sử dụng SPIN.
+Lê Thị Hồng Hạnh: Kiến trúc phần mềm dựa trên agent.
+Tạ Minh Tú: Sử dụng Mobile Agent để tích hợp thông tin.
+Phạm Ngọc Thắng: Đặc tả  và kiểm chứng phần mềm sử dụng Cafe OBJ (
+đồng hướng dẫn
+).
+Đinh Anh Thái: Xây dựng đồ họa 3D dựa trên công nghệ Flash dành cho thiết bị nhúng – kỹ thuật xử lý Flash Video trên Gmash (
+đồng hướng dẫn
+).
+Cao Bắc Tiến: Phát triển, tối ưu thuật toán Adaptive Page Layout trên PC (
+đồng hướng dẫn
+).
+Nguyễn Tài Tuệ: Phát triển tối ưu thuật toán Adaptive Page Layout trên thiết bị nhúng (
+đồng hướng dẫn
+).
+Lê Viết Sơn: Xây dựng đồ họa 3D dựa trên công nghệ Flash dành cho thiết bị nhúng – Phương pháp xử lý 3D của Paper vision 3D (
+đồng hướng dẫn
+).
+Năm 2009
+Chu Thị Thảo: Xây dựng công cụ hỗ trợ thi trắc nghiệm trên môi trường di động.
+Nguyễn Minh Hoàng: Nghiên cứu mô hình phân tải server sử dụng proxy động (
+đồng hướng dẫn
+).
+Nguyễn Đình Anh Cương: Xây dựng hệ thống giám sát và điều khiển thông minh - Nhận diện và điều khiển trạng thái vật thể qua IP Camera (
+đồng hướng dẫn
+).
+Hoàng Tuấn Hưng: Xây dựng Game Engine đa nền tảng - Quản lý tài nguyên và chuyển động của các đối tượng (
+đồng hướng dẫn
+).
+Trương Đức Phương: Xây dựng Game Engine đa nền tảng - Quản lý khung cảnh (
+đồng hướng dẫn
+).
+Tống Tùng Khánh: Kiểm tra sự tương đương giữa các mô đun bằng phương pháp kiểm thử (
+đồng hướng dẫn
+).
+Năm 2008
+Phạm Thị Chung: Nghiên cứu về công nghệ Portal.
+Trần Danh Hoạt: Nghiên cứu công nghệ Portal và ứng dụng.
+Hà Thị Huyền: Chiết xuất mô hình từ mã nguồn trong kiểm chứng phần mềm.
+Nguyễn Thuỳ Nhung: Nghiên cứu về kiểm chứng phần mềm dựa trên Aspect.
+Phạm Văn Trường: Tích hợp web service.
+Vũ Minh Tuấn: Nghiên cứu về Web Service và ứng dụng.
+Năm 2007
+Nguyễn Đức Anh: Ứng dụng công nghệ Portal trong đào tạo trực tuyến.
+Phạm Tuấn Anh: Xây dựng cổng thông tin sinh viên trên nền Microsoft Office Sharepoint 2007.
+Nguyễn Văn Dân: Mô hình dự đoán rủi ro và quản lý rủi ro dự án phần mềm sử dụng CBR.
+Đỗ Bá Đức: Xây dựng tòa soạn báo điện tử bằng Microsoft Office Sharepoint Server 2007.
+Trương Minh Sáng: Xây dựng ứng dụng thương mại điện tử sử dụng công nghệ portal.
+Võ Văn Thành: Ứng dụng Ontology cho bài toán ước lượng phần mềm.
+Năm 2006
+Nguyễn Thị Minh Tâm (K47CA): Nghiên cứu về đánh giá rủi ro trong phát triển phần mềm.
+Nguyễn Thị Nga (K47CA): Nghiên cứu về hệ hỗ trợ thiết kế phần mềm sử dụng CBR.
+Trần Minh Quân (K47CA): Nghiên cứu nhận dạng phiếu đăng ký thi.
+Lưu Hồng Vân (K47CC): Phát triển hệ thống E-learning trên nền tảng công nghệ Portal.
+Trần Thị Nghĩa, Bùi Thị Thơm (K47CC): Nghiên cứu về quản trị nội dung của hệ thống E-learning.
+Trần Mai Hạnh (K47CB): Phân loại văn bản.
+Năm 2005
+Chu Thị Kim Anh (K46CB): Ứng dụng Workflow vào hệ thống E-learning.
+Nguyễn Thị Minh Ánh (K46CA): Nghiên cứu và ứng dụng mạng Neural trong nhận dạng chữ viết tay tiếng Việt.
+Nguyễn Ngọc Bảo (K46CA): Hệ chuyên gia ước lượng dự án phần mềm.
+Đinh Việt Cường (K46CA): Nghiên cứu và ứng dụng trích chọn đặc trưng trong nhận dạng chữ viết tay tiếng Việt.
+Nguyễn Thị Ngọc Điệp (K46CA), Nguyễn Thị Bình Giang (K46CC): Xây dựng công cụ biên soạn bài giảng tuân theo chuẩn SCORM.
+Ngô Trí Hoài (K46CB): Nghiên cứu và ứng dụng phân đoạn ảnh trong nhận dạng chữ viết tay tiếng Việt.
+Năm 2004
+Phan Hồ Việt Phương (K45C): Hệ chuyên gia đánh giá năng lực thiết kế giải thuật cho các bài toán lập trình.
+Hồ Ngân Hương (k45C): Chuẩn SCORM và khả năng ứng dụng trong các hệ thống đào tạo điện tử.
+Phan Việt Cường (K45C): Kỹ nghệ phần mềm hướng thành phần và ứng dụng.
+Đào Thanh Khiết, Phan Văn Thuận (K45C): Ứng dụng nhận dạng trong xử lý kết quả điều tra.
+Năm 2003
+Nguyễn Đức Dũng, Nguyễn Minh Tuấn (K44C): Một số phương pháp nhận dạng và ứng dụng trong nhận dạng chữ viết tay.
+Nguyễn Hòa Bình (K44C): Nghiên cứu phát triển các hệ thống truyền hình, truyền thanh qua Internet (
+đồng hướng dẫn
+).
+Trần Việt Hà (K44T): Ứng dụng CMM trong phát triển hệ thống quản lý bàn hàng (
+đồng hướng dẫn
+).
+Ngô Quang Lựa, Nguyễn Văn Lưỡng (K44T): Phân tích thiết kế và cài đặt hệ thống thi trắc nghiệm khách quan trên mạng (
+đồng hướng dẫn
+).
+Sinh viên nghiên cứu khoa học

@@ -1,0 +1,60 @@
+Nguồn: uet.vnu.edu.vn_~chauttm_ooad2013ss.txt
+
+Phân tích và thiết kế hướng đối tượng
+(draft version)
+[TL6]
+Mẫu
+định dạng tài liệu đặc tả phần mềm
+Lịch trình và dự kiến
+Week
+Lecture
+Readings/Notes
+Assignments/Labs/Exams
+01*
+Giới thiệu môn học
+Tìm hiểu tổ chức tài liệu trong [TL1]
+Tìm hiểu mẫu tài liệu trong [TL6]
+Đọc
+Bitbucket mini guide
+02*
+Phát triển phần mềm chất lượng cao
+Đọc chương 2 trong tài liệu [TL4]
+Lập nhóm và xác định đề tài bài tập lớn. Tham khảo
+mẫu
+Project Planning
+và
+User Needs
+trong
+[TL6]
+lab01
+03*
+Mô hình hóa hướng đối tượng
+Đọc chương 1 và 2 (part 1) trong tài liệu [TL2] cho phần mô hình hóa hướng đối tượng
+Đọc chương 3 và 4 trong tài liệu [TL2] cho phần giới thiệu ký pháp UML
+Đọc chương 2 trong tài liệu [TL5]
+Đọc
+bài test về visual modeling
+Đọc thêm bài giảng về
+các biểu đồ UML
+lab02
+04
+Tổng quan về các yêu cầu phần mềm
+Đọc mục 3.1, chương 3 trong tài liệu [TL5]
+Đọc chương 6 và trang 669-677 trong tài liệu [TL2]
+Tìm đọc tài liệu [TL3]
+Đọc chương 3-7 trong tài liệu [TL4]
+Tham khảo mẫu các tài liệu
+ProblemStatement, UseCaseModel, Glosary, SupplementSpecification
+trong [TL1]
+Đọc
+ví dụ về nắm bắt yêu cầu
+lab03
+05
+Tổng quan về phân tích và thiết kế
+Đọc mục 3.2, chương 3 trong tài liệu [TL5]
+Đọc mục 1.3, 1.4, 1.8, và chương 12  trong [TL4]
+Xem lại chương 3 trong [TL2]
+Đọc trang 168, 318 trong [TL2]
+Hạn nộp báo cáo về kế hoạch dự án và yêu cầu người dùng (
+nộp qua Bitbucket
+).

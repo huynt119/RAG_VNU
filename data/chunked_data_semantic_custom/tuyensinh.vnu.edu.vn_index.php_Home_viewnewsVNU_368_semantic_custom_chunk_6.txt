@@ -1,0 +1,275 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_368.txt
+
+Thông tin về ngành/nhóm ngành, chỉ tiêu, tổ hợp xét tuyển
+TT
+Mã xét tuyển
+Tên ngành
+Chỉ tiêu
+(
+Dự kiến
+)
+Tổ hợp
+xét tuyển 1
+Tổ hợp
+xét tuyển 2
+Tổ hợp
+xét tuyển 3
+Tổ hợp
+xét tuyển 4
+Theo KQ thi THPT QG
+Theo phương thức khác
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+QHX01
+Báo chí
+85
+15
+A00
+C00
+D01, D03, D04
+D78, D82, D83
+QHX40
+Báo chí (
+dự kiến
+)
+CTĐT CLC TT23
+25
+5
+A00
+C00
+D01, D03, D04
+D78, D82, D83
+QHX02
+Chính trị học
+60
+10
+A00
+C00
+D01, D03, D04
+D78, D82, D83
+QHX03
+Công tác xã hội
+70
+10
+A00
+C00
+D01, D03, D04
+D78, D82, D83
+QHX04
+Đông Nam Á học
+45
+5
+A00
+C00
+D01, D03, D04
+D78, D82, D83
+QHX05
+Đông phương học
+80
+20
+C00
+D01, D03, D04
+D78, D82, D83
+QHX06
+Hán Nôm
+25
+5
+C00
+D01, D03, D04
+D78, D82, D83
+QHX07
+Khoa học quản lý
+75
+15
+A00
+C00
+D01, D03, D04
+D78, D82, D83
+QHX41
+Khoa học quản lý (
+dự kiến
+)
+CTĐT CLC TT23
+30
+10
+A00
+C00
+D01, D03, D04
+D78, D82, D83
+QHX08
+Lịch sử
+65
+15
+C00
+D01, D03, D04
+D78, D82, D83
+QHX09
+Lưu trữ học
+50
+10
+A00
+C00
+D01, D03, D04
+D78, D82, D83
+QHX10
+Ngôn ngữ học
+65
+15
+C00
+D01, D03, D04
+D78, D82, D83
+QHX11
+Nhân học
+50
+10
+A00
+C00
+D01, D03, D04
+D78, D82, D83
+QHX12
+Nhật Bản học (
+dự kiến
+)
+25
+5
+D01, D04, D06
+D78, D81, D83
+QHX13
+Quan hệ công chúng
+60
+15
+C00
+D01, D03, D04
+D78, D82, D83
+QHX14
+Quản lý thông tin
+50
+10
+A00
+C00
+D01, D03, D04
+D78, D82, D83
+QHX15
+Quản trị dịch vụ du lịch và lữ hành
+70
+20
+D01, D03, D04
+D78, D82, D83
+QHX16
+Quản trị khách sạn
+65
+15
+D01, D03, D04
+D78, D82, D83
+QHX42
+Quản lý thông tin (
+dự kiến
+)
+CTĐT CLC TT23
+25
+5
+A00
+C00
+D01, D03, D04
+D78, D82, D83
+QHX17
+Quản trị văn phòng
+65
+15
+A00
+C00
+D01, D03, D04
+D78, D82, D83
+QHX18
+Quốc tế học
+90
+15
+A00
+C00
+D01, D03, D04
+D78, D82, D83
+QHX19
+Tâm lý học
+90
+20
+A00
+C00
+D01, D03, D04
+D78, D82, D83
+QHX20
+Thông tin – thư viện
+50
+5
+A00
+C00
+D01, D03, D04
+D78, D82, D83
+QHX21
+Tôn giáo học
+50
+5
+A00
+C00
+D01, D03, D04
+D78, D82, D83
+QHX22
+Triết học
+60
+10
+A00
+C00
+D01, D03, D04
+D78, D82, D83
+QHX23
+Văn học
+75
+15
+C00
+D01, D03, D04
+D78, D82, D83
+QHX24
+Việt Nam học
+65
+15
+C00
+D01, D03, D04
+D78, D82, D83
+QHX25
+Xã hội học
+60
+10
+A00
+C00
+D01, D03, D04
+D78, D82, D83
+Tổng: 1.950 chỉ tiêu
+1
+.625
+325
+- (**)  Các chương trình đào tạo chất lượng cao đáp ứng Thông tư 23/2014-TT-BGDĐT của Bộ GDĐT. - Môn thi/bài thi các tổ hợp xét tuyển:
+A00
+- Toán học, Hóa học, Vật lí;
+C00
+- Ngữ văn, Lịch sử, Địa lí;
+D01
+- Toán học, Ngữ văn, Tiếng Anh;
+D03
+- Toán học, Ngữ văn, Tiếng Pháp;
+D04
+- Toán học, Ngữ văn, Tiếng Trung;
+D06
+- Toán học, Ngữ văn, Tiếng Nhật;
+D78
+- Ngữ văn, KHXH, Tiếng Anh;
+D81
+- Ngữ văn, KHXH, Tiếng Nhật;
+D82
+- Ngữ văn, KHXH, Tiếng Pháp;
+D83
+- Ngữ văn, KHXH, Tiếng Trung.

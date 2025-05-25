@@ -1,0 +1,99 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_588.txt
+
+KHOA QUỐC TẾ, ĐHQGHN
+1
+QHQ
+QHQ01
+Kinh    doanh quốc tế                                    (đào tạo bằng tiếng Anh)
+A00
+20.5
+A01
+20.5
+D01,    D03, D06
+20.5
+D96,    D97, DD0
+20.5
+2
+QHQ
+QHQ02
+Kế    toán, Phân tích và Kiểm toán   (đào tạo bằng tiếng Anh)
+A00
+18.75
+A01
+18.75
+D01,    D03, D06
+18.75
+D96,    D97, DD0
+18.75
+3
+QHQ
+QHQ03
+Hệ    thống thông tin quản lý            (đào tạo bằng tiếng    Anh)
+A00
+17
+A01
+17
+D01,    D03, D06
+17
+D96,    D97, DD0
+17
+4
+QHQ
+QHQ04
+Tin    học và Kĩ thuật máy tính   (Chương trình LKĐT do ĐHQGHN cấp bằng)
+A00
+17
+A01
+17
+D01,    D03, D06
+17
+D90,    D91, D94
+17
+5
+QHQ
+QHQ05
+Phân    tích dữ liệu kinh doanh   (Chương trình LKĐT do ĐHQGHN cấp bằng)
+A00
+17
+A01
+17
+D01,    D03, D06
+17
+D96,    D97, DD0
+17
+10. KHOA QUẢN TRỊ VÀ KINH DOANH
+1
+QHD
+7900101
+Quản    trị Doanh nghiệp và Công nghệ
+A00
+16
+A01
+16
+D01,    D03, D04
+16
+D90,    D91, D95
+16
+Facebook Chat
+Widget by CAIT
+Liên kết
+Trường Đại học Khoa học Tự nhiên
+Trường Đại học  Khoa học Xã hội và Nhân văn
+Trường Đại học Ngoại ngữ
+Trường Đại học Công nghệ
+Trường Đại học Giáo dục
+Trường Đại học Luật
+Trường Đại học Y Dược
+Trường Đại học Việt Nhật
+Trường Quốc tế
+Trường Quản trị và Kinh doanh
+Trường Đại học Kinh tế
+Trường Khoa học liên ngành và Nghệ thuật
+Khoa Quốc tế Pháp ngữ
+Địa chỉ
+144 Xuân Thủy, Cầu Giấy, Hà Nội
+Khu đô thị ĐHQGHN tại Hòa Lạc
+024 37547 670
+tsvnu@vnu.edu.vn
+Copyright by Đại học Quốc gia Hà Nội
+×

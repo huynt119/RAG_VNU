@@ -1,0 +1,32 @@
+Nguồn: uet.vnu.edu.vn_middle_senior_backend_ruby_dev_ha_noi_.txt
+
+(sử dụng tiếng Anh)
+YÊU CẦU CÔNG VIỆC:
+#Middle:
+Có ít nhất 1 năm kinh nghiệm làm việc với Ruby
+Có kiến thức về lập trình OOP Ruby on Rails, Web Development, DBMS, ORM (làm nhiều những nội dung liên quan đến database performance, RESTful, SPA là một lợi thế)
+Nắm vững và có kinh nghiệm làm việc với một số Gem cơ bản: Devise, Pundit, Kaminari v.v..
+Cẩn thận khi viết code, có khả năng Unit Test, có tư duy DRY
+Thao tác tốt với HTML, CSS, JavaScript (Jquery, AngularJS, Ajax, …), Bootstrap, JSON, XML,
+Làm việc thành thạo với các tool quản lý version và management (Chatwork,Git, Backlog,Dropbox,Asana）
+Có hiểu biết về Docker, AWS, CI/CD, deployment
+# Senior:
+Tốt nghiệp đại học, chuyên ngành công nghệ thông tin
+Có kinh nghiệm làm các dự án Ruby trên 3 năm
+Nắm vững Ruby on Rails, có kinh nghiệm làm việc và xử lý các hệ thống lớn
+Có kinh nghiệm với OOP, MVC Framework, ORM, RESTful API, Design Patterns
+Hiểu biết về TDD, Testing và có thể implements các requirement theo TDD, có tư duy DRY
+Thao tác tốt với một trong các Database: MySQL, PostgreSQL, Oracle, … có kinh nghiệm làm việc với Big Data là một lợi thế
+Có kinh nghiệm làm việc với Cloud, Microservices
+Thành thạo AWS, Docker
+Có kiến thức về Infrastructure, Deployment, CI/CD
+Thành thạo các công cụ quản lý mã nguồn: GIT, SVN, và dự án Redmine, Jira
+Thao tác tốt với HTML, CSS, JavaScript (Jquery, AngularJS, Ajax, …), Bootstrap, JSON, XM
+#Yêu cầu chung:
+Có kinh nghiệm làm việc trong các dự án theo mô hình Agile
+Có khả năng làm việc teamwork cũng như làm việc độc lập
+Có thể làm việc dưới áp lực cao
+Khả năng tư duy tốt, chủ động trong công việc
+Có tinh thần trách nhiệm cao trong công việc
+Ưu tiên ứng viên biết tiếng Nhật hoặc tiếng Anh
+TẠI SAO BẠN THÍCH LÀM VIỆC TẠI ĐÂY?

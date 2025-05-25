@@ -1,0 +1,130 @@
+Msc. Bui Trung Ninh
+Publications
+Ninh T. Bui, Tuan Q. Nguyen and Hoi
+V. Pham, “Effects of ASE Noise and Dispersion Chromatic on Performance of DWDM
+Networks using Distributed Raman Amplifiers”, International Journal of
+Communication Networks and Information Security (IJCNIS), vol. 6, No. 2, 2014,
+pp. 168-172,
+ISSN: 2073-607X (Online).
+Bùi Trung Ninh, Phạm Văn Hội,
+Đặng Thế Ngọc, Phạm Tuấn Anh, Nguyễn
+Quốc Tuấn, “The Effects of ASE Noise and the Position of EDFA
+Amplifier on Multi-Wavelength OCDM-Based Long- Reach Passive Optical Networks”,
+VNU Journal of Natural Sciences and Technology, vol. 30, No. 1, 2014, pp.
+58-67, ISSN 0866-8612.
+Van Hoi Pham, Huy Bui, Thanh Son
+Pham, The Anh Nguyen, Thuy Van Nguyen, Huu Thang Le, Trung Ninh Bui, Van Phu
+Nguyen, and Roberto Coisson, “
+Control of
+whispering-gallery-mode spectrum from erbium-doped silica microsphere lasers
+”,
+Journal of the Optical Society of America B / Vol. 30, No. 6 / June 2013, ISSN:
+1520-8540.
+Bui Trung Ninh, Ngoc T. Dang, Anh T.
+Pham “
+The Effects of EDFA Noise on the
+Performance of Multi-wavelength OCDM-based Long-Reach Passive Optical Networks
+”,
+Tencon 2012, Cebu, Philippines, Nov. 19-22, 2012.
+Bui Trung Ninh, Pham Van Hoi, “
+The Effects of ASE Noise on the Performance of
+Multi-wavelength OCDMA Systems using APD Receiver
+”, the 7
+th
+International Conference on
+Photonics and Applications (ICPA-7), HCM City, Nov. 26-29, 2012.
+Pham Van Hoi,
+Bui Huy, Pham Thanh Son, Nguyen The Anh, Le Huu Thang, Bui Trung Ninh, Roberto
+Coisson and Nguyen Thuy Van
+, “
+High power lasing single-modes
+of Erbium-doped Slica microcavity lasers
+”, the 7
+th
+International Conference on
+Photonics and Applications (ICPA-7), HCM City, Nov. 26-29, 2012.
+Pham Thanh Son,
+Nguyen The Anh, Nguyen Thuy Van, Bui Huy, Ha Xuan Vinh, Bui Trung Ninh and Pham
+Van Hoi
+,
+“
+Study of simulated Raman scattering effect in the
+Silica-alumina fibers
+”
+, the 7
+th
+International Conference on
+Photonics and Applications (ICPA-7), HCM City, Nov. 26-29, 2012.
+Nguyen The Anh
+,
+Nguyen Thuy Van
+,
+Nguyen Thanh Hai
+,
+Pham Thanh Son
+,
+Bui Huy
+,
+Tran Thi Cham
+, Bui Trung Ninh,
+Ha Xuan Vinh
+,
+Pham Van Hoi
+, “
+Optical amplifier based on simulated Raman scattering
+effect
+”,
+The second Academic
+Conference on Natural Science for Master and PhD Students from
+Cambodia-Laos-Malaysia-Vietnam. 11-15 October 2011, Vinh, Vietnam.
+Bui Huy
+,
+Pham Van Hoi
+,
+Nguyen Thuy Van
+,
+Pham Duy Long
+,
+Do Thuy Chi
+, Bui Trung Ninh,
+Do The Anh
+, “
+Optical interference filter based on porous silicon
+”,
+The first Academic Conference on Natural Science
+for Master and PhD. Students From Cambodia-Laos-Vietnam; 23-27 March 2010
+.
+Vientian, Lao PDR.
+Bui Huy ,Pham Van Hoi, Nguyen Thuy
+Van, Pham Duy Long, Do Thuy Chi, Bui Trung Ninh and Do The Anh
+“O
+ptical
+interference filter based on porous silicon” THE FIRST ACADEMIC CONFERENCE ON
+NATURAL SCIENCE FOR MASTER AND PhD. STUDENTS FROM CAMBODIA-LAOS-VIETNAM.
+Vientiane, Laos. 23-27 March 2010.
+Nguyen The Anh, Bui Huy, Tran Thi
+Cham, Nguyen Van An, Bui Trong Ninh, Pham Van Hoi
+“Khuếch đại quang trên cơ sở hiệu ứng
+tán xạ Raman cưỡng bức trong sợi quang”
+the 6
+th
+International Conference on Photonics and Applications (ICPA-6), Hanoi, Nov.
+8-12, 2010.
+PT Hong, NQ Tuan, BT Ninh and NK Giao
+“
+Performance evaluation of some
+recovery models in MPLS”
+The 10
+th
+bienial Vietnam conference on Radio & electronics (REV’06)
+, November 6-7, 2006,
+pp.141-146, Hanoi.
+Copyright
+© 2013 Msc. Bui Trung Ninh
+VNU University of
+Engineering and Technology
+Home
+Research
+Publications
+Lectures
+Contact

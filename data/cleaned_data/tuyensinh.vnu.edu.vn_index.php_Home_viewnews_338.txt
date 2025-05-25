@@ -1,0 +1,1363 @@
+Tuyển sinh ĐHQGHN
+Trang chủ
+Tin tức
+Danh sách ngành
+Hướng dẫn tuyển sinh ĐHCQ năm 2019 của ĐHQGHN
+Thông tin tuyển sinh đại học chính quy của ĐHQGHN năm 2023
+Câu hỏi thường gặp (FQA)
+Biểu mẫu
+XÉT TUYỂN THẲNG
+XÉT TUYỂN KHÁC
+Ký túc xá
+Đề án tuyển sinh Đại học Quốc gia Hà Nội 2021
+Đề án tuyển sinh đại học 2024
+TIN TỨC
+Điểm chuẩn tuyển sinh đại học chính quy năm 2018 của ĐHQGHN
+TT
+Mã trường
+Mã ngành/Nhóm ngành
+Tên ngành
+Tổ hợp môn xét tuyển
+Điểm chuẩn
+Tổ hợp môn xét tuyển
+Điểm chuẩn
+Tổ hợp môn xét tuyển
+Điểm chuẩn
+Tổ hợp môn xét tuyển
+Điểm chuẩn
+Ghi chú
+1. TRƯỜNG ĐẠI HỌC CÔNG NGHỆ, ĐHQGHN
+Nhóm ngành (CN1): Công nghệ thông tin
+1
+QHI
+CN1
+Công nghệ thông tin
+A00
+23.75
+A01
+23.75
+D07
+23.75
+2
+QHI
+Công nghệ thông tin định hướng thị trường Nhật Bản
+3
+QHI
+Hệ thống thông tin
+4
+QHI
+Mạng máy tính và truyền thông dữ liệu
+Nhóm ngành (CN2): Máy tính và Robot
+1
+QHI
+CN2
+Kỹ thuật Robot
+A00
+21
+A01
+21
+D07
+21
+2
+QHI
+Kỹ thuật máy tính
+Nhóm ngành (CN3): Vật lí kĩ thuật
+1
+QHI
+CN3
+Kỹ thuật năng lượng
+A00
+18.75
+A01
+18.75
+D07
+18.75
+2
+QHI
+Vật lí kỹ thuật
+1
+QHI
+CN4
+Cơ kỹ thuật
+A00
+20.5
+A01
+20.5
+D07
+20.5
+2
+QHI
+CN5
+Công nghệ kỹ thuật Xây dựng
+A00
+18
+A01
+18
+D07
+18
+3
+QHI
+CN6
+Công nghệ kỹ thuật cơ điện tử
+A00
+22
+A01
+22
+D07
+22
+4
+QHI
+CN7
+Công nghệ Hàng không vũ trụ
+A00
+19
+A01
+19
+D07
+19
+5
+QHI
+CN8
+Khoa học Máy tính
+(CTĐT CLC TT23)
+A00
+22
+A01
+22
+D07
+22
+6
+QHI
+CN9
+Công nghệ kỹ thuật điện tử - viễn thông
+(CTĐT CLC TT23)
+A00
+20
+A01
+20
+D07
+20
+2. TRƯỜNG ĐẠI HỌC KHOA HỌC XÃ HỘI VÀ NHÂN VĂN, ĐHQGHN
+1
+QHX
+7320101
+Báo chí
+A00
+17.75
+C00
+25
+D01
+19.75
+D78
+19
+D02
+19.5
+D79
+18
+D03
+17.5
+D80
+18
+D04
+18
+D81
+18
+D05
+18.5
+D82
+18
+D06
+17
+D83
+18
+2
+QHX
+7310201
+Chính trị học
+A00
+16.5
+C00
+22
+D01
+16.25
+D78
+18
+D02
+18
+D79
+18
+D03
+18
+D80
+18
+D04
+18
+D81
+18
+D05
+18
+D82
+18
+D06
+18
+D83
+18
+3
+QHX
+7760101
+Công tác xã hội
+A00
+16
+C00
+23.25
+D01
+19
+D78
+17
+D02
+18
+D79
+18
+D03
+18
+D80
+18
+D04
+18
+D81
+18
+D05
+18
+D82
+18
+D06
+18
+D83
+18
+4
+QHX
+7310620
+Đông Nam Á học
+A00
+16
+C00
+25
+D01
+19.25
+D78
+19.75
+D02
+18
+D79
+18
+D03
+18
+D80
+18
+D04
+18
+D81
+18
+D05
+18
+D82
+17.75
+D06
+18
+D83
+18
+5
+QHX
+7310608
+Đông phương học
+C00
+27.25
+D01
+22.25
+D78
+22.25
+D02
+18
+D79
+18
+D03
+18
+D80
+18
+D04
+18
+D81
+18
+D05
+18
+D82
+18
+D06
+17
+D83
+18
+6
+QHX
+7220104
+Hán Nôm
+C00
+22
+D01
+18
+D78
+17
+D02
+18
+D79
+18
+D03
+18
+D80
+18
+D04
+18
+D81
+18
+D05
+18
+D82
+18
+D06
+18
+D83
+18
+7
+QHX
+7340401
+Khoa học quản lí
+A00
+16
+C00
+23.5
+D01
+19.25
+D78
+17
+D02
+18
+D79
+18
+D03
+18
+D80
+18
+D04
+18
+D81
+18
+D05
+18
+D82
+18
+D06
+17
+D83
+18
+8
+QHX
+7229010
+Lịch sử
+C00
+21
+D01
+16.5
+D78
+18
+D02
+18
+D79
+18
+D03
+18
+D80
+18
+D04
+18
+D81
+18
+D05
+18
+D82
+18
+D06
+18
+D83
+18
+9
+QHX
+7320303
+Lưu trữ học
+A00
+17
+C00
+21
+D01
+16.5
+D78
+17
+D02
+18
+D79
+18
+D03
+18
+D80
+18
+D04
+18
+D81
+18
+D05
+18
+D82
+18
+D06
+18
+D83
+18
+10
+QHX
+7229020
+Ngôn ngữ học
+C00
+22
+D01
+20.25
+D78
+18.5
+D02
+18
+D79
+18
+D03
+18
+D80
+18
+D04
+18
+D81
+18
+D05
+17.5
+D82
+18
+D06
+19.25
+D83
+18
+11
+QHX
+7310302
+Nhân học
+A00
+16
+C00
+20.75
+D01
+19
+D78
+16.5
+D02
+18
+D79
+18
+D03
+18
+D80
+18
+D04
+18
+D81
+18
+D05
+18
+D82
+18
+D06
+18
+D83
+18
+12
+QHX
+7320108
+Quan hệ công chúng
+C00
+25.5
+D01
+21.25
+D78
+21
+D02
+18
+D79
+18
+D03
+17.75
+D80
+18
+D04
+18
+D81
+18
+D05
+18
+D82
+18
+D06
+18
+D83
+18
+13
+QHX
+7320205
+Quản lý thông tin
+A00
+16.5
+C00
+21
+D01
+17
+D78
+16.5
+D02
+18
+D79
+18
+D03
+18
+D80
+18
+D04
+18
+D81
+18
+D05
+18
+D82
+18
+D06
+18
+D83
+18
+14
+QHX
+7810103
+Quản trị dịch vụ du lịch và lữ hành
+C00
+26.5
+D01
+21.75
+D78
+22
+D02
+18
+D79
+18
+D03
+17.75
+D80
+18
+D04
+17
+D81
+18
+D05
+18
+D82
+18
+D06
+18
+D83
+17
+15
+QHX
+7810201
+Quản trị khách sạn
+C00
+26.25
+D01
+21.5
+D78
+20.75
+D02
+18
+D79
+18
+D03
+18.75
+D80
+18
+D04
+18
+D81
+18
+D05
+17
+D82
+18
+D06
+17
+D83
+18
+16
+QHX
+7340406
+Quản trị văn phòng
+A00
+18.25
+C00
+25
+D01
+18.75
+D78
+18.5
+D02
+18
+D79
+18
+D03
+18
+D80
+18
+D04
+18
+D81
+18
+D05
+18
+D82
+18
+D06
+18
+D83
+18
+17
+QHX
+7310601
+Quốc tế học
+A00
+16.5
+C00
+25
+D01
+19.25
+D78
+17
+D02
+17
+D79
+18
+D03
+18
+D80
+18
+D04
+18
+D81
+18
+D05
+18
+D82
+18
+D06
+18
+D83
+18
+18
+QHX
+7310401
+Tâm lí học
+A00
+19.5
+C00
+24.25
+D01
+21.5
+D78
+20.25
+D02
+21
+D79
+18
+D03
+21
+D80
+18
+D04
+19
+D81
+18
+D05
+18
+D82
+21
+D06
+18.75
+D83
+18
+19
+QHX
+7320201
+Thông tin - thư viện
+A00
+16
+C00
+19.75
+D01
+17
+D78
+17
+D02
+18
+D79
+18
+D03
+18
+D80
+18
+D04
+18
+D81
+18
+D05
+18
+D82
+18
+D06
+18
+D83
+18
+20
+QHX
+7229009
+Tôn giáo học
+A00
+16.5
+C00
+17.75
+D01
+16.5
+D78
+16.5
+D02
+18
+D79
+18
+D03
+17.5
+D80
+18
+D04
+18
+D81
+18
+D05
+18
+D82
+18
+D06
+18
+D83
+18
+21
+QHX
+7229001
+Triết học
+A00
+16
+C00
+18.5
+D01
+16.5
+D78
+18
+D02
+18
+D79
+18
+D03
+18
+D80
+18
+D04
+18
+D81
+18
+D05
+17
+D82
+18
+D06
+18
+D83
+18
+22
+QHX
+7229030
+Văn học
+C00
+21.5
+D01
+19
+D78
+17.25
+D02
+18
+D79
+18
+D03
+18
+D80
+18
+D04
+18
+D81
+17.5
+D05
+18
+D82
+18
+D06
+18
+D83
+18
+23
+QHX
+7310630
+Việt Nam học
+C00
+23.5
+D01
+16.5
+D78
+17
+D02
+18
+D79
+18
+D03
+18
+D80
+18
+D04
+18
+D81
+18
+D05
+18
+D82
+18
+D06
+18
+D83
+18
+24
+QHX
+7310301
+Xã hội học
+A00
+16
+C00
+21.75
+D01
+17.75
+D78
+17.25
+D02
+18
+D79
+18
+D03
+18
+D80
+18
+D04
+18
+D81
+18
+D05
+18
+D82
+18
+D06
+18
+D83
+18
+3. TRƯỜNG ĐẠI HỌC NGOẠI NGỮ, ĐHQGHN
+1
+QHF
+7220201
+Ngôn ngữ Anh
+D01
+31.85
+D78
+31.85
+D90
+31.85
+Thang điểm 40 (Điểm môn ngoại ngữ nhân hệ số 2)
+2
+QHF
+7220202
+Ngôn ngữ Nga
+D01
+28.85
+D02
+28.85
+D78
+28.85
+D90
+28.85
+3
+QHF
+7220203
+Ngôn ngữ Pháp
+D01
+30.25
+D03
+30.25
+D78
+30.25
+D90
+30.25
+4
+QHF
+7220204
+Ngôn ngữ Trung Quốc
+D01
+32
+D04
+32
+D78
+32
+D90
+32
+5
+QHF
+7220205
+Ngôn ngữ Đức
+D01
+29.5
+D05
+29.5
+D78
+29.5
+D90
+29.5
+6
+QHF
+7220209
+Ngôn ngữ Nhật
+D01
+32.5
+D06
+32.5
+D78
+32.5
+D90
+32.5
+7
+QHF
+7220210
+Ngôn ngữ Hàn Quốc
+D01
+33
+D78
+33
+D90
+33
+8
+QHF
+7220211
+Ngôn ngữ Ả Rập
+D01
+27.6
+D78
+27.6
+D90
+27.6
+9
+QHF
+7220204 CLC
+Ngôn ngữ Trung Quốc
+D01
+26
+D04
+26
+D78
+26
+D90
+26
+(CTĐT CLC TT23)
+10
+QHF
+7220209 CLC
+Ngôn ngữ Nhật
+D01
+26.5
+D06
+26.5
+D78
+26.5
+D90
+26.5
+(CTĐT CLC TT23)
+11
+QHF
+7220210 CLC
+Ngôn ngữ Hàn Quốc
+D01
+28
+D78
+28
+D90
+28
+(CTĐT CLC TT23)
+12
+QHF
+7140231
+Sư phạm tiếng Anh
+D01
+31.25
+D78
+31.25
+D90
+31.25
+13
+QHF
+7140232
+Sư phạm tiếng Nga
+D01
+28.5
+D02
+28.5
+D78
+28.5
+D90
+28.5
+14
+QHF
+7140233
+Sư phạm tiếng Pháp
+D01
+29.85
+D03
+29.85
+D78
+29.85
+D90
+29.85
+15
+QHF
+7140234
+Sư phạm tiếng Trung Quốc
+D01
+31.35
+D04
+31.35
+D78
+31.35
+D90
+31.35
+16
+QHF
+7140235
+Sư phạm tiếng Đức
+D01
+27.75
+D05
+27.75
+D78
+27.75
+D90
+27.75
+17
+QHF
+7140236
+Sư phạm tiếng Nhật
+D01
+31.15
+D06
+31.15
+D78
+31.15
+D90
+31.15
+18
+QHF
+7140237
+Sư phạm tiếng Hàn Quốc
+D01
+31.5
+D78
+31.5
+D90
+31.5
+4. TRƯỜNG ĐẠI HỌC KINH TẾ, ĐHQGHN
+1
+QHE
+7310101
+Kinh tế
+A01
+22.35
+D01
+22.35
+A00
+22.35
+C04
+22.35
+Thang điểm 30
+2
+QHE
+7310105
+Kinh tế phát triển
+A01
+21.7
+D01
+21.7
+A00
+21.7
+C04
+21.7
+3
+QHE
+7310106
+Kinh tế quốc tế
+A01
+27.05
+D01
+27.05
+D09
+27.05
+D10
+27.05
+Đối với CTĐT CLC, LKQT điểm trúng tuyển tính theo thang 40  (điểm môn tiếng Anh nhân hệ số 2)
+(CTĐT CLC theo TT23)
+4
+QHE
+7340101
+Quản trị kinh doanh
+A01
+26.55
+D01
+26.55
+D09
+26.55
+D10
+26.55
+(CTĐT CLC theo TT23)
+5
+QHE
+7340201
+Tài chính - Ngân hàng
+A01
+25.58
+D01
+25.58
+D09
+25.58
+D10
+25.58
+(CTĐT CLC theo TT23)
+6
+QHE
+7340301
+Kế toán
+A01
+25.45
+D01
+25.45
+D09
+25.45
+D10
+25.45
+(CTĐT CLC theo TT23)
+7
+QHE
+7340101QT
+Quản trị kinh doanh
+A01
+22.85
+D01
+22.85
+D07
+22.85
+D08
+22.85
+(CT LKĐTQT do ĐH Troy, Hoa kỳ cấp bằng)
+5. TRƯỜNG ĐẠI HỌC GIÁO DỤC, ĐHQGHN
+Nhóm ngành (GD1): Sư phạm Toán và Khoa học tự nhiên
+1
+QHS
+GD1
+Sư phạm Toán
+A00
+18
+A16
+18
+B00
+18
+D90
+18
+2
+QHS
+Sư phạm Vật lý
+3
+QHS
+Sư phạm Hóa học
+4
+QHS
+Sư phạm Sinh học
+Nhóm ngành (GD2): Sư phạm Ngữ văn và Khoa học xã hội
+1
+QHS
+GD2
+Sư phạm Ngữ văn
+C00
+20.25
+D01
+20.25
+D78
+20.25
+2
+QHS
+Sư phạm Lịch sử
+1
+QHS
+GD3
+Quản trị trường học
+A00
+16
+C00
+16
+C15
+16
+D01
+16
+6. KHOA LUẬT, ĐHQGHN
+1
+QHL
+7380101
+Luật học
+C00
+24.5
+A00
+18.5
+D01
+18.5
+D78
+19
+D03
+18
+D82
+19
+2
+QHL
+7380101CLC
+Luật học
+A01
+18.25
+D01
+18.25
+D07
+18.25
+D78
+18.25
+(CTĐT CLC theo TT23)
+3
+QHL
+7380110
+Luật kinh doanh
+A00
+20.75
+A01
+20.75
+D01, D03
+20.75
+D78, D82
+20.75
+7. KHOA Y DƯỢC, ĐHQGHN
+1
+QHY
+7720101
+Y khoa
+B00
+22.75
+2
+QHY
+7720201
+Dược học
+A00
+22.5
+3
+QHY
+7720501CLC
+Răng - Hàm - Mặt
+B00
+21.5
+Tiếng Anh  là môn điều kiện, thí sinh phải đạt tối thiểu 4/10 điểm
+(CTĐT CLC theo đặc thù đơn vị)
+8. KHOA QUỐC TẾ, ĐHQGHN
+1
+QHQ
+7340120
+Kinh doanh quốc tế
+(đào tạo bằng tiếng Anh)
+A00
+18.5
+A01
+18.5
+D01-06
+18.5
+D96-DD1
+18.5
+2
+QHQ
+7340303
+Kế toán, Phân tích và Kiểm toán
+(đào tạo bằng tiếng Anh)
+A00
+16.75
+A01
+16.75
+D01-06
+16.75
+D96-DD1
+16.75
+3
+QHQ
+7340405
+Hệ thống thông tin quản lý
+(đào tạo bằng tiếng Anh)
+A00
+16
+A01
+16
+D01-06
+16
+D96-DD1
+16
+4
+QHQ
+7480111
+Tin học và Kĩ thuật máy tính
+(Chương trình liên kết đào tạo quốc tế)
+A00
+15
+A01
+15
+D01-06
+15
+D90-D95
+15
+Lưu ý:
+Đối với thí sinh có điểm bằng nhau ở cuối danh sách được xét theo tiêu chí phụ đã công bố tại
+Đề án tuyển sinh 2018
+.
+Điểm trúng tuyển của Trường ĐH Khoa học Tự nhiên xem
+tại đây
+.

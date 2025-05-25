@@ -1,0 +1,159 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-khoa-hoc-va-ky-thuat-du-lieu-nganh-khoa-hoc-du-lieu-3_.txt
+
+Khối kiến thức theo lĩnh vực
+19
+12
+MAT1093
+Đại số
+Algebra
+4
+30
+30
+140
+T&KHCB
+13
+MAT1041
+Giải tích 1
+Calculus 1
+4
+30
+30
+140
+T&KHCB
+14
+MAT1042
+Giải tích 2
+Calculus 2
+4
+30
+30
+140
+MAT1041
+T&KHCB
+15
+EPN1095
+Vật lý đại cương 1
+General Physics 1
+2
+30
+70
+T&KHCB
+16
+EPN1096
+Vật lý đại cương 2
+General Physics 2
+2
+30
+70
+EPN1095
+T&KHCB
+17
+INT1008
+Nhập môn lập trình
+Introduction to Programming
+3
+20
+50
+80
+T&KHCB
+III. Khối kiến thức theo khối ngành (ICT)
+10
+18
+INT2210
+Cấu trúc dữ liệu và giải thuật
+Data Structures and Algorithms
+4
+45
+30
+125
+INT1009
+CSN
+19
+MAT1101
+Xác suất thống kê
+Probability and Statistics
+3
+30
+15
+105
+MAT1041
+T&KHCB
+20
+ELT2035
+Tín hiệu và hệ thống
+Signals and Systems
+3
+45
+105
+MAT1042
+CSN
+IV. Khối kiến thức theo nhóm ngành (AI, DS)
+21
+21
+INT2204
+Lập trình hướng đối tượng
+Object-oriented Programming
+3
+30
+30
+90
+INT1009
+T&KHCB
+22
+INT2211
+Cơ sở dữ liệu
+Database
+4
+45
+30
+125
+INT1009
+CSN
+23
+INT2208
+Công nghệ phần mềm
+Software Engineering
+3
+45
+105
+INT1009
+CSN, QLDA
+24
+AIT1101
+Giới thiệu về Khoa học dữ liệu
+Introduction to Data Science
+2
+30
+70
+CSN, GTN
+25
+AIT2100
+Thống kê ứng dụng
+Statistics for Applications
+3
+45
+105
+MAT1093 MAT1101
+T&KHCB
+26
+INT3405
+Học máy
+Machine Learning
+3
+45
+105
+MAT1101
+INT2210
+CSN
+27
+AIT3001
+Học sâu
+Deep learning
+3
+45
+105
+INT3405
+CSN
+V.               Khối kiến thức ngành (DS)
+50
+V.1.

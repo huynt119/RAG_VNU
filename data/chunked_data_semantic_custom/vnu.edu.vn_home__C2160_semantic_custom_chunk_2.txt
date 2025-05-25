@@ -1,0 +1,19 @@
+Nguồn: vnu.edu.vn_home__C2160.txt
+
+- Báo cáo về đặc điểm phân bố của các lớp hợp chất nhóm EDCs trong môi trường trong nhà ở Việt Nam. - Báo cáo cung cấp thông tin chi tiết về liều lượng phơi nhiễm và rủi ro sức khỏe của các nhóm cộng đồng theo phân bố dân cư và nguồn phát sinh, phân bố của hợp chất EDCs trên địa bàn Hà Nội
+4
+Thống kê Bayes và ứng dụng trong khoa học trái đất
+QG.19.16
+TS. Trịnh Quốc Anh
+KHTN
+Công nghệ thông tin và tính toán
+- Thống nhất các phương pháp ước lượng-kiểm định Bayes dùng trong thống kê không gian
+- Đề xuất mô hình dự báo mới dùng trong thống kê không gian. - Quy trình và thuật toán Bayes phân tích số liệu quan trắc
+5
+Nghiên cứu các mất đoạn lớn ADN ty thể ở bệnh nhân ung thư phổi không tế bào nhỏ người Việt Nam
+QG.19.15
+ThS. Lê Lan Phương
+KHTN
+Công nghệ Sự sống
+- 01 quy trình phân tích mức độ mất đoạn lớn ADN ty thể. - Dữ liệu về các dạng mất đoạn lớn ADN ty thể ở bệnh nhân ung thư phổi không tế bào nhỏ
+- Kết quả đánh giá mối liên quan giữa loại mất đoạn lớn và mức độ mất đoạn lớn ADN ty thể và các đặc điểm bệnh học của bệnh nhân ung thư phổi không tế bào nhỏ người Việt Nam.

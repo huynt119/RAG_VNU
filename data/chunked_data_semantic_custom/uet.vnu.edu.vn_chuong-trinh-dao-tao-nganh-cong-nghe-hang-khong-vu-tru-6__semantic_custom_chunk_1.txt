@@ -1,0 +1,10 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-hang-khong-vu-tru-6_.txt
+
+Kiến thức theo lĩnh vực
+Hiểu và vận dụng được các kiến thức cơ bản về vật lý cơ, nhiệt, điện và quang; Trình bày được các hiện tượng và quy luật vật lý và các ứng dụng liên quan trong khoa học kỹ thuật và đời sống;
+Nắm được các kiến thức liên quan đến Giải tích toán học như tính giới hạn, tính đạo hàm, tính tích phân của các hàm một biến và hàm nhiều biến;
+Hiểu và vận dụng được các kiến thức liên quan đến Đại số cao cấp như ma trận và các phép biến đổi, giải các hệ phương trình nhiều biến số,…
+Biết các kiến thức chung về lĩnh vực Công nghệ hàng không vũ trụ. Kiến thức theo khối ngành
+Hiểu và vận dụng được các phương pháp phân tích tín hiệu, phân tích và thiết kế hệ thống tuyến tính trong các miền biểu diễn khác nhau;
+Hiểu được các kiến thức cơ bản về phương pháp tính toán số trong kỹ thuật, hiểu và vận dụng để tính toán hoặc giải số các bài toán trong trong khoa học kỹ thuật trên máy tính;
+Hiểu được các kiến thức cơ bản về xác suất và thống kê ứng dụng như các quy luật và dạng phân bố xác suất.

@@ -1,0 +1,22 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-khoa-hoc-may-tinh-16_.txt
+
+Một số thông tin về chuyên ngành đào tạo
+Tên chuyên ngành đào tạo:
++ Tên tiếng Việt: Khoa học máy tính
++ Tên tiếng Anh:
+Computer Science
+Mã số chuyên ngành đào tạo: 01
+Tên ngành đào tạo:
++ Tên tiếng Việt:  Khoa học máy tính
++ Tên tiếng Anh:
+Computer Science
+Trình độ đào tạo: Tiến sĩ
+Tên văn bằng tốt nghiệp:
++ Tên tiếng Việt: Tiến sĩ ngành Khoa học máy tính
++ Tên tiếng Anh:
+The degree of Doctor of Phylosophy    in Computer Science
+2. Mục tiêu của chương trình đào tạo
+Mục tiêu chung
+Chương trình đào tạo Tiến sĩ Khoa học máy tính của Khoa Công nghệ thông tin, Trường Đại học Công nghệ, ĐHQGHN nhằm tạo ra nguồn nhân lực chất lượng cao trong lĩnh vực Khoa học máy tính, có khả năng nghiên cứu chuyên sâu về chuyên ngành Khoa học máy tính, có khả năng nghiên cứu độc lập, biết xây dựng các dự án nghiên cứu, tham gia hoặc lãnh đạo các nhóm nghiên cứu. Mục tiêu cụ thể
+Về kiến thức
+: Cập nhật, bổ sung và nâng cao kiến thức hiện đại về Khoa học máy tính (KHMT), đặc biệt trong các lĩnh vực đảm bảo toán học cho tin học, trí tuệ nhân tạo, Học máy thống kê thống kê, khai phá tri thức, xử lý ngôn ngữ tự nhiên, xử lý ảnh, xử lý tiếng nói, robotics, tin sinh học, thị giác máy, tối ưu hóa.

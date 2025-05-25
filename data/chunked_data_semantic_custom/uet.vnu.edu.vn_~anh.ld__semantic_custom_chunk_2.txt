@@ -1,0 +1,227 @@
+Nguồn: uet.vnu.edu.vn_~anh.ld_.txt
+
+C.
+T.,
+Anh
+,
+L.
+D.
+,
+Nguyen,
+T.
+M.,
+2022,
+“Numerical
+study
+for
+flow
+behavior
+and
+drag
+of
+axisy
+mmetric boattail
+models at
+different
+Mach
+number,”
+Lecture
+Notes
+in
+Mechanical
+Engineering,
+https:/
+/doi.org
+/10.1007/978-981-19-1968-8_60
+(ISSN: 2195-4364)
+4. D.,
+and
+Anh, L.
+D
+., 2022,
+“Effe
+ct of
+the Elliptical
+Shape on
+the
+Performance
+of
+the
+Modified
+Savonius
+Wind Tur
+bine,”
+Lecture
+Notes
+in
+Mechanical
+Engineering
+DOI:
+https://doi.org/10.1007/978-981-19-1968-8_32 (ISSN: 2195-4364)
+5. L.
+D.
+, Long, I.,
+N., Quan,
+H. N.,
+Anh, T.,
+V., 2022,
+“Numerical Simulation
+of Hot
+Water
+Flashing
+Flow
+in
+a
+Converging
+Diver
+g
+ing
+Nozzle,”
+Lecture
+Notes
+in
+Mechanical
+Engineering,
+DOI:
+https://doi.org/10.1007/978-981-19-1968-8_62
+(ISSN:
+2195-4364)
+6. Thanh,
+N.
+V.,
+Anh,
+L.
+D.
+,
+et
+al.,
+2022,
+“
+Nummerical
+Analysis
+on
+Lift
+and
+Dra
+g
+of
+a
+Finite-Thickness
+Circular
+Arc
+H
+y
+drofoil
+in
+Different
+Camber
+,”
+Lecture
+Notes
+in
+Mechanical
+Engineering,
+https://doi.org/10.1007/978-981-19-1968-8_102
+(ISSN:
+2195-4364)
+7. Hung,
+T.
+T.,
+Anh,
+L.
+D.
+,
+et
+al.,
+2022,
+“
+Comparison
+of
+Numerical
+and
+Ex
+perimental
+Methods
+in
+Determining
+Boundary
+La
+y
+er
+of
+Axisymmetric
+Model
+,”
+Lecture
+Notes
+in
+Mechanical
+Engineering, https://doi.org/10.1007/978-3-030-
+99666-6_45 (ISSN: 2195-
+4364)
+8. Minh,
+B.
+D.,
+Anh,
+L.
+D.
+,
+et
+al.,
+2022,
+“Effe
+ct
+of
+Main
+Blade
+Confi
+g
+uration
+on
+the
+Performance
+of
+the
+Optimized
+Multicurve
+Savonius
+Wind
+Turbine,”
+Lecture
+Notes
+in
+Networks
+and
+S
+y
+stems,
+https://doi
+.org
+/10.1007/978-3-031-22200-9_48
+(ISSN:
+2367-
+3389)
+9. Anh
+,
+L.
+D.
+,
+Iga,
+Y.,
+2019,
+“A
+simplified
+Thermodynamic
+Effect
+Model
+for
+Cavitating
+Flow
+in
+Hot Water,”
+IOP
+Conference
+series: Earth
+and
+Environment Science,
+Vol.

@@ -1,0 +1,35 @@
+Nguồn: education.vnu.edu.vn_index.php_WebControl_viewnews_3221.txt
+
+Ngành đào tạo thứ hai, chỉ tiêu và đối tượng xét tuyển
+TT
+Ngành
+đào tạo thứ hai
+Chỉ tiêu
+dự kiến
+Đối tượng xét tuyển
+Sư phạm Toán học
+90
+Sinh viên khoá QH-2021-S; QH-2022-S; QH-2023-S, hệ chính quy, đang học chương trình đào tạo thứ nhất một trong các ngành: Sư phạm Vật lí; Sư phạm Hoá học; Sư phạm Sinh học; Sư phạm Khoa học Tự nhiên. Sư phạm Ngữ văn
+50
+- Sinh viên khoá QH-2021-S; QH-2022-S; QH-2023-S, hệ chính quy, đang học chương trình đào tạo thứ nhất ngành Sư phạm Lịch sử; Sư phạm Lịch sử - Địa lí;
+- Sinh viên đang học năm thứ hai; năm thứ ba ngành Văn học của Trường Đại học Khoa học Xã hội
+và Nhân văn, ĐHQGHN. Sư phạm Vật lý
+10
+Sinh viên khoá QH-2021-S; QH-2022-S; QH-2023-S, hệ chính quy, đang học chương trình đào tạo thứ nhất ngành Sư phạm Toán học; Sư phạm Hoá học; Sư phạm Sinh học; Sư phạm Khoa học tự nhiên. Sư phạm Hoá học
+05
+Sinh viên khoá QH-2021-S; QH-2022-S; QH-2023-S, hệ chính quy, đang học chương trình đào tạo thứ nhất ngành Sư phạm Toán học; Sư phạm Vật lý; Sư phạm Sinh học; Sư phạm Khoa học tự nhiên
+Sư phạm Sinh học
+05
+Sinh viên khoá QH-2021-S; QH-2022-S; QH-2023-S, hệ chính quy, đang học chương trình đào tạo thứ nhất ngành Sư phạm Toán; Sư phạm Vật lý, Sư phạm Hoá học; Sư phạm Khoa học tự nhiên
+Sư phạm Khoa học tự nhiên
+10
+Sinh viên khoá QH-2021-S; QH-2022-S; QH-2023-S, hệ chính quy, đang học chương trình đào tạo thứ nhất ngành Sư phạm Toán học; Sư phạm Vật lý, Sư phạm Sinh học; Sư phạm Hoá học. Sư phạm Lịch sử
+05
+Sinh viên khoá QH-2021-S; QH-2022-S; QH-2023-S, hệ chính quy, đang học chương trình đào tạo thứ nhất ngành Sư phạm Ngữ văn; Sư phạm Lịch sử-Địa lí
+- Sinh viên đang học năm thứ hai; năm thứ ba ngành Lịch sử của Trường Đại học Khoa học Xã hội
+và Nhân văn, ĐHQGHN. Sư phạm Lịch sử - Địa lý
+10
+Sinh viên khoá QH-2021-S; QH-2022-S; QH-2023-S, hệ chính quy, đang học chương trình đào tạo thứ nhất ngành Sư phạm Ngữ văn; Sư phạm Lịch sử
+Tổng cộng
+185
+2.

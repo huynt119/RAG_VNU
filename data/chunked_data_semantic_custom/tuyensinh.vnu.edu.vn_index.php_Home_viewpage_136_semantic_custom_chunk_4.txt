@@ -1,0 +1,149 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewpage_136.txt
+
+Thông tin d
+anh mục ngành được phép đào tạo
+TT
+Tên ngành
+Mã ngành
+Số văn bản cho phép mở ngành
+Ngày tháng năm ban hành văn bản cho phép mở ngành
+Số văn bản chuyển đổi mã hoặc tên ngành (gần nhất)
+Ngày tháng năm ban hành văn bản chuyển đổi mã hoặc tên ngành
+Trường tự chủ QĐ hoặc Cơ quan có thẩm quyền cho phép
+Năm bắt đầu đào tạo
+Năm đã TS&ĐT gần nhất với năm tuyển sinh
+Lĩnh vực máy tính và công nghệ thông tin
+Công nghệ thông tin
+7480201
+3537/ĐT
+18/09/2007
+ĐHQGHN
+2007
+2021
+Trí tuệ nhân tạo
+7480207
+1087/QĐ-ĐHQGHN
+04/04/2022
+ĐHQGHN
+2022
+Hệ thống thông tin
+7480104
+1883/QĐ-ĐT
+27/05/2009
+ĐHQGHN
+2009
+2021
+Khoa học máy tính
+7480101
+4315/QĐ-KHTC
+25/07/2008
+ĐHQGHN
+2008
+2021
+Mạng máy tính và truyền thông dữ liệu
+7480102
+4256/QĐ-ĐT
+14/12/2012
+250/QĐ-ĐHQGHN
+18/01/2018
+ĐHQGHN
+2013
+2021
+Kỹ thuật máy tính
+7480106
+324/QĐ-ĐHQGHN
+09/02/2017
+ĐHQGHN
+2017
+2021
+Lĩnh vực Công nghệ kỹ thuật
+Công nghệ kỹ thuật điện tử – viễn thông
+7510302
+4311/QĐ-KHTC
+25/07/2008
+250/QĐ-ĐHQGHN
+18/01/2018
+ĐHQGHN
+2008
+2021
+Công nghệ kỹ thuật cơ - điện tử
+7510203
+26/ĐT
+03/01/2007
+ĐHQGHN
+2007
+2021
+Công nghệ nông nghiệp
+7519002
+1875/QĐ-ĐHQGHN
+14/06/2019
+ĐHQGHN
+2019
+2021
+Công nghệ kỹ thuật xây dựng
+7510103
+731/QĐ-ĐHQGHN
+07/03/2017
+250/QĐ-ĐHQGHN
+18/01/2018
+ĐHQGHN
+2017
+2021
+Công nghệ hàng không vũ trụ
+7519001
+4715/QĐ-ĐHQGHN
+08/12/2017
+ĐHQGHN
+2018
+2021
+Lĩnh vực Kỹ thuật
+Cơ kỹ thuật
+7520101
+3537/ĐT
+18/09/2007
+ĐHQGHN
+2007
+2021
+Kỹ thuật điều khiển và tự động hoá
+7520216
+1820/QĐ-ĐHQGHN
+11/06/2019
+ĐHQGHN
+2019
+2021
+Vật lý kỹ thuật
+7520401
+3537/ĐT
+18/09/2007
+ĐHQGHN
+2007
+2021
+Kỹ thuật Robot
+7520217
+880/QĐ-ĐHQGHN
+19/03/2018
+ĐHQGHN
+2018
+2021
+Kỹ thuật năng lượng
+7520406
+659/QĐ-ĐHQGHN
+16/03/2016
+ĐHQGHN
+2016
+2021
+Điều kiện bảo đảm chất lượng (Mẫu số 03)
+Đường link công khai các điều kiện đảm bảo chất lượng trên trang thông tin điện tử của CSĐT:
+https://uet.vnu.edu.vn/cac-dieu-kien-dam-bao-chat-luong
+Đường link công khai Đề án tuyển sinh:
+https://tuyensinh.uet.vnu.edu.vn/?p=2204
+Tuyển sinh đào tạo chính quy
+Tuyển sinh chính quy đại học
+Đối tượng, điều kiện tuyển sinh
+- Người đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương;
+Người đã có bằng tốt nghiệp trung cấp ngành nghề thuộc cùng nhóm ngành dự tuyển và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa
+bậc
+THPT theo quy định của pháp luật
+(sau đây gọi chung là tốt nghiệp THPT);
+- Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định;
+- Có đủ sức khoẻ để học tập theo quy định hiện hành.

@@ -1,0 +1,7 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-phan-mem-6_.txt
+
+Yêu cầu về chất lượng luận án
+Thể hiện qua việc phát hiện và giải quyết những vấn đề mới, đóng góp mới cho khoa học và thực tiễn, đã công bố tối thiểu (trong thời gian làm nghiên cứu sinh) 02 bài báo về kết quả nghiên cứu của luận án trên tạp chí khoa học chuyên ngành trong đó tối thiểu có 01 bài đăng trên tạp chí khoa học thuộc danh mục các tạp chí ISI/Scopus hoặc 02 báo cáo trong kỉ yếu hội thảo quốc tế có uy tín xuất bản bằng tiếng nước ngoài có phản biện, có mã số ISBN; hoặc 02 bài báo đăng trên tạp chí khoa học chuyên ngành có uy tín của nước ngoài. Cụ thể:
+Luận án phải là công trình nghiên cứu khoa học độc lập, có đóng góp mới cho việc giải quyết vấn đề khoa học, lý luận hoặc thực tiễn đang đặt ra,góp phần xây dựng, hình thành khung lý thuyết mới, hệ tư tưởng mới phù hợp với chuyên ngành Công nghệ phần mềm;
+Đề tài luận án phải được tiểu ban chuyên môn thông qua trong quy trình xét tuyển đào tạo trình độ tiến sĩ, được thủ trưởng đơn vị đào tạo ra quyết định giao đề tài và người hướng dẫn;
+Kết quả nghiên cứu trong luận án phải là kết quả lao động của chính tác giả thu được chủ yếu trong thời gian đào tạo.

@@ -1,0 +1,278 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_752.txt
+
+TRƯỜNG ĐH KHOA HỌC XÃ HỘI VÀ NHÂN VĂN
+(1.850 chỉ tiêu)
+1.565
+285
+QHX
+QHX01
+Báo chí
+70
+15
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX40
+Báo chí **
+(CTĐT CLC)
+30
+5
+A01
+C00
+D01
+D78
+QHX
+QHX02
+Chính trị học
+47
+8
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX03
+Công tác xã hội
+60
+10
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX04
+Đông Nam Á học
+33
+7
+A01
+D01, D04
+D78, D83
+QHX
+QHX05
+Đông phương học
+50
+10
+C00
+D01, D04
+D78, D83
+QHX
+QHX26
+Hàn Quốc học
+40
+10
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX06
+Hán Nôm
+25
+5
+C00
+D01, D04
+D78, D83
+QHX
+QHX07
+Khoa học quản lý
+65
+15
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX41
+Khoa học quản lý**
+(CTĐT CLC)
+30
+5
+A01
+C00
+D01
+D78
+QHX
+QHX08
+Lịch sử
+60
+10
+C00
+D01, D04
+D78, D83
+QHX
+QHX09
+Lưu trữ học
+45
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX10
+Ngôn ngữ học
+60
+10
+C00
+D01, D04
+D78, D83
+QHX
+QHX11
+Nhân học
+45
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX12
+Nhật Bản học
+40
+10
+A01
+D01, D06
+D78
+QHX
+QHX13
+Quan hệ công chúng
+60
+10
+C00
+D01, D04
+D78, D83
+QHX
+QHX14
+Quản lý thông tin
+47
+8
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX42
+Quản lý thông tin **
+(CTĐT CLC)
+30
+5
+A01
+C00
+D01
+D78
+QHX
+QHX15
+Quản trị dịch vụ du lịch và lữ hành
+73
+17
+A01
+D01
+D78
+QHX
+QHX16
+Quản trị khách sạn
+60
+15
+A01
+D01
+D78
+QHX
+QHX17
+Quản trị văn phòng
+65
+10
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX18
+Quốc tế học
+65
+15
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX43
+Quốc tế học**
+(CTĐT CLC)
+25
+5
+A01
+C00
+D01
+D78
+QHX
+QHX19
+Tâm lý học
+80
+20
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX20
+Thông tin - Thư viện
+45
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX21
+Tôn giáo học
+45
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX22
+Triết học
+45
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX27
+Văn hóa học
+45
+5
+C00
+D01, D04
+D78, D83
+QHX
+QHX23
+Văn học
+65
+10
+C00
+D01, D04
+D78, D83
+QHX
+QHX24
+Việt Nam học
+60
+10
+C00
+D01, D04
+D78, D83
+QHX
+QHX25
+Xã hội học
+55
+10
+A01
+C00
+D01, D04
+D78, D83
+4.

@@ -1,0 +1,138 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_433.txt
+
+TRƯỜNG ĐẠI HỌC KINH TẾ
+Thứ tự
+Mã trường
+Mã xét tuyển
+Tên ngành/Nhóm ngành
+Điểm trúng tuyển
+Năm
+2017
+Năm
+2018
+1
+QHE
+QHE01
+Kinh tế phát triển
+24.00
+21.70
+2
+QHE
+QHE40
+Quản trị kinh doanh**
+25.50
+26.55
+(thang điểm 40)
+3
+QHE
+QHE41
+Tài chính Ngân hàng**
+24.75
+25.58
+(thang điểm 40)
+4
+QHE
+QHE42
+Kế toán**
+25.50
+25.45
+(thang điểm 40)
+5
+QHE
+QHE43
+Kinh tế quốc tế**
+17.00
+27.05
+(thang điểm 40)
+6
+QHE
+QHE40
+Kinh tế**
+25.00<
+22.35<
+Ghi chú: Các ngành đào tạo có ký hiệu (**) có mức học phí khoảng 35.000.000 đồng/năm. TRƯỜNG ĐẠI HỌC GIÁO DỤC
+Thứ tự
+Mã trường
+Mã xét tuyển
+Tên ngành/Nhóm ngành
+Điểm trúng tuyển
+Năm 2017
+Năm 2018
+1
+QHS
+GD1
+Sư phạm Toán
+30.50
+(thang điểm 40)
+18
+2
+QHS
+GD1
+Sư phạm Vật lý
+23.00
+(thang điểm 40)
+18
+3
+QHS
+GD1
+Sư phạm Hóa học
+26.50
+(thang điểm 40)
+18
+4
+QHS
+GD1
+Sư phạm Sinh học
+23.00
+(thang điểm 40)
+18
+5
+QHS
+GD1
+Sư phạm Khoa học Tự nhiên
+Chưa có
+Chưa có
+6
+QHS
+GD2
+Sư phạm Ngữ Văn
+32.25
+(thang điểm 40)
+20.25
+7
+QHS
+GD2
+Sư phạm Lịch sử
+29.75
+(thang điểm 40)
+20.25
+8
+QHS
+GD3
+Quản trị trường học
+16
+9
+QHS
+GD3
+Quản trị Công nghệ giáo dục
+Chưa có
+Chưa có
+10
+QHS
+GD3
+Quản trị chất lượng giáo dục
+Chưa có
+Chưa có
+11
+QHS
+GD3
+Tham vấn học đường
+Chưa có
+Chưa có
+12
+QHS
+GD3
+Khoa học giáo dục
+Chưa có
+Chưa có
+7.

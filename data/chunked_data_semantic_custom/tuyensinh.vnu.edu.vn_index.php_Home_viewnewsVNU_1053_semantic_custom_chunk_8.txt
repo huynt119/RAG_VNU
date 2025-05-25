@@ -1,0 +1,209 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_1053.txt
+
+Hồ Chí Minh
+THPT Chuyên Lê Hồng Phong
+03
+Hải Phòng
+THPT Chuyên Trần Phú
+04
+Đà Nẵng
+THPT Chuyên Lê Quý Đôn
+05
+Hà Giang
+THPT Chuyên Hà Giang
+06
+Cao Bằng
+THPT Chuyên Cao Bằng
+07
+Lai Châu
+THPT Chuyên Lê Quý Đôn
+08
+Lào Cai
+THPT Chuyên tỉnh Lào Cai
+09
+Tuyên Quang
+THPT Chuyên Tuyên Quang
+10
+Lạng Sơn
+THPT Chuyên Chu Văn An
+11
+Bắc Kạn
+THPT Chuyên Bắc Kạn
+12
+Thái Nguyên
+THPT Chuyên Thái Nguyên
+13
+Yên Bái
+THPT Chuyên Nguyễn Tất Thành
+14
+Sơn La
+THPT Chuyên Sơn La
+15
+Phú Thọ
+THPT Chuyên Hùng Vương
+16
+Vĩnh Phúc
+THPT Chuyên Vĩnh Phúc
+17
+Quảng Ninh
+THPT Chuyên Hạ Long
+18
+Bắc Giang
+THPT Chuyên Bắc Giang
+19
+Bắc Ninh
+THPT Chuyên Bắc Ninh
+21
+Hải Dương
+THPT Chuyên Nguyễn Trãi
+22
+Hưng Yên
+THPT Chuyên Hưng Yên
+23
+Hoà Bình
+THPT Chuyên Hoàng Văn Thụ
+24
+Hà Nam
+THPT Chuyên Biên Hòa
+25
+Nam Định
+THPT Chuyên Lê Hồng Phong
+26
+Thái Bình
+THPT Chuyên Thái Bình
+27
+Ninh Bình
+THPT Chuyên Lương Văn Tụy
+28
+Thanh Hoá
+THPT Chuyên Lam Sơn
+29
+Nghệ An
+THPT Chuyên Phan Bội Châu
+30
+Hà Tĩnh
+THPT Chuyên Hà Tĩnh
+31
+Quảng Bình
+THPT Chuyên Võ Nguyên Giáp
+31
+Quảng Bình
+THPT Chuyên Quảng Bình
+32
+Quảng Trị
+THPT chuyên Lê Quý Đôn
+33
+Thừa Thiên Huế
+THPT Chuyên Quốc Học
+34
+Quảng Nam
+THPT Chuyên Nguyễn Bỉnh Khiêm
+34
+Quảng Nam
+THPT Chuyên Lê Thánh Tông
+35
+Quảng Ngãi
+Trường THPT chuyên Lê Khiết
+36
+Kon Tum
+THPT chuyên Nguyễn Tất Thành
+37
+Bình Định
+THPT chuyên Lê Quý Đôn
+38
+Gia Lai
+Trường THPT Chuyên Hùng Vương
+39
+Phú Yên
+THPT Chuyên Lương Văn Chánh
+40
+Đắk Lắk
+THPT Chuyên Nguyễn Du
+41
+Khánh Hoà
+THPT chuyên Lê Quý Đôn
+42
+Lâm Đồng
+THPT Chuyên Thăng Long - Đà Lạt
+42
+Lâm Đồng
+THPT Chuyên Bảo Lộc
+43
+Bình Phước
+THPT Chuyên Quang Trung
+43
+Bình Phước
+THPT chuyên Bình Long
+44
+Bình Dương
+THPT chuyên Hùng Vương
+45
+Ninh Thuận
+THPT chuyên Lê Quí Đôn
+46
+Tây Ninh
+THPT chuyên Hoàng Lê Kha
+47
+Bình Thuận
+THPT Chuyên Trần Hưng Đạo
+48
+Đồng Nai
+THPT Chuyên Lương Thế Vinh
+49
+Long An
+THPT chuyên Long An
+50
+Đồng Tháp
+THPT chuyên Nguyễn Đình Chiểu
+50
+Đồng Tháp
+THPT chuyên Nguyễn Quang Diêu
+51
+An Giang
+THPT Chuyên Thoại Ngọc Hầu
+51
+An Giang
+THPT Chuyên Thủ Khoa Nghĩa
+52
+Bà Rịa-Vũng Tàu
+THPT Chuyên Lê Quý Đôn
+53
+Tiền Giang
+THPT Chuyên Tiền Giang
+54
+Kiên Giang
+THPT chuyên Huỳnh Mẫn Đạt
+55
+Cần Thơ
+THPT Chuyên Lý Tự Trọng
+56
+Bến Tre
+THPT Chuyên Bến Tre
+57
+Vĩnh Long
+THPT chuyên Nguyễn Bỉnh Khiêm
+58
+Trà Vinh
+THPT Chuyên Nguyễn Thiện Thành
+58
+Trà Vinh
+THPT Chuyên Trà Vinh
+59
+Sóc Trăng
+THPT Chuyên Nguyễn Thị Minh Khai
+60
+Bạc Liêu
+THPT Chuyên Bạc Liêu
+61
+Cà Mau
+THPT Chuyên Phan Ngọc Hiển
+62
+Điện Biên
+THPT Chuyên Lê Quý Đôn
+63
+Đăk Nông
+THPT Chuyên Nguyễn Chí Thanh
+64
+Hậu Giang
+THPT chuyên Vị Thanh
+1.9.

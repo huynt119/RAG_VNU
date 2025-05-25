@@ -1,0 +1,36 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-mang-may-tinh-va-truyen-thong-du-lieu-chat-luong-cao-theo-thong-tu-23-2_.txt
+
+Nhận dạng, phân tích, đánh giá và đề xuất giải pháp cho các vấn đề có tính phức tạp, liên ngành trong lĩnh vực Mạng máy tính và truyền thông dữ liệu;
+Đối với các vấn đề trong lĩnh vực mạng máy tính và truyền thông dữ liệu:
+– Phát hiện được vấn đề cần giải quyết từ thực tế;
+– Vận dụng được kỹ năng khảo sát, đánh giá và phân tích vấn đề;
+– Biết tìm hiểu, đề xuất và đánh giá giải pháp công nghệ để giải quyết vấn đề;
+Vận dụng được kỹ năng phân tích, tổng hợp, đánh giá dữ liệu và thông tin để đưa ra giải pháp xử lý các vấn đề một cách khoa học;
+Biết phản biện, phê phán và sử dụng các giải pháp thay thế trong điều kiện môi trường không xác định hoặc thay đổi;
+Nghiên cứu phát triển và sử dụng các công nghệ trong lĩnh vực mạng máy tính và truyền thông dữ liệu một cách sáng tạo;
+Biết phát hiện vấn đề nghiên cứu, thiết lập giả thiết nghiên cứu;
+Vận dụng được kỹ năng khảo sát về vấn đề nghiên cứu thông qua việc tìm kiếm, thu thập thông tin, biết đánh giá độ tin cậy của thông tin;
+Áp dụng được kỹ năng kiểm nghiệm và bảo vệ giả thiết;
+Áp dụng được kỹ năng dùng thực nghiệm để khám phá kiến thức;
+S3. Lập kế hoạch, tổ chức công việc và quản lý dự án CNTT một cách hiệu quả;
+Xây dựng được kế hoạch, quản lý các nguồn lực;
+Tổ chức, quản trị và quản lý các hoạt động chuyên môn;
+Đánh giá và cải tiến các hoạt động chuyên môn;
+Tối ưu hóa phương pháp triển khai công việc;
+Vận dụng được cách vận hành và quản lý dự án CNTT;
+S4. Giao tiếp, phối hợp làm việc nhóm hiệu quả trong môi trường chuyên nghiệp;
+Vận dụng được cách lập luận, sắp xếp ý tưởng;
+Vận dụng được kỹ năng giao tiếp bằng văn bản, giao tiếp điện tử, đa truyền thông;
+Vận dụng được cách thức thuyết trình trước đám đông;
+Hiểu phương thức hợp tác với các thành viên khác trong nhóm;
+Vận dụng được phương thức truyền đạt tri thức dựa trên nghiên cứu, thảo luận các vấn đề chuyên môn và khoa học với người cùng ngành và với những người khác;
+Hướng dẫn, giám sát những người khác thực hiện nhiệm vụ xác định;
+Đánh giá chất lượng công việc sau khi hoàn thành và kết quả thực hiện của các thành viên trong nhôm;
+Hiểu biết bối cảnh xã hội và văn hoá cơ quan công tác;
+Nắm bắt chiến lược, mục tiêu và kế hoạch phát triển của cơ quan;
+S5. Vận dụng được một số kỹ năng liên quan đến khởi nghiệp, đổi mới sáng tạo;
+Phân tích, nắm bắt nhu cầu của thị trường;
+Đề xuất các phương pháp mới đưa lại lợi ích cho cộng đồng, xã hội;
+Lập kế hoạch và quản lý rủi ro;
+Hướng dẫn giám sát những người khác thực hiện nhiệm vụ;
+S6.

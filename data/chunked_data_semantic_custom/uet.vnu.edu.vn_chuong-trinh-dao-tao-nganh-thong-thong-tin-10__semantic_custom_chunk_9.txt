@@ -1,0 +1,23 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-thong-thong-tin-10_.txt
+
+1.1.2  Kiến thức theo lĩnh vực
+Biết được các kiến thức cơ bản về Vật lý cơ, nhiệt, điện và quang; hiểu được các hiện tượng và quy luật Vật lý và các ứng dụng liên quan trong khoa học kỹ thuật và đời sống; vận dụng kiến thức để học tập và nghiên cứu các học phần khác của các ngành kỹ thuật và công nghệ;
+Nắm được các kiến thức liên quan đến Giải tích toán học như tính giới hạn,
+tính đạo hàm, tính tích phân của các hàm một biến và hàm nhiều biến;
+Hiểu và vận dụng được các kiến thức liên quan đến Đại số cao cấp như ma trận và các phép biến đổi, giải các hệ phương trình nhiều biến số…. 1.1.3 Kiến thức theo khối ngành
+Hiểu và vận dụng được các kiến thức liên quan đến cấu trúc dữ liệu về mảng, danh sách liên kết, hàng đợi, ngăn xếp, cây nhị phân, bảng băm;
+Vận dụng được các thuật toán cơ bản liên quan đến sắp xếp, tìm kiếm và các thuật toán khác trên các cấu trúc dữ liệu;
+Hiểu và vận dụng được các khái niệm cơ bản về số phức và các loại biểu diễn của số phức;
+Hiểu và vận dụng được các khái niệm cơ bản của lý thuyết xác suất;
+Hiểu và vận dụng được các phương pháp phân tích tín hiệu, phân tích và thiết kế hệ thống tuyến tính trong các miền biểu diễn khác nhau. 1.1.4  Kiến thức theo nhóm ngành
+Nền tảng về CNTT: Cơ bản về lập trình, Thuật toán và độ phức tạp, Kiến trúc và tổ chức máy tính, Hệ điều hành, Tính toán dựa trên mạng, Ngôn ngữ lập trình, Đồ họa và tính toán trực quan, hệ thống thông minh;
+Xu hướng mới trong CNTT: Các công nghệ mới nổi trong CNTT, Thách thức đối với sự phát triển CNTT: Tính hiệu quả của CNTT, vai trò chiến lược của CNTT (đặc biệt là HTTT) trong tổ chức. 1.1.5 Kiến thức ngành
+Quản lý HTTT và tính lãnh đạo: Xác định và thiết kế các cơ hội để cải tiến tổ chức dựa trên CNTT. Tích hợp kế hoạch chiến lược phát triển với kế hoạch HTTT;
+Quản lý dữ liệu và thông tin: quản lý HTTT (bao gồm cả việc quản lý, điều hành, và đảm bảo cơ sở hạ tầng CNTT) hoạt động liên tục trong tổ chức;
+Phân tích và thiết kế hệ thống (Phân tích hoán đổi: trade-offs): thiết kế và so sánh các giải pháp, tìm nguồn cung ứng cho các phương án (giải pháp) thay thế; Thiết kế và thi hành giải pháp HTTT: tích hợp trong thiết kế và thi hành giải pháp tích hợp mạnh yếu tố kinh doanh đạt hiệu suất cao;
+Quản lý dự án HTTT: Chuẩn quản lý dự án, các khái niệm, vòng đời dự án, chín vùng tri thức quản lý (tích hợp, phạm vi, thời gian, giá, chất lượng, tài nguyên con người, giao tiếp, rủi ro, mua sắm) và 42 quy trình quản lý dự án;
+Kiến trúc doanh nghiệp: Khung kiến trúc doanh nghiệp, mô hình dữ liệu doanh nghiệp, kiến trúc hướng dịch vụ, tích hợp hệ thống, quản lý rủi ro, quản lý nội dung, quản trị hệ thống…;
+Khai thác và sử dụng tri thức người dùng: Các yếu tố ảnh hưởng đến trải nghiệm người dùng, Kinh nghiệm người dùng trong ngữ cảnh thiết kế, tích hợp vấn đề an ninh và kinh nghiệm người dùng…;
+Thực tập về quản lý dự án: Kiến thức, kỹ năng (cứng và mềm) về quản lý dự án trong thực tiễn;
+Kiến thức miền ứng dụng (doanh nghiệp và ngân hàng, dịch vụ công và giáo dục, chăm sóc sức khỏe, hoạt động phi lợi nhuận…); Mô hình tổng quát cho miền ứng dụng (chẳng hạn như đối với miền ứng dụng kinh doanh: mô hình kinh doanh, thiết kế và quản lý quy trình kinh doanh, lý thuyết tổ chức, chiến lược kinh doanh); Đặc tả cốt lõi về miền ứng dụng (chẳng hạn, miền ứng dụng kinh doanh: tài chính, kế toán, tiếp thị, khoa học dịch vụ, hành vi tổ chức, luật kinh doanh); Đo lường đánh giá hiệu suất đối với miền ứng dụng (chẳng hạn như đối với miền ứng dụng kinh doanh: phân tích hiệu năng của tổ chức, phân tích hiệu năng của cá nhân và đội, phân tích kinh doanh, thông minh kinh doanh, các độ đo liên quan);
+Khóa luận tốt nghiệp: mô hình, giải pháp và thi hành các bài toán thời sự của HTTT.

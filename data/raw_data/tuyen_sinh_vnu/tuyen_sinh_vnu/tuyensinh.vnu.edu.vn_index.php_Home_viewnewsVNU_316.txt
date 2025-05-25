@@ -1,0 +1,53 @@
+
+Đề án tuyển sinh Đại học năm 2024
+Điểm chuẩn ĐHCQ năm 2023 của các trường thành viên, trường, khoa trực thuộc ĐHQGHN
+Hướng dẫn đăng ký nội trú KTX ngoại ngữ và KTX Mễ Trì
+Đề án tuyển sinh trình độ đại học năm 2023 - ĐHQGHN
+Sinh viên của Khoa Quốc tế nhận Giải Nhì cho Công trình nghiên cứu khoa học sinh viên từ Đại học Quốc gia Hà Nội
+Mô tả:
+Với công trình “Nhận diện thực thể lồng nhau trong Chatbot đặt hàng đồ uống”, nhóm các em sinh viên Đỗ Thị Hương, Nguyễn Thị Huyền và Nguyễn Ngọc Khánh Huyền đã được khen thưởng Giải Nhì từ Đại học Quốc gia Hà Nội cho công trình nghiên cứu khoa học sinh viên xuất sắc. Được biết, trước đó các em đã giành Giải Nhất tại Hội nghị nghiên cứu khoa học sinh viên lần thứ X của Đại học Quốc gia Hà Nội với công trình này.
+Ngày sinh nhật của Khoa Quốc tế - ĐHQGHN mở đầu bằng tin vui từ nhóm các em sinh viên viên Đỗ Thị Hương, Nguyễn Thị Huyền và Nguyễn Ngọc Khánh Huyền cùng cô Trần Thị Oanh khi nhận được quyết định công bố giải thưởng từ Đại học Quốc gia Hà Nội. Hãy cùng lắng nghe những chia sẻ từ các em sinh viên khi đón nhận niềm vinh dự này.
+- Xin chào các em. Chúc mừng nhóm em đã xuất sắc nhận Giải Nhì công trình nghiên cứu khoa học sinh viên của Đại học Quốc gia Hà Nội.  Nhóm em đã lấy ý tưởng từ đâu để thực hiện công trình nghiên cứu này?
+Ý tưởng về đề tài của NCKH này của chúng em bắt nguồn từ sự gợi ý của TS. Trần Thị Oanh khi cô chính là một trong những giảng viên chính của chương trình Hệ thống thông tin quản lí chúng em theo học. Cô có gợi ý cho nhóm 2 đề tài và sau đó qua việc tìm hiểu và trao đổi với cô chúng em đã đi đến quyết định lựa chọn đề đài “Nhận diện thực thể lồng nhau trong Chatbot đặt hàng đồ uống” áp dụng trong trường hợp thực tế của The Coffee House. Nhận thấy chủ đề vô cùng thú vị cũng như nhìn thấy những tiềm năng ứng dụng vào thực tế là vô cùng lớn, chúng em đã quyết định lựa chọn chủ đề này.
+Các em sinh viên Đỗ Thị Hương, Nguyễn Thị Huyền và Nguyễn Ngọc Khánh Huyền
+cùng
+giảng viên hướng dẫn TS. Trần Thị Oanh
+- Các em có thể giải thích thêm một số thông tin cơ bản về công trình nghiên cứu của nhóm em không?
+Mục tiêu chính của đề tài này là nghiên cứu và đề xuất một phương pháp hiệu quả dựa trên các phương pháp học máy, có thể tự động phát hiện được các loại thực thể để xây dựng một chatbot đặt hàng thông minh, thông qua đó chúng ta có thể cải tiến những chatbot hiện tại khiến chúng trở lên thông mình hơn. Điều này sẽ vô cùng giúp ích cho các chủ đầu tư về mặt kinh phí và sức lao động.
+Cũng theo chúng em nghiên cứu thì cho đến thời điểm hiện tại vẫn chưa có nghiên cứu nào về việc nhận biết các thực thể lồng nhau trong việc đặt hàng chatbot, đặc biệt là với ngôn ngữ tiếng Việt. Nghiên cứu của chúng em sẽ là một điểm sáng để xây dựng các mô hình chatbot thông minh cho đặt hàng trực tuyến, đặc biệt là trong thời đại kỹ thuật số 4.0 ngày nay.
+Hơn nữa, chúng em đề xuất một mô hình sử dụng mô hình học máy hiện đại, đó là một cải tiến lớn so với mô hình dựa trên luật. Kết quả của nghiên cứu này có thể được áp dụng để xây dựng hệ thống chatbot thông minh, sẽ tạo ra sự đổi mới trong mô hình đặt hàng đồ uống trong thực tế và bán hàng trực tuyến nói chung. Hơn thế nữa, kết quả từ nghiên cứu này cũng sẽ đóng góp cho việc xây dựng những mô hình chatbot trong các lĩnh vực khác.
+- Các em có thể chia sẻ thêm về những thuận lợi cũng như khó khăn trong quá trình thực hiện dự án nghiên cứu không?
+Thực hiện đề tài nghiên cứu khoa học sinh viên thực sự rất thú vị và bổ ích. Nhóm nghiên cứu chúng em đã dành ra khoảng thời gian 8 tháng để thực hiện xong đề tài này. Đây cũng không phải là một khoảng thời gian quá dài và thực sự cũng không hẳn là ngắn, nhưng nó đã mang đến cho chúng em có rất nhiều những trải nghiệm và những khó khăn.
+Về những điểm thuân lợi khi thực hiện nghiên cứu,chúng em đã được hỗ trợ và giúp đỡ từ phía các thầy cô trong Khoa, đặc biệt là cô Trần Thị Oanh, giảng viên hỗ trợ chính của nhóm em.  Nhờ có đề tài nghiên cứu này chúng em đã học được rất nhiều điều từ cô như phong cách làm việc, thái độ và trách nhiệm dành cho công việc như thế nào. Từ đó, chúng em tích lũy những kiến thức, kinh nghiệm bổ ích đó để phát huy hết khả năng của bản thân, xây đắp và trau dồi phát triển bản thân mình nhiều hơn nữa.
+Bên cạnh đó, chúng em cũng gặp phải không ít những khó khăn khi thực hiện đề tài. Ngay từ khâu lựa chọn đề tài chúng em cũng đã rất trăn trở rằng không biết nhóm chúng em sẽ chọn đề tài nào trong muôn vàn những chủ đề hay và hấp dẫn. Thời gian tiếp theo chúng em đã gặp phải khó khăn trong việc tìm tài liệu và đôi khi còn gặp phải những mâu thuẫn trong quan điểm về một số vấn đề khác nhau. Hơn nữa, việc đi tìm bộ dữ liệu và xử lý dữ liệu cũng mất khá nhiều thời gian. Khoảng thời gian gần cuối của dự án này cũng trùng với kỳ thi cuối kỳ của chúng em, vì vậy nó một phần nào khiến chúng em cảm thấy rất áp lực. Tuy nhiên, chúng em cũng như các nhóm nghiên cứu khác đã vượt qua được giai đoạn đó để đi đến với kết quả xứng đáng như ngày hôm nay.
+Được biết, cô Trần Thị Oanh đã hướng dẫn và giúp đỡ các em trong quá trình nghiên cứu dự án, các em có thể chia sẻ thêm về vai trò của cô trong dự án này được không?
+Trước hết, chúng em rất vui vì mình đã chọn cô Trần Thị Oanh làm người hướng dẫn. Cô rất nhiệt tình và tận tâm. Là người đi trước và hiểu vấn đề sâu sắc hơn chúng em, cô đã giúp chúng em có cái nhìn tổng quát và toàn diện hơn về vấn đề cũng như giới thiệu cho chúng em những tài liệu tham khảo bổ ích, đáng đọc, những điểm đáng lưu tâm và những vấn đề cần đào sâu tìm hiểu hơn nữa. Bên cạnh đó, cô cũng thường xuyên động viên chúng em đặc biệt trong những giai đoạn khó khăn nhất của nghiên cứu.
+Qua bài phỏng vấn này, chúng em cũng chân thành muốn gửi lời cảm ơn đến cô Trần Thị Oanh, vai trò của cô trong dự án này thực sự rất quan trọng, nếu không có cô thì chúng em không chắc mình có thể hoàn thành đề tài này một cách hoàn thiện.
+3 sinh viên chụp hình lưu niệm cùng giảng viên và bạn bè
+- Các em có lời lời khuyên gì dành cho các bạn sinh viên đang hoặc sẽ thực hiện các công trình nghiên cứu khoa học không?
+Đầu tiên, theo chúng em, đó là nếu muốn có một nghiên cứu khoa học thành công, hãy đầu tư cho nó thời gian, công sức và trí óc. Đừng nghĩ rằng mình chưa có đủ khả năng bởi nghiên cứu vì khoa học trong sinh viên không đòi hỏi kết quả nghiên cứu phải cao siêu, có tầm vóc, mà mục tiêu chính của nghiên cứu khoa học ở đại học là trang bị cho sinh viên các kiến thức, kỹ năng nghiên cứu khoa học độc lập để hỗ trợ cho hoạt động học tập, chuẩn bị cho sinh viên hành trang tốt nhất sau khi ra trường. Chính vì vậy, nếu có một vấn đề khiến mình cảm thấy quan tâm và yêu thích, hãy tìm hiểu về nó.
+Tiếp theo đó, khi bắt tay vào làm nghiên cứu khoa học, với khối lượng kiến thức khổng lồ cần tiếp thu, nhiều nguồn tài liệu tham khảo, chúng ta sẽ rất dễ bị choáng ngợp. Vậy nên đừng ngần ngại tìm kiến sự giúp đỡ của các thầy cô đi trước, các anh chị khoá trên, những người có tầm hiểu biết sâu rộng hơn chúng ta sẽ giúp chúng ta đi đúng đường hơn là bị cuốn vào kho tàng kiến thức mà không biết bắt đầu từ đâu.  Và điều đó cũng sẽ tạo cho chúng ta một áp lực để phấn đấu và động lực để không thể bỏ cuộc dễ dàng. Chúc các bạn thành công với dự án nghiên cứu của riêng mình!
+- Cảm ơn các em và chúc các em tiếp tục gặt hái được nhiều thành công trong cuộc sống!
+Facebook Chat
+            Widget by CAIT
+Liên kết
+Trường Đại học Khoa học Tự nhiên
+Trường Đại học  Khoa học Xã hội và Nhân văn
+Trường Đại học Ngoại ngữ
+Trường Đại học Công nghệ
+Trường Đại học Giáo dục
+Trường Đại học Luật
+Trường Đại học Y Dược
+Trường Đại học Việt Nhật
+Trường Quốc tế
+Trường Quản trị và Kinh doanh
+Trường Đại học Kinh tế
+Trường Khoa học liên ngành và Nghệ thuật
+Khoa Quốc tế Pháp ngữ
+Địa chỉ
+144 Xuân Thủy, Cầu Giấy, Hà Nội
+Khu đô thị ĐHQGHN tại Hòa Lạc
+024 37547 670
+tsvnu@vnu.edu.vn
+Copyright by Đại học Quốc gia Hà Nội
+×

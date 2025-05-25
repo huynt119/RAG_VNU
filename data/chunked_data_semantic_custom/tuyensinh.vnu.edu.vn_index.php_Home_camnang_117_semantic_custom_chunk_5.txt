@@ -1,0 +1,43 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_camnang_117.txt
+
+Bảng tổ hợp môn xét tuyển đại học năm 2021 của ĐHQGHN
+A00:
+Toán, Vật lí, Hoá học
+D14: Ngữ văn, Lịch sử, Tiếng Anh
+A01: Toán, Vật lí, Tiếng Anh
+D15: Ngữ văn, Địa lý, Tiếng Anh
+A02: Toán, Vật lí, Sinh học
+D23: Toán, Hóa học, Tiếng Nhật
+B00:
+Toán, Hoá học, Sinh học
+D24: Toán, Hóa học, Tiếng Pháp
+C00:
+Ngữ văn, Lịch sử, Địa lý
+D28: Toán, Vật lí, Tiếng Nhật
+C01:
+Ngữ văn, Toán, Vật lý
+D63: Ngữ văn, Lịch sử, Tiếng Nhật
+D01: Toán, Ngữ văn, Tiếng Anh
+D78: Ngữ văn, Khoa học xã hội, Tiếng Anh
+D02: Toán, Ngữ văn, Tiếng Nga
+D81: Ngữ văn, Khoa học xã hội, Tiếng Nhật
+D03: Toán, Ngữ văn, Tiếng Pháp
+D82: Ngữ văn, Khoa học xã hội, Tiếng Pháp
+D04: Toán, Ngữ văn, Tiếng Trung
+D83: Ngữ văn, Khoa học xã hội ,Tiếng Trung
+D05: Toán, Ngữ văn, Tiếng Đức
+D90: Toán, Khoa học Tự nhiên, Tiếng Anh
+D06: Toán, Ngữ văn, Tiếng Nhật
+D91: Toán, Khoa học Tự nhiên, Tiếng Pháp
+D07: Toán, Hóa học, Tiếng Anh
+D96: Toán, Khoa học Xã hội, Tiếng Anh
+D08: Toán, Sinh học, Tiếng Anh
+D97: Toán, Khoa học Xã hội, Tiếng Pháp
+D09:
+Toán, Lịch sử, Tiếng Anh
+DD0: Toán, Khoa học Xã hội, Tiếng Nhật
+D10:
+Toán, Địa lý, Tiếng Anh
+DD0: Toán, Ngữ văn, Tiếng Hàn
+1
+.5.

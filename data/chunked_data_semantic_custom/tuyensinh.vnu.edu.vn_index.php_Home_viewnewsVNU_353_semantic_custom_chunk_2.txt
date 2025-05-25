@@ -1,0 +1,89 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_353.txt
+
+Thông tin về ngành/nhóm ngành, chỉ tiêu, tổ hợp xét tuyển
+TT
+Mã trường
+Mã nhóm ngành
+Tên ngành /nhóm ngành
+Chỉ tiêu
+(dự kiến)
+Tổ hợp môn xét tuyển 1
+Tổ hợp môn xét tuyển 2
+Tổ hợp môn xét tuyển 3
+Tổ hợp môn xét tuyển 4
+Theo KQ thi THPT QG
+Theo phương thức khác
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+1
+QHQ
+QHQ01
+Kinh doanh quốc tế (đào tạo bằng tiếng Anh)
+260
+7
+A00
+A01
+D01-D06
+D96-DD1
+2
+QHQ
+QHQ02
+Kế toán, Phân tích và Kiểm toán (đào tạo bằng tiếng Anh)
+170
+5
+A00
+A01
+D01-D06
+D96-DD1
+3
+QHQ
+QHQ03
+Hệ thống thông tin quản lý (đào tạo bằng tiếng Anh)
+70
+2
+A00
+A01
+D01-D06
+D96-DD1
+4
+QHQ
+QHQ04
+Tin học và Kỹ thuật máy tính (chương trình liên kết quốc tế do ĐHQGHN cấp bằng, đào tạo bằng tiếng Anh)
+80
+2
+A00
+A01
+D01-D06
+D90-D95
+Tổng
+580
+14
+Facebook Chat
+Widget by CAIT
+Liên kết
+Trường Đại học Khoa học Tự nhiên
+Trường Đại học  Khoa học Xã hội và Nhân văn
+Trường Đại học Ngoại ngữ
+Trường Đại học Công nghệ
+Trường Đại học Giáo dục
+Trường Đại học Luật
+Trường Đại học Y Dược
+Trường Đại học Việt Nhật
+Trường Quốc tế
+Trường Quản trị và Kinh doanh
+Trường Đại học Kinh tế
+Trường Khoa học liên ngành và Nghệ thuật
+Khoa Quốc tế Pháp ngữ
+Địa chỉ
+144 Xuân Thủy, Cầu Giấy, Hà Nội
+Khu đô thị ĐHQGHN tại Hòa Lạc
+024 37547 670
+tsvnu@vnu.edu.vn
+Copyright by Đại học Quốc gia Hà Nội
+×

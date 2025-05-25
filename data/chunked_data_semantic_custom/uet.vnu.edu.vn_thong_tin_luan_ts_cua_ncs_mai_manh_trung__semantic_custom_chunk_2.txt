@@ -1,0 +1,18 @@
+Nguồn: uet.vnu.edu.vn_thong_tin_luan_ts_cua_ncs_mai_manh_trung_.txt
+
+Các công trình đã công bố có liên quan đến luận án:
+Lê Phê Đô,
+Mai Mạnh Trừng
+, Lê Trung Thực, Nguyễn Thị Hằng, Vương Thị Hạnh, Nguyễn Khắc Hưng, Định Thị Thúy, Lê Thị Len,
+“Nghiên cứu một số hệ mật mã nhẹ và ứng dụng trong IoT”
+, Tạp chí Nghiên cứu khoa học và Công nghệ Quân Sự, chủ đề “Những tiến bộ Khoa học trong lĩnh vực An ninh-An toàn thông tin”, 137-147, số đặc san 5-2017. Lê Phê Đô,
+Mai Mạnh Trừng
+, Nguyễn Khắc Hưng, Trần Văn Mạnh, Lê Trung Thực, Lê Thị Len, Nguyễn Thị Hằng
+“Cải tiến mã khối nhẹ LED và NOEKEON”
+, Kỷ yếu hội thảo Quốc gia lần thứ XX, “Một số vấn đề chọn lọc của CNTT & TT”, 8-12, 2017. Mai Mạnh Trừng
+, Lê Phê Đô, Lê Trung Thực, Trần Văn Mạnh, Lê Thị Len, Nguyễn Thị Hằng, Nguyễn Khắc Hưng,
+“Nghiên cứu các cuộc tấn công hệ mật mã nhẹ PRESENT”,
+Kỷ yếu Hội thảo lần thứ II, “Một số vấn đề chọn lọc về An toàn An ninh Thông tin”, 1-6, Thành phố C.M, 2017. Mai Mạnh Trừng
+, Đỗ Trung Tuấn, Lê Phê Đô, Lê Trung Thực, Đào Thị Phương Anh, “
+Xây dựng hệ mật mã đường cong elliptic với khóa đối xứng Affine để mã hóa giải mã văn bản tiếng Việt
+”, Kỷ yếu Hội nghị KHCN Quốc gia lần thứ XIII về Nghiên cứu cơ bản và ứng dụng Công nghệ thông tin (FAIR), 724-732, Nha Trang, ngày 8-9/10/2020.

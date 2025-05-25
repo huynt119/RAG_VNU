@@ -1,0 +1,15 @@
+Nguồn: uet.vnu.edu.vn_de_cuong_phong_van_chuyen_mon_trong_tuyen_sinh_dao_tao_thac_si_theo_phuong_thuc_xet_tuyen_.txt
+
+Engineering Mechanics Volume 2 Dynamic Seven Edition, John Wiley & Sons, Inc, 2008;
+Đỗ Sanh Cơ học kỹ thuật Tập 2: Động lực học – Nhà xuất bản Giáo dục;
+Nguyễn Đình Đức và Đào Như Mai, Sức bền vật liệu và cơ học kết cấu – Nhà Xuất bản Đại học Quốc gia Hà Nội;
+Trần Văn Liên, Cơ học Môi trường liên tục – Nhà Xuất bản Xây dựng;
+Các chương trình đào tạo Thạc sĩ thuộc Khoa Cơ học kỹ thuật và Tự động hóa, Trường ĐHCN, ĐHQGHN, http://fema.uet.vnu.edu.vn/. Đối với chuyên ngành Kỹ thuật cơ điện tử
+Davit G. Alciatore, Michael B. Histamd “Introduction to Mechatronics and Measurement Systems”,
+McGraw-Hill
+2005;
+Phạm Mạnh Thắng – Giáo trình “Vi xử lý và Vi điều khiển – Nguyên lý và ứng dụng” – Nhà Xuất bản ĐHQGHN HN,  Hà Nội 2014;
+D. Rodić: “Automation and Control – Theory and Practice”, Intechweb.org , 2015;
+Phạm Mạnh Thắng, Hoàng Văn Mạnh, Vũ Thị Thuỳ Anh, Lập trình PLC theo ngôn ngữ bậc thang – Nhà Xuất bản Khoa học Tự nhiên và Công nghệ, 2013;
+Robert H. Bishop, Cơ điện tử – Nhà Xuất bản ĐHQGHN, 2006;
+Các chương trình đào tạo Thạc sĩ thuộc Khoa Cơ học kỹ thuật và Tự động hóa, Trường ĐHCN, ĐHQGHN, http://fema.uet.vnu.edu.vn/.

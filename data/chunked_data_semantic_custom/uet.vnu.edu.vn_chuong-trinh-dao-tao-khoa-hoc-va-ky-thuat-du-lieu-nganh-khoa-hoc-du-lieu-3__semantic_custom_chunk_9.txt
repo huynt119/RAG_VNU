@@ -1,0 +1,33 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-khoa-hoc-va-ky-thuat-du-lieu-nganh-khoa-hoc-du-lieu-3_.txt
+
+Khối kiến thức thực tập, tốt nghiệp
+9
+60
+AIT4101
+Thực tập tốt nghiệp
+Internship
+2
+TTTN
+Khoá luận tốt nghiệp hoặc nhóm học phần thay thế Khoá luận tốt nghiệp
+61
+AIT4050
+Khóa luận tốt nghiệp
+Graduation Thesis
+7
+ĐATN
+62
+AIT4003
+Tiểu luận tốt nghiệp
+Graduation Essay
+4
+Nhóm học phần thay thế khoá luận tốt nghiệp
+63
+01 học phần trong nhóm các học phần Các học phần tự chọn V.2
+3
+Tổng cộng
+130
+Ghi chú:
+Các học phần Giáo dục thể chất, Giáo dục quốc phòng-an ninh, Kỹ năng bổ trợ không được tính vào tổng số tín chỉ của chương trình đào tạo, không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy, nhưng là điều kiện để xét tốt nghiệp;
+Khối lượng học tập của chương trình đào tạo, của mỗi thành phần hoặc của mỗi học phần trong chương trình đào tạo được xác định bằng số tín chỉ:
+Một tín chỉ được tính tương đương 50 giờ học tập định mức của người học, bao gồm cả thời gian dự giờ giảng, giờ học có hướng dẫn, tự học, nghiên cứu, trải nghiệm và dự kiểm tra, đánh giá;
+Đối với hoạt động dạy học trên lớp, một tín chỉ yêu cầu thực hiện tối thiểu 15 giờ giảng hoặc 30 giờ thực hành, thí nghiệm, thảo luận trong đó một giờ trên lớp được tính bằng 50 phút.

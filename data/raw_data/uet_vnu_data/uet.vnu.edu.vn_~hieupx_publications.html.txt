@@ -1,0 +1,193 @@
+Selected Publications:
+2011:
+Xuan-Hieu Phan, Cam-Tu Nguyen, Dieu-Thu Le, Le-Minh Nguyen, Susumu Horiguchi, and Quang-Thuy Ha.
+A hidden topic-based framework towards building applications with short Web documents
+,
+IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
+, 
+	Vol.23, No.7, pp.961-976, 2011. [
+PDF
+]
+2010:
+Vitali Sintchenko, Stephen Anthony, Xuan-Hieu Phan, Frank Lin, and Enrico Coiera.
+A PubMed-wide associational study of infectious diseases
+,
+PLoS ONE
+, Vol.5, No.3, 2010. 
+	[
+PDF
+]
+Cam-Tu Nguyen, Natsuda Kaothanthong, Xuan-Hieu Phan, and Takeshi Tokuyama.
+A feature-word-topic model for image annotation
+,
+In Proceedings of the 19th ACM International Conference on 
+	Information and Knowledge Management (ACM CIKM)
+, 
+	pp.1481-1484, 2010. [
+PDF
+]
+2009:
+Cam-Tu Nguyen, Xuan-Hieu Phan, Susumu Horiguchi, Thu-Trang Nguyen, and Quang-Thuy Ha.
+Web search clustering and labeling with hidden topics
+,
+ACM Transactions on Asian Language Information Processing (ACM TALIP)
+, 
+	Vol.8, No.3, 2009. [
+PDF
+]
+2008:
+Xuan-Hieu Phan, Le-Minh Nguyen, and Susumu Horiguchi.
+Learning to classify short and sparse text & web with hidden topics from large-scale data collections
+,
+In Proceedings of the International World Wide Web Conferences (WWW)
+, 
+	pp.91-100. [
+PDF
+]
+Le-Minh Nguyen, Akira Shimazu, Xuan-Hieu Phan, and Phuong-Thai Nguyen.
+Online structured learning for semantic parsing with synchronous and lambda-synchronous context free grammars
+,
+In Proceedings of the International Conference on Tools with Artificial Intelligence (ICTAI)
+, 
+	pp.135-142, 2008. [
+PDF
+]
+Dieu-Thu Le, Cam-Tu Nguyen, Quang-Thuy Ha, Xuan-Hieu Phan, and Susumu Horiguchi.
+Matching and ranking with hidden topics towards online contextual advertising
+,
+In Proceedings of the IEEE/WIC/ACM International Conference on Web Intelligence
+, 
+	pp.888-891, 2008. [
+PDF
+]
+2007:
+Xuan-Hieu Phan, Le-Minh Nguyen, Yasushi Inoguchi, and Susumu Horiguchi.
+High-performance training of conditional random fields for large-scale applications of labeling sequence data
+,
+IEICE Transactions
+, Vol.90-D, No.1, pp.13-21, 2007. [
+PDF
+]
+Le-Minh Nguyen, Xuan-Hieu Phan, Susumu Horiguchi, and Akira Shimazu.
+A new sentence reduction technique based on a decision tree model
+,
+International Journal on Artificial Intelligence Tools
+, 
+	Vol.16, No.1, pp.129-138, 2007. [
+PDF
+]
+Le-Minh Nguyen, Akira Shimazu, Phuong-Thai Nguyen, and Xuan-Hieu Phan.
+A multilingual dependency analysis system using online passive-aggressive learning
+,
+In Proceedings of the EMNLP-CoNLL
+, pp.1149-1155, 2007. [
+PDF
+]
+Xuan-Hieu Phan, Le-Minh Nguyen, and Susumu Horiguchi.
+Semantic analysis of entity contexts towards open named entity classification on the Web
+,
+In Proceedings of the 10th Conference of the Pacific Association for Computational Linguistics (PACLING)
+, 
+	pp.137-144, 2007. [
+PDF
+]
+2006:
+Xuan-Hieu Phan, Le-Minh Nguyen, Yasushi Inoguchi, Tu-Bao Ho, Susumu Horiguchi.
+Improving discriminative sequential learning by discovering important association of statistics
+,
+ACM Transactions on Asian Language Information Processing (ACM TALIP)
+, 
+	Vol.5, No.4, pp.413-438, 2006. [
+PDF
+]
+Xuan-Hieu Phan, Le-Minh Nguyen, Susumu Horiguchi.
+Personal name resolution crossover documents by a semantics-Based approach
+,
+IEICE Transactions
+, 
+	Vol.89-D, No.2, pp.825-836, 2006. [
+PDF
+]
+Le-Minh Nguyen, Akira Shimazu, and Xuan-Hieu Phan.
+Semantic parsing with structured SVM ensemble classification models
+,
+In Proceedings of the Meeting of the Association for Computational Linguistics (ACL)
+, 
+	2006. [
+PDF
+]
+Cam-Tu Nguyen, Trung-Kien Nguyen, Xuan-Hieu Phan, Le-Minh Nguyen, and Quang-Thuy Ha.
+Vietnamese word segmentation with CRFs and SVMs: an investigation
+,
+In Proceedings of The 20th Pacific Asia Conference on Language, Information, and Computation (PACLIC)
+, 
+	pp.215-222, 2006. [
+PDF
+]
+2005:
+Xuan-Hieu Phan, Susumu Horiguchi, Tu-Bao Ho.
+Automated data extraction from the web with conditional models
+,
+International Journal of Business Intelligence and Data Mining (IJBIDM)
+, 
+	Vol.1, No.2, pp.194-209, 2005. [
+PDF
+]
+Xuan-Hieu Phan, Le-Minh Nguyen, Tu-Bao Ho, Susumu Horiguchi.
+Improving discriminative sequential learning with rare-but-important associations
+,
+In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)
+, 
+	pp.304-313, 2005. [
+PDF
+]
+Xuan-Hieu Phan, Le-Minh Nguyen, Susumu Horiguchi, Tu-Bao Ho, Yasushi Inoguchi.
+Classification with maximum entropy modeling of predictive association rules
+,
+In Proceedings of the European Conference on Machine Learning (ECML)
+, 
+	pp.682-689, 2005. [
+PDF
+]
+Le-Minh Nguyen, Akira Shimazu, Xuan-Hieu Phan.
+A maximum entropy model for transforming sentences to logical form
+,
+In Proceedings of the Australian Conference on Artificial Intelligence
+, 
+	pp.800-804, 2005. [
+PDF
+]
+Le-Minh Nguyen, Akira Shimazu, and Xuan-Hieu Phan.
+A structured SVM semantic parser argumented by semantic tagging with conditional random fields
+,
+In Proceedings of the 19th Pacific Asia Conference on Language Information and Computation (PACLIC)
+, 
+	2005. [
+PDF
+]
+Xuan-Hieu Phan, Le-Minh Nguyen, Tu-Bao Ho, Yasushi Inoguchi, and Susumu Horiguchi.
+Co-training of conditional random fields for segmenting sequence data
+,
+Symposium on Data/Text Mining from Large Databases (IFSR)
+, 
+	2005. [
+PDF
+]
+2004:
+Xuan-Hieu Phan, Susumu Horiguchi, and Tu-Bao Ho.
+PEWeb: product extraction from the Web based on entropy estimation
+,
+In Proceedings of the IEEE/WIC/ACM International Conference on Web Intelligence
+, 
+	pp.950-953, 2004. [
+PDF
+]
+Xuan-Hieu Phan, Susumu Horiguchi, and Tu-Bao Ho.
+Automatic integrating commercial data on the Web using conditional models
+,
+In Proceedings of the ECML-PKDD Workshop on Statistical Approaches to Web Mining (SAWM)
+, 
+	pp.14-25, 2004. [
+PDF
+]
+

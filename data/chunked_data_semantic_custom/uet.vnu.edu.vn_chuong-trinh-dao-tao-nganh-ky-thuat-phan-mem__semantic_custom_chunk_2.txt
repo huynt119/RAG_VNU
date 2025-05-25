@@ -1,0 +1,52 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-phan-mem_.txt
+
+– Danh mục các ngành phù hợp, ngành gần:
+Danh mục các ngành phù hợp: Công nghệ thông tin; Khoa học máy tính; Hệ thống thông tin; Truyền thông và mạng máy tính;
+Danh mục các ngành gần: Hệ thống thông tin quản lý, Công nghệ kỹ thuật máy tính; Toán tin ứng dụng; Tin học ứng dụng; Sư phạm tin học; Sư phạm kỹ thuật công nghiệp (chuyên ngành Cơ sở Toán học cho Tin học); Toán học; Công nghệ kỹ thuật điện tử, truyền thông; Công nghệ kỹ thuật điện, điện tử; Công nghệ kỹ thuật điều khiển và tự động hóa; Kỹ thuật cơ điện tử; Công nghệ kỹ thuật cơ điện tử. – Danh mục các học phần bổ sung kiến thức
+S
+TT
+Học phần
+Số tín chỉ
+1
+Toán rời rạc
+4
+2
+Lập trình nâng cao
+3
+3
+Cơ sở dữ liệu
+3
+4
+Cấu trúc dữ liệu và giải thuật
+3
+Tổng cộng
+13
+|
+24/10/2022
+|
+ĐTSĐH
+|
+2268 Views
+Sau
+Chương trình đào tạo ngành Kỹ thuật phần mềm
+Bài viết liên quan
+Chương trình đào tạo ngành Vật liệu và linh kiện nano
+Chương trình đào tạo ngành Vật liệu và linh kiện nano
+Chương trình đào tạo ngành Vật liệu và linh kiện nano
+Chương trình đào tạo ngành Khoa học máy tính
+Chương trình đào tạo ngành Khoa học máy tính
+Chương trình đào tạo ngành Kỹ thuật phần mềm
+1. Một số thông tin về chương trình đào tạo
+Tên chuyên ngành đào tạo:
+Tiếng Việt: Kỹ thuật Phần mềm
+Tiếng Anh: Software Engineering
+Mã số chuyên ngành đào tạo: 60480103
+Tên ngành đào tạo:
+Tiếng Việt: Công nghệ Thông tin
+Tiếng Anh: Information Technology
+Trình độ đào tạo: Thạc sĩ
+Thời gian đào tạo: 2 năm
+Tên văn bằng sau khi tốt nghiệp:
+Tiếng Việt:          Thạc sĩ ngành Công nghệ thông tin
+Tiếng Anh:          The Degree of Master in Information Technology
+2.

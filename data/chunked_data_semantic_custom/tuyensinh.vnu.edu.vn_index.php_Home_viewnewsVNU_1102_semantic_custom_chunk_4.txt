@@ -1,0 +1,90 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_1102.txt
+
+Tổ hợp xét tuyển
+S
+TT
+Mã trường
+Ngành
+học
+Tên nhóm ngành
+Mã nhóm ngành
+Tổ hợp môn thi/bài thi
+THPT
+Phương thức khác
+Quy định trong xét tuyển
+1
+QHS
+Sư phạm Toán
+Sư phạm Toán và Khoa học Tự nhiên
+G
+D1
+Toán, Vật lý, Hóa học (A00)
+Toán, Vật lý, Tiếng Anh (A01)
+Toán, Hóa học, Sinh học (B00)
+Toán, Ngữ văn, Tiếng Anh (D01)
+- Xét
+tuyển
+thẳng, ưu tiên xét tuyển theo quy định của Bộ, của ĐHQGHN;
+Xét tuyển các thí sinh có chứng chỉ quốc tế SAT, A-Level, ACT, IELTS
+;
+- Xét tuyển theo kết quả bài thi ĐGNL năm 2023 của ĐHQGHN và của ĐHQG-HCM;
+Sau khi hoàn thành các học phần chung bắt buộc trong năm thứ nhất sẽ phân ngành. 2
+Sư phạm Vật lý
+3
+Sư phạm Hóa học
+4
+Sư phạm Sinh học
+5
+Sư phạm Khoa học Tự nhiên
+6
+Sư phạm Ngữ Văn
+Sư phạm  Ngữ văn
+,
+Lịch sử
+, Lịch sử
+Địa lý
+GD2
+Toán, Ngữ văn, Tiếng Anh (D01)
+Ngữ văn, Lịch Sử, Địa lý (C00)
+Ngữ văn, Lịch sử, Tiếng Anh (D14)
+Ngữ văn, Địa lý, Tiếng Anh (D15)
+7
+Sư phạm Lịch sử
+8
+Sư phạm Lịch sử
+Địa lý
+9
+QHS
+Quản trị trường học
+Khoa học giáo dục và khác
+GD3
+Toán, Vật lý, Hóa học (A00)
+Toán, Hóa học, Sinh học (B00)
+Ngữ văn, Lịch Sử, Địa lý (C00)
+Toán, Ngữ văn, Tiếng Anh (D01)
+10
+Quản trị công nghệ giáo dục
+11
+Quản trị chất lượng giáo dục
+12
+Tham vấn học đường
+13
+Khoa học giáo dục
+14
+QHS
+Giáo dục Tiểu học
+GD4
+Toán, Vật lý, Hóa học (A00)
+Toán, Hóa học, Sinh học (B00)
+Ngữ văn, Lịch Sử, Địa lý (C00)
+Toán, Ngữ văn, Tiếng Anh (D01)
+15
+QHS
+Giáo dục Mầm non
+GD5
+Toán, Vật lý, Hóa học (A00)
+Toán, Hóa học, Sinh học (B00)
+Ngữ văn, Lịch Sử, Địa lý (C00)
+Toán, Ngữ văn, Tiếng Anh (D01)
+Lưu ý: *
+Đối với thí sinh đăng ký xét tuyển vào ngành Giáo dục Mầm non, Trường Đại học Giáo dục tổ chức đánh giá năng khiếu.

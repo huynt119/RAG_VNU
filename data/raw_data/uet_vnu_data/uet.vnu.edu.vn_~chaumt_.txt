@@ -1,0 +1,48 @@
+Quá trình Đào tạo
+2007-2013: NCS tại trường Đại học Công nghệ
+2003-2005: Học viên cao học tại trường Đại học Công nghệ
+1999-2003: Sinh viên tại trường Đại học Công nghệ
+Quá trình công tác
+2007-nay: Khoa CNTT, trường Đại học Công nghệ
+Những lĩnh vực khoa học đã và đang quan tâm
+Đồ họa máy tính
+Dựng hình 3 chiều
+VR/AR
+Hoạt cảnh
+Trí tuệ nhân tạo
+Xử lý ảnh
+IoT
+Dự án đã tham gia
+High Dimensional Heterogeneous Data based Animation Techniques for Southeast Asian Intangible Cultural Heritage Digital Content-AniAge 2016-2020
+Nghiên cứu ứng dụng công nghệ đa phương tiện trong bảo tồn và phát huy di sản văn hóa phi vật thể 2016-2019 ĐTĐL.CN-34/16
+Nghiên cứu xây dựng hệ thống trí tuệ nhân tạo tích hợp dữ liệu địa chất dầu khí đánh giá triển vọng dầu khí. KC-4.0-01/19-25 2019-2021
+HỆ THỐNG GIAO TIẾP TIẾNG VIỆT DỰA TRÊN AI SỬ DỤNG TÍN HIỆU MẮT VÀ TÍN HIỆU ĐIỆN NÃO CHO NGƯỜI TỔN THƯƠNG CHỨC NĂNG VẬN ĐỘNG.
+MÃ SỐ: VINIF.2020.DA10. 2020-2022
+HỆ THỐNG HỖ TRỢ GIAO TIẾP SỬ DỤNG KẾT HỢP TÍN HIỆU ĐIỆN NÃO VÀ TÍN HIỆU MẮT CHO NGƯỜI BỊ TỔN THƯƠNG CHỨC NĂNG VẬN ĐỘNG.
+MÃ SỐ: QG.20.78. 2020-2022
+Bài báo
+2015 đến nay
+Lê Thị Thanh Vân, Vũ Văn Quang, Lê Thanh Hà, Ma Thị Châu. "SEARCHING 3D MOTION PATTERNS OF VIETNAMESE TRADITIONAL DANCES" Các công trình nghiên cứu, phát triển và ứng dụng Công nghệ Thông tin và Truyền thông, Tạp chí CNTT&TT. 2021.
+Đoàn Đình Dũng, Phạm Vương Đăng, Phạm Thanh Hải, Ma Thị Châu. “Rối Nước Việt Nam Trong Môi Trường Thực Tế Ảo" in Proceeding of CITA 2021 (The 10th Conference on Information Technology and Its Applications). 2021.
+Tung Pham Thanh, Chau Ma Thi, Tuan Nguyen Manh, Linh Le Dinh and  Ha Le Thanh. Compression Artifacts Image Patch database for Perceptual Quality Assessment. In Proceeding: KSE 2020.
+Sylvain Lagrue, Nathalie Chetcuti-Sperandio, Ma Thi Chau, Ngo Thi Duyen, Fabien Delorme, Karim Tabia and Salem Benferhat (2019) An Ontology Web Application-based Annotation Tool for Intangible Culture Heritage Dance Videos. In: The 1st workshop on Structuring and Understanding of Multimedia heritAge Contents, 21/10/2019, Nice, France.
+. . .
+Mustapha, Bourahla and Abdelmoutia, Telli and Salem, Benferhat and Ma Thi, Chau (2019) Classifying Non-elementary Movements in Vietnamese M˜o Dances. In: Digital Human Modeling and Applications in Health, Safety, Ergonomics and Risk Management: Modelling the Human Body and Motion. Springer Nature Switzerland AG. 2019.
+Ngo Thi Duyen, Tran Thi Minh, Ma Thi Chau, Nguyen Xuan Hung, Le Thanh Ha. 2019. Royal printing woodblocks of Nguyen Dynasty: 3D reconstruction for digital preversation. International Association for Printing Woodblocks (IAPW) 11/2019, 333-348.
+H. T. Binh, M. T. Chau, A. Sugimoto and B. T. Duy, Selecting active frames for action recognition with vote fusion method, 2018 7th International Conference on Computer and Communication Engineering (ICCCE), Kuala Lumpur, 2018, pp. 161-166.
+A Labanotation based ontology for representing Vietnamese folk dances. Ma Thi Chau, Bui The Duy and Nguyen Thanh Thủy.  ICDAMT 2018.
+An Ontology for Classifying Vietnamese Dance Movements. Abdelmoutia Telli, Ma Thi Chau, Mustapha Bourahla, Karim Tabia, Salem Benferhat. PRAI 2018.
+A Polynomial Algorithm for Merging Lightweight Ontologies in Possibility Theory Under Incommensurability Assumption. Salem Benferhat, Zied Bouraoui, Ma Thi Chau, Sylvain Lagrue, Julien Rossit. ICAART (2) 2017: 415-422
+Towards an Ontology for Vietnamese Water Puppetry. Chau Ma Thi, Nathalie Chetcuti-Sperandio, Sylvain Lagrue, Thuy Nguyen Thanh, and Duy Bui The.  ICDAMT 2017.
+Towards an Ontology for Vietnamese Water Puppetry. Ma Thi Chau, Tabia Karim, Lagrue [4] Sylvain, Le Thanh Ha, Bui The Duy and Nguyen Thanh Thuy. Annotating movement phrases in Vietnamese folk dance videos. IEA/AIE 2017
+Single View Image Based – 3D Human Pose Reconstruction.Hoang Trung Kien, Nguyen Kim Hung, Ma Thi Chau, Ngo Thi Duyen and Nguyen Xuan Thanh. KSE 2017
+Trước 2015
+Emotional Facial Expression Analysis in the Time Domain. Thi Duyen Ngo, Thi Chau Ma, The Duy Bui. KSE 2014
+Shift error analysis in image based 3D skull feature reconstruction. Thi Chau Ma, The Duy Bui, Trung Kien Dang. KSE 2012
+Features Detection from Industrial Noisy 3D CT Data for Reverse Engineering. Thi-Chau Ma, Chang-soo Park, Kittichai Suthunyatanakit, Min-jae Oh, Tae-wan Kim, Myung-joo Kang: Software and Network Engineering 2012: 89-101
+Features Detection on Industrial 3D CT Data  Thi-Chau Ma, Chang-soo Park, Kittichai Suthunyatanakit, Min-jae Oh, Tae-wan Kim, Myung-joo Kang, The Duy Bui:. FGIT-MulGraB (2) 2011: 345-354
+3D facial reconstruction system from skull for Vietnamese Thi Chau Ma, Dinh Tu Nguyen, Quang Huy Dinh, The Duy Bui. KSE 2011: 120-127
+Facial soft tissue thicknesses prediction using anthropometric distances” Thi Chau Ma, Dinh Tu Nguyen, Quang Huy Dinh, The Duy Bui: KSE 2011: 120-127
+Xem thêm
+Video demo
+

@@ -1,0 +1,218 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_1185.txt
+
+Bảng chỉ
+tiêu tuyển sinh (theo
+n
+gành/
+n
+hóm ngành
+,
+theo từng phương thức tuyển sinh, tổ hợp môn xét tuyển
+theo kết quả thi THPT
+)
+TT
+Mã trường
+Mã ngành/ nhóm ngành
+(Mã xét tuyển)
+Tên ngành
+Chỉ tiêu
+Tổ hợp
+môn xét tuyển 1
+Tổ hợp
+môn xét tuyển 2
+Tổ hợp
+môn xét tuyển 3
+Tổ hợp
+môn xét tuyển 4
+Theo KQ
+thi THPT
+năm 2024
+KQ thi
+ĐGNL của ĐHQGHN
+XTT,
+phương
+thức khác
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ (
+2.960
+chỉ tiêu)
+1.274
+732
+954
+QHI
+CN1
+Công nghệ thông tin
+52
+52
+156
+A00
+A01
+D01
+Toán, Anh
+QHI
+CN2
+Kỹ thuật máy tính
+96
+80
+144
+A00
+A01
+D01
+Toán, Anh
+QHI
+CN8
+Khoa học Máy tính
+64
+80
+176
+A00
+A01
+D01
+Toán, Anh
+QHI
+CN12
+Trí tuệ nhân tạo
+72
+60
+108
+A00
+A01
+D01
+Toán, Anh
+QHI
+CN14
+Hệ thống thông tin
+56
+40
+64
+A00
+A01
+D01
+Toán, Anh
+QHI
+CN15
+Mạng máy tính và truyền thông dữ liệu
+28
+20
+32
+A00
+A01
+D01
+Toán, Anh
+QHI
+CN5
+Công nghệ kỹ thuật xây dựng
+103
+40
+17
+A00
+A01
+D01
+Toán, Anh
+QHI
+CN6
+Công nghệ kỹ thuật cơ điện tử
+103
+40
+17
+A00
+A01
+D01
+Toán, Anh
+QHI
+CN7
+Công nghệ Hàng không vũ trụ*
+103
+40
+17
+A00
+A01
+D01
+Toán, Anh
+QHI
+CN9
+Công nghệ kỹ thuật điện tử - viễn thông
+128
+80
+112
+A00
+A01
+D01
+Toán, Anh
+QHI
+CN10
+Công nghệ nông nghiệp*
+35
+20
+5
+A00
+A01
+B00
+QHI
+CN3
+Vật lý kỹ thuật
+104
+40
+16
+A00
+A01
+D01
+Toán, Anh
+QHI
+CN4
+Cơ kỹ thuật
+55
+20
+5
+A00
+A01
+D01
+Toán, Anh
+QHI
+CN11
+Kỹ thuật điều khiển và tự động hóa
+88
+40
+32
+A00
+A01
+D01
+Toán, Anh
+QHI
+CN13
+Kỹ thuật năng lượng*
+48
+20
+12
+A00
+A01
+D01
+Toán, Anh
+QHI
+CN17
+Kỹ thuật Robot*
+36
+20
+24
+A00
+A01
+D01
+Toán, Anh
+QHI
+CN18
+Thiết kế công nghiệp và đồ họa
+103
+40
+17
+A00
+A01
+D01
+Toán, Anh
+2.

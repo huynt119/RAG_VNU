@@ -1,0 +1,17 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-dien-tu-6_.txt
+
+Kiến thức nhóm chuyên ngành
+Sử dụng thành thạo một số phương pháp và công cụ tính toán, mô hình hóa và mô phỏng phục vụ cho việc học tập và nghiên cứu các chuyên đề của Kỹ thuật Điện tử;
+Làm chủ và vận dụng thành thạo các kiến thức nâng cao về một số lĩnh vực của Kỹ thuật Điện tử như: Thiết kế mạch điện và hệ thống điện, điện tử, Thu thập và xử lý tín hiệu, Hệ thống nhúng, Hệ thống điều khiển tự động, Hệ thống vi cơ điện tử, Hệ thống cơ điện tử, Hệ thống mạch tích hợp, …
+2.2. Kiến thức chuyên ngành
+Vận dụng thành thạo, có tư duy hệ thống các kiến thức chuyên ngành nâng cao và chuyên sâu về điện tử, thiết kế mạch tích hợp, hệ thống thu thập dữ liệu, hệ thống xử lý tín hiệu, hệ thống điều khiển tự động, hệ thống vi cơ điện tử, hệ thống cơ điện tử,… nhằm phục vụ cho việc nghiên cứu và phát triển các lý thuyết và công nghệ mới trong các lĩnh vực của Kỹ thuật Điện tử. Kiến thức học phần và chuyên đề tiến sĩ
+Có kiến thức quản trị tổ chức;
+Vận dụng thành thạo các phương pháp nghiên cứu và kỹ thuật viết, trình bày báo cáo khoa học;
+Nắm bắt được các xu hướng và làm chủ các chủ đề nghiên cứu có tính thời sự, hiểu và có khả năng trình bày lại/sáng tạo và vận dụng các kiến thức mới trong một số hướng nghiên cứu hẹp của các lĩnh vực của Kỹ thuật Điện tử như: hệ thống điều khiển tiên tiến, thiết kế mạch tích hợp thông minh, các hệ vi cơ điện tử tiên tiến, điện tử y sinh và các thiết bị điện tử y sinh tiên tiến…
+3. Yêu cầu về năng lực nghiên cứu
+Kiến thức khoa học chuyên ngành để phát hiện các vấn đề mới;
+Kiến thức về phương pháp nghiên cứu khoa học;
+Có khả năng trình bày báo cáo khoa học ở hội thảo trong nước, quốc tế;
+Có khả năng công bố kết quả nghiên cứu khoa học ở các tạp chí về công nghệ Điện tử – Viễn thông;
+Tham gia thảo luận trong nước và quốc tế thuộc ngành hoặc lĩnh vực nghiên cứu và phổ biến các kết quả nghiên cứu;
+Tính trung thực trong nghiên cứu khoa học.

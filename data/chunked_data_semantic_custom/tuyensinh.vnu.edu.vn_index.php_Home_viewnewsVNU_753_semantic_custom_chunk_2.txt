@@ -1,0 +1,43 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_753.txt
+
+Bảng tổ hợp môn xét tuyển đại học năm 2020 của ĐHQGHN
+A00:
+Toán, Vật lí, Hoá học
+D09:
+Toán, Lịch sử, Tiếng Anh
+A01: Toán, Vật lí, Tiếng Anh
+D10:
+Toán, Địa lý, Tiếng Anh
+A02: Toán, Vật lí, Sinh học
+D14: Ngữ văn, Lịch sử, Tiếng Anh
+B00:
+Toán, Hoá học, Sinh học
+D15: Ngữ văn, Địa lý, Tiếng Anh
+C00:
+Ngữ văn, Lịch sử, Địa lý
+D78: Ngữ văn, Khoa học xã hội, Tiếng Anh
+D01: Toán, Ngữ văn, Tiếng Anh
+D82: Ngữ văn, Khoa học xã hội, Tiếng Pháp
+D02: Toán, Ngữ văn, Tiếng Nga
+D83: Ngữ văn, Khoa học xã hội ,Tiếng Trung
+D03: Toán, Ngữ văn, Tiếng Pháp
+D90: Toán, Khoa học Tự nhiên, Tiếng Anh
+D04: Toán, Ngữ văn, Tiếng Trung
+D91: Toán, Khoa học Tự nhiên, Tiếng Pháp
+D05: Toán, Ngữ văn, Tiếng Đức
+D94: Toán, Khoa học Tự nhiên, Tiếng Nhật
+D06: Toán, Ngữ văn, Tiếng Nhật
+D96: Toán, Khoa học Xã hội, Tiếng Anh
+D07: Toán, Hóa học, Tiếng Anh
+D97: Toán, Khoa học Xã hội, Tiếng Pháp
+D08: Toán, Sinh học, Tiếng Anh
+DD0: Toán, Khoa học Xã hội, Tiếng Nhật
+Các chương trình liên kết đào tạo quốc tế (LKĐTQT) tuyển sinh năm 2020 tại các trường đại học thành viên của ĐHQGHN:
+(1)
+Ngành
+:
+Quản trị kinh doanh
+chương trình LKĐTQT giữa
+Trường ĐH Kinh tế và
+ĐH Troy
+(Hoa Kỳ) cấp bằng.

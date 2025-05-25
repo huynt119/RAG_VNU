@@ -1,0 +1,7 @@
+Nguồn: uet.vnu.edu.vn_thong_tin_luan_tien_sy_cua_ncs_phan_hai_.txt
+
+Tóm tắt các kết quả mới của luận án:
+a. Mục đích và đối tượng nghiên cứu của luận án:
+– Chế tạo các vật liệu ma sát điện Polyvinyl chloride (PVC), Polytetrafluoroethylene (PTFE) và Nhôm (Al) có bề mặt cấu trúc micro/nano và thử nghiệm trong hiệu ứng ma sát điện. – Thiết kế, chế tạo các máy phát điện ma sát nano (TENG) cấu hình tiếp xúc dọc và cấu hình rung đa chiều (MV-TENG) và thử nghiệm khả năng thu năng lượng từ các nguồn cơ học đơn và đa chiều. b. Các phương pháp nghiên cứu:
+Luận án được thực hiện trên cơ sở nghiên cứu lý thuyết và các kỹ thuật thực nghiệm, cụ thể là:
+– Nghiên cứu chế tạo, biến tính vật liệu: sử dụng các kỹ thuật phun sợi bằng lực điện trường (electrospinning) để chế tạo màng sợi nano PVC, kỹ thuật ăn mòn plasma cảm ứng (Inductively Coupled Plasma – Reactive Ion Etching, ICP-RIE) để ăn mòn và biến tính bề mặt PTFE, kỹ thuật ăn mòn điện hóa và kỹ thuật lase chuyển mạch Q (Q-switched laser – QSL) để chế tạo bề mặt cấu trúc micro/nano của Al. – Nghiên cứu cấu trúc vi mô trên bề mặt của các vật liệu: sử dụng kính hiển vi điện tử quét (SEM) và thiết bị đo độ ráp (rms) bề mặt.

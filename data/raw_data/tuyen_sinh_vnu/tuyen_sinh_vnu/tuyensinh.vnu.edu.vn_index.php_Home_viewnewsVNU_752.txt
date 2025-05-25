@@ -1,0 +1,1235 @@
+
+Đề án tuyển sinh Đại học năm 2024
+Điểm chuẩn ĐHCQ năm 2023 của các trường thành viên, trường, khoa trực thuộc ĐHQGHN
+Hướng dẫn đăng ký nội trú KTX ngoại ngữ và KTX Mễ Trì
+Đề án tuyển sinh trình độ đại học năm 2023 - ĐHQGHN
+ĐỀ ÁN TUYỂN SINH TRÌNH ĐỘ ĐẠI HỌC NĂM 2020 - Trang 2
+b) Chỉ tiêu tuyển sinh đại học chính quy năm 2020
+TT
+Mã trường
+Mã ngành/ nhóm ngành
+(Mã xét tuyển)
+Tên ngành
+Chỉ tiêu
+Tổ hợp môn xét tuyển 1
+Tổ hợp môn xét tuyển 2
+Tổ hợp môn xét tuyển 3
+Tổ hợp môn xét tuyển 4
+Theo KQ
+thi THPT
+năm 2020
+Theo
+phươngthức khác
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+TRƯỜNG ĐH CÔNG NGHỆ ( 1.450 chỉ tiêu)
+1.200
+250
+Các CTĐT Chuẩn: 940 (chỉ tiêu)
+800
+140
+Nhóm ngành:
+Công nghệ thông tin (310 chỉ tiêu)
+235
+75
+A00
+A01
+-
+-
+QHI
+CN1
+Công nghệ thông tin
+Công nghệ thông tin định hướng thị trường Nhật Bản
+Nhóm ngành: Máy tính và Robot (150 chỉ tiêu)
+125
+25
+A00
+A01
+-
+-
+QHI
+CN2
+Kỹ thuật máy tính
+Kỹ thuật Robot*
+Nhóm ngành: Vật lý kỹ thuật (120 chỉ tiêu)
+110
+10
+A00
+A01
+QHI
+CN3
+Kỹ thuật năng lượng*
+-
+-
+Vật lý kỹ thuật
+QHI
+CN4
+Cơ kỹ thuật
+75
+5
+A00
+A01
+-
+-
+QHI
+CN5
+Công nghệ kỹ thuật xây dựng
+95
+5
+A00
+A01
+-
+-
+QHI
+CN7
+Công nghệ Hàng không vũ trụ*
+55
+5
+A00
+A01
+-
+-
+QHI
+CN11
+Kỹ thuật điều khiển và tự động hóa
+50
+10
+A00
+A01
+-
+-
+QHI
+CN10
+Công nghệ nông nghiệp*
+55
+5
+A00
+A01
+A02
+B00
+Các CTĐT Chất lượng cao: 510 (chỉ tiêu)
+400
+110
+QHI
+CN6
+Công nghệ kỹ thuật cơ điện tử
+**
+95
+25
+A00
+Toán, Lý      hệ số 2
+A01
+Toán, Anh      hệ số 2
+-
+-
+Nhóm ngành: Công nghệ thông tin (CLC)
+QHI
+CN8
+Khoa học Máy tính
+210
+60
+A00
+Toán, Lý      hệ số 2
+A01
+Toán, Anh      hệ số 2
+-
+-
+Hệ thống thông tin
+Mạng máy tính và truyền thông dữ liệu
+QHI
+CN9
+Công nghệ kỹ thuật điện tử - viễn thông**
+95
+25
+A00
+Toán, Lý      hệ số 2
+A01
+Toán, Anh      hệ số 2
+-
+-
+2. T
+RƯỜNG ĐH KHOA HỌC TỰ NHIÊN
+(1.650 chỉ tiêu)
+1.485
+165
+QHT
+QHT01
+Toán học
+40
+10
+A00
+A01
+D07
+D08
+QHT
+QHT02
+Toán tin
+42
+8
+A00
+A01
+D07
+D08
+QHT
+QHT90
+Máy tính và khoa học thông tin*
+68
+12
+A00
+A01
+D07
+D08
+QHT
+QHT40
+Máy tính và khoa học thông tin**
+48
+2
+A00
+A01
+D07
+D08
+QHT
+QHT93
+Khoa học dữ liệu*
+42
+8
+A00
+A01
+D07
+D08
+QHT
+QHT03
+Vật lý học
+65
+15
+A00
+A01
+B00
+C01
+QHT
+QHT04
+Khoa học vật liệu
+48
+2
+A00
+A01
+B00
+C01
+QHT
+QHT05
+Công nghệ kỹ thuật hạt nhân
+30
+-
+A00
+A01
+B00
+C01
+QHT
+QHT94
+Kỹ thuật điện tử và tin học*
+53
+7
+A00
+A01
+B00
+C01
+QHT
+QHT06
+Hoá học
+47
+13
+A00
+B00
+D07
+-
+QHT
+QHT41
+Hoá học**
+(CTĐT tiên tiến)
+35
+5
+A00
+B00
+D07
+-
+QHT
+QHT07
+Công nghệ kỹ thuật hoá học
+53
+7
+A00
+B00
+D07
+-
+QHT
+QHT42
+Công nghệ kỹ thuật hoá học**
+36
+4
+A00
+B00
+D07
+-
+QHT
+QHT43
+Hoá dược**
+65
+15
+A00
+B00
+D07
+-
+QHT
+QHT08
+Sinh học
+67
+13
+A00
+A02
+B00
+D08
+QHT
+QHT09
+Công nghệ sinh học
+67
+13
+A00
+A02
+B00
+D08
+QHT
+QHT44
+Công nghệ sinh học**
+76
+4
+A00
+A02
+B00
+D08
+QHT
+QHT10
+Địa lí tự nhiên
+28
+2
+A00
+A01
+B00
+D10
+QHT
+QHT91
+Khoa học thông tin địa không gian*
+30
+-
+A00
+A01
+B00
+D10
+QHT
+QHT12
+Quản lý đất đai
+68
+2
+A00
+A01
+B00
+D10
+QHT
+QHT95
+Quản lý phát triển đô thị và bất động sản*
+38
+2
+A00
+A01
+B00
+D10
+QHT
+QHT13
+Khoa học môi trường
+73
+7
+A00
+A01
+B00
+D07
+QHT
+QHT45
+Khoa học môi trường**
+(CTĐT tiên tiến)
+20
+-
+A00
+A01
+B00
+D07
+QHT
+QHT15
+Công nghệ kỹ thuật môi trường
+56
+4
+A00
+A01
+B00
+D07
+QHT
+QHT46
+Công nghệ kỹ thuật môi trường**
+20
+-
+A00
+A01
+B00
+D07
+QHT
+QHT96
+Khoa học và công nghệ thực phẩm*
+46
+4
+A00
+A01
+B00
+D07
+QHT
+QHT16
+Khí tượng và khí hậu học
+46
+4
+A00
+A01
+B00
+D07
+QHT
+QHT17
+Hải dương học
+30
+-
+A00
+A01
+B00
+D07
+QHT
+QHT92
+Tài nguyên và môi trường nước*
+30
+-
+A00
+A01
+B00
+D07
+QHT
+QHT18
+Địa chất học
+30
+-
+A00
+A01
+B00
+D07
+QHT
+QHT20
+Quản lý tài nguyên và môi trường
+48
+2
+A00
+A01
+B00
+D07
+QHT
+QHT97
+Công nghệ quan trắc và giám sát tài nguyên môi trường*
+40
+-
+A00
+A01
+B00
+D07
+3.
+TRƯỜNG ĐH KHOA HỌC XÃ HỘI VÀ NHÂN VĂN
+***
+(1.850 chỉ tiêu)
+1.565
+285
+QHX
+QHX01
+Báo chí
+70
+15
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX40
+Báo chí **
+(CTĐT CLC)
+30
+5
+A01
+C00
+D01
+D78
+QHX
+QHX02
+Chính trị học
+47
+8
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX03
+Công tác xã hội
+60
+10
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX04
+Đông Nam Á học
+33
+7
+A01
+-
+D01, D04
+D78, D83
+QHX
+QHX05
+Đông phương học
+50
+10
+-
+C00
+D01, D04
+D78, D83
+QHX
+QHX26
+Hàn Quốc học
+40
+10
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX06
+Hán Nôm
+25
+5
+-
+C00
+D01, D04
+D78, D83
+QHX
+QHX07
+Khoa học quản lý
+65
+15
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX41
+Khoa học quản lý**
+(CTĐT CLC)
+30
+5
+A01
+C00
+D01
+D78
+QHX
+QHX08
+Lịch sử
+60
+10
+-
+C00
+D01, D04
+D78, D83
+QHX
+QHX09
+Lưu trữ học
+45
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX10
+Ngôn ngữ học
+60
+10
+-
+C00
+D01, D04
+D78, D83
+QHX
+QHX11
+Nhân học
+45
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX12
+Nhật Bản học
+40
+10
+A01
+-
+D01, D06
+D78
+QHX
+QHX13
+Quan hệ công chúng
+60
+10
+-
+C00
+D01, D04
+D78, D83
+QHX
+QHX14
+Quản lý thông tin
+47
+8
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX42
+Quản lý thông tin **
+(CTĐT CLC)
+30
+5
+A01
+C00
+D01
+D78
+QHX
+QHX15
+Quản trị dịch vụ du lịch và lữ hành
+73
+17
+A01
+-
+D01
+D78
+QHX
+QHX16
+Quản trị khách sạn
+60
+15
+A01
+-
+D01
+D78
+QHX
+QHX17
+Quản trị văn phòng
+65
+10
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX18
+Quốc tế học
+65
+15
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX43
+Quốc tế học**
+(CTĐT CLC)
+25
+5
+A01
+C00
+D01
+D78
+QHX
+QHX19
+Tâm lý học
+80
+20
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX20
+Thông tin - Thư viện
+45
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX21
+Tôn giáo học
+45
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX22
+Triết học
+45
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX27
+Văn hóa học
+45
+5
+-
+C00
+D01, D04
+D78, D83
+QHX
+QHX23
+Văn học
+65
+10
+-
+C00
+D01, D04
+D78, D83
+QHX
+QHX24
+Việt Nam học
+60
+10
+-
+C00
+D01, D04
+D78, D83
+QHX
+QHX25
+Xã hội học
+55
+10
+A01
+C00
+D01, D04
+D78, D83
+4.
+T
+RƯỜNG ĐẠI HỌC NGOẠI  NGỮ
+(1.450 chỉ tiêu)
+Chỉ tiêu các ngành sư phạm – dự kiến)
+1.070
+380
+QHF
+7140231
+Sư phạm tiếng Anh
+135
+40
+D01
+Tiếng
+Anh
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220201
+CLC
+Ngôn ngữ Anh
+(CTĐT CLC)
+260
+90
+D01
+Tiếng
+Anh
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220202
+Ngôn ngữ Nga
+65
+10
+D01
+Tiếng
+Anh
+D02
+Tiếng
+Nga
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220203
+CLC
+Ngôn ngữ Pháp
+(CTĐT CLC)
+80
+20
+D01
+Tiếng
+Anh
+D03
+Tiếng
+Pháp
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7140234
+Sư phạm tiếng Trung
+15
+10
+D01
+Tiếng
+Anh
+D04
+Tiếng
+Trung
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220204
+CLC
+Ngôn ngữ Trung Quốc (CTĐT CLC)
+125
+50
+D01
+Tiếng
+Anh
+D04
+Tiếng
+Trung
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7140235
+Sư phạm tiếng Đức
+15
+10
+D01
+Tiếng
+Anh
+D05
+Tiếng
+Đức
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220205
+CLC
+Ngôn ngữ Đức
+(CTĐT CLC)
+80
+20
+D01
+Tiếng
+Anh
+D05
+Tiếng
+Đức
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7140236
+Sư phạm tiếng Nhật
+15
+10
+D01
+Tiếng
+Anh
+D06
+Tiếng
+Nhật
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220209
+CLC
+Ngôn ngữ Nhật
+(CTĐT CLC)
+125
+50
+D01
+Tiếng
+Anh
+D06
+Tiếng
+Nhật
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7140237
+Sư phạm tiếng Hàn Quốc
+15
+10
+D01
+Tiếng
+Anh
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220210
+CLC
+Ngôn ngữ Hàn Quốc (CTĐT CLC)
+125
+50
+D01
+Tiếng
+Anh
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220211
+Ngôn ngữ Ả Rập
+15
+10
+D01
+Tiếng
+Anh
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+5. T
+RƯỜNG ĐẠI HỌC KINH TẾ ( 1200 chỉ tiêu)
+1.100
+100
+5.
+1
+QHE
+QHE40
+Quản trị kinh doanh
+**
+190
+20
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D09
+Tiếng Anh
+D10
+Tiếng Anh
+5.
+2
+QHE
+QHE41
+Tài chính Ngân hàng
+**
+160
+10
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D09
+Tiếng Anh
+D10
+Tiếng Anh
+5.
+3
+QHE
+QHE42
+Kế toán
+**
+160
+10
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D09
+Tiếng Anh
+D10
+Tiếng Anh
+5.
+4
+QHE
+QHE43
+Kinh tế quốc tế
+**
+230
+40
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D09
+Tiếng Anh
+D10
+Tiếng Anh
+5.
+5
+QHE
+QHE44
+Kinh tế
+**
+200
+10
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D09
+Tiếng Anh
+D10
+Tiếng Anh
+5.
+6
+QHE
+QHE45
+Kinh tế phát triển**
+160
+10
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D09
+Tiếng Anh
+D10
+Tiếng Anh
+6. TRƯỜNG ĐẠI HỌC GIÁO DỤC
+(
+dự kiến:
+800 chỉ tiêu)
+720
+80
+6.1
+QHS
+GD1
+Sư phạm Toán
+207
+23
+A00
+A01
+B00
+D01
+Sư phạm Vật lý
+Sư phạm Hóa học
+Sư phạm Sinh học
+Sư phạm Khoa học
+t
+ự nhiên
+D90
+6.2
+QHS
+GD2
+Sư phạm Ngữ Văn
+135
+15
+C00
+D01
+D14
+D15
+Sư phạm Lịch sử
+Sư phạm Lịch sử và Địa lý
+Chỉ tiêu đối với các ngành sư phạm (đào tạo giáo viên) của Trường ĐHGD, ĐHNN chỉ là dự kiến; ĐHQGHN sẽ cập nhật ngay sau khi có TB chỉ tiêu của Bộ GDĐT
+Nhóm ngành: Khoa học giáo dục (240 chỉ tiêu)
+216
+24
+6.3
+QHS
+GD3
+Quản trị trường học
+216
+24
+A00
+B00
+D01
+C00
+Quản trị Công nghệ giáo dục
+Quản trị chất lượng giáo dục
+Tham vấn học đường
+Khoa học giáo dục
+6.4
+QHS
+GD4
+Giáo dục tiểu học
+162
+18
+A00
+B00
+D01
+C00
+6.5
+QHS
+GD5
+Giáo dục Mầm non
+A00
+B00
+D01
+C00
+7.
+T
+RƯỜNG ĐẠI HỌC VIỆT NHẬT
+(50 chỉ tiêu)
+20
+30
+7.1
+VJU
+7310613
+Nhật Bản học
+20
+30
+A01
+D01,
+D06
+D90
+D94,
+D96
+8.
+K
+HOA LUẬT
+(57
+0
+chỉ tiêu)
+51
+0
+60
+8.1
+QHL
+7380101
+Luật
+***
+270
+30
+C00
+A00
+D01,
+D03
+D78,
+D82
+8.2
+QHL
+7380101
+(CLC)
+Luật
+**
+(CTĐT CLC)
+45
+05
+A01
+D01
+D07
+D78
+8.3
+QHL
+7380110
+Luật kinh doanh
+150
+20
+A00
+A01
+D01,
+D03
+D
+90
+,
+D
+91
+8.4
+QHL
+7380109
+Luật thương mại quốc tế
+45
+05
+A00
+A01
+D01
+D78,
+D82
+Trang 3
+Facebook Chat
+            Widget by CAIT
+Liên kết
+Trường Đại học Khoa học Tự nhiên
+Trường Đại học  Khoa học Xã hội và Nhân văn
+Trường Đại học Ngoại ngữ
+Trường Đại học Công nghệ
+Trường Đại học Giáo dục
+Trường Đại học Luật
+Trường Đại học Y Dược
+Trường Đại học Việt Nhật
+Trường Quốc tế
+Trường Quản trị và Kinh doanh
+Trường Đại học Kinh tế
+Trường Khoa học liên ngành và Nghệ thuật
+Khoa Quốc tế Pháp ngữ
+Địa chỉ
+144 Xuân Thủy, Cầu Giấy, Hà Nội
+Khu đô thị ĐHQGHN tại Hòa Lạc
+024 37547 670
+tsvnu@vnu.edu.vn
+Copyright by Đại học Quốc gia Hà Nội
+×

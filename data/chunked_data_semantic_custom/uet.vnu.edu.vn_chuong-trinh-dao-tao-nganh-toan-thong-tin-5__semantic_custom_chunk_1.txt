@@ -1,0 +1,8 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-toan-thong-tin-5_.txt
+
+Mục tiêu chung
+Đào tạo chuyên gia An toàn thông tin (ATTT) trình độ Thạc sỹ chất lượng cao, có phẩm chất tốt, có năng lực cao trong việc đề xuất và thi hành các mô hình và giải pháp ATTT tiên tiến, phục vụ chiến lược ATTT của đất nước trongcạnh tranh và hội nhập quốc tế. Mục tiêu cụ thể
+Cập nhật, nâng cao kiến thức, kỹ năng theo các nhóm chủ đề về mật mã học và an toàn dữ liệu, an toàn hệ thống mạng, an toàn Web và phương tiện xã hội, quản lý ATTT;
+Nâng cao khả năng tự học để nắm bắt các công nghệ mới trong ngành ATTT;
+Trang bị năng lực nghiên cứu chuyên sâu vào các vấn đề lý thuyết và công nghệ trong ATTT;
+Học viên tốt nghiệp có thể đảm nhiệm các vị trí việc làm sau: Giám đốc ATTT (Chief Information Security Officer – CSO); Phụ trách bộ phận ATTT; Giám đốc thông tin (Chief Information Officer: CIO); Trưởng bộ phận CNTT (Head of the Information Technology Office); Quản lý dự án (Project Manager); Chuyên gia tích hợp giải pháp an toàn hệ thống thông tin (Systems Integrator); Giảng viên đại học về ngành ATTT nói riêng và về Máy tính và CNTT nói chung; Đồng thời, thạc sỹ ATTT có thể tiếp tục thực hiện chương trình đào tạo Tiến sỹ về chuyên ngành ATTT cũng như các chuyên ngành khác thuộc lĩnh vực Máy tính & CNTT theo các chủ đề như mật mã học và an toàn dữ liệu, an toàn hệ thống mạng, an toàn Web và phương tiện xã hội, quản lý ATTT.

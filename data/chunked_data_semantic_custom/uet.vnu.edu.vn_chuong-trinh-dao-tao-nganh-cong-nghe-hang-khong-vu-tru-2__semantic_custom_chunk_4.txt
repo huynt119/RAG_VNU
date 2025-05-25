@@ -1,0 +1,28 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-hang-khong-vu-tru-2_.txt
+
+Kiến thức theo nhóm ngành
+Biết các kiến thức chung về lĩnh vực Công nghệ hàng không vũ trụ;
+Hiểu được các kiến thức cơ bản về phương pháp tính toán số trong kỹ thuật, hiểu và vận dụng để tính toán hoặc giải số các bài toán trong trong khoa học kỹ thuật trên máy tính;
+Hiểu các kiến thức chung về sức bền vật liệu, các khái niệm về vật liệu và linh kiện màng mỏng, vật liệu composite, các loại vật liệu trong Công nghệ hàng không vũ trụ;
+Nắm được các kiến thức cơ bản trong kỹ thuật điện, điện tử thông dụng; Có khả năng thiết kế các mạch điện, điện tử trong thiết bị bay;
+Nắm được các kiến thức về tính toán, giải số các phương trình vi phân, đạo hàm riêng và các bài toán tối ưu thường gặp trong Công nghệ Hàng không Vũ trụ;
+Nắm được kiến thức về hệ lực, các điều kiện cân bằng của tĩnh học; hiểu về động học của chất điểm và vật rắn. Nắm được các định luật cơ bản của động lực học, các phương trình chuyển động, nguyên lý D’Alambert, phương trình Lagrange II để xây dựng các phương trình vi phân chuyển động;
+Nắm được các kiến thức cơ bản về kỹ thuật và tự động hóa thiết kế, về các tiêu chuẩn trong bản vẽ; Thực hiện được các bản vẽ kỹ thuật trên máy tính;
+Nắm được một số ngôn ngữ lập trình hướng đối tượng bậc cao, các phương pháp lập trình hiện đại. Kiến thức ngành
+Nắm được kiến thức cơ sở về nhiệt động lực học, các động cơ nhiệt, quy luật nhiệt động học cân bằng, nắm được các định luật liên quan;
+Vận dụng được kiến thức về hệ thống điều khiển, mô hình hệ thống, phân loại hệ thống điều khiển, tính ổn định của hệ thống điều khiển;
+Nắm được kiến thức cơ bản về phương trình vi phân và đạo hàm riêng, vận dụng để xây dựng và giải một số bài toán ứng dụng trong vật lý, cơ học, đặt biệt trong lĩnh vực hàng không vũ trụ;
+Hiểu được các kiến thức về truyền động, tự động thủy lực khí nén; có khả năng ứng dụng xây dựng các mô hình hệ thống chuyển động, tự động thủy lực khí nén;
+Vận dụng các kiến thức của cơ học chất lỏng để xây dựng và giải quyết các bài toán liên quan đến công nghệ hàng không vũ trụ;
+Hiểu các kiến thức cơ bản về kỹ thuật động lực và chuyển động, có khả năng thiết kế và đánh giá các giải pháp hệ thống và sản phẩm kỹ thuật động lực trong công nghệ hàng không vũ trụ;
+Nắm được các kiến thức cơ bản về kết cấu của các vật thể trong hàng không vũ trụ, có khả năng áp dụng để phân tích, đánh giá các kết cấu;
+Nắm được các kiến thức về động lực học và dao động của hệ thống, có khả năng áp dụng để phân tích đáp ứng của các hệ thống trong công nghệ hàng không vũ trụ;
+Nắm được các kiến thức cơ bản về hệ thống điều khiển, biết phân tích các yêu cầu và các yếu tố ảnh hưởng, xây dựng được mô hình thiết kế cho hệ thống trong công nghệ hàng không vũ trụ;
+Nắm được các kiến thức về hệ thống đẩy của thiết bị bay, vận dụng để tính toán các tham số thiết kế cơ bản của động cơ đẩy;
+Hiểu được các nguyên tắc cơ bản của thiết bị bay, xây dựng mô hình và thiết kế chi tiết cho các thiết bị bay. Ngoài các kiến thức và kỹ năng trên, chuẩn đầu ra các định hướng chuyên ngành của chương trình đào tạo sẽ trang bị thêm các kiến thức, kỹ năng chuyên môn hướng đến vị trí việc làm như sau:
+Định hướng Công nghệ thông tin và Điện tử Hàng không
+Có kiến thức cơ bản về viễn thám, hệ thống thông tin địa lý, các kỹ thuật xử lý ảnh viễn thám, phân tích không gian, phát triển ứng dụng 3D trên nền bản đồ địa lý, quản lý dữ liệu không gian, xây dựng hạ tầng thông tin không gian;
+Thành thạo việc sử dụng các ngôn ngữ lập trình nhúng trong hệ thống điều khiển; nắm vững kiến thức về đảm bảo an toàn, an ninh cho các hệ thống phần mềm trong lĩnh vực Hàng không Vũ trụ;
+Biết các kỹ năng về phân tích thiết kế hệ thống mạch Điện- Điện tử cho thiết bị bay, kỹ thuật cao tần, kỹ thuật radar; nắm được các kiến thức cơ bản trong lập trình vi xử lý, điều kiển phần cứng; nắm vững các nguyên lý thông tin Hàng không. Định hướng Động lực học, Điều khiển và Cơ khí Hàng không
+Thành thạo các kỹ năng về cơ khí chế tạo, động lực học và mô hình hóa mô phỏng các thiết bị và hoạt động trong kỹ thuật hàng không vũ trụ, phân tích dữ liệu và nhận dạng hệ thống. Thiết kế, chế tạo và điều khiển vệ tinh;
+Thành thạo các kỹ năng về xây dựng các hệ thống dẫn đường và điều khiển các thiết bị bay; Biết mô hình hóa, phân tích và thiết kế các hệ thống định vị và điều khiển bay.

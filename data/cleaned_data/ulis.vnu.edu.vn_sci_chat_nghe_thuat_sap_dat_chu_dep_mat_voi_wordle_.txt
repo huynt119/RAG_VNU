@@ -1,0 +1,41 @@
+NGHỆ THUẬT SẮP ĐẶT CHỮ ĐẸP MẮT VỚI WORDLE
+Th7 30, 2020
+in
+Phương pháp học tập hiệu quả
+Wordle là công cụ cho phép người dùng tạo ra những “word cloud” (đám mây từ) từ bất văn bản nào bằng cách sao chép và dán đoạn văn bản. Các đám mây này sẽ làm nổi bật các từ xuất hiện thường xuyên trong văn bản nguồn. Ứng dụng cho phép bạn tùy chỉnh “đám mây” bằng nhiều kiểu font chữ, bố cục và màu sắc khác nhau.
+Wordle
+sử dụng Java plugin, vì thế đối với phiên bản desktop cho máy tính Windows & Mac, máy tính của bạn cần cài đặt phần mềm Java trước đó và trình duyệt web của bạn cần phải cấp phép sử dụng cho ứng dụng.
+(Giao diện người dùng của Wordle.net )
+Ngoài dịch vụ trực tuyến trên website của nhà phát triển, Wordle còn cung cấp phiên bản ứng dụng desktop dành cho máy Mac & Windows, giống với phiên bản trên web trước đây.
+Để bắt đầu sáng tạo với Wordle, người dùng cần truy cập vào trang web chính thức của Wordle (
+http://www.wordle.net/
+). Tiếp đó, để tạo nên “word cloud” của riêng mình, người dùng cần làm theo những bước sau đây:
+Bước 1: Chọn
+Create
+(Create your own Wordles)
+Bước 2: Nhập đoạn văn bản nguồn tại
+Paste in a bunch of text
+Bước 3: Tùy chỉnh màu sắc, kiểu chữ, cách sắp xếp,…
+Nếu thấy đã hoàn chỉnh thì bạn chỉ cần nhấn phím
+Print Screen
+để dán bức tranh kia vào chương trình
+Paint
+, để xuất ra thành phẩm. Nên bấm
+Save To Gallery
+để thuận tiện lấy code chèn vào blog hay website. Ngoài ra bạn có thể in trực tiếp từ trình duyệt khi bấm vào
+Print
+có trên trang web.
+(Sản phẩm của Wordle)
+Với công cụ này, ta có thể ôn tập, tổng kết nội dung bài học cho học sinh bằng cách tạo đám mây với những nội dung trọng tâm của bài. Những đám mây Wordle cũng có thể trở thành bức thư mang thông tin để học sinh dự đoán được nội dung của bài học sắp tới.
+Đào Thị Loan
+Lớp: QH16.E30
+Mã số SV: 16042820
+Ngày sinh: 27/01/1998
+Khoa Sư Phạm Tiếng Anh
+Video hướng dẫn sử dụng:
+0
+0
+đánh giá
+Đánh giá bài viết
+Tagged with:
+Công cụ 2.0

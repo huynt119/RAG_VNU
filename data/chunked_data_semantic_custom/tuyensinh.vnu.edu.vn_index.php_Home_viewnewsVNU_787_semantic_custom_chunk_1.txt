@@ -1,0 +1,9 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_787.txt
+
+Ngưỡng điểm xét trúng tuyển của các ngành tại Khoa Quốc tế nhìn chung đã tăng 1 điểm so với năm 2019. Thông tin về ngưỡng điểm, mã ngành, chỉ tiêu xét tuyển của các ngành đào tạo tại Khoa Quốc tế cụ thể như sau:
+Ghi chú:
+- Mức điểm nêu trên đã bao gồm cả điểm ưu tiên theo khu vực và đối tượng (nếu có);
+- Điểm xét tuyển (ĐXT) là tổng điểm các bài thi/môn thi của tổ hợp xét tuyển theo thang điểm 30 cộng với điểm ưu tiên đối tượng, khu vực (nếu có), có áp dụng thêm điều kiện phụ là điểm môn chính nhân hệ số 2; thí sinh phải đạt điểm thi tốt nghiệp THPT môn Ngoại ngữ tối thiểu 4 điểm (theo thang điểm 10), trừ đối tượng được miễn thi môn này. Như vậy, điểm xét tuyển được tính như sau:
+ĐXT= (Điểm Môn 1 + Điểm Môn 2 + Điểm Môn chính x 2) / 4 x 3 + ĐWT (KV, ĐT)
+Ví dụ, nếu thí sinh đăng kí xét tuyển ngành Kinh doanh quốc tế theo tổ hợp môn A01, kết quả thi các môn thi tốt nghiệp THPT đạt: Toán: 8,0 ; Lý: 6,0 ; Tiếng Anh: 8,5; điểm Ưu tiên: 0 thì điểm xét tuyển đạt như sau: ĐXT= (8,0 + 6,0 + 8,5 x 2)/ 4 x 3 + 0 = 30/ 4 x 3 = 23.25
+Lưu ý: Xét tuyển theo tổ hợp môn A00 không có môn chính, điểm xét tuyển bằng tổng điểm ba môn thi cộng với điểm ưu tiên.

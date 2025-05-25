@@ -1,0 +1,415 @@
+|
+CÁN BỘ
+Giới thiệu chung
+> Số liệu thống kê
+Theo đối tượng, vị trí việc làm
+Theo chức danh khoa học và trình độ đào tạo
+> Danh hiệu nhà giáo
+Nhà giáo Nhân dân
+Nhà giáo Ưu tú
+> Đội ngũ GS, PGS
+Các Giáo sư
+Các Phó giáo sư
+Văn bản liên quan
+Trang chủ
+>
+CÁN BỘ
+>
+Số liệu thống kê
+>
+Theo chức danh khoa học và trình độ đào tạo
+Số liệu thống kê cơ bản về nhân lực ĐHQGHN theo chức danh khoa học và trình độ đào tạo (Tính đến ngày 31/12/2023)
+STT
+Tên   cơ quan, đơn vị
+Tổng   số
+Chia   theo trình độ đào tạo
+Chức   danh
+TSKH/TS
+Thạc   sĩ
+Đại   học
+Khác
+GS
+PGS
+1
+Trường Đại học Khoa học Tự nhiên
+679
+400
+186
+72
+21
+18
+126
+2
+Trường Đại học Khoa học Xã hội và Nhân văn
+500
+264
+164
+53
+19
+4
+57
+3
+Trường Đại học Ngoại ngữ
+773
+162
+452
+131
+28
+3
+9
+4
+Trường Đại học Công nghệ
+307
+141
+99
+64
+3
+4
+28
+5
+Trường Đại học Kinh tế
+313
+135
+113
+49
+16
+0
+21
+6
+Trường Đại học Giáo dục (ko kể trường THPT Khoa học   Giáo dục)
+159
+86
+55
+15
+3
+4
+25
+Trường THPT Khoa học Giáo dục
+109
+3
+75
+29
+2
+0
+1
+7
+Trường Đại học Việt Nhật
+67
+28
+24
+14
+1
+1
+4
+8
+Trường Đại học Y Dược
+236
+67
+112
+45
+12
+3
+19
+9
+Trường Đại học Luật\\\\
+112
+58
+42
+12
+0
+3
+19
+10
+Trường Quốc tế
+195
+62
+90
+33
+10
+0
+10
+11
+Trường Quản trị và Kinh doanh
+103
+37
+40
+14
+12
+3
+8
+12
+Khoa Các Khoa học liên ngành
+99
+47
+38
+13
+1
+1
+5
+13
+Khoa Quốc tế Pháp ngữ
+31
+6
+14
+11
+0
+0
+0
+14
+Trung tâm Giáo dục Thể chất và Thể thao
+41
+6
+25
+8
+2
+0
+0
+15
+Trung tâm Giáo dục Quốc phòng và An ninh
+50
+1
+32
+7
+10
+0
+0
+16
+Viện Công nghệ Thông tin
+27
+9
+6
+11
+1
+1
+1
+17
+Viện Việt Nam học và Khoa học phát triển
+26
+11
+13
+1
+1
+1
+1
+18
+Viện Vi sinh vật và Công nghệ Sinh học
+45
+9
+16
+14
+6
+0
+1
+19
+Viện Trần Nhân Tông
+45
+12
+17
+16
+0
+0
+2
+20
+Viện Tài nguyên và Môi trường
+32
+7
+11
+14
+0
+0
+2
+21
+Viện Đảm bảo chất lượng giáo dục
+19
+4
+13
+2
+0
+0
+1
+22
+Trung tâm Thư viên và Tri thức số
+90
+1
+18
+61
+10
+0
+0
+23
+Trung tâm Hỗ trợ Sinh viên (ko kể Ban QL KTX Mỹ   đình)
+63
+1
+17
+21
+24
+0
+0
+Ban Quản lý KTX Mỹ Đình
+11
+1
+2
+6
+2
+0
+0
+24
+Trung tâm Khảo thí ĐHQGHN
+22
+3
+11
+7
+1
+1
+0
+25
+Trung tâm Kiểm định chất lượng giáo dục
+16
+3
+11
+2
+0
+0
+1
+26
+Trung tâm Dự báo và Phát triển nguồn nhân lực
+10
+2
+2
+6
+0
+0
+0
+27
+Trung tâm Chuyển giao tri thức và Hỗ trợ khởi nghiệp
+16
+1
+8
+5
+2
+0
+1
+28
+Trung tâm Quản lý đô thị đại học
+64
+1
+14
+28
+21
+0
+0
+29
+Nhà Xuất bản ĐHQGHN
+54
+1
+15
+29
+9
+0
+0
+30
+Ban Quản lý các Dự án
+20
+2
+7
+11
+0
+0
+0
+31
+Bệnh viện ĐHQGHN
+162
+13
+52
+79
+18
+0
+1
+32
+Bệnh viện Đại học Y Dược
+321
+11
+53
+150
+107
+0
+0
+33
+Tạp chí Khoa học ĐHQGHN
+7
+0
+6
+1
+0
+0
+0
+34
+Ban Quản lý Dự án Trường  Đại học Việt Nhật
+8
+2
+2
+4
+0
+0
+1
+35
+Ban Quản lý dự án đầu tư xây dựng ĐHQGHN tại Hòa Lạc
+50
+0
+13
+23
+14
+0
+0
+36
+Ban Quản lý dự án "Phát triển các đại học quốc   gia Việt Nam- Tiểu dự án ĐHQGHN"
+17
+1
+9
+5
+2
+0
+0
+37
+Cơ quan ĐHQGHN
+168
+30
+82
+30
+26
+2
+11
+Cộng
+5,067
+1,628
+1,959
+1,096
+384
+49
+355
+VNU Media - Ban TCCB
+In bài viết
+Gửi cho bạn bè
+Từ khóa :
+Thông tin liên quan
+Số liệu thống kê cơ bản về nhân lực ĐHQGHN theo chức danh khoa học và trình độ đào tạo (Tính đến ngày 31/12/2022) (13/10/2022)
+SỐ LIỆU THỐNG KÊ CƠ BẢN VỀ NHÂN LỰC ĐHQGHN (26/03/2021)
+SỐ LIỆU THỐNG KÊ CƠ BẢN VỀ NHÂN LỰC ĐHQGHN (06/05/2020)
+SỐ LIỆU THỐNG KÊ CƠ BẢN VỀ NHÂN LỰC ĐHQGHN (02/03/2020)
+Số liệu thống kê theo chức danh khoa học và trình độ đào tạo (21/02/2020)
+Số liệu thống kê theo chức danh khoa học và trình độ đào tạo (18/03/2019)
+Trang:
+1|
+Bản quyền thuộc về Đại học Quốc gia Hà Nội
+Khu đô thị ĐHQGHN tại Hoà Lạc, Thạch Thất, Hà Nội
+Giấy phép số 993/GP-TTĐT ngày 20/3/2020 của Sở Thông tin và Truyền thông Hà Nội.
+Webmaster:
+media@vnu.edu.vn
+kiemtra_spam@vnu.edu.vn
+Trang chủ
+|
+Tìm kiếm
+|
+Sơ đồ Website
+|
+Văn bản

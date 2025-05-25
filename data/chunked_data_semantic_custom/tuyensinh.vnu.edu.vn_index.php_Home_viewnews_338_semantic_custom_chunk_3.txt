@@ -1,0 +1,212 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_338.txt
+
+TRƯỜNG ĐẠI HỌC NGOẠI NGỮ, ĐHQGHN
+1
+QHF
+7220201
+Ngôn ngữ Anh
+D01
+31.85
+D78
+31.85
+D90
+31.85
+Thang điểm 40 (Điểm môn ngoại ngữ nhân hệ số 2)
+2
+QHF
+7220202
+Ngôn ngữ Nga
+D01
+28.85
+D02
+28.85
+D78
+28.85
+D90
+28.85
+3
+QHF
+7220203
+Ngôn ngữ Pháp
+D01
+30.25
+D03
+30.25
+D78
+30.25
+D90
+30.25
+4
+QHF
+7220204
+Ngôn ngữ Trung Quốc
+D01
+32
+D04
+32
+D78
+32
+D90
+32
+5
+QHF
+7220205
+Ngôn ngữ Đức
+D01
+29.5
+D05
+29.5
+D78
+29.5
+D90
+29.5
+6
+QHF
+7220209
+Ngôn ngữ Nhật
+D01
+32.5
+D06
+32.5
+D78
+32.5
+D90
+32.5
+7
+QHF
+7220210
+Ngôn ngữ Hàn Quốc
+D01
+33
+D78
+33
+D90
+33
+8
+QHF
+7220211
+Ngôn ngữ Ả Rập
+D01
+27.6
+D78
+27.6
+D90
+27.6
+9
+QHF
+7220204 CLC
+Ngôn ngữ Trung Quốc
+D01
+26
+D04
+26
+D78
+26
+D90
+26
+(CTĐT CLC TT23)
+10
+QHF
+7220209 CLC
+Ngôn ngữ Nhật
+D01
+26.5
+D06
+26.5
+D78
+26.5
+D90
+26.5
+(CTĐT CLC TT23)
+11
+QHF
+7220210 CLC
+Ngôn ngữ Hàn Quốc
+D01
+28
+D78
+28
+D90
+28
+(CTĐT CLC TT23)
+12
+QHF
+7140231
+Sư phạm tiếng Anh
+D01
+31.25
+D78
+31.25
+D90
+31.25
+13
+QHF
+7140232
+Sư phạm tiếng Nga
+D01
+28.5
+D02
+28.5
+D78
+28.5
+D90
+28.5
+14
+QHF
+7140233
+Sư phạm tiếng Pháp
+D01
+29.85
+D03
+29.85
+D78
+29.85
+D90
+29.85
+15
+QHF
+7140234
+Sư phạm tiếng Trung Quốc
+D01
+31.35
+D04
+31.35
+D78
+31.35
+D90
+31.35
+16
+QHF
+7140235
+Sư phạm tiếng Đức
+D01
+27.75
+D05
+27.75
+D78
+27.75
+D90
+27.75
+17
+QHF
+7140236
+Sư phạm tiếng Nhật
+D01
+31.15
+D06
+31.15
+D78
+31.15
+D90
+31.15
+18
+QHF
+7140237
+Sư phạm tiếng Hàn Quốc
+D01
+31.5
+D78
+31.5
+D90
+31.5
+4.

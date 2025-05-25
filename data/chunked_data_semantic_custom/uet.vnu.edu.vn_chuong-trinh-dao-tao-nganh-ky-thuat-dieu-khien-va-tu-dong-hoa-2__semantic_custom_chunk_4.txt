@@ -1,0 +1,15 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-dieu-khien-va-tu-dong-hoa-2_.txt
+
+Kiến thức ngành
+Có khả năng vận dụng được các kiến thức về Điện, Điện tử từ mức độ các linh kiện, vi mạch và thiết bị. Có kiến thức về đo lường, cảm biến ứng dụng trong điều khiển và tự động hóa;
+Biết cách sử dụng một số công cụ hỗ trợ như máy CNC và CAD/CAM trong gia công phần cơ khí hoặc một số thành phần chấp hành của thiết bị;
+Cập nhật một số kiến thức về Trí tuệ nhân tạo cũng như công nghệ mới để ứng dụng cho bài toàn điều khiển và tự động hóa. Kiến thức bổ trợ
+Bổ sung kiến thức thuộc các lĩnh vực công nghệ: mạng máy tính, quản lý và chuyên nghiệp trong công nghệ; công nghệ phần mềm, vật liệu tiên tiến trong công nghệ;
+Có kiến thức cơ bản về quản lý, điều hành hoạt động chuyên môn;
+Có khả năng lập kế hoạch, tổ chức và giám sát các quá trình trong một lĩnh vực hoạt động cụ thể
+. Các kiến thức định hướng chuyên sâu
+a. Định hướng chuyên sâu về Tự động hóa công nghiệp
+Sinh viên được trang bị kiến thức cơ bản về tự động hóa trong sản xuất; các kiến thức lập trình nhúng trên nền tảng Vi xử lý – Vi điều khiển; Kỹ thuật điều khiển robot công nghiệp;
+Có khả năng vận dụng được bài bản các quy trình, nguyên lý, phương pháp phân tích, Kỹ thuật thiết kế, lập trình điều khiển và vận hành các hệ thống và thiết bị tự động. Cụ thể là các hệ thống ứng dụng PLC và SCADA, các chuẩn mạng truyền thông trong công nghiệp; các hệ truyền động, các thiết bị tự động. Có khả năng sử dụng các công cụ hỗ trợ thiết kế và mô phỏng trên máy tính đồng thời vận hành, lập trình trên các loại PLC và các phần mềm SCADA chuyên dụng. b. Định hướng chuyên sâu về Kỹ thuật đo lường và tin học công nghiệp
+Sinh viên được trang bị kiến thức cơ bản và nâng cao về đo lường công nghiệp có sử dụng các thiết bị và cảm biến thông minh kết nối với hệ nhúng trên nền tảng Vi xử lý – Vi điều khiển cũng như các bộ điều khiển chuyên dụng;
+Có kiến thức về các hệ thống ứng dụng PLC và SCADA, các chuẩn mạng truyền thông trong công nghiệp. Áp dụng kiến thức tin học nâng cao ứng dụng cho bài toán thiết kế một số hệ thống đo lường và điều khiển trong công nghiệp.

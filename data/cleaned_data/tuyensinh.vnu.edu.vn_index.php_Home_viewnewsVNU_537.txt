@@ -1,0 +1,46 @@
+Đề án tuyển sinh Đại học năm 2024
+Điểm chuẩn ĐHCQ năm 2023 của các trường thành viên, trường, khoa trực thuộc ĐHQGHN
+Hướng dẫn đăng ký nội trú KTX ngoại ngữ và KTX Mễ Trì
+Đề án tuyển sinh trình độ đại học năm 2023 - ĐHQGHN
+GS. TSKH. Hồ Tú Bảo: Chúng ta đang bắt kịp với thế giới về đào tạo khoa học dữ liệu
+Đó là nhận định của GS. TSKH. Hồ Tú Bảo - nhà khoa học với gần 40 năm kinh nghiệm giảng dạy và nghiên cứu về trí tuệ nhân tạo, học máy và khoa học dữ liệu tại Việt Nam và Nhật Bản.
+Xin GS. cho biết Khoa học dữ liệu là gì và tầm quan trọng của ngành học này?
+Khoa học dữ liệu (KHDL) đại thể là khoa học về việc tạo ra và dùng dữ liệu. KHDL dựa trên sự gắn kết hài hoà của ba thành phần chính: toán học (chủ yếu là thống kê), khoa học máy tính - hiểu là công nghệ thông tin (CNTT) mà chủ yếu là ngành học máy - và tri thức chuyên ngành của từng lĩnh vực ứng dụng. Sự kết hợp hài hoà của toán học và CNTT là một điểm mới trong thời chuyển đổi số. Ở ta ngành CNTT hiện còn ít đào tạo kiến thức toán học, trong khi ngành toán học còn ít đào tạo về tính toán với máy tính. Khoa học dữ liệu cần quan hệ hài hoà của hai lĩnh vực này để phân tích và xử lý được các nguồn dữ liệu rất phức tạp và rất lớn. Các phương pháp và công cụ của KHDL có thể ứng dụng vào mọi lĩnh vực, và tri thức của lĩnh vực ứng dụng là cần thiết để dùng chúng hiệu quả.
+KHDL trở nên vô cùng quan trọng vì các nguồn dữ liệu ngày càng nhiều và được xem là tài nguyên chủ yếu cho sự phát triển của xã hội loài người.
+Việt Nam đào tạo KHDL hơi muộn so với thế giới có phải không, thưa GS?
+Do các chương trình đào tạo về KHDL ở khắp nơi mới được mở trong vòng vài năm qua, nên ta bắt đầu lúc này cũng có thể xem là không muộn. Hầu hết các trường trên thế giới đều bắt đầu với chương trình thạc sỹ KHDL, sau đó là chương trình cử nhân. Một người đã được đào tạo ngành nghề về kinh doanh, về y tế hay CNTT, nay học thêm về KHDL trong vòng hai năm sẽ trở thành chuyên viên phân tích dữ liệu trong ngành của họ, một vị trí công việc mới xã hội đang rất cần.
+Ở Việt Nam, Viện John von Neumann của ĐHQG TPHCM đào tạo thạc sĩ về KHDL từ năm 2014. Năm 2018, chương trình cử nhân về KHDL của Trường Đại học CNTT – ĐHQG TPHCM và chương trình thạc sĩ của Trường Đại học Khoa học Tự nhiên – ĐHQGHN bắt đầu khởi động. Đến năm 2019, đã có thêm một số trường triển khai đào tạo về KHDL.
+Vậy xin GS chia sẻ thêm về các chương trình đào tạo cử nhân về KHDL tại Việt Nam hiện nay?
+KHDL là ngành rộng nên mỗi trường có đặc trưng đào tạo riêng của mình. Chẳng hạn ngành KHDL tại các trường kỹ thuật như Đại học Bách khoa hay Trường Đại học Công nghệ Thông tin - ĐHQG TP HCM nhằm đào tạo ra những người phát triển phương pháp và công cụ của khoa học dữ liệu. Trong khi đó, các cơ sở giáo dục như Khoa Quốc tế - Đại học Quốc gia Hà Nội nhắm tới đào tạo những chuyên viên phân tích dữ liệu trong kinh tế hoặc kinh doanh, tức đào tạo người có kiến thức về kinh tế hoặc kinh doanh và biết cách dùng các phương pháp, công cụ của khoa học dữ liệu trong các lĩnh vực đó.
+GS. TSKH. Hồ Tú Bảo chụp ảnh tại Khoa Quốc tế - Đại học Quốc gia Hà Nội
+Ngành đào tạo
+cử nhân phân tích dữ liệu kinh doanh
+đang được nhiều người quan tâm. Xin GS chia sẻ thêm về lĩnh vực này ạ.
+Đây là nghề nghiệp rất quan trọng trong tương lai, chiếm đại đa số trong số lượng nhân sự tham gia vào lĩnh vực KHDL. Trong kinh doanh có các “bài toán” đặc thù cần giải đáp về từng vấn đề như quản trị sản xuất, marketing, bán hàng, tài chính, quan hệ khách hàng, nhân sự… thông qua thu thập, phân tích dữ liệu. Tôi xin lấy ví dụ: bộ phận marketing nếu gửi quá nhiều thông tin quảng cáo đến khách hàng sẽ làm họ không thích. Tuy nhiên, nếu có dữ liệu về khách hàng, có thể phân tích xem họ có nhu cầu như thế nào, khả năng mua bao nhiêu và quảng cáo đúng cái họ cần thì chương trình marketing sẽ rất hiệu quả, đồng thời giảm lượng “thư rác” gửi tới khách hàng.
+Như vậy cũng có nghĩa là sinh viên ngành Phân tích dữ liệu kinh doanh sẽ rất có triển vọng nghề nghiệp phải không, thưa GS?
+Đúng vậy. Hiện nay trên thế giới đang rất thiếu nhân sự trong ngành này. Trong những năm vừa qua, rất nhiều nước công bố chiến lược về trí tuệ nhân tạo và xem trí tuệ nhân tạo là nhân tố cơ bản của sự phát triển. Bản chất của trí tuệ nhân tạo là dùng dữ liệu một cách thông minh và hiệu quả. Người nào nhanh chóng nắm được kiến thức trong lĩnh vực này và có được kỹ năng thì sẽ có tương lai công việc tốt. Đặc biệt là nếu người học dùng tốt tiếng Anh thì càng tiềm năng hơn.
+Xin trân trọng cảm ơn GS!
+Nguồn: https://dantri.com.vn/giao-duc-khuyen-hoc/gs-tskh-ho-tu-bao-chung-ta-dang-bat-kip-voi-the-gioi-ve-dao-tao-khoa-hoc-du-lieu-20190719104434955.htm
+Facebook Chat
+Widget by CAIT
+Liên kết
+Trường Đại học Khoa học Tự nhiên
+Trường Đại học  Khoa học Xã hội và Nhân văn
+Trường Đại học Ngoại ngữ
+Trường Đại học Công nghệ
+Trường Đại học Giáo dục
+Trường Đại học Luật
+Trường Đại học Y Dược
+Trường Đại học Việt Nhật
+Trường Quốc tế
+Trường Quản trị và Kinh doanh
+Trường Đại học Kinh tế
+Trường Khoa học liên ngành và Nghệ thuật
+Khoa Quốc tế Pháp ngữ
+Địa chỉ
+144 Xuân Thủy, Cầu Giấy, Hà Nội
+Khu đô thị ĐHQGHN tại Hòa Lạc
+024 37547 670
+tsvnu@vnu.edu.vn
+Copyright by Đại học Quốc gia Hà Nội
+×

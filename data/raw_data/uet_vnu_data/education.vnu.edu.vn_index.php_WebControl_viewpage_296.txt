@@ -1,0 +1,342 @@
+
+
+
+
+Sư phạm Khoa học Tự nhiên
+CHƯƠNG TRÌNH ĐÀO TẠO LIÊN THÔNG
+NGÀNH SƯ PHẠM KHOA HỌC TỰ NHIÊN (TỪ CAO ĐẲNG SƯ PHẠM)
+1.
+Tóm tắt yêu cầu chương trình đào tạo
+Tổng số tín chỉ của chương trình đào tạo:
+65
+tín chỉ
+- Khối kiến thức chung                                           5 tín chỉ
++ Ngoại ngữ B1                                                       5 tín chỉ
+Khối kiến thức theo lĩnh vực
+:
+13
+tín chỉ
+Khối kiến thức theo khối ngành:
+11
+tín chỉ
+Khối kiến thức theo nhóm ngành:
+15
+tín chỉ
+Khối kiến thức ngành:
+21
+tín chỉ
+2. Khung chương trình đào tạo
+STT
+Mã học phần
+Tên học phần
+Số tín chỉ
+Số giờ tín chỉ
+Mã học phần tiên quyết
+Lý thuyết
+Thực hành
+Tự học
+I.
+Khối kiến thức chung
+5
+1
+FLF1007
+Ngoại ngữ B1
+Foreign Language B1
+5
+20
+35
+20
+II.
+Khối kiến thức theo lĩnh vực
+13
+2
+EDT2001
+Nhập môn Công nghệ giáo dục
+Introduction of Educational Technology
+2
+20
+10
+0
+3
+PSE2004
+Phương pháp nghiên cứu khoa học trong giáo dục
+Research Methodology in Education
+3
+26
+16
+3
+4
+PSE2009
+Nhập môn Khoa học giáo dục
+Introduction to Education Science
+3
+35
+10
+0
+5
+EAM3002
+Nhập môn thống kê ứng dụng trong giáo dục
+Introduction of Applied statistics in education
+3
+26
+16
+3
+6
+EDM2052
+Nhập môn đo lường và đánh giá trong giáo dục
+Introduction to measurement and evaluation in education
+2
+24
+6
+0
+III.
+Khối kiến thức theo khối ngành
+11
+7
+TMT3008
+Quy tắc đạo đức nghề nghiệp trong lĩnh vực giáo dục
+Code of professional ethics in the field of education
+2
+12
+18
+0
+8
+TMT1003
+Phương pháp dạy học hiện đại
+Modern Teaching Methodology
+3
+18
+27
+0
+9
+PSE2003
+Thực hành sư phạm và phát triển kỹ năng cá nhân, xã hội
+Pedagogical Practices and the Development of Social and Personal Skills
+3
+17
+25
+3
+10
+EDM2001
+Phát  triển chương trình giáo dục
+School Education Curriculum Development
+3
+36
+6
+3
+IV.
+Khối kiến thức theo nhóm ngành
+15
+IV.1
+Các học phần chung
+12
+11
+TMT5074
+Dạy học chủ đề trái đất và bầu trời
+Teaching topic of Earth and Space
+2
+20
+10
+0
+12
+TMT075
+Dạy học chủ đề chất và sự biến đổi của chất
+Teaching topic of matter and material changes
+2
+20
+10
+0
+13
+TMT5076
+Dạy học chủ đề vật sống
+Teaching topic of living organisms
+2
+20
+10
+0
+14
+TMT3010
+Chương trình, phương pháp dạy học KHTN
+Curriculum and Methodology of natural science Teaching
+3
+15
+30
+0
+15
+BIO1061
+Sinh học đại cương
+General Biology
+3
+25
+15
+5
+IV.2.
+Các học phần theo nhóm chuyên môn
+3
+Nhóm ngành Hóa học
+16
+CHE1083
+Hóa lý 1
+Physical Chemistry 1
+3
+42
+0
+3
+Nhóm ngành Vật lý
+17
+CHE1065
+Cơ sở hóa học vật liệu
+M
+aterial chemistry
+3
+42
+0
+3
+Nhóm ngành Sinh học
+18
+BIO3302
+Nhập môn công nghệ sinh học
+Introduction to Biotechnology
+3
+40
+0
+5
+V.
+Khối kiến thức ngành
+21
+21
+TMT5070
+Năng lượng và sự biến đổi
+Energy and changing form
+3
+30
+9
+6
+22
+TMT5071
+Sinh thái học môi trường
+Environmental Ecology
+3
+30
+9
+6
+23
+TMT5074
+Hóa học và đời sống
+Chemistry and life
+3
+30
+9
+6
+24
+TMT5073
+Giáo dục STEM trong dạy học KHTN
+STEM education in  natural sciences teaching
+3
+30
+10
+5
+25
+CHE1079
+Hoá học môi trường
+Environmental Chemistry
+3
+42
+0
+3
+26
+BIO2206
+Sinh lý học người và động vật
+Human and Animal Physiology
+3
+25
+15
+5
+27
+TMT5072
+Sinh quyển và biến đổi khí hậu
+Biosphere and climate change
+3
+30
+9
+6
+Tổng cộng
+65
+Ghi chú: Học phần Ngoại ngữ thuộc khối kiến thức chung được tính vào tổng số tín chỉ của chương trình đào tạo nhưng kết quả đánh giá các học phần này không tính vào điểm trung bình chung học kì, điểm trung bình chung các học phần và điểm trung bình chung tích lũy.
+Tóm tắt và luận án tiến sĩ của NCS Ngô Văn Định trước bảo vệ
+Thông tin về luận án tiến sĩ của NCS Ngô Văn Định
+Thông báo về việc giới thiệu danh sách thành viên Hội đồng Giáo sư cơ sở Trường Đại học Giáo dục, ĐHQGHN năm 2025
+Thông báo tổ chức buổi bảo vệ luận án cấp Đại học Quốc gia của NCS Nguyễn Công Ước
+Thông báo tổ chức đánh giá luận án tiến sĩ của nghiên cứu sinh Lê Phương Thúy
+Thông báo về việc thu hồ sơ xét tốt nghiệp đợt tháng 6 năm 2025
+Thông báo thu học phí học kỳ II năm học 2024 - 2025 chương trình đào tạo cử nhân khóa QH2023S ngành
+Thông báo thu học phí học kỳ II năm học 2024-2025 chương trình đào tạo cử nhân khoá QH2021-S ngành GD3
+Tuyển sinh
+Đại học
+Sau đại học
+Chương trình bồi dưỡng
+Đào tạo
+Cử nhân Sư phạm Toán
+Cử nhân Sư phạm Vật lý
+Cử nhân Sư phạm Hóa học
+Cử nhân Sư phạm Sinh học
+Cử nhân Sư phạm Ngữ văn
+Cử nhân Sư phạm Lịch sử
+Cử nhân Sư phạm Khoa học Tự nhiên
+Cử nhân Quản trị trường học
+Cử nhân Quản trị Công nghệ Giáo dục
+Cử nhân Quản trị Chất lượng giáo dục
+Cử nhân Tham vấn học đường
+Cử nhân Khoa học Giáo dục
+Cử nhân Giáo dục mầm non
+Cử nhân Giáo dục tiểu học
+Cử nhân Sư phạm Lịch sử và Địa lý
+Cử nhân Tâm lí học
+Thạc sĩ Quản lý giáo dục
+Thạc sĩ LL&PPDH bộ môn (Toán, Vật lý, Hóa học, Sinh học, Ngữ văn, Lịch sử)
+Thạc sĩ Tâm lý học Lâm sàng TE&VTN
+Thạc sĩ Đo lường & Đánh giá trong GD
+Thạc sĩ Quản trị trường học
+Thạc sĩ Tham vấn học đường
+Thạc sĩ Giáo dục mầm non, giáo dục tiểu học
+Thạc sĩ Quản trị Công nghệ Giáo dục
+Tiến sĩ Quản lý Giáo dục
+Tiến sĩ Tâm lý học Lâm sàng TE&VTN
+Tiến sĩ Đo lường & Đánh giá trong GD
+Tiến sỹ Lý luận, phương pháp và công nghệ dạy học
+Giới thiệu
+Cơ cấu tổ chức
+Hội đồng Khoa học và Đào tạo
+Ban Giám hiệu
+Lịch sử hình thành
+Sứ mạng - Tầm nhìn
+Kế hoạch chiến lược
+Quy chế hoạt động
+Sơ đồ tổ chức
+Hội đồng trường
+Hội đồng Khoa học và Đào tạo
+Hội đồng Đảm bảo chất lượng
+Ban Giám hiệu
+Đảng ủy
+Công Đoàn
+Đoàn Thanh niên
+Ba công khai
+Tài nguyên
+Cổng thông tin việc làm
+Tra cứu tài liệu thư viện ĐHQGHN
+Tra cứu luận văn, luận án
+Thư viện
+Tạp chí Khoa học
+Cổng thông tin người học
+Cổng thông tin tuyển sinh
+Biểu mẫu dành cho học viên, sinh viên
+Thiết kế website
+Trường đại học giáo dục
+Địa chỉ
+: Nhà G7, số 144 Xuân Thủy
+Điện thoại
+: (024) 7301 7123
+Email
+: education@vnu.edu.vn
+© UED. All Rights Reserved.
+Quay trở lại website cũ

@@ -1,0 +1,138 @@
+Nguồn: ulis.vnu.edu.vn_gioi_thieu_ve_ky_thi_danh_gia_nang_luc_tieng_duc_osd_.txt
+
+Cụ thể:
+Bảng
+Định dạng bài thi ÖSD theo 6 cấp độ
+Trình độ
+Các phần thi
+Số câu hỏi
+Phân bố điểm
+Mức điểm tối thiểu để đỗ
+Thời gian làm bài
+A1
+Đọc hiểu
+15
+30
+38
+25 phút
+Nghe hiểu
+15
+30
+10 phút
+Viết
+2
+15
+20 phút
+Nói
+3
+25
+12
+10 phút
+100
+50
+A2
+Đọc hiểu
+15
+25
+35
+30 phút
+Nghe hiểu
+15
+30
+15 phút
+Viết
+1
+15
+30 phút
+Nói
+2
+20
+10
+10 phút
+90
+45
+B1
+Đọc hiểu
+30
+100
+60
+65 phút
+Nghe hiểu
+30
+100
+60
+40 phút
+Viết
+3
+100
+60
+60 phút
+Nói
+3
+100
+60
+15 phút Thời gian chuẩn bị: 15 phút
+B2
+Đọc hiểu
+30
+20
+42
+90 phút
+Nghe hiểu
+30
+20
+30 phút
+Viết
+2
+30
+90 phút
+Nói
+3
+30
+18
+15 – 20 phút (đơn) 20 – 25 phút (đôi) Thời gian chuẩn bị: 15 phút
+100
+60
+C1
+Đọc hiểu
+30
+20
+42
+90 phút
+Nghe hiểu
+30
+20
+40 phút
+Viết
+2
+30
+90 phút
+Nói
+3
+30
+18
+15 – 20 phút Thời gian chuẩn bị: 20 phút
+100
+60
+C2
+Đọc hiểu
+50
+40
+24
+90 phút
+Nghe hiểu
+25
+40
+24
+40 phút
+Viết
+2
+40
+24
+75 phút
+Nói
+3
+40
+24
+15 – 20 phút Thời gian chuẩn bị: 20 phút
+Tiêu chí đánh giá năng lực tiếng Đức, thang điểm, số lượng bài thi, định dạng và nội dung từng bài thi của từng kĩ năng trình bày rõ ràng theo 6 cấp độ được công bố công khai, rõ ràng, cụ thể trên trang thông tin của ÖSD.

@@ -1,0 +1,41 @@
+I. Danh sách Nhà giáo Nhân dân
+Stt
+Họ và tên
+Đơn vị
+1
+PGS.TS. Hồ Sĩ Đàm
+Khoa Công nghệ thông tin
+2
+GS.TS. Nguyễn Hữu Đức
+Phòng thí nghiệm trọng điểm Công nghệ Micro và Nano
+II. Danh sách Nhà giáo ưu tú
+Stt
+Họ và tên
+Đơn vị
+1
+GS.TSKH. Phan Anh
+Khoa Điện tử viễn thông
+2
+GS.TS. Bạch Gia Dương
+Khoa Điện tử viễn thông
+3
+GS.TS. Nguyễn Năng Định
+Khoa Vật lý kỹ thuật và công nghệ nano
+4
+PGS.TS. Nguyễn Viết Kính
+Khoa Điện tử viễn thông
+5
+PGS.TS. Lê Minh Khanh
+Khoa Công nghệ thông tin
+6
+PGS.TS. Nguyễn Quốc Toản
+Khoa Công nghệ thông tin
+7
+PGS.TS. Hà Quang Thụy
+Khoa Công nghệ thông tin
+8
+GS.TS. Nguyễn Thanh Thủy
+Khoa Công nghệ thông tin
+9
+PGS.TS. Trần Quang Vinh
+Khoa Điện tử viễn thông

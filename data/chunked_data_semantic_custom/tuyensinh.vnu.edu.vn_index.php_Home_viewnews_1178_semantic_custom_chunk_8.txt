@@ -1,0 +1,20 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_1178.txt
+
+6.Chính sách ưu tiên
+* Nguyên tắc cộng điểm ưu tiên khu vực, đối tượng
+Mức điểm ưu tiên áp dụng cho khu vực: khu vực 1 (KV1) là 0,75 điểm, khu vực 2 nông thôn (KV2-NT) là 0,5 điểm, khu vực 2 (KV2) là 0,25 điểm, khu vực 3 (KV3) không được tính điểm ưu tiên;
+Mức điểm ưu tiên áp dụng cho nhóm đối tượng: nhóm đối tượng UT1 (gồm các đối tượng 01 đến 04) là 2,0 điểm và nhóm đối tượng UT2 (gồm các đối tượng 05 đến 07) là 1,0 điểm;
+Các mức điểm ưu tiên tương ứng với tổng điểm 3 môn (trong tổ hợp môn xét tuyển) theo thang điểm 10 đối với từng môn thi (không nhân hệ số);
+Điểm ưu tiên đối với thí sinh đạt tổng điểm từ 22,5 trở lên (khi quy đổi về điểm theo thang 10 và tổng điểm 3 môn tối đa là 30) được xác định theo quy định của Bộ GD&ĐT tại Quy chế tuyển sinh đại học hiện hành;
+Trường hợp phương thức tuyển sinh sử dụng thang điểm khác thì mức điểm ưu tiên được quy đổi tương đương;
+Thí sinh chỉ được hưởng chính sách ưu tiên khu vực theo quy định trong năm tốt nghiệp THPT (hoặc trung cấp) và một năm kế tiếp;
+* Cách tính điểm ưu tiên theo từng phương thức xét tuyển
+Nhà trường áp dụng cộng điểm ưu tiên khu vực, đối tượng đối với các phương thức xét tuyển cụ thể như sau:
+(1) Phương thức xét tuyển sử dụng kết quả thi tốt nghiệp THPT năm 2024: theo quy định của Bộ GD&ĐT tại Quy chế tuyển sinh đại học hiện hành
+Điểm ưu tiên đối với thí sinh đạt tổng điểm từ 22,5 trở lên (khi quy đổi về điểm theo thang 10 và tổng điểm 3 môn tối đa là 30) được xác định theo công thức sau:
+Điểm ưu tiên = [(30 – Tổng điểm đạt được)/7,5] × Mức điểm ưu tiên theo quy định
+(2) Phương thức xét tuyển chứng chỉ quốc tế:
+Điểm ưu tiên đối với thí sinh đạt điểm quy đổi từ 7,5 trở lên (theo bảng quy đổi chứng chỉ của Trường Đại học Ngoại ngữ và điểm tối đa là 10) được xác định theo công thức sau: theo quy định của Bộ GD&ĐT tại Quy chế tuyển sinh đại học hiện hành
+Điểm ưu tiên = [(10 – Tổng điểm đạt được)/7,5] × Mức điểm ưu tiên theo quy định
+(3) Phương thức xét tuyển kết quả thi Đánh giá năng lực học sinh bậc THPT:
+Mức điểm ưu tiên áp dụng cho nhóm đối tượng UT1 (gồm các đối tượng 01 đến 04) là 10 điểm và cho nhóm đối tượng UT2 (gồm các đối tượng 05 đến 07) là 5 điểm; Mức điểm ưu tiên áp dụng cho khu vực 1 (KV1) là 3,75 điểm, khu vực 2 nông thôn (KV2-NT) là 2,5 điểm, khu vực 2 (KV2) là 1,25 điểm; khu vực 3 (KV3) không được tính điểm ưu tiên.

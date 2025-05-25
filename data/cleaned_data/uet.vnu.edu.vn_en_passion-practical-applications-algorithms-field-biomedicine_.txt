@@ -1,0 +1,49 @@
+Passion with the practical applications of algorithms in the field of biomedicine
+Back when he was in high school, after ranking first in the National Informatics Contest for High schoolers, Nguyen Duc Thang began to show interest in discovering and studying algorithms. “Up until I got into the UET (VNU), algorithms learning has been not only my passion, but also what I want to apply into daily life. Shortly afterwards, I decided to join the
+Biomedical Informatics Laboratory
+which Dr. Dang Thanh Hai is in charge of. It is because I have acknowledged that combining Informatics with the field of Biomedicine is a brand-new trend and I feel an urge to learn more about it.” – he said. Under the instructions of Dr. Dang Thanh Hai, student Nguyen Duc Thang initiated Project: “Enhancing biomedical entity linking with re-ranking based on convolution neural networks”.
+Nguyen Duc Thang displays his work at the Conference for student’s scientific research at Vietnam National University in Hanoi
+With this project, Nguyen Duc Thang has solved one of the most important and practical problems in extracting information from medical data. Duc Thang shared “Nowadays in the area of exploiting medical data, there are plenty of groups of researchers all over the world concerning about linking entity names in medical data, for example DNORM model in 2013; TaggerOne in 2016 designed by Leaman and partners from National Center for Biotechnology Information (America); NormCo model made by Wright and partners in 2019 from IBM Center for Artificial Intelligence and the University of California, San Diego… According to research on these models, my science project has recommended, as a method, fast access to information related to illnesses and medicine from immense medical data sources. Take PubMed as an example, there are nearly 28 million scientific articles now with two more added per minute. Therefore, it helps reduce cost and time needed for relevant researchers.”
+After a year of studying and considering the project, Dr. Dang Thanh Hai realized that such research done by Nguyen Duc Thang shows positive results, and he let Thang participate in the Conference for student’s scientific research. Dr. Dang Thanh Hai stated that the project was capable of instantly applied to the system of extracting information from medical data. Understanding scientific meanings and the practicality of this project, Duc Thang managed to finish a script for an article waiting to be posted on reliable international magazines.
+More precise than some models from other countries
+The project mainly focuses on the stage called “Biomedical entity link” (BEL). BEL is fixing such entities into a standard identifier located in the knowledge base, and Duc Thang’s project will improve
+the accuracy of this stage’s results
+. Many groups around the world seem to have similar ideas, however, Duc Thang’s project shows higher precision under the same conditions of comparison, with some in-use models.
+Dr. Dang Thanh Hai (on the right of the photo) highly assessed the meaning and the progress of student Nguyen Duc Thang (Photo by: NVCC)
+Thanks to these initial experiences, Duc Thang is grateful for the company of Dr. Dang Thanh Hai, along with other lecturers and staff at the lab. Duc Thang explained: “I didn’t have much experience in doing scientific research, but with Dr. Dang Thanh Hai’s wholehearted help, I slowly improved my analytical thinking as well as scientific research methodologies. He also orientates me towards suitable models, procedures, and topics with high accuracy from other researchers. As a result, I can develop my very own models and methods for the project.”
+In the near future, Duc Thang will carry out more examinations for better outcomes. “I will continue analyzing and experimenting with other phases such as Name-entity recognition and Relationship extraction to increase efficiency in this field of science,” he stated.
+By admin
+|
+Student research
+|
+3468 Views
+admin
+Previous
+Research on applicating convolution neural networks in extracting information from medical data
+Next
+Researching on the field of testing car control software
+Related posts
+Mastering advanced technology applied in agriculture
+Researching on the field of testing car control software
+Research on applicating convolution neural networks in extracting information from medical data
+The 16th Student-level Scientific Research Conference:  Enhancing students’ creativity and self-research skills
+Installing FairKit network in Hanoi for monitoring fine dust
+Passion with the practical applications of algorithms in the field of biomedicine
+Back when he was in high school, after ranking first in the National Informatics Contest for High schoolers, Nguyen Duc Thang began to show interest in discovering and studying algorithms. “Up until I got into the UET (VNU), algorithms learning has been not only my passion, but also what I want to apply into daily life. Shortly afterwards, I decided to join the
+Biomedical Informatics Laboratory
+which Dr. Dang Thanh Hai is in charge of. It is because I have acknowledged that combining Informatics with the field of Biomedicine is a brand-new trend and I feel an urge to learn more about it.” – he said. Under the instructions of Dr. Dang Thanh Hai, student Nguyen Duc Thang initiated Project: “Enhancing biomedical entity linking with re-ranking based on convolution neural networks”.
+Nguyen Duc Thang displays his work at the Conference for student’s scientific research at Vietnam National University in Hanoi
+With this project, Nguyen Duc Thang has solved one of the most important and practical problems in extracting information from medical data. Duc Thang shared “Nowadays in the area of exploiting medical data, there are plenty of groups of researchers all over the world concerning about linking entity names in medical data, for example DNORM model in 2013; TaggerOne in 2016 designed by Leaman and partners from National Center for Biotechnology Information (America); NormCo model made by Wright and partners in 2019 from IBM Center for Artificial Intelligence and the University of California, San Diego… According to research on these models, my science project has recommended, as a method, fast access to information related to illnesses and medicine from immense medical data sources. Take PubMed as an example, there are nearly 28 million scientific articles now with two more added per minute. Therefore, it helps reduce cost and time needed for relevant researchers.”
+After a year of studying and considering the project, Dr. Dang Thanh Hai realized that such research done by Nguyen Duc Thang shows positive results, and he let Thang participate in the Conference for student’s scientific research. Dr. Dang Thanh Hai stated that the project was capable of instantly applied to the system of extracting information from medical data. Understanding scientific meanings and the practicality of this project, Duc Thang managed to finish a script for an article waiting to be posted on reliable international magazines.
+More precise than some models from other countries
+The project mainly focuses on the stage called “Biomedical entity link” (BEL). BEL is fixing such entities into a standard identifier located in the knowledge base, and Duc Thang’s project will improve
+the accuracy of this stage’s results
+. Many groups around the world seem to have similar ideas, however, Duc Thang’s project shows higher precision under the same conditions of comparison, with some in-use models.
+Dr. Dang Thanh Hai (on the right of the photo) highly assessed the meaning and the progress of student Nguyen Duc Thang (Photo by: NVCC)
+Thanks to these initial experiences, Duc Thang is grateful for the company of Dr. Dang Thanh Hai, along with other lecturers and staff at the lab. Duc Thang explained: “I didn’t have much experience in doing scientific research, but with Dr. Dang Thanh Hai’s wholehearted help, I slowly improved my analytical thinking as well as scientific research methodologies. He also orientates me towards suitable models, procedures, and topics with high accuracy from other researchers. As a result, I can develop my very own models and methods for the project.”
+In the near future, Duc Thang will carry out more examinations for better outcomes. “I will continue analyzing and experimenting with other phases such as Name-entity recognition and Relationship extraction to increase efficiency in this field of science,” he stated.
+By admin
+|
+Student research
+|
+3468 Views

@@ -1,0 +1,216 @@
+Nguồn: education.vnu.edu.vn_index.php_WebControl_viewpage_293.txt
+
+Sư phạm Toán học
+CHƯƠNG TRÌNH ĐÀO TẠO LIÊN THÔNG NGÀNH SƯ PHẠM TOÁN HỌC
+(TỪ CAO ĐẲNG SƯ PHẠM)
+1.Tóm tắt yêu cầu chương trình đào tạo
+Tổng số tín chỉ của chương trình đào tạo:
+65
+tín chỉ
+- Khối kiến thức chung                                                  5 tín chỉ
++ Ngoại ngữ B1                                                              5 tín chỉ
+Khối kiến thức theo lĩnh vực
+:
+13 tín chỉ
+Khối kiến thức theo khối ngành:
+11 tín chỉ
+Khối kiến thức theo nhóm ngành:
+11 tín chỉ
+Khối kiến thức ngành:
+25 tín chỉ
+2. Khung chương trình đào tạo
+STT
+Mã học phần
+Tên học phần
+Số tín chỉ
+Số giờ tín chỉ
+Mã học phần tiên quyết
+Lý thuyết
+Thực hành
+Tự học
+I
+Khối kiến thức chung
+5
+1
+FLF1107
+Ngoại ngữ B1
+Foreign Language B1
+5
+20
+35
+20
+II
+Khối kiến thức theo lĩnh vực
+13
+2
+EDT2001
+Nhập môn Công nghệ Giáo dục
+Introduction of Educational Technology
+2
+20
+10
+0
+3
+PSE2009
+Nhập môn Khoa học Giáo dục
+Introduction to Education Science
+3
+35
+10
+0
+4
+PSE2004
+Phương pháp nghiên cứu khoa học trong giáo dục
+Research Methodology in Education
+3
+26
+16
+3
+5
+EAM3002
+Nhập môn thống kê ứng dụng trong giáo dục
+Introduction of Applied statistics in education
+3
+26
+16
+3
+6
+EAM2052
+Nhập môn đo lường và đánh giá trong giáo dục
+Introduction to measurement and evaluation in education
+2
+24
+6
+0
+III
+Khối kiến thức theo khối ngành
+11
+7
+TMT3008
+Quy tắc đạo đức nghề nghiệp trong lĩnh vực giáo dục
+Code of professional ethics in the field of education
+2
+12
+18
+0
+8
+TMT1003
+Phương pháp dạy học hiện đại
+Modern Teaching Methodology
+3
+18
+27
+0
+9
+PSE2006
+Tư vấn tâm lý học đường
+Psychological Counseling in Schools
+3
+17
+25
+3
+10
+EDM2001
+Phát  triển chương trình giáo dục
+School Education Curriculum Development
+3
+36
+6
+3
+IV
+Khối kiến thức theo nhóm ngành
+11
+11
+MAT2301
+Đại số tuyến tính 2
+Linear Algebra 2
+4
+45
+15
+0
+12
+MAT2304
+Giải tích 3
+Analysis 3
+4
+40
+20
+0
+13
+MAT2308
+Xác suất 1
+Probability 1
+3
+30
+15
+0
+V
+Khối kiến thức ngành
+25
+14
+TMT5703
+Giáo dục STEM trong dạy học KHTN
+STEM education in  natural sciences teaching
+3
+35
+10
+0
+15
+TMT2013
+Xêmina về Giáo dục Toán học
+Seminar on Mathematics Education
+3
+35
+10
+0
+16
+TMT2010
+Phương pháp dạy học môn Toán
+Teaching and Learning Methodology in Mathematics
+3
+20
+25
+0
+17
+TMT2014
+Đại số cho dạy học Toán phổ thông
+Algebra for Secondary Mathematics Education
+3
+35
+10
+0
+18
+MAT3325
+Lịch sử toán học
+History of Mathematics
+3
+45
+0
+0
+19
+TMT2016
+Hình học cho dạy học Toán phổ thông
+Geometry for Secondary Mathematics Education
+3
+35
+10
+0
+20
+MAT2311
+Thống kê ứng dụng
+Applied Statistics
+4
+45
+15
+0
+21
+TMT2015
+Số học cho dạy học Toán phổ thông
+Arithmetics for Secondary Mathematics Education
+3
+35
+10
+0
+Tổng cộng
+65
+Ghi chú: Học phần Ngoại ngữ thuộc khối kiến thức chung được tính vào tổng số tín chỉ của chương trình đào tạo nhưng kết quả đánh giá các học phần này không tính vào điểm trung bình chung học kì, điểm trung bình chung các học phần và điểm trung bình chung tích lũy.

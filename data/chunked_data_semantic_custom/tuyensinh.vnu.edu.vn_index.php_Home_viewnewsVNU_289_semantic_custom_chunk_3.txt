@@ -1,0 +1,212 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_289.txt
+
+TRƯỜNG ĐẠI HỌC NGOẠI NGỮ, ĐHQGHN
+1
+QHF
+7220201
+Ngôn ngữ Anh
+D01
+15
+D78
+15
+D90
+15
+2
+QHF
+7220202
+Ngôn ngữ Nga
+D01
+15
+D02
+15
+D78
+15
+D90
+15
+3
+QHF
+7220203
+Ngôn ngữ Pháp
+D01
+15
+D03
+15
+D78
+15
+D90
+15
+4
+QHF
+7220204
+Ngôn ngữ Trung Quốc
+D01
+15
+D04
+15
+D78
+15
+D90
+15
+5
+QHF
+7220205
+Ngôn ngữ Đức
+D01
+15
+D05
+15
+D78
+15
+D90
+15
+6
+QHF
+7220209
+Ngôn ngữ Nhật
+D01
+15
+D06
+15
+D78
+15
+D90
+15
+7
+QHF
+7220210
+Ngôn ngữ Hàn Quốc
+D01
+15
+D78
+15
+D90
+15
+8
+QHF
+7220211
+Ngôn ngữ Ả Rập
+D01
+15
+D78
+15
+D90
+15
+9
+QHF
+7220204 CLC
+Ngôn ngữ Trung Quốc
+(CTĐT CLC TT23)
+D01
+15
+D04
+15
+D78
+15
+D90
+15
+10
+QHF
+7220209 CLC
+Ngôn ngữ Nhật
+(CTĐT CLC TT23)
+D01
+15
+D06
+15
+D78
+15
+D90
+15
+11
+QHF
+7220210 CLC
+Ngôn ngữ Hàn Quốc
+(CTĐT CLC TT23)
+D01
+15
+D78
+15
+D90
+15
+12
+QHF
+7140231
+Sư phạm tiếng Anh
+D01
+17
+D78
+17
+D90
+17
+Đối với khối ngành đào tạo giáo viên (các ngành sư phạm), Trường nhận ĐKXT theo ngưỡng đảm bảo chất lượng đầu vào do Bộ GDĐT quy định năm 2018
+13
+QHF
+7140232
+Sư phạm tiếng Nga
+D01
+17
+D02
+17
+D78
+17
+D90
+17
+14
+QHF
+7140233
+Sư phạm tiếng Pháp
+D01
+17
+D03
+17
+D78
+17
+D90
+17
+15
+QHF
+7140234
+Sư phạm tiếng Trung Quốc
+D01
+17
+D04
+17
+D78
+17
+D90
+17
+16
+QHF
+7140235
+Sư phạm tiếng Đức
+D01
+17
+D05
+17
+D78
+17
+D90
+17
+17
+QHF
+7140236
+Sư phạm tiếng Nhật
+D01
+17
+D06
+17
+D78
+17
+D90
+17
+18
+QHF
+7140237
+Sư phạm tiếng Hàn Quốc
+D01
+17
+D78
+17
+D90
+17
+5.

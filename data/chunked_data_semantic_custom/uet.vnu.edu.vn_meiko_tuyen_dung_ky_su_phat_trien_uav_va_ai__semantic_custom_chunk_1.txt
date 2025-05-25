@@ -1,0 +1,34 @@
+Nguồn: uet.vnu.edu.vn_meiko_tuyen_dung_ky_su_phat_trien_uav_va_ai_.txt
+
+Yêu cầu tuyển dụng
+:
+Kỹ sư
+Phát triển UAV (Unmanned aerial vehicle – Thiết bị bay không người lái), drone
+Mô tả công việc:
+– Phát triển hệ thống UAV, drone ứng dụng trong nông nghiệp
++ Theo dõi, thu thập dữ liệu tự động từ trên cao bằng UAV
++ Tự động phân tích tình trạng cây trồng từ dữ liệu thu thập được
++ Tự động vận chuyển thuốc  trừ sâu, phân bón … cung cấp trực tiếp cho cây trồng
+– Phát triển hệ thống UAV, ứng dụng vào vận chuyển hàng hóa trong nhà máy sản xuất
+Yêu cầu công việc:
+– Cơ Khí:
++ Tốt nghiệp chuyên ngành cơ khí  các trường kỹ thuật như ĐH Bách Khoa, ĐH Công Nghiệp HN …
++ Tốt nghiệp chuyên ngành cơ khí kỹ thuật hàng không (Option)
++ Sử dụng thành thạo các phần mềm thiết kế cơ khí như Solidworks, NX, Catia …
++ Có kinh nghiệm làm việc trong dự án thực tế về Drone (optional)
++ Có tư duy logic và kỹ năng giải quyết vấn đề, hoạt động theo nhóm
++ Kỹ năng quản lý thời gian và khả năng ưu tiên công việc tốt, tính chủ động cao  trong công việc
++ Tiếng Anh: Đọc hiểu sử dụng thành thạo các tài liệu Tiếng Anh
+– Điện tử
++ Tốt nghiệp chuyên ngành điện tử, tự động hóa, khoa học máy tính hoặc các ngành liên quan tại các trường kỹ thuật như ĐH Bách Khoa, ĐH Công Nghiệp HN
++ Có kinh nghiệm lập trình trên nền Linux hoặc Embedded
++ Ưu tiên ứng viên có kinh nghiệm trong lập trình, xử lý dữ liệu drone/UAV
++ Có tư duy logic và kỹ năng giải quyết vấn đề, hoạt động theo nhóm
++ Kỹ năng quản lý thời gian và khả năng ưu tiên công việc tốt, tính chủ động cao trong công việc
++ Ưu tiên ứng viên có kinh nghiệm thiết kế mạch, sử dụng các ngôn ngữ lập trình linh hoạt
++ Biết sử dụng các công cụ quản lý code như Git, SVN
+Tiếng Anh: Đọc hiểu sử dụng thành thạo các tài liệu Tiếng Anh
+–
+Lương hấp dẫn: 9tr – 30tr/tháng
+(tùy thuộc kinh nghiệm và năng lực của ứng viên)
+– Thưởng tháng lương 13, du lịch công ty, khám sức khỏe định kì, chế độ phúc lợi xã hội tốt.

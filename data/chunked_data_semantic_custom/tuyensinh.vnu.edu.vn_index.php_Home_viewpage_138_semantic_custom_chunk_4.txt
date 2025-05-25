@@ -1,0 +1,165 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewpage_138.txt
+
+Mã phương thức xét tuyển
+TT
+Mã 2022
+Tên phương thức xét tuyển
+1
+100
+Xét tuyển dựa theo kết quả thi tốt nghiệp THPT năm 2022
+2
+401
+Xét tuyển dựa theo kết quả thi Đánh giá năng lực (ĐGNL) do ĐHQGHN tổ chức năm 2022
+3
+408
+Xét tuyển theo chứng chỉ quốc tế
+gồm
+S
+A
+T, A
+-Level, ACT
+4
+409
+Xét tuyển kết hợp kết quả thi tốt nghiệp THPT 2022  với chứng chỉ tiếng Anh quốc tế
+5
+301
+Xét tuyển thẳng theo quy định của Quy chế tuyển sinh (Điều 8)
+6
+303
+Xét tuyển thẳng theo cơ chế đặc thù của ĐHQGHN (Công văn số 1365/ĐHQGHN-ĐT ngày 26/4/2022)
+7
+501
+Ưu tiên xét tuyển theo cơ chế đặc thù của ĐHQGHN (Công văn số 1365/ĐHQGHN-ĐT ngày 26/4/2022)
+Tổ hợp môn xét tuyển theo kết quả thi tốt nghiệp THPT
+a) Các chương trình đào tạo chuẩn
+Toán, Lý, Hóa
+(A00)
+;
+Toán, Anh, Lý
+(A01)
+;
+Toán, Anh, Văn (
+Toán, Anh hệ số 2) (
+D
+01
+);
+Riêng đối với ngành Công nghệ nông nghiệp xét tuyển
+các
+tổ hợp
+:
+Toán, Lý, Hóa
+(A00)
+; Toán, Anh, Lý
+(A01)
+;
+Toán, Hóa, Sinh
+(B00)
+và Toán, Lý, Sinh
+(A02)
+;
+b) Các chương trình đào tạo chất lượng cao
+Toán, Lý, Hóa (Toán, Lý hệ số 2) (
+A00
+);
+Toán, Anh, Lý (Toán, Anh hệ số 2) (
+A01
+);
+Toán, Anh, Văn (
+Toán, Anh hệ số 2) (
+D
+01
+);
+Cách tính điểm xét tuyển:
+a) Cách tính điểm xét tuyển (gọi tắt là ĐX) theo kết quả thi tốt nghiệp THPT năm 2022 như sau:
+Các chương trình đào tạo chuẩn
+xét theo tổ hợp A00 và A01
+ĐX =
+(Môn1
++
+Môn2
++ Môn3)
++
+Điểm ƯT (ĐT
+,
+KV)
+Các chương trình đào tạo chuẩn
+xét theo tổ hợp D01
+ĐX = (Toán x 2
++
+Anh
+x 2
++
+Văn
+)
+x
+3/5
++
+Điểm ƯT (ĐT
+,
+KV)
+Các chương trình đào tạo chất lượng cao
+ĐX = (Môn
+chính1
+x 2
++
+Môn
+chính
+2
+x 2
++
+Môn3)
+x
+3/5
++
+Điểm ƯT (ĐT
+,
+KV)
+b) Cách tính điểm xét tuyển theo kết quả thi ĐGNL(HSA) do ĐHQGHN tổ chức năm 2022
+ĐX = (
+Tư duy định lượng
+x 2 +
+Tư duy định tính
++ Điểm Khoa  học) * 30/200
++
+Điểm ƯT (ĐT
+,
+KV)
+c) Cách tính điểm xét tuyển theo các chứng chỉ quốc tế
+- SAT: ĐX = điểm SAT * 30/1600 +
+Điểm ƯT (ĐT
+,
+KV)
+- A-Level: ĐX = (Toán + Lý + Hóa)/10 +
+Điểm ƯT (ĐT
+,
+KV)
+- ACT: ĐX = điểm ACT * 30/36 +
+Điểm ƯT (ĐT
+,
+KV)
+Lưu ý:
+- ĐX được làm tròn đến hai chữ số thập phân;
+Điểm chuẩn trúng tuyển vào các
+ngành
+tuyển sinh năm 2022 của Trường Đại học
+Công nghệ, Đại học Quốc gia Hà Nội
+sẽ được công bố theo thang
+điểm
+30.
+d) Cách tính điểm xét tuyển kết hợp kết quả thi tốt nghiệp THPT 2022  với chứng chỉ tiếng Anh quốc tế (IELTS/TOEFL iBT)
+Các chương trình đào tạo chuẩn
+ĐX = Điểm Tiếng Anh đã quy đổi + Điểm Toán + Điểm Lý
++
+Điểm ƯT (ĐT
+,
+KV)
+Các chương trình đào tạo chất lượng cao
+ĐX = (Điểm Tiếng Anh đã quy đổi x 2 + Điểm Toán x 2 + Điểm Lý)
+x
+3/5
++
+Điểm ƯT (ĐT
+,
+KV)
+Chênh lệch điểm chuẩn trúng tuyển
+Trong cùng một mã xét tuyển theo các tổ hợp môn, điểm trúng tuyển theo các tổ hợp là như nhau.

@@ -1,0 +1,120 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_751.txt
+
+Thống kê diện tích đất, diện tích sàn xây dựng, ký túc xá của ĐHQGHN
+TT
+Nội dung
+Đơn vị tính
+Tổng số
+I
+Diện tích đất đai
+ha
+1
+Khu vực Hà Nội
+ha
+15.64
+- Cụm Cầu Giấy
+6.02
+- Cụm Thanh Xuân
+3.10
+- Cụm Mễ Trì
+2.62
+- Cụm 19 Lê Thánh Tông
+0.90
+2
+Khu vực Ba vì
+(cơ sở thực tập, thực địa ngoài trời, thực tập sinh thái, môi trường)
+ha
+16.60
+3
+Khu vực Hòa Lạc
+ha
+1.000
+II
+Diện tích sàn xây dựng
+204.933
+1
+Giảng đường
+Số phòng
+phòng
+1.470
+Tổng diện tích
+m
+2
+103.268
+2
+Phòng học máy tính
+Số phòng
+phòng
+83
+Tổng diện tích
+m
+2
+2.639
+3
+Phòng học ngoại ngữ
+Số phòng
+phòng
+64
+Tổng diện tích
+m
+2
+2.016
+4
+Thư­ viện
+m
+2
+6.947
+5
+Phòng thí nghiệm
+Số phòng
+phòng
+68
+Tổng diện tích
+m
+2
+3.415
+6
+Xưởng thực tập, thực hành
+Số phòng
+phòng
+Tổng diện tích
+m
+2
+7
+KTX thuộc cơ sở đào tạo quản lý
+Số phòng
+phòng
+1.180
+Tổng diện tích
+m
+2
+47.287
+8
+Diện tích nhà ăn của cơ sở đào tạo
+m
+2
+2.446
+9
+Diện tích khác:
+Diện tích hội trường
+m
+2
+3.950
+Diện tích nhà văn hóa
+m
+2
+1.389
+Diện tích nhà thi đấu đa năng
+m
+2
+1.102
+Diện tích bể bơi
+m
+2
+Diện tích sân vận động
+m
+2
+Số phòng Ký túc xá
+phòng
+6.000
+1.2.

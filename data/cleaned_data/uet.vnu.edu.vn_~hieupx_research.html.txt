@@ -1,0 +1,37 @@
+Research Interests:
+Data, Text, and Web Mining:
+data & information extraction; classification & clustering;
+topic analysis; content matching & online contextual advertising
+Machine Learning Models and Their Applications:
+maximum entropy, conditional random fields (CRFs),
+latent Dirichlet allocation (LDA), etc. and applications
+Natural Language Processing (NLP):
+word segmentation, part-of-speech tagging, and phrase chunking;
+large-scale computational models for NLP applications
+Biomedical NLP:
+biomedical literature retrieval & analysis; disease & virus association mining;
+entity, relation, event, & pathway extraction
+Research Projects:
+Main researcher: "
+Accelerating our understanding of the causal pathways to cerebral palsy with a
+computer supported system
+", 2008-2010, funded by Cerebral Palsy Institute, Sydney, Australia - AUD 120,000
+Member: "
+On the development of fundamental resources and tools for Vietnamese language and
+speech processing
+" (VLSP), 2007-2009, funded by the Vietnamese Ministry of Science and Technology, KC01.01/06-10.
+Principal investigator: "
+Information extraction and management on the Web for large-scale applications
+", 2006-2008,
+funded by Japan Society for the Promotion of Science (JSPS), No.P06366 - 11,360,000 YEN (about USD 150,000)
+Member: "
+Research and development of content filtering supporting content management and security on the Internet
+",
+2006-2008, funded by the Vietnamese Ministry of Science and Technology, KC01.02/06-10.
+Professional Services:
+PC member:
+Hanoi-ICT 2007, Hanoi-ICT 2008, PRICAI 2008, PRICAI EMALP 2008, WISM 2009, WISM 2010, WISM 2011, KSE 2011,
+KSE 2012
+Reviewer:
+ECML 2005, ICML 2005, ICML 2006, PAKDD 2007, RIVF 2007, ACM SIGKDD 2008, ACL-IJCNLP ARL7 2009, IEEE ICDM 2009,
+ACM CIKM 2009, AMIA 2009, HIC 2009, Journal of Natural Language Processing (JNLP)

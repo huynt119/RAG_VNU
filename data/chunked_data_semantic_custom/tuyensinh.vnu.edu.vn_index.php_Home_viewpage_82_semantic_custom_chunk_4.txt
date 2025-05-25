@@ -1,0 +1,678 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewpage_82.txt
+
+TT
+Họ và tên
+Giới tính
+Chức danh khoa học
+Trình độ
+Chuyên môn được đào tạo
+Giảng dạy môn chung
+Mã
+Tên ngành
+Thâm niên công tác (bắt buộc với các ngành ưu tiên mà trường đăng ký đào tạo)
+Tên doanh nghiệp (bắt buộc với các ngành ưu tiên mà trường đăng ký đào tạo)
+1
+Bùi Hữu Trực
+Nam
+Chuyên khoa II
+RHM
+7720501
+Răng - Hàm - Mặt
+2
+Bùi Thị Thanh Tâm
+Nữ
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+3
+Chu Minh Hà
+Nữ
+Tiến sĩ
+Y khoa
+7720101
+Y khoa
+4
+Đặng Thị Vỹ
+Nữ
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+5
+Đặng Trần Tiến
+Nam
+Tiến sĩ
+Y khoa
+7720602
+KT hình ảnh YH
+6
+Đào Quang Minh
+Nam
+Tiến sĩ
+Y khoa
+7720201
+Dược học
+7
+Đinh Ngọc Sơn
+Nam
+Phó GS
+Tiến sĩ
+Y khoa
+7720101
+Y khoa
+8
+Đỗ Trường Sơn
+Nam
+Phó GS
+Tiến sĩ
+Y khoa
+7720101
+Y khoa
+9
+Đoàn Quốc Hưng
+Nam
+Phó GS
+Tiến sĩ
+Y khoa
+7720101
+Y khoa
+10
+Hà Phương Thảo
+Nữ
+Thạc sĩ
+Y khoa
+7720601
+KT xét nghiệmYH
+11
+Hạc Văn Vinh
+Nam
+Tiến sĩ
+Y khoa
+7720101
+Y khoa
+12
+Hoàng Long
+Nam
+Phó GS
+Tiến sĩ
+Y khoa
+7720101
+Y khoa
+13
+Hữu Hoài Anh
+Nam
+Tiến sĩ
+Y khoa
+7720101
+Y khoa
+14
+Hữu Thị Chung
+Nữ
+Tiến sĩ
+Y khoa
+7720601
+KT xét nghiệmYH
+15
+Lại Bình Nguyên
+Nam
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+16
+Lê Đình Hưng
+Nữ
+Thạc sĩ
+Y khoa
+7720601
+KT xét nghiệmYH
+17
+Lê Duy Toàn
+Nam
+Thạc sĩ
+Y khoa
+7720101
+Y khoa
+18
+Lê Hoàng Anh
+Nam
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+19
+Lê Hoàng Long
+Nam
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+20
+Lê Quang Hòa
+Nam
+Thạc sĩ
+Y khoa
+7720101
+Y khoa
+21
+Lê Thành Trung
+Nam
+Tiến sĩ
+Y khoa
+7720101
+Y khoa
+22
+Lê Tư Hoàng
+Nam
+Phó GS
+Tiến sĩ
+Y khoa
+7720101
+Y khoa
+23
+Lê Văn Mạnh
+Nam
+Thạc sĩ
+Y khoa
+7720101
+Y khoa
+24
+Lương Thanh Tú
+Nữ
+Thạc sĩ
+Y khoa
+7720602
+KT hình ảnh YH
+25
+Lý Đức Ngọc
+Nam
+Thạc sĩ
+Y khoa
+7720101
+Y khoa
+26
+Nghiêm Thị Hồng Thanh
+Nữ
+Thạc sĩ
+Y khoa
+7720101
+Y khoa
+27
+Ngô Tiến Thành
+Nam
+Chuyên khoa II
+Y khoa
+7720601
+KT xét nghiệmYH
+28
+Nguyễn  Thị Hương Giang
+Nữ
+Thạc sĩ
+Y khoa
+7720601
+KT xét nghiệmYH
+29
+Nguyễn Anh Tùng
+Nam
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+30
+Nguyễn Công Hựu
+Nam
+Tiến sĩ
+Y khoa
+7720101
+Y khoa
+31
+Nguyễn Đình Thuyên
+Nam
+Thạc sĩ
+Y khoa
+7720602
+KT hình ảnh YH
+32
+Nguyễn Đức Chính
+Nam
+Phó GS
+Tiến sĩ
+Y khoa
+7720101
+Y khoa
+33
+Nguyễn Hoàng Long
+Nam
+Tiến sĩ
+Y khoa
+7720101
+Y khoa
+34
+Nguyễn Hồng Hạnh
+Nữ
+Tiến sĩ
+Y khoa
+7720101
+Y khoa
+35
+Nguyễn Hữu Tùng
+Nam
+Tiến sĩ
+Dược học
+7720201
+Dược học
+36
+Nguyễn Lê Ngọc Khanh
+Nam
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+37
+Nguyễn Mạnh Trí
+Nam
+Tiến sĩ
+Y khoa
+7720101
+Y khoa
+38
+Nguyễn Minh Châu
+Nam
+Thạc sĩ
+Y khoa
+7720602
+KT hình ảnh YH
+39
+Nguyễn Minh Tuấn
+Nam
+Thạc sĩ
+Y khoa
+7720601
+KT xét nghiệm YH
+40
+Nguyễn Ngọc Bích
+Nữ
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+41
+Nguyễn Ngọc Tiệp
+Nam
+Thạc sĩ
+Y khoa
+7720602
+KT hình ảnh YH
+42
+Nguyễn Nhị Hà
+Nữ
+Thạc sĩ
+Y khoa
+7720601
+KT xét nghiệmYH
+43
+Nguyễn Nữ Kim Thảo
+Nữ
+Tiến sĩ
+Dược học
+7720201
+Dược học
+44
+Nguyễn Phương Huyền
+Nữ
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+45
+Nguyễn Quang
+Nam
+Phó GS
+Tiến sĩ
+Y khoa
+7720602
+KT hình ảnh YH
+46
+Nguyễn Quang Bình
+Nam
+Phó GS
+Tiến sĩ
+RHM
+7720501
+Răng  Hàm Mặt
+47
+Nguyễn Quốc Đạt
+Nam
+Thạc sĩ
+Y khoa
+7720602
+KT hình ảnh YH
+48
+Nguyễn Quốc Hùng
+Nam
+Thạc sĩ
+Y khoa
+7720101
+Y khoa
+49
+Nguyễn Quỳnh Uyển
+Nữ
+Tiến sĩ
+Dược học
+7720201
+Dược học
+50
+Nguyễn Thanh Long
+Nam
+Phó GS
+Tiến sĩ
+Y khoa
+7720602
+KT hình ảnh YH
+51
+Nguyễn Thế Huy
+Nam
+Thạc sĩ
+Y khoa
+7720101
+Y khoa
+52
+Nguyễn Thị Bích Ngọc
+Nữ
+Thạc sĩ
+Y khoa
+7720101
+Y khoa
+53
+Nguyễn thị Bình Minh
+Nữ
+Thạc sĩ
+Y khoa
+7720601
+KT xét nghiệmYH
+54
+Nguyễn Thị Hạnh
+Nữ
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+55
+Nguyễn Thị Kiều Oanh
+Nữ
+Chuyên khoa II
+Y khoa
+7720101
+Y khoa
+56
+Nguyễn Thị Kim Thu
+Nữ
+Tiến sĩ
+Dược học
+7720201
+Dược học
+57
+Nguyễn Thị Lan Anh
+Nữ
+Chuyên khoa II
+Y khoa
+7720101
+Y khoa
+58
+Nguyễn Thị Minh Thanh
+Nữ
+Thạc sĩ
+Y khoa
+7720101
+Y khoa
+59
+Nguyễn Thị Mỹ Hạnh
+Nữ
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+60
+Nguyễn Thị Phương Thảo
+Nữ
+Thạc sĩ
+Y khoa
+7720101
+Y khoa
+61
+Nguyễn Thị Thanh Nhàn
+Nữ
+Thạc sĩ
+Y khoa
+7720601
+KT xét nghiệm YH
+62
+Nguyễn Thị Thu Phương
+Nữ
+Chuyên khoa II
+Y khoa
+7720101
+Y khoa
+63
+Nguyễn Thị Thuý Nga
+Nữ
+Tiến sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+64
+Nguyễn Thị Tường Nga
+Nữ
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+65
+Nguyễn Thị Vân Anh
+Nữ
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+66
+Nguyễn Thùy Nhung
+Nữ
+Thạc sĩ
+Y khoa
+7720101
+Y khoa
+67
+Nguyễn Trần Linh
+Nam
+Tiến sĩ
+Dược học
+7720201
+Dược học
+68
+Nguyễn Trần Thủy
+Nam
+Tiến sĩ
+Y khoa
+7720101
+Y khoa
+69
+Nguyễn Trung Nghĩa
+Nam
+Tiến sĩ
+Dược học
+7720201
+Dược học
+70
+Nguyễn Văn Thạch
+Nam
+Phó GS
+Tiến sĩ
+Y khoa
+7720101
+Y khoa
+71
+Nguyễn Việt Thành
+Nam
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+72
+Nguyễn Vĩnh Hưng
+Nam
+Tiến sĩ
+Y khoa
+7720101
+Y khoa
+73
+Nguyễn Xuân Huyến
+Nữ
+Thạc sĩ
+Y khoa
+7720601
+KT xét nghiệm YH
+74
+Phạm Hoàng Tuấn
+Nam
+Phó GS
+Tiến sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+75
+Phạm Ngọc Quang
+Nam
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+76
+Phạm Thị Kim Lan
+Nữ
+Phó GS
+Tiến sĩ
+Y khoa
+7720101
+Y khoa
+77
+Phạm Thu Trang
+Nữ
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+78
+Phó Bích Hà
+Nữ
+Chuyên khoa II
+RHM
+7720501
+Răng - Hàm - Mặt
+79
+Phùng Duy Hồng Sơn
+Nam
+Tiến sĩ
+Y khoa
+7720101
+Y khoa
+80
+Trần Công Hoan
+Nam
+Phó GS
+Tiến sĩ
+Y khoa
+7720602
+KT hình ảnh YH
+81
+Trần Hải Hà
+Nữ
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+82
+Trần Nam Chung
+Nam
+Thạc sĩ
+Y khoa
+7720101
+Y khoa
+83
+Trần Thị Mai
+Nữ
+Thạc sĩ
+Y khoa
+7720601
+KT xét nghiệmYH
+84
+Trần Thị Vân Hà
+Nữ
+Chuyên khoa II
+Y khoa
+7720601
+KT xét nghiệmYH
+85
+Trần Văn Phú
+Nam
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+86
+Trịnh Hải Anh
+Nữ
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+87
+Trịnh Thị Hằng
+Nữ
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+88
+Trương Văn Quý
+Nam
+Thạc sĩ
+Y khoa
+7720101
+Y khoa
+89
+Vũ Hải Vinh
+Nam
+Tiến sĩ
+Y khoa
+7720601
+KT xét nghiệmYH
+90
+Vũ Thị Dương Liễu
+Nữ
+Thạc sĩ
+Y khoa
+7720601
+KT xét nghiệmYH
+91
+Vũ Thị Thu Hương
+Nữ
+Tiến sĩ
+Dược học
+7720201
+Dược học
+92
+Vũ Tuấn Hùng
+Nam
+Thạc sĩ
+RHM
+7720501
+Răng - Hàm - Mặt
+93
+Vũ Văn Bạ
+Nam
+Thạc sĩ
+Y khoa
+7720101
+Y khoa
+III.

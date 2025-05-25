@@ -1,0 +1,193 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-may-tinh-3_.txt
+
+2
+Các học phần
+tự chọn
+3/9
+31
+INT2292
+Cấu trúc rời rạc
+Discrete Structure
+3
+30
+15
+32
+INT2204
+Lập trình hướng đối tượng
+Object-Oriented Programming
+3
+30
+15
+INT1008
+33
+INT2044
+Lý thuyết thông tin
+Information Theory
+3
+45
+MAT1101
+V
+Khối kiến thức ngành
+62
+V.1
+Các học phần bắt buộc
+28
+34
+ELT3047
+Kiến trúc máy tính
+Computer Architecture
+3
+45
+INT1008
+35
+ELT3048
+Hệ thống vi xử lý
+Microprocessors
+3
+30
+15
+ELT2030
+36
+ELT3051
+Kỹ thuật điều khiển
+Control Engineering
+3
+45
+ELT2035
+37
+ELT3240
+Nhập môn hệ thống nhúng
+Introduction to Embedded Systems
+3
+30
+15
+INT2207
+38
+ELT3207
+Cơ sở đo lường và điều khiển số
+Introduction to
+Measurement and
+Digital C
+ontrol
+3
+30
+15
+39
+INT3217
+Lập trình hệ thống
+System Programing
+3
+36
+9
+INT2207
+40
+ELT3057
+Truyền thông số và mã hóa
+Digital Communications and Coding Theory
+3
+45
+ELT2035
+41
+INT3404
+Xử lý ảnh
+Image Processing
+3
+45
+INT2210
+42
+ELT3241
+Các vấn đề hiện đại của Kỹ thuật Máy tính
+Advanced Topics in Computer Engineering
+2
+15
+15
+43
+UET1002
+Kỹ năng khởi nghiệp
+Entrepreneurship
+2
+30
+V.2
+Các học phần tự chọn
+15/33
+44
+ELT3202
+Thiết kế mạch tích hợp số
+Digital Integrated Circuit Design
+3
+30
+15
+45
+ELT3203
+Thiết kế mạch tích hợp tương tự
+Analog Integrated Circuit Design
+3
+30
+15
+46
+ELT3206
+Quản trị mạng máy tính
+Computer Network Administrator
+3
+30
+15
+47
+INT3120
+Phát triển ứng dụng di động
+Mobile Application Development
+3
+30
+15
+INT1008
+48
+ELT3205
+Kỹ thuật cảm biến
+Sensor Engineering
+3
+30
+15
+49
+INT3402
+Chương trình dịch
+Compiler
+3
+45
+INT2210
+50
+ELT3211
+MEMS sinh học và các vi thiết bị y sinh
+Bio-MEMS and BioMedical devices
+3
+30
+15
+ELT2040
+51
+ELT3077
+Hệ thống robot thông minh
+Intelligent Robot Systems
+3
+45
+ELT3051
+52
+INT3405
+Học máy
+Machine Learning
+3
+45
+MAT1101
+53
+ELT3231
+Kỹ thuật xử lý và Truyền thông Đa phương tiện
+Multimedia Processing and Communications
+3
+30
+15
+54
+INT3412
+Thị giác máy
+Computer Vision
+3
+45
+INT2210
+V
+.

@@ -1,0 +1,148 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_1028.txt
+
+QHS
+Trường
+Đại học
+Giáo dục
+GD2
+Sư phạm Ngữ văn, Lịch sử, Lịch sử và Địa lý
+, gồm 3 ngành:
+- Sư phạm Ngữ văn;
+- Sư phạm Lịch sử;
+- Sư phạm Lịch sử và Địa lý
+100
+Xét kết quả thi tốt nghiệp THPT
+C00;
+D01;
+D14;
+D15
+Ngữ văn, Lịch sử, Địa lý;
+Toán, Ngữ văn, Tiếng Anh;
+Ngữ văn, Lịch sử, Tiếng Anh;
+Ngữ văn, Lịch sử, Địa lý
+Nhà trường thực hiện phân ngành cho sinh viên sau khi học xong năm thứ nhất
+(
+Thí sinh xem tại mục 1.6.3 của Đề án
+)
+301
+Xét tuyển thẳng theo quy định của Quy chế tuyển sinh (Điều 8)
+303
+Xét tuyển thẳng theo Đề án của Trường
+401
+Xét tuyển kết quả đánh giá năng lực của ĐHQGHN
+409
+Xét tuyển kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ quốc tế
+411
+Xét tuyển thí sinh tốt nghiệp THPT nước ngoài
+500
+Phương thức xét tuyển khác: Dự bị đại học;
+501
+Ưu tiên xét tuyển
+3. QHS
+Trường
+Đại học
+Giáo dục
+GD3
+Khoa học giáo dục và khác
+, gồm 5 ngành:
+- Quản trị trường học;
+- Quản trị công nghệ giáo dục;
+- Khoa học giáo dục;
+- Quản trị chất lượng giáo dục;
+- Tham vấn học đường
+100
+Xét kết quả thi tốt nghiệp THPT
+A00;
+B00;
+C00;
+D01
+Toán, Vật lý, Hoá học;
+Toán, Hoá học, Sinh học;
+Ngữ văn, Lịch sử, Địa lý;
+Toán, Ngữ văn, Tiếng Anh
+Nhà trường thực hiện phân ngành cho sinh viên sau khi học xong năm thứ nhất
+(
+Thí sinh xem tại mục 1.6.3 của Đề án
+)
+301
+Xét tuyển thẳng theo quy định của Quy chế tuyển sinh (Điều 8)
+303
+Xét tuyển thẳng theo Đề án của Trường
+401
+Xét tuyển kết quả đánh giá năng lực của ĐHQGHN
+409
+Xét tuyển kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ quốc tế
+411
+Xét tuyển thí sinh tốt nghiệp THPT nước ngoài
+500
+Phương thức xét tuyển khác: Dự bị đại học;
+501
+Ưu tiên xét tuyển
+4. QHS
+Trường
+Đại học
+Giáo dục
+GD4
+Giáo dục Tiểu học
+100
+Xét kết quả thi tốt nghiệp THPT
+A00;
+B00;
+C00;
+D01
+Toán, Vật lý, Hoá học;
+Toán, Hoá học, Sinh học;
+Ngữ văn, Lịch sử, Địa lý;
+Toán, Ngữ văn, Tiếng Anh
+301
+Xét tuyển thẳng theo quy định của Quy chế tuyển sinh (Điều 8)
+303
+Xét tuyển thẳng theo Đề án của Trường
+401
+Xét tuyển kết quả đánh giá năng lực của ĐHQGHN
+409
+Xét tuyển kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ quốc tế
+411
+Xét tuyển thí sinh tốt nghiệp THPT nước ngoài
+500
+Phương thức xét tuyển khác: Dự bị đại học;
+501
+Ưu tiên xét tuyển
+5. QHS
+Trường
+Đại học
+Giáo dục
+GD4
+Giáo dục Mầm non
+100
+Xét kết quả thi tốt nghiệp THPT
+A00;
+B00;
+C00;
+D01
+Toán, Vật lý, Hoá học;
+Toán, Hoá học, Sinh học;
+Ngữ văn, Lịch sử, Địa lý;
+Toán, Ngữ văn, Tiếng Anh
+Thí sinh cần Đạt đánh giá năng khiếu
+(
+Thí sinh xem tại mục 1.6.4 của Đề án)
+301
+Xét tuyển thẳng theo quy định của Quy chế tuyển sinh (Điều 8)
+303
+Xét tuyển thẳng theo Đề án của Trường
+401
+Xét tuyển kết quả đánh giá năng lực của ĐHQGHN
+409
+Xét tuyển kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ quốc tế
+411
+Xét tuyển thí sinh tốt nghiệp THPT nước ngoài
+500
+Phương thức xét tuyển khác: Dự bị đại học;
+501
+Ưu tiên xét tuyển
+405
+Kết hợp kết quả thi tốt nghiệp THPT với kết quả đánh giá năng khiếu
+502
+Kết hợp các phương thức xét tuyển khác với kết quả đánh giá năng khiếu
+2.3.2.

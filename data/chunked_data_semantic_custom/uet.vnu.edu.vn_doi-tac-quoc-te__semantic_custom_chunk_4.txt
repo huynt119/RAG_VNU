@@ -1,0 +1,95 @@
+Nguồn: uet.vnu.edu.vn_doi-tac-quoc-te_.txt
+
+dmu.ac.uk/
+7
+Paris-Sud University, France
+www.u-psud.fr/en/
+8
+Ecole Normal Superieur de Cachan, France
+www.ens–cachan.fr/
+9
+University Claude Bernard Lyon 1, France
+www.univ-lyon1.fr/home-759942.kjsp
+10
+Grenoble University, France
+www.univ-grenoble-alpes.fr
+11
+CEA-LETI, MINATEC, France
+www-leti.cea.fr/en
+12
+CMP, France
+cmp.imag.fr/
+13
+University Paris 13 (North) , France
+https://www.univ–paris13.fr/
+14
+SUPELEC, France
+www.supelec.fr/
+15
+Budapest University of Technology and Economics, Hungary
+www.bme.hu/en
+16
+Technical University of Applied Sciences, Regensburg, Germany
+https://www.oth-regensburg.de/en.html
+17
+Moscow Aviation Institute -MAI
+https://en.mai.ru/
+18
+Belarusian State University (BSU)
+https://bsu.by/en/
+19
+Aberystwyth Business School, Aberystwyth University
+https://www.aber.ac.uk/en/abs/
+AMERICAS
+STT
+Đối tác trường, viện, tổ chức
+Website
+Logo
+1
+Ball State University, USA
+cms.bsu.edu/
+2
+Lynchburg College, USA
+www.lynchburg.edu/
+3
+San Diego State University, USA
+www.sdsu.edu/
+4
+University of Houston – Clear Lake (UHCL) , USA
+www.uhcl.edu/
+5
+University of Maryland, USA
+www.umd.edu/
+OCEANIA
+STT
+Đối tác trường, viện, tổ chức
+Website
+Logo
+1
+Macquarie University, Australia
+https://www.mq.edu.au/
+2
+The University of Melbourne, Australia
+www.unimelb.edu.au/
+3
+The University of New South Wales, Australia
+https://www.unsw.edu.au/
+4
+University of Technology Sydney, Australia
+https://www.uts.edu.au/
+INDUSTRIAL PARTNERS
+STT
+Đối tác công nghiệp
+Website
+Logo
+1
+Toshiba Corporation, Japan
+www.toshiba.co.jp/worldwide/
+2
+Mitani Sangyo Co.Ltd., Japan
+www.mitani.co.jp/EN/
+3
+Synopsys Co.Ltd
+www.synopsys.com
+4
+Mentor Graphics Co.Ltd.

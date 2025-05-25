@@ -1,0 +1,66 @@
+Nguồn: uet.vnu.edu.vn_hoi_nghi_sinh_vien_nghien_cuu_khoa_hoc_truong_dai_hoc_cong_nghe_lan_thu_17_nhieu_cong_trinh_co_chat_luong_cao_.txt
+
+Danh
+sách
+công
+trình
+đề
+cử
+tham
+dự
+hội
+nghị:
+TT
+Tên công trình
+Tên SV/
+Nhóm SV thực hiện
+Lớp
+I
+KHOA VẬT LÝ KỸ THUẬT VÀ CÔNG NGHỆ NANO
+1
+Khảo sát cấu trúc pin mặt trời xếp chồng (tandem solar cells) bằng phương pháp mô phỏng quang-điện
+Nguyễn Quốc Tuấn
+K62-E
+2
+Xây dựng bộ thí nghiệm chuyển đổi/lưu trữ năng lượng dạng bánh đà
+Nguyễn Văn Thiện
+K63-E
+3
+Robot chở hàng thông minh
+Phạm Thị Thanh Huyền
+K62-E
+II
+KHOA CƠ HỌC KỸ THUẬT VÀ TỰ ĐỘNG HÓA
+1
+Nghiên cứu thiết kế và chế tạo mô hình bàn tự cân bằng. Nguyễn Văn Hậu
+Đoàn Duy Hiếu
+Lê Mạnh Long
+K63-M1
+2
+Bộ công cụ phát hiện vết nứt dựa trên thuật toán tổng hợp ảnh nhòe đa mức
+Đoàn Quang Mạnh
+Lê Công Hiếu
+Nguyễn Văn Duy
+Nguyễn Ngọc Khang
+K63-M2
+K63-H1
+K63-M2
+K63-H1
+3
+Ứng dụng IoT xây dựng hệ thống giám sát trẻ sơ sinh thông minh
+Lương Tuấn Anh
+Vũ Văn Hoàng
+Nguyễn Nhật Lâm
+K63-M2
+4
+Tính toán thiết kế cơ cấu bàn kẹp 3 ngón
+Lê Hoài Nam
+Lê Mạnh Dũng
+Hoàng Thế Dương
+Bùi Thị Dương Hải
+K62-M3
+K64-M-CLC2
+K64-M-CLC2
+K64-M-CLC2
+5
+Nghiên cứu ứng dụng đầu gắp mềm tích hợp cho robot.

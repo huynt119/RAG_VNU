@@ -1,0 +1,16 @@
+UET’s student group participating in the 21st LSI Design Contest in Japan
+According to the announcement of the Organizing Committee, SISLAB team consists of 4 students of Faculty of Electronics and Telecommunications, including Ho Huy Hung, Nguyen Xuan Thuan, Nguyen Van Thuat, Nguyen Van Dung, K59 who were selected for the final round of the 21st LSI Contest in Okinawa, Japan on March 9, 2018.
+Students Nguyen Van That, Nguyen Xuan Thuan, Nguyen Van Dung, Ho Huy Hung (left to right) attending the 21st LSI Contest.
+This is an annual electronic design competition with the participation of many Asian countries hosted by Ryukyu University of Technology and Kyushu Institute of Technology (KyuTech). The competition is also sponsored by the Institute of Electronics, Information and Communication Engineers (IEICE), Synopsys, Electronic Device Industry News, Gigafirm, AnalogDevices, Okinawa Industrial Association.
+The competition is designed to create the environment for the teams to exchange knowledge and to stimulate the passion of students in the field of electronic design, especially the design of large Scale Integrated (LSI). Each year, a prominent theme will be chosen for the teams to compete. In 2018, the theme of the competition was the hardware design of the “Neural Network”. In the preliminary round, over 100 different design projects came from student groups, graduate students from technical universities of different countries such as Japan, Korea, Indonesia, Malaysia, Singapore … Approximately 10 intelligent and creative design teams were selected to participate in the Okinawa Round-up to defend their project before the jury. The winning team will receive the award from by the Institute of Electronics, Information and Communication Engineers (IEICE).
+SISLAB student group, VNU University of Engineering and Technology is one of the 10 teams selected by the Organizing Committee and funded to Japan to report to the international jury. In this report, SISLAB students presented Neuron network design with the idea of ​​integration with Stochastic Computing and approximation techniques. The optimizations in this design allow up to 20% reduction in hardware size compared to the reference architecture offered by the competition. Research results were made at the
+VNU Key Laboratory for Smart Integrated Systems
+. This is the second time that VNU-UET students have entered the final round of the LSI Design Contest (first in 2015).
+(UET News)
+By KHCN&HTPT
+|
+News & Events
+|
+Tags:
+LSI
+5069 Views

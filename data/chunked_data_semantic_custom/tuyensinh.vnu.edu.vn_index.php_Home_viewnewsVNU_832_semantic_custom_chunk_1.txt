@@ -1,0 +1,85 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_832.txt
+
+TRƯỜNG ĐẠI HỌC GIÁO DỤC
+(
+1.0
+00 chỉ tiêu)
+900
+100
+Nhóm ngành: Sư phạm Toán và Khoa học tự nhiên
+(dự kiến: 300 chỉ tiêu)
+270
+30
+6.1
+QHS
+GD1
+Sư phạm Toán
+270
+30
+A00
+A01
+B00
+D01
+Sư phạm Vật lý
+Sư phạm Hóa học
+Sư phạm Sinh học
+Sư phạm Khoa học
+t
+ự nhiên
+D90
+Nhóm ngành: Sư phạm Ngữ văn, Lịch sử và Địa lý
+(dự kiến:  220 chỉ tiêu)
+195
+25
+C00
+D01
+D14
+D15
+6.2
+QHS
+GD2
+Sư phạm Ngữ Văn
+195
+25
+Sư phạm Lịch sử
+Sư phạm Lịch sử và Địa lý
+Chỉ tiêu đối với các ngành sư phạm (đào tạo giáo viên) của Trường ĐHGD, ĐHNN chỉ là dự kiến; ĐHQGHN sẽ cập nhật ngay sau khi có Thông báo của Bộ GDĐT
+Nhóm ngành: Khoa học giáo dục (230 chỉ tiêu)
+210
+20
+6.3
+QHS
+GD3
+Quản trị trường học
+210
+20
+A00
+B00
+D01
+C00
+Quản trị Công nghệ giáo dục
+Quản trị chất lượng giáo dục
+Tham vấn học đường
+Khoa học giáo dục
+6.4
+QHS
+GD4
+Giáo dục Tiểu học
+135
+15
+A00
+B00
+D01
+C00
+6.4
+QHS
+GD45
+Giáo dục
+Mầm non
+90
+10
+A00
+B00
+D01
+C00
+7.

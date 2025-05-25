@@ -1,0 +1,155 @@
+Nguồn: uet.vnu.edu.vn_lich_hoc_bo_sung_kien_thuc_ky_thi_tuyen_sinh_sau_dai_hoc_dot_1_nam_2023_.txt
+
+Trần Hoàng Việt
+312-GĐ2
+Học phần dành cho các chuyên ngành thuộc Khoa CNTT
+14
+06/04/2023
+5
+18h
+Công nghệ phần mềm
+312-GĐ2
+15
+13/04/2023
+5
+18h
+Công nghệ phần mềm
+312-GĐ2
+16
+20/04/2023
+5
+18h
+Công nghệ phần mềm
+312-GĐ2
+17
+23/04/2023
+CN
+8h
+Công nghệ phần mềm
+312-GĐ2
+18
+27/04/2023
+5
+18h
+Công nghệ phần mềm
+312-GĐ2
+19
+07/04/2023
+6
+18h
+Cơ sở dữ liệu
+PGS. Trần Trọng Hiếu
+312-GĐ2
+Học phần dành cho các chuyên ngành thuộc Khoa CNTT
+20
+08/04/2023
+7
+14h
+Cơ sở dữ liệu
+312-GĐ2
+21
+14/04/2023
+6
+18h
+Cơ sở dữ liệu
+312-GĐ2
+22
+21/04/2023
+6
+18h
+Cơ sở dữ liệu
+312-GĐ2
+23
+22/04/2023
+7
+14h
+Cơ sở dữ liệu
+312-GĐ2
+24
+28/04/2023
+6
+18h
+Cơ sở dữ liệu
+312-GĐ2
+25
+03/04/2023
+2
+18h
+Toán học rời rạc
+TS. Tô Văn Khánh
+312-GĐ2
+Học phần dành cho các chuyên ngành thuộc Khoa CNTT
+26
+10/04/2023
+2
+18h
+Toán học rời rạc
+312-GĐ2
+27
+15/04/2023
+7
+8h
+Toán học rời rạc
+312-GĐ2
+28
+16/04/2023
+CN
+18h
+Toán học rời rạc
+312-GĐ2
+29
+17/04/2023
+2
+18h
+Toán học rời rạc
+312-GĐ2
+30
+20/04/2023
+5
+18h
+Toán học rời rạc
+312-GĐ2
+31
+08/04/2023
+7
+8h
+Lập trình hướng đối tượng
+TS. Nguyễn Văn Sơn
+302-GĐ2
+Học phần dành cho các CN KTPM, KHMT thuộc Khoa CNTT
+32
+09/04/2023
+CN
+8h
+Lập trình hướng đối tượng
+312-GĐ2
+33
+15/04/2023
+7
+18h
+Lập trình hướng đối tượng
+302-GĐ2
+34
+16/04/2023
+CN
+8h
+Lập trình hướng đối tượng
+312-GĐ2
+35
+22/04/2023
+7
+8h
+Lập trình hướng đối tượng
+302-GĐ2
+36
+23/04/2023
+CN
+18h
+Lập trình hướng đối tượng
+312-GĐ2
+37
+15/04/2023
+7
+8h
+Điện tử số
+PGS.TS.

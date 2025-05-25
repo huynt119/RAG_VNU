@@ -1,0 +1,10 @@
+Nguồn: uet.vnu.edu.vn_truong_dhcn_xay_dung_ban_viet_nam_trong_de_tri_thuc_viet_hoa_.txt
+
+Toàn bộ dữ liệu về địa điểm trụ sở cơ quan bộ, cơ quan ngang bộ, cơ quan trực thuộc chính phủ, từ trung ương đến địa phương như: Các cơ sở đào tạo, y tế, bệnh viện, phòng khám, nhà thuốc, cơ sở văn hóa, tôn giáo, du lịch, danh lam thắng cảnh, bưu điện, bưu cục. Lớp dữ liệu về địa chỉ sẽ chi tiết đến từng nhà: tọa độ địa lý + số nhà + ngách/ngõ/đường/phố + loại dịch vụ cung cấp tại số nhà đó như nhà hàng, khách sạn, cây xăng, ngân hàng, ATM, bến tàu, bến xe khách, bến xe buýt, bảo tàng, thư viện,…
+Giao diện của hệ thống Bản đồ số Việt Nam VNMap
+Ở nhóm sản phẩm thứ 2 đề án hướng tới là Thư viện dịch vụ bản đồ Geo_API phục vụ cộng đồng các nhà phát triển bên thứ ban (3
+rd
+Party App) với nhiều tài liệu hướng dẫn sử dụng chi tiết. Ở nhóm sản phẩm 3 là website có địa chỉ
+http://vnmap.vn
+hiển thị toàn bộ cơ sở dữ liệu bản đồ số Việt Nam. Sản phẩm được xây dựng cho tra cứu thông qua máy tính và các app trên thiết bị di động với các chức năng tìm kiếm (geocoding), tìm đường cho ô tô, xe đạp, người đi bộ (routing)…
+Đến thời điểm hiện nay (tháng 9/2018) nhóm VNMap đã xây dựng xong phiên bản v1.0 của hệ thống Bản đồ số Việt Nam, phiên bản v1.0 của phần mềm chỉnh sửa dữ liệu trên web dành cho các chuyên gian dữ liệu, phiên bản v1.0 của phần mềm thu thập dữ liệu trên điện thoại di động, dữ liệu thử nghiệm trên đường Xuân Thủy.

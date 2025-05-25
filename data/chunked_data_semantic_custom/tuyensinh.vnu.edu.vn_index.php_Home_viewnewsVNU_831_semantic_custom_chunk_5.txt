@@ -1,0 +1,100 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_831.txt
+
+1
+QHE
+QHE40
+Quản trị kinh doanh
+(CTĐT CLC)
+170
+40
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D09
+Tiếng Anh
+D10
+Tiếng Anh
+5. 2
+QHE
+QHE41
+Tài chính Ngân hàng
+(CTĐT CLC)
+150
+20
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D09
+Tiếng Anh
+D10
+Tiếng Anh
+5. 3
+QHE
+QHE42
+Kế toán
+(CTĐT CLC)
+160
+10
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D09
+Tiếng Anh
+D10
+Tiếng Anh
+5. 4
+QHE
+QHE43
+Kinh tế quốc tế
+(CTĐT CLC)
+210
+60
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D09
+Tiếng Anh
+D10
+Tiếng Anh
+5. 5
+QHE
+QHE44
+Kinh tế
+(CTĐT CLC)
+200
+10
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D09
+Tiếng Anh
+D10
+Tiếng Anh
+5. 6
+QHE
+QHE45
+Kinh tế phát triển**
+(CTĐT CLC)
+160
+10
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D09
+Tiếng Anh
+D10
+Tiếng Anh
+5.6
+QHE
+QHE50
+Quản trị kinh doanh
+(CTĐT dành cho các tài năng thể thao)
+100 chỉ tiêu
+(
+Xét tuyển dựa trên đánh giá hồ sơ thí sinh là thành viên đội tuyển quốc gia tham gia thi đấu các giải quốc tế chính thức, vận động viên cấp 1, kiện tướng, vận động viên).

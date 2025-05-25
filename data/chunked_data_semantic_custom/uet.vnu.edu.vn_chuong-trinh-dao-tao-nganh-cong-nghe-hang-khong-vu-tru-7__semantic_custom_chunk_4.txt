@@ -1,0 +1,334 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-hang-khong-vu-tru-7_.txt
+
+Khối kiến thức định hướng chuyên sâu
+27
+V.3.1. Định hướng Công nghệ thông tin, Điện tử Hàng không
+27/69
+42
+AER3005
+Nhập môn viễn thám
+Introduction to Remote Sensing
+3
+45
+43
+AER3006
+Nhập môn Hệ thống thông tin địa lý
+Introduction to GIS
+3
+45
+44
+AER3007
+Xử lý ảnh viễn thám
+Digital Image Processing in Remote Sensing
+3
+30
+15
+45
+AER3008
+Phân tích dữ liệu không gian
+Geospatial Data Analysis
+3
+30
+15
+46
+AER3009
+Hiển thị thông tin địa lý ba chiều
+3D GeoVisualization
+3
+30
+15
+47
+AER3010
+Tính toán lớn trên dữ liệu không gian
+Spatial Data Computation
+3
+30
+15
+48
+AER3011
+Cơ sở dữ liệu không gian
+Spatial Database Systems
+3
+30
+15
+49
+AER3012
+Kho dữ liệu không gian
+Spatial Datawarehouse
+3
+30
+15
+50
+AER3013
+Hạ tầng thông tin không gian
+Spatial Data Infrastructure
+3
+45
+51
+AER3014
+Các vấn đề hiện đại trong Viễn thám và GIS
+Advanced topics in Remote Sensing and GIS
+3
+45
+52
+INT2204
+Lập trình hướng đối tượng
+Object-oriented Programming
+3
+30
+15
+INT1006
+53
+INT3108
+Lập trình nhúng và thời gian thực
+Real-time and Embedded Programming
+3
+30
+15
+INT2205,
+INT2202
+54
+AER3017
+Phát triển hệ thống nhúng bảo mật
+Development of Secure Embedded Systems
+3
+30
+15
+55
+ELT3048
+Hệ thống vi xử lý
+Microprocessors
+3
+30
+15
+56
+ELT3057
+Truyền thông số và mã hóa
+Digital Communications and Coding Theory
+3
+45
+57
+ELT3069
+Thiết kế hệ thống máy tính nhúng
+Embedded Computing System Design
+3
+30
+15
+58
+ELT2036
+Kỹ thuật điện từ
+Electromagnetics Engineering
+3
+45
+59
+ELT3060
+Kỹ thuật cao tần
+HF Techniques
+3
+45
+60
+ELT3189
+Kỹ thuật Anten
+Antenna Techniques
+3
+45
+61
+AER3019
+Nguyên lý Rada
+Rada Principles
+3
+45
+62
+AER3020
+Mạng truyền dữ liệu
+Data communication networks
+3
+45
+63
+ELT3098
+Truyền thông vệ tinh
+Satellite Communication
+3
+45
+64
+AER3021
+Nguyên lý xử lý tín hiệu Rada
+Fundamentals of Radar Signal Processing
+3
+45
+V.3.2. Địnhhướng Động lực học, Điều khiển và Cơ khí Hàng không
+27/60
+65
+AER3023
+Động lực học bay và điều khiển
+Flight Dynamics and Control
+3
+30
+15
+66
+EMA3101
+Kết cấu thiết bị bay và đồ án
+Aircraft Structure and Term Project
+3
+30
+15
+67
+EMA3109
+Khí động học thiết bị bay
+Introduction to Dynamics of Flight Vehicles
+3
+30
+15
+68
+EMA3048
+Thử nghiệm kết cấu thiết bị không gian
+Structure Testing of Aerospace Devices
+3
+30
+15
+EMA3101
+69
+AER3024
+Công nghệ chế tạo, CAM và CNC
+CAM and CNC
+3
+30
+15
+70
+AER3025
+Kỹ thuật mô hình và mô phỏng thiết bị bay
+Modeling and simulation of flying equipment
+3
+30
+15
+71
+AER3026
+Kiểm tra và bảo dưỡng máy bay
+Aviation Diagnostics and Maintenance
+3
+30
+15
+72
+EMA3014
+Cơ học quỹ đạo bay
+Trajectory Mechanics
+3
+30
+15
+MAT1093
+MAT1042
+73
+AER3027
+Cảm biến, điều khiển vệ tinh và đồ án
+Sensor, Satellite Control and Term Project
+3
+30
+15
+74
+AER3028
+Thiết kế, tích hợp vệ tinh nhỏ và đồ án
+Design and Assembly of Small Satellite and Term Project
+3
+30
+15
+75
+AER3036
+Vật liệu Hàng không
+Aerospace Materials
+3
+45
+76
+AER3029
+Mô phỏng, phân tích và điều khiển hệ thống động lực học
+Modelling, Analysis & Control
+of Dynamical Systems
+3
+30
+15
+77
+EMA3064
+Điều khiển điện thủy khí
+Elec-Hydrolique Control Systems
+3
+30
+15
+78
+AER3030
+Hệ thống Điều khiển phản hồi tuyến tính
+Linear Feedback Control Systems
+3
+40
+5
+79
+AER3031
+Lab Hệ thống điều khiển
+Control Systems Lab
+3
+10
+35
+80
+AER3032
+Hệ thống Điều khiển nhúng
+Embbeded Control Systems
+3
+30
+15
+81
+AER3033
+Động lực học bay và điều khiển
+Flight Dynamics and Control
+3
+30
+15
+82
+AER3034
+Phân tích dữ liệu và nhận dạng hệ thống
+Data analysis and System Identification
+3
+30
+15
+83
+AER3035
+Nguyên lý Định vị và dẫn đường Thiết bị hàng không
+Navigation and Guidance of Aerospace Vehicles Principles
+3
+40
+5
+84
+INT3108
+Lập trình nhúng và thời gian thực
+Real-time and Embedded Programming
+3
+30
+15
+INT2205,
+INT2202
+V.4
+Thực tập
+8
+85
+AER4001
+Dự án thực tế
+Capstone Projects
+5
+30
+45
+86
+AER4002
+Thực tập tốt nghiệp
+Graduate Practice
+3
+45
+V.5
+Đồ án tốt nghiệp
+10
+87
+AER4050
+Đồ án tốt nghiệp
+Thesis
+10
+150
+Tổng cộng
+160
+Ghi chú:
+Học phần ngoại ngữ thuộc khối kiến thức chung được tính vào tổng số tín chỉ của chương trình đào tạo, nhưng kết quả đánh giá các học phần này không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy.

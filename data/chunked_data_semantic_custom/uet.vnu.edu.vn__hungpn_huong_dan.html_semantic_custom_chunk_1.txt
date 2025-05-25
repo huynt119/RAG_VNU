@@ -1,0 +1,258 @@
+Nguồn: uet.vnu.edu.vn__hungpn_huong_dan.html.txt
+
+Danh sách hướng dẫn, luận án, luận văn và khóa luận
+Luận án Tiến sĩ
+Năm 2017
+§
+Trần
+Nguyên Hương,
+Cải tiến một số phương
+pháp sinh dữ liệu kiểm thử tự động từ mã nguồn
+Năm 2015
+§
+Trần
+Hoàng Việt,
+Kiểm chứng dựa trên phương
+pháp giả định – đảm bảo cho phần mềm dựa trên thành phần
+Lê Bá Cường, Các phương pháp phân tích sự ảnh hưởng giữa các thành
+phần mã nguồn
+Năm 2011
+Lê Chí Luận, Đặc tả và kiểm
+chứng từng phần cho phần mềm dựa trên biểu đồ tuần tự (tốt nghiệp 2018)
+Luận văn thạc sĩ
+Năm 2019
+Nguyễn Thị Khánh Chi,
+Nghiên cứu phương pháp sinh dữ liệu kiểm thử từ mã nguồn và ứng dụng xây dựng
+hệ thống chấm bài tập lập trình
+Năm 2018
+Nguyễn Thị Thu
+Hà
+,
+Nghiên cứu một số giải pháp kiểm thử giao diện tự động sử dụng
+Ranorex
+Nguyễn Thị Hồng
+Vân, Phương pháp phân tích sự ảnh hưởng của các thành phần và ứng dụng cho
+kiểm thử hồi quy trong các dự án Java EE
+Lê Quang Hoan,
+Kiến trúc phần mềm chịu tải cao dựa trên nền tảng điện toán đám mây
+Microsoft Azure (hướng dẫn phụ)
+Nguyễn Tuấn
+Anh, Tối ưu việc lựa chọn số lượng đầu vào khi áp dụng mạng nơron nhân tạo
+trong bài toán dự đoán điểm đích của một chuyến taxi
+Năm 2017
+Phạm Thị Tố Nga
+,
+Đặc
+tả và kiểm chứng các hệ thống thời gian thực sử dụng Uppaal
+Nguyễn Đức Anh,
+Phương
+pháp phân tích mã nguồn và sinh dữ liệu kiểm thử cho các dự án C/C++
+Nguyễn Đắc Nam,
+Hệ thống tự động phân luồng câu hỏi và giải đáp yêu cầu trực tuyến
+Năm 2016
+Trần Thị Thúy Hằng,
+Phương pháp kiểm thử tự động tương tác giao diện người dùng cho ứng dụng
+Web
+Vũ Tuấn Anh,
+Theo dõi đối tượng (Object Tracking) dựa trên Giải thuật di truyền và tối
+ưu hóa bầy đàn
+Nguyễn Văn Hòa,
+Phương pháp sinh dữ liệu kiểm thử tự động từ biểu đồ tuần tự UML, biểu đồ
+lớp và ràng buộc OCL
+Lê Văn Hùng,
+Phương pháp chuyển đổi qua lại giữa các đặc tả hình thức cho các hệ chuyển
+trạng thái
+Năm 2015
+Nguyễn Trọng Khánh, Hướng
+tiếp cận thời gian thực cho việc tính toán và ước lượng tài nguyên sử dụng
+của chương trình
+§
+Phan
+Thị Thu Hà, Phương pháp sinh dữ liệu kiểm thử tự động cho các ứng dụng Java
+§
+Trần
+Quốc Nam, Phương pháp kiểm chứng tính đúng đắn cho các biểu đồ tuần tự UML 2.0
+§
+Trần
+Thị Mùi, Phương pháp sinh bộ kiểm thử từ biểu đồ tuần tự UML 2.0 và ứng dụng
+cho kiểm thử phần mềm
+Đậu Quốc Toản, Nghiên cứu
+khả năng chuyển đổi giữa các đặc tả hình thức và các ứng dụng trong kiểm
+chứng phần mềm
+Hoàng Thị Luy, Kiểm thử hiệu
+năng và ứng dụng đảm bảo chất lượng cho các ứng dụng Web
+Năm 2014
+Phạm Văn Cường, A Method
+and Tool Support for Automated Data Flow Testing of Java Programs
+Nguyễn Quang Trung, An
+Efficient Method for Automated Control Flow Testing of Programs
+Nguyễn Thế Huy, Chứng minh
+tính đúng đắn cho bài toán xung đột tài nguyên cho các hệ đa tác tử
+Năm 2013
+Đặng Thị Thu, Kiểm thử tích
+hợp với độ phức tạp tương đương với kiểm thử thành phần
+Năm 2012
+Kiều Tuấn Dũng, Bài toán
+Workflow Scheduling trong môi trường điện toán đám mây
+Năm 2011
+Lê Bá Cường, Nghiên cứu
+phương pháp xây dựng mô hình tự động
+Vũ Văn Lĩnh, Nghiên cứu và
+thiết kế kiến trúc cho các hệ thống lớn và phức tạp
+Nguyễn Minh Cương, Kiểm chứng
+từng phần cho PM hướng thành phần
+Mai Thị Kim Oanh, Khảo sát một số phương pháp sinh bộ
+kiểm thử trong kiểm thử hộp đen
+Hoàng Phương Thức, Đặc tả và kiểm chứng thiết kế của
+các hệ thống tương tranh
+Năm 2010
+Tạ Thị Thu Hiền, Nghiên cứu về chứng minh tự động trong
+CafeOBJ
+Khóa luận cử nhân
+Năm 2019
+Bùi Châu Anh, Phương pháp xác định các đối tượng
+giao diện của các ứng dụng Android
+Trần Thị Hà, Nghiên cứu giải pháp tự động xác định
+các phần tử cho giao diện các ứng dụng Web
+Nguyễn Việt Hòa, Công cụ hỗ trợ kiểm tra sự
+tuân thủ các quy chuẩn viết mã nguồn Java
+Trần Thị Thu Hường, Phương pháp sinh kịch bản kiểm
+thử tự động cho giao diện của các ứng dụng Web
+Phạm Ngọc Quý, Xây dựng công cụ phát hiện sự
+tuân thủ mẫu thiết kế cho các dự án sử dụng Java
+Đỗ Văn Nam, Nghiên cứu một số giải pháp
+sinh dữ liệu kiểm thử tích hợp cho dự án C/C++
+Ngô Hải Yến, Xây dựng công cụ hỗ trợ phân tích sự
+ảnh hưởng mã nguồn cho các dự án C#
+Lê Đàm Bạch Cúc, A function summary generation
+method for compositional test generation of C/C++ projects
+Nguyễn Thị Thanh Huyền, Phương pháp sinh kịch bản
+kiểm thử tương tác giao diện cho các ứng dụng Android
+Năm 2018
+Bùi Quang Cường, Xây dựng công cụ hỗ trợ quản lý
+và đảm bảo chất lượng cho các phiên bản phần mềm
+Trần Đình Dương, Nghiên cứu giải pháp và xây dựng
+công cụ kiểm thử giao diện cho các ứng dụng trên nền tảng Windows
+Nguyễn Minh Hiếu, Xây dựng kiến trúc cho các ứng
+dụng doanh nghiệp dựa trên phân tích mã nguồn
+Đinh Tiến Lộc, Phân tích luồng dữ liệu nhằm xây
+dựng phụ thuộc giữa các thành phần mã nguồn trong các ứng dụng doanh nghiệp
+Phạm Quang Hưng, Xây dựng công cụ hỗ trợ đánh
+giá kỹ năng thực hành tin học cơ sở
+Trần Đức Toàn, Xây dựng bộ công cụ "Smart
+Codefun" hỗ trợ kĩ năng lập trình C/C++ cho sinh viên
+Hoàng Ngọc Phúc, Xây dựng hệ thống quản lý cán bộ
+cho Trường Đại học Công nghệ, ĐHQGHN
+Ma Văn Tụ, Xây dựng công cụ, hỗ trợ đánh giá kỹ
+năng thực hành tin học văn phòng
+Năm 2017
+Nguyễn Mạnh Hùng, Phương pháp hỗ trợ sinh kịch bản
+tương tác giao diện cho kiểm thử tự dộng
+Cao Hữu Đạt, Phát triển phân hệ điều vận xe cho
+hệ thống đặt và điều vận xe trực tuyến
+Nông Đức Huy, Phát triển phân hệ quản lý
+xe và khách hàng cho hệ thống đặt và điều vận xe trực tuyến
+Ngô Văn Thành, Phát triển phần mềm dành
+cho khách hàng sử dụng thiết bị iOS cho hệ thống đặt và điều vận xe trực tuyến
+Đoàn Văn Thiện, Xây dựng hệ thống quản trị doanh
+nghiệp tổng thể (ERP) sử dụng công nghệ Odoo
+Năm 2016
+Dương Tuấn Anh, Xây dựng công cụ kiểm thử dòng
+điều khiển tự động các đơn vị chương trình Java
+Nguyễn Công Hưng, Phương pháp và công cụ hỗ trợ
+phân tích sự ảnh hưởng của các thay đổi mã nguồn trong các dự án phần mềm sử dụng
+công nghệ Java
+Sầm Đức Vũ, Xây dựng công cụ hỗ trợ kiểm thử
+tích hợp cho các chương trình C++
+Năm 2015
+Nguyễn Đức Anh, Xây dựng công cụ kiểm thử tự động
+cho các chương trình C
+Nguyễn Đức Hai, Xây dựng hệ thống quản lý cán bộ
+Đoàn cho TW đoàn TNCS Hồ Chí Minh
+Nguyễn Sỹ Hiếu, Phương pháp chuyển đổi đặc tả
+BPEL- sang LTS cho các dịch vụ web
+Hoàng Trọng Lộc, Tìm hiểu và đánh giá các cơ chế
+bất đồng bộ cho ứng dụng web (đồng hướng dẫn)
+Nguyễn Văn Sơn, Xây dựng giao thức đàm phán cho
+dịch vụ web kết hợp (đồng hướng dẫn)
+Năm 2014
+Lê Khánh Trình, Phương pháp và công cụ kiểm thử
+tự động cho các ứng dụng web
+Phạm Văn Doanh, Phát triển ứng dụng quản lý điểm
+trên nền web
+Vũ Việt Dũng, Dịch vụ web hỗ trợ kiểm tra chế độ
+dinh dưỡng cho cộng đồng
+Nguyễn Thành Nhân, Công cụ kiểm thử luồng dữ liệu
+cho các chương trình C/C++
+Năm 2013
+Vũ Viết Đức, Kiểm thử tự động giao diện cho các ứng
+dụng web
+Trần Trọng Hoá, Kiểm chứng chương trình C# trong
+ngữ cảnh tiến hóa
+Hà Văn Hội, Nghiên cứu và ứng dụng tối ưu
+hóa bộ máy tìm kiếm cho hệ thống website tin từ vietduc24h.com (Phần OnPage)
+Lê Văn Hùng, Kiểm thử tự động các hệ thống
+trên nền web
+Trương Đình Khánh, Xây dựng hệ thống quản lý cán
+bộ và thanh toán tại trường mầm non
+Vũ Xuân Tùng, Xây dựng hệ thống quản lý học sinh
+trường mầm non
+Vũ Xuân Khiêm, Nghiên cứu và ứng dụng tối ưu hóa
+bộ máy tìm kiếm cho hệ thống website tin tức vietduc24h.com (phần offPage)
+Năm 2012
+Đỗ Tất
+Thắng, A method for automated testing of web applications (NVCL)
+Phạm
+Công Quang, A landscape Look up Application on Iphone for Tourists, (đồng hướng
+dẫn) (NVCL)
+Nguyễn
+Lý Nam, HTML5
+syntax and layout testing,
+(hướng dẫn chính) (NVCL)
+Hoàng
+Xuân Mạnh
+,
+Liferay
+và ứng dụng xây dựng Website
+(CLC)
+Hoàng
+Đình Thức
+,
+Hệ
+thống quản lý feedback của sinh viên
+(CLC)
+Nguyễn
+Quốc Khánh
+,
+Hệ
+thống quản lý trường mầm non
+Năm 2011
+Đậu
+Quốc Toản, Chuyển đổi giữa các phương pháp biểu diễn của LTS và ứng dụng cho
+công cụ kiểm chứng PM
+Vũ Hồng
+Long, Xây dựng giao diện đồ họa cho AGTool (CLC)
+Nguyễn
+Anh Tuấn, Nghiên cứu đặc tả trong Spec Explorer (CLC)
+Vũ
+Tuấn Anh, Sử dụng Spec Explorer cho kiểm thử tự động PM (hướng dẫn chính)
+Trần
+Quốc Nam, Xây dựng ứng dụng sử dụng ngôn ngữ OCaml (hướng dẫn chính)
+Năm 2010
+Nông
+Gia Tự, Đặc tả và kiểm chứng phần mềm sử dụng NuSMV
+Đoàn
+Trung Kiên, Kiểm thử dựa trên mô hình
+Lê Hồng
+Phong, Đặc tả và kiểm chứng các phần mềm tương tranh
+Trần
+Thị Vân Dung, Nghiên cứu về kiểm chứng phần mềm sử dụng Spin (đồng hướng dẫn)
+Nguyễn
+Xuân Hưng, Xây dựng chương trình quản lý báo cáo trong ngân hàng (đồng hướng dẫn)
+Đỗ
+Ngọc Thiện, Xây dựng HT giải bài toán SMT hiệu năng cao - phần máy chủ (đồng hướng
+dẫn)
+Hoàng
+Thế Tùng, Xây dựng HT giải bài toán SMT hiệu năng cao - phần máy trạm (đồng hướng
+dẫn
+)

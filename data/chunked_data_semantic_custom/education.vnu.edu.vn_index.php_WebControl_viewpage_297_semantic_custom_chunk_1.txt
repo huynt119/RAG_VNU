@@ -1,0 +1,99 @@
+Nguồn: education.vnu.edu.vn_index.php_WebControl_viewpage_297.txt
+
+- Mã số ngành đào tạo:
+7140202
+- Danh hiệu tốt nghiệp:
+Cử nhân
+Hình thức tổ chức đào tạo:
+Liên thông vừa làm vừa học
+- Tên văn bằng sau tốt nghiệp
+:
++ Tiếng Việt: Cử nhân Giáo dục Tiểu học. + Tiếng Anh: The Degree of
+Bachelor
+in Primary Teacher Education. - Đơn vị đào tạo:
+Trường Đại học Giáo dục, Đại học Quốc gia Hà Nội
+Tổng số tín chỉ của chương trình đào tạo:
+65
+tín chỉ
+Khối kiến
+thức chung
+:
+5
+tín chỉ
++
+Ngoại ngữ B1
+5 tín chỉ
+Khối kiến thức theo lĩnh vực:
+8
+tín chỉ
+Khối kiến thức theo khối ngành:
+1
+1
+tín chỉ
+Khối kiến thức theo nhóm ngành:
+6
+tín chỉ
+Khối kiến thức ngành
+:
+30 tín chỉ
+Kiến thức thực tập và tốt nghiệp
+:
+5
+tín chỉ
+2. Khung chương trình đào tạo
+STT
+Mã
+học phần
+Học phần
+Số tín chỉ
+Số giờ tín chỉ
+Mã số học phần tiên quyết
+Lí
+thuyết
+Thực hành
+Tự học
+I.
+Khối kiến thức chung
+5
+1
+FLF1107
+Ngoại ngữ B1
+Foreign Language B1
+5
+20
+35
+20
+I
+I.
+Khối kiến thức theo lĩnh vực
+8
+2
+PSE2009
+Nhập môn khoa học giáo dục
+Introduction to Educational sciences
+3
+3
+0
+10
+5
+3
+EDT2001
+Nhập môn công nghệ giáo dục
+Introduction to  Educational Technology
+2
+2
+0
+5
+5
+4
+PSE2004
+Phương pháp nghiên cứu khoa học giáo dục
+Methodology of Educational Research
+3
+3
+0
+10
+5
+II
+I
+.

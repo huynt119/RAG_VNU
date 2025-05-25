@@ -1,0 +1,18 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_camnang_57.txt
+
+Thang điểm xét tuyển: điểm ngoại ngữ tính hệ số 2, sau đó quy về thang điểm 30 và cộng điểm ưu tiên theo quy định. Điểm xét tuyển
+= [(Điểm môn 1 + Điểm môn 2 + (Điểm Ngoại ngữ x 2))/4 x 3] + điểm thưởng + điểm ưu tiên (nếu có)
+Điểm thưởng
+: xem chi tiết tại mục 4
+Điểm ưu tiên
+= [(30 – Tổng điểm đạt được đã bao gồm điểm thưởng)/7,5] × Mức điểm ưu tiên khu vực, đối tượng
+Thí sinh phải đáp ứng ngưỡng đảm bảo chất lượng đầu vào của Bộ GD&ĐT, ĐHQGHN và Trường ĐH Ngoại ngữ quy định. Phương thức 3: Xét tuyển chứng chỉ ngoại ngữ kết hợp với kết quả thi tốt nghiệp THPT năm 2025
+Thí sinh sử dụng chứng chỉ ngoại ngữ quy đổi sang thang điểm 10 kết hợp với 2 môn còn lại trong tổ hợp xét tuyển của Nhà trường để đăng ký xét tuyển không giới hạn số lượng nguyện vọng vào Trường. Bảng quy đổi chứng chỉ ngoại ngữ và danh sách tổ hợp xét tuyển xem tại bảng kèm theo. Thang điểm xét tuyển: điểm quy đổi chứng chỉ ngoại ngữ tính hệ số 2, sau đó quy về thang điểm 30 và cộng điểm ưu tiên theo quy định. Điểm xét tuyển
+= [(Điểm môn 1 + Điểm môn 2 + (Điểm quy đổi chứng chỉ sang thang điểm 10 x 2))/4 x 3] + điểm thưởng + điểm ưu tiên (nếu có)
+Điểm thưởng
+: xem chi tiết tại mục 4
+Điểm ưu tiên
+= [(30 – Tổng điểm đạt được đã bao gồm điểm thưởng)/7,5] × Mức điểm ưu tiên khu vực, đối tượng
+Thí sinh phải đáp ứng ngưỡng đảm bảo chất lượng đầu vào của Bộ GD&ĐT, ĐHQGHN và Trường ĐH Ngoại ngữ quy định. Phương thức 4: Xét tuyển bằng kết quả bài thi Đánh giá năng lực học sinh THPT do ĐHQGHN tổ chức
+Thí sinh sử dụng kết quả bài thi ĐGNL do ĐHQGHN tổ chức, trong đó điểm hợp phần Tiếng Anh đạt tối thiểu 30/50 điểm. Thang điểm xét tuyển: Xét tuyển theo thang điểm 150, sau đó quy về thang 30 theo công thức quy đổi chuẩn của ĐHQGHN và cộng điểm ưu tiên theo quy định. Thí sinh phải đáp ứng ngưỡng đảm bảo chất lượng đầu vào do ĐHQGHN quy định. Phương thức 5: Xét tuyển chứng chỉ kết hợp với kết quả học tập bậc THPT
+Đối tượng xét tuyển: Thí sinh là học sinh THPT thuộc ĐHQGHN hoặc học sinh hệ chuyên/lớp chuyên của các trường THPT chuyên cấp tỉnh, thành phố trực thuộc trung ương có kết quả học tập cả 3 năm cấp THPT được đánh giá mức tốt (học lực xếp loại giỏi trở lên).

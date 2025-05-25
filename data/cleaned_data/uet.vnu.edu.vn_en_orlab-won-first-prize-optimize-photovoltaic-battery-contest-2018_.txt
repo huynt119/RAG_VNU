@@ -1,0 +1,41 @@
+ORLab won the first prize in “Optimize Photovoltaic Battery” contest in 2018
+ORLAB, under the guide of PhD. Ha Minh Hoang – Faculty of Information and Technology lecturer, won the first prize in Optimize Photovoltaic Battery contest held by drivendata.org with the reward 12.000 euro (more than 300 millions dong)
+The contest was held on the website:
+http://drivendata.org
+– a website specializing in holding online contest about data science. Drivendata.org is a start-up project belongs to Innovation Lab of Harvard University. On the same time on the website, there are a number of simultanously holding  contests with a variety of topics. The topics are mostly the problems that are related to data science which have a big impact to the society, the community and the organizations. The contest in which ORLAB take part is sponsored by Schneider Electric with the topic “Optimize Photovoltaic Battery”.
+The result of ORLAB was announced on the website
+ORLAB with the members coming from K61 Faculty of Information and Technology includes students Vu Duy Manh, Vu Thi Thanh Lam, Hoang Van Phu, Dam Tien Thanh has successfully completed “Optimal Battery Charger System Control Software at buildings equipped smart electricity system” and won the first prize. This software helps the buildings with smart electricity system equipped decides when to charge the battery, when to discharge the electricity from battery, when to buy electricity from the grid to reduce the cost of electricity. The rule of the contest is applied to any individual, any team, from anywhere on the Earth to solve a same problem, on the same test cases data, and the winner is the one that has the least cost solution.
+Sharing about the process on completing the software, PhD. Ha Minh Hoang said that the contest had already begun since early February but it was not until early March 2018 the team had the information about the contest and registered it. At that time, there was only one month left to complete the project, also the shortage of the time and a number of incomplete ideas were the two big problems the team had to deal with. To achieve this reward, the team fortunately  got some luck. The contest was held on the website with mostly the contestants have the speciality in data sciene. They are used to applying the methods of machine learning rather than operational research. While the contest that those contestants were joining in was related to operational reasearch and optimization more than machine learning.
+Though the contest had one of the advantages of the team about operational research, but it was undeniable the efforts of the four students through the time. Before applying the contest, all the students had not had enough amount of knowledge necessary for the contest about operational research and only had one month to complete the project. This result is just a starting point, and they will need to train more, do more researh and study better to achieve higher successes in the future.
+Now, the four members of the team are joining the other fields of researching to publish more scientific news, as well as developing softwares ordered by enterprises. Vu Duy Manh and Vu Thi Thanh Lam are now solving the problems “Controling Optimal Shipping System using drones”, Hoang Van Phu joined in a researching team on developing softwares for FPT Telecom, Dam Tien Thanh is now participating in another optimal contest.
+This contest has the real meaning in helping the community to acknowledge about the working model of the smart electricity system at the buildings, so that to understand more the important role of smart electricity system in saving energy. To the team of UET, the contest had helped them know some basic knowledge about operational research, the way to apply those optimizing theories in solving real problems in life.
+By KHCN&HTPT
+|
+Research Centers, Labs & Institutes
+|
+4244 Views
+KHCN&HTPT
+Next
+List of laboratories and research centers in University of Engineering and Technology
+Related posts
+The Advanced Institute of Engineering and Technology (AVITECH)
+Key Laboratory for Micro-Nano Technology (Micro-Nano Lab)
+Center for Interdisciplinary Integrated Technology Field Monitoring
+Key Laboratory for Smart Integrated Systems (SISLAB)
+List of laboratories and research centers in University of Engineering and Technology
+ORLab won the first prize in “Optimize Photovoltaic Battery” contest in 2018
+ORLAB, under the guide of PhD. Ha Minh Hoang – Faculty of Information and Technology lecturer, won the first prize in Optimize Photovoltaic Battery contest held by drivendata.org with the reward 12.000 euro (more than 300 millions dong)
+The contest was held on the website:
+http://drivendata.org
+– a website specializing in holding online contest about data science. Drivendata.org is a start-up project belongs to Innovation Lab of Harvard University. On the same time on the website, there are a number of simultanously holding  contests with a variety of topics. The topics are mostly the problems that are related to data science which have a big impact to the society, the community and the organizations. The contest in which ORLAB take part is sponsored by Schneider Electric with the topic “Optimize Photovoltaic Battery”.
+The result of ORLAB was announced on the website
+ORLAB with the members coming from K61 Faculty of Information and Technology includes students Vu Duy Manh, Vu Thi Thanh Lam, Hoang Van Phu, Dam Tien Thanh has successfully completed “Optimal Battery Charger System Control Software at buildings equipped smart electricity system” and won the first prize. This software helps the buildings with smart electricity system equipped decides when to charge the battery, when to discharge the electricity from battery, when to buy electricity from the grid to reduce the cost of electricity. The rule of the contest is applied to any individual, any team, from anywhere on the Earth to solve a same problem, on the same test cases data, and the winner is the one that has the least cost solution.
+Sharing about the process on completing the software, PhD. Ha Minh Hoang said that the contest had already begun since early February but it was not until early March 2018 the team had the information about the contest and registered it. At that time, there was only one month left to complete the project, also the shortage of the time and a number of incomplete ideas were the two big problems the team had to deal with. To achieve this reward, the team fortunately  got some luck. The contest was held on the website with mostly the contestants have the speciality in data sciene. They are used to applying the methods of machine learning rather than operational research. While the contest that those contestants were joining in was related to operational reasearch and optimization more than machine learning.
+Though the contest had one of the advantages of the team about operational research, but it was undeniable the efforts of the four students through the time. Before applying the contest, all the students had not had enough amount of knowledge necessary for the contest about operational research and only had one month to complete the project. This result is just a starting point, and they will need to train more, do more researh and study better to achieve higher successes in the future.
+Now, the four members of the team are joining the other fields of researching to publish more scientific news, as well as developing softwares ordered by enterprises. Vu Duy Manh and Vu Thi Thanh Lam are now solving the problems “Controling Optimal Shipping System using drones”, Hoang Van Phu joined in a researching team on developing softwares for FPT Telecom, Dam Tien Thanh is now participating in another optimal contest.
+This contest has the real meaning in helping the community to acknowledge about the working model of the smart electricity system at the buildings, so that to understand more the important role of smart electricity system in saving energy. To the team of UET, the contest had helped them know some basic knowledge about operational research, the way to apply those optimizing theories in solving real problems in life.
+By KHCN&HTPT
+|
+Research Centers, Labs & Institutes
+|
+4244 Views

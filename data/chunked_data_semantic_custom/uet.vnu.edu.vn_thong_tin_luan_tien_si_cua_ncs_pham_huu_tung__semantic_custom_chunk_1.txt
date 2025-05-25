@@ -1,0 +1,13 @@
+Nguồn: uet.vnu.edu.vn_thong_tin_luan_tien_si_cua_ncs_pham_huu_tung_.txt
+
+Tóm tắt các kết quả mới của luận án:
+Mục tiêu nghiên cứu
+:
+Mục tiêu của luận án là nghiên cứu, đánh giá và đề xuất giải pháp nhằm nângcao khả năng bảo mật tại tầng vật lý trong mạng NOMA có sử dụng các kỹ thuậttruyền thông tiên tiến như truyền thông cộng tác, vô tuyến nhận thức, gây nhiễu cộng tác. Đối tượng nghiên cứu
+:
+Các kênh truyền Rayleigh fading và
+α
+–
+μ
+fading.Cơ sở lý thuyết bảo mật thông tin tầng vật lý và các kỹ thuật đảm bảo an toàn thông tin tầng vật lý trong mạng không dây.Các phép đo, phương pháp phân tích, đánh giá hiệu năng bảo mật hệ thống.Mạng đa truy cập không trực giao NOMA, mạng NOMA nhận thức dạng nền. Phương pháp nghiên cứu:
+Phương pháp nghiên cứu lý thuyết; Phương pháp phân tích toán học: Mô tả bằng toán học các mô hình mạng NOMA được đề xuất trong luận án, xây dựng các biểu thức toán học nhằm phân tích, đánh giá hiệu năng bảo mật hệ thống thông qua các phép đo là xác suất dừng bảo mật, xác suất nghe lén thành công. Dựa trên các mô hình đã đề xuất, sử dụng phần mềm Matlab để mô phỏng theo phương pháp MonteCarlo nhằm kiểm chứng các kết quả phân tích lý thuyết.

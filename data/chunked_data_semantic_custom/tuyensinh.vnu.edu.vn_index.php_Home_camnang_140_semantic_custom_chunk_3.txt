@@ -1,0 +1,102 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_camnang_140.txt
+
+Chỉ tiêu tuyển sinh dự kiến
+Trường Đại học Giáo dục tuyển sinh theo nhóm ngành. Chỉ tiêu tuyển sinh dự kiến theo nhóm ngành/ngành theo từng phương thức tuyển sinh cụ thể như sau:
+TT
+Tên
+nhóm ngành/ngành
+Mã nhóm ngành/Ngành
+Chỉ tiêu
+Chỉ tiêu chia theo
+các phương thức xét tuyển
+Xét tuyển theo
+kết quả thi tốt nghiệp THPT 2023
+Xét tuyển theo
+kết quả thi ĐGNL năm 2023 của ĐHQGHN
+và của ĐHQGHCM
+Xét tuyển theo các phương thức khác
+I
+Sư phạm Toán và
+Khoa học Tự nhiên*
+Gồm 05 ngành sau:
+GD1
+190
+150
+30
+10
+1
+Sư phạm Toán học
+50
+2
+Sư phạm Vật lí
+20
+3
+Sư phạm Hoá học
+20
+4
+Sư phạm Sinh học
+20
+5
+Sư phạm Khoa học Tự nhiên
+80
+II
+Sư phạm Ngữ văn,
+Lịch sử, Lịch sử - Địa lý*
+Gồm 03 ngành sau:
+GD2
+150
+120
+20
+10
+1
+Sư phạm Ngữ văn
+50
+2
+Sư phạm Lịch sử
+20
+3
+Sư phạm Lịch sử - Địa lý
+80
+III
+Khoa học giáo dục và khác
+Gồm 05 ngành sau
+GD3
+600
+320
+255
+25
+1
+Quản trị trường học
+120
+2
+Quản trị Công nghệ giáo dục
+120
+3
+Khoa học giáo dục
+120
+4
+Quản trị chất lượng giáo dục
+120
+5
+Tham vấn học đường
+120
+IV
+Ngành Giáo dục Tiểu học*
+GD4
+90
+70
+15
+5
+V
+Ngành Giáo dục Mầm non*
+GD5
+70
+55
+10
+5
+Tổng
+1100
+715
+330**
+55**
+*. Chỉ tiêu dự kiến do ĐHQGHN giao.

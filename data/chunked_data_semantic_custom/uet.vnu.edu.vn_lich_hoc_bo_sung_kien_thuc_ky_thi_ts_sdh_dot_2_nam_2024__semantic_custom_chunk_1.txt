@@ -1,0 +1,189 @@
+Nguồn: uet.vnu.edu.vn_lich_hoc_bo_sung_kien_thuc_ky_thi_ts_sdh_dot_2_nam_2024_.txt
+
+LỊCH HỌC BỔ SUNG KIẾN THỨC KỲ THI TS SĐH ĐỢT 2 NĂM 2024
+TT
+Ngày
+Thứ
+Giờ
+học
+Học phần
+Giảng viên
+Giảng
+đường
+1
+03/08/2024
+7
+8h00
+Cấu trúc dữ liệu và giải thuật
+TS. Lê Nguyên Khôi
+107-G2
+2
+06/08/2024
+3
+17h00
+Cấu trúc dữ liệu và giải thuật
+107-G2
+3
+10/08/2024
+7
+8h00
+Cấu trúc dữ liệu và giải thuật
+107-G2
+4
+13/08/2024
+3
+17h00
+Cấu trúc dữ liệu và giải thuật
+107-G2
+5
+17/08/2024
+7
+8h00
+Cấu trúc dữ liệu và giải thuật
+107-G2
+6
+21/08/2024
+4
+17h00
+Cấu trúc dữ liệu và giải thuật
+107-G2
+7
+24/08/2024
+7
+8h00
+Cấu trúc dữ liệu và giải thuật
+107-G2
+8
+27/08/2024
+3
+17h00
+Cấu trúc dữ liệu và giải thuật
+107-G2
+9
+30/08/2024
+6
+17h00
+Cấu trúc dữ liệu và giải thuật
+107-G2
+10
+31/08/2024
+7
+8h00
+Cấu trúc dữ liệu và giải thuật
+107-G2
+11
+01/08/2024
+5
+17h00
+Lập trình nâng cao
+TS. Lê Khánh Trình
+107-G2
+12
+05/08/2024
+2
+8h00
+Lập trình nâng cao
+107-G2
+13
+08/08/2024
+5
+17h00
+Lập trình nâng cao
+107-G2
+14
+12/08/2024
+2
+8h00
+Lập trình nâng cao
+107-G2
+15
+15/08/2024
+5
+8h00
+Lập trình nâng cao
+107-G2
+16
+18/08/2024
+CN
+8h00
+Lập trình nâng cao
+107-G2
+17
+19/08/2024
+2
+17h00
+Lập trình nâng cao
+107-G2
+18
+22/08/2024
+5
+17h00
+Lập trình nâng cao
+107-G2
+19
+26/08/2024
+2
+17h00
+Lập trình nâng cao
+107-G2
+20
+29/08/2024
+5
+17h00
+Lập trình nâng cao
+107-G2
+21
+02/08/2024
+6
+17h00
+Công nghệ phần mềm
+TS. Trần Hoàng Việt
+107-G2
+22
+07/08/2024
+4
+8h00
+Công nghệ phần mềm
+107-G2
+23
+09/08/2024
+6
+8h00
+Công nghệ phần mềm
+107-G2
+24
+14/08/2024
+4
+17h00
+Công nghệ phần mềm
+107-G2
+25
+16/08/2024
+6
+17h00
+Công nghệ phần mềm
+107-G2
+26
+20/08/2024
+3
+17h00
+Công nghệ phần mềm
+107-G2
+27
+23/08/2024
+6
+17h00
+Công nghệ phần mềm
+107-G2
+28
+28/08/2024
+4
+17h00
+Công nghệ phần mềm
+107-G2
+29
+19/08/2024
+2
+17h00
+Mạng máy tính
+TS.

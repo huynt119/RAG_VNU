@@ -1,0 +1,119 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_805.txt
+
+KHOA QUỐC TẾ -ĐHQGHN
+Các CTĐT của Khoa Quốc tế dạy bằng Tiếng Anh;
+1
+QHQ
+QHQ01
+Kinh doanh quốc tế **
+A00
+23.25
+A01
+23.25
+D01, D03, D06
+23.25
+D96, D97, DD0
+23.25
+Thí sinh phải đạt điểm thi tốt nghiệp THPT năm 2020 môn           Ngoại ngữ  tối thiểu 4 điểm (thang 10)
+2
+QHQ
+QHQ02
+Kế toán, Phân tích và Kiểm toán **
+A00
+20.5
+A01
+20.5
+D01, D03, D06
+20.5
+D96, D97, DD0
+20.5
+3
+QHQ
+QHQ03
+Hệ thống thông tin quản lý **
+A00
+19.5
+A01
+19.5
+D01, D03, D06
+19.5
+D96, D97, DD0
+19.5
+4
+QHQ
+QHQ04
+Tin học và kĩ thuật máy tính
+(CTĐT LKQT do ĐHQGHN cấp bằng)
+A00
+19
+A01
+19
+D01, D03, D06
+19
+D90, D91, D94
+19
+5
+QHQ
+QHQ05
+Phân tích dữ liệu kinh doanh **
+A00
+21
+A01
+21
+D01, D03, D06
+21
+D90, D91, D94
+21
+6
+QHQ
+QHQ06
+Marketing
+(CTĐT cấp 2 bằng ĐH của ĐHQGHN và trường ĐH HELP - Malaysia)
+A00
+18
+A01
+18
+D01, D03, D06
+18
+D96, D97, DD0
+18
+7
+QHQ
+QHQ07
+Quản lý
+(CTĐT cấp 2 bằng ĐH của ĐHQGHN và trường ĐH Keuka – Hoa Kỳ)
+A00
+17
+A01
+17
+D01, D03, D06
+17
+D96, D97, DD0
+17
+10. KHOA QUẢN TRỊ VÀ KINH DOANH -ĐHQGHN
+1
+QHD
+7900101
+Quản trị Doanh nghiệp và Công nghệ
+A01
+18.35
+D01
+18.35
+D07
+18.35
+D08
+18.35
+Điểm tiếng Anh tối thiểu 5 (thang điểm 10)
+2
+QHD
+7900102
+Marketing và Truyền thông
+D01
+17.2
+D09
+17.2
+D10
+17.2
+D96
+17.2
+11.

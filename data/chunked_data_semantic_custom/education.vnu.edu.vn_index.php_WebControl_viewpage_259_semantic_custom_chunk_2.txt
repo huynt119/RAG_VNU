@@ -1,0 +1,17 @@
+Nguồn: education.vnu.edu.vn_index.php_WebControl_viewpage_259.txt
+
+Bước 2: Nhập “
+Thông tin cá nhân
+” đầy đủ theo dấu
+(*)
+và ấn
+“BẮT ĐẦU”
+Bước 3: Đọc chi tiết thông tin thang đo mức độ liên quan đánh giá từng tiêu chí để lựa chọn phù hợp
+Bước 4: Lựa chọn đáp án phù hợp trong bài
+Phần 1: Đánh giá Năng lực hợp tác
+Bước 5: Lựa chọn đáp án phù hợp trong bài
+Phần 2: Đánh giá Năng lực giao tiếp
+Bước 6: Sau khi hoàn thiện các câu hỏi tình huống đưa ra sẽ xuất hiện
+“KẾT QUẢ ĐÁNH GIÁ NĂNG LỰC”
+Quy trình đánh giá năng lực giao tiếp và hợp tác của học sinh trên nền tảng app
+Việc ứng dụng thành công các kết quả nghiên cứu khoa học giáo dục phục vụ cộng đồng đã góp phần khẳng định năng lực, vị thế và vai trò của hoạt động khoa học và công nghệ của Trường ĐHGD trong bối cảnh hội nhập và phát triển; Đồng thời thể hiện sự quyết tâm của Nhà trường trong việc không ngừng nâng cao chất lượng đội ngũ giảng viên đáp ứng yêu cầu đào tạo và nghiên cứu khoa học trong bối cảnh chuyển đổi số; Xây dựng các điều kiện  chuyển đổi số trong hoạt động nghiên cứu khoa học; Tạo điều kiện để các công trình nghiên cứu được liên kết nhằm thúc đẩy hợp tác, chia sẻ kết quả, và phát triển phục vụ cồng đồng, xã hội.

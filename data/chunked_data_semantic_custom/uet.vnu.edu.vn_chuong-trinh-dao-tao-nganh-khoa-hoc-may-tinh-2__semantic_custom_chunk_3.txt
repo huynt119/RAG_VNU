@@ -1,0 +1,14 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-khoa-hoc-may-tinh-2_.txt
+
+b. Kiến thức cơ sở và chuyên ngành
+Làm chủ kiến thức chuyên ngành, có thể đảm nhiệm công việc của chuyên gia trong lĩnh vực được đào tạo; có tư duy phản biện; có kiến thức lý thuyết chuyên sâu để có thể phát triển kiến thức mới và tiếp tục nghiên cứu ở trình độ tiến sĩ; có kiến thức tổng hợp về pháp luật, quản lý và bảo vệ môi trường liên quan đến lĩnh vực Máy tính và công nghệ thông tin nói chung cũng như lĩnh vực khoa học máy tính nói riêng;
+Hiểu và vận dụng được các khái niệm về cơ sở dữ liệu trong hệ thống, các phương pháp xây dựng và tối ưu hóa cơ sở dữ liệu của hệ thống;
+Hiểu và vận dụng các khái niệm chung về quy trình phát triển phần mềm, các kỹ thuật xây dựng một hệ thống phần mềm có chất lượng;
+Nắm vững và vận dụng tốt các khái niệm chung liên quan đến kiến thức về các lĩnh vực cơ bản của công nghệ thông tin như Trí tuệ nhân tạo, Cơ sở dữ liệu nâng cao. Nắm vững và vận dụng được các kiến thức lựa chọn liên quan đến mạng và truyền thông máy tính, mật mã và an toàn dữ liệu, lý thuyết thông tin, các phương pháp hình thức, phân tích và thiết kế thuật toán,  công nghệ phần mềm nâng cao, hệ phân tán, xử lý song song, …
+Thành thạo kỹ năng nghiên cứu khoa học;
+Biết cập nhật các kiến thức hiện đại trong chuyên ngành KHMT;
+Vận dụng được các kiến thức về học máy thống kê;
+Vận dụng được các kiến thức về xử lý ngôn ngữ tự nhiên;
+Có thể đọc hiểu các tài liệu tiếng Anh chuyên ngành;
+Vận dụng được các kiến thức về trí tuệ nhân tạo, học máy, khai phá tri thức, xử lý ảnh, xử lý ngôn ngữ tự nhiên, tin sinh học, … trong nghiên cứu và ứng dụng. c. Yêu cầu đối với luận văn tốt nghiệp
+Tổng hợp, vận dụng các kiến thức chuyên môn để nghiên cứu, xây dựng sản phẩm hoặc giải quyết một vấn đề lý thuyết/lý luận phục vụ cho mục đích khoa học và cuộc sống. Biết trình bày‎‎ ý tưởng nghiên cứu, trình bày sản phẩm dưới dạng một báo cáo khoa học.

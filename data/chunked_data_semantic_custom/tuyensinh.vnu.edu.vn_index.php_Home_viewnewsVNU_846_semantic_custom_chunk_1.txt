@@ -1,0 +1,107 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_846.txt
+
+Thông tin danh mục ngành được phép đào tạo
+TT
+Mã ngành
+Tên ngành
+Số QĐ mở ngành
+Ngày tháng ban hành QĐ mở ngành
+Năm bắt đầu đào tạo
+Năm tuyển sinh gần nhất
+1
+7720101
+Y khoa
+1091/QĐ-ĐHQGHN
+14/4/2012
+2012
+2020
+2
+7720201
+Dược học
+1091/QĐ-ĐHQGHN
+14/4/2012
+2012
+2020
+3
+7720501
+Răng Hàm Mặt
+609/QĐ-ĐHQGHN
+27/2/2017
+2017
+2020
+4
+7720601
+Kĩ thuật xét nghiệm y học
+1568/QĐ-ĐHQGHN
+27/2/2019
+2019
+2020
+5
+7720602
+Kĩ thuật hình ảnh y học
+1568/QĐ-ĐHQGHN
+27/2/2019
+2019
+2020
+6
+7720301
+Điều dưỡng
+816/QĐ-ĐHQGHN
+13/3/2020
+2020
+2020
+3.4.2. Chỉ tiêu tuyển sinh từng ngành/ theo từng phương thức tuyển sinh
+TT
+Trình độ đào tạo
+Mã ngành
+Ngành học
+Chỉ tiêu dự kiến
+Tổ hợp
+môn xét tuyển
+Theo KQ thi TN
+Theo phương thức khác
+Mã tổ hợp
+Môn chính
+1
+ĐH
+7720101
+Y khoa
+105
+45
+B00
+2
+ĐH
+7720201
+Dược học
+105
+45
+A00
+3
+ĐH
+7720501
+Răng Hàm Mặt
+35
+15
+B00
+4
+ĐH
+7720601
+Kĩ thuật xét nghiệm y học
+35
+15
+B00
+5
+ĐH
+7720602
+Kĩ thuật hình ảnh y học
+35
+15
+B00
+6
+ĐH
+7720301
+Điều dưỡng
+35
+15
+B00
+3.5.

@@ -1,0 +1,53 @@
+
+Triển khai ứng dụng phần mềm “Sổ tay đảng viên điện tử” và “Điều hành tác nghiệp quản lý đảng viên” tại Đảng bộ ĐHQGHN
+Ngày 17/2/2023, Đảng ủy Đại học Quốc gia Hà Nội (ĐHQGHN) đã ban hành Kế hoạch số 52-KH/ĐU về triển khai và ứng dụng phần mềm “Sổ tay Đảng viên điện tử” và phần mềm “Điều hành tác nghiệp quản lý đảng viên” tại Đảng bộ ĐHQGHN. Việc thực hiện đồng bộ 02 phần mềm góp phần xây dựng nền hành chính chuyên nghiệp, hướng tới xây dựng chính quyền số, chính quyền điện tử của Đảng bộ Thành phố nói chung và Đảng bộ ĐHQGHN nói riêng.
+Kế hoạch nêu rõ, phần mềm “Sổ tay đảng viên điện tử” triển khai trong toàn Đảng bộ ĐHQGHN, được sử dụng rộng rãi trên các thiết bị di động và các trình duyệt trên các trang điện tử thông dụng, phục vụ các nhiệm vụ chính trị của Trung ương, Thành phố và ĐHQGHN; là kênh thông tin chính thống, quan trọng của Đảng bộ Thành phố và Đảng bộ ĐHQGHN để tuyên truyền, phổ biến, giáo dục đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước, các nhiệm vụ chính trị của Thành phố; tổng hợp, cung cấp tin tức từ các kênh thông tin của Đảng, Nhà nước tới đông đảo đảng viên, quần chúng nhân dân; thực hiện tốt nhiệm vụ quảng bá hình ảnh của thành phố Hà Nội và ĐHQGHN. Đồng thời, là công cụ quan trọng để nắm bắt, quản lý chặt chẽ hoạt động của đảng viên.
+Phần mềm “Điều hành tác nghiệp quản lý đảng viên” là phần mềm chuyên biệt được thực hiện trong mạng diện rộng của Đảng (Lotus Notes) nhằm từng bước xây dựng môi trường làm việc trong công tác xây dựng Đảng hiện đại, chuyên nghiệp, đáp ứng yêu cầu triển khai các nhiệm vụ chính trị, quản lý, điều hành của các cấp ủy đảng từ Thành phố tới cấp ủy cơ sở, phối hợp với phần mềm “Sổ tay đảng viên điện tử” triển khai các nhiệm vụ, thông tin tới chi bộ và đến từng đảng viên trong Đảng bộ thành phố Hà Nội; ứng dụng trong công tác quản lý, điều hành, triển khai nhiệm vụ của ban tổ chức cấp ủy các cấp và cấp ủy cơ sở, góp phần nâng cao chất lượng tham mưu của Ngành Tổ chức xây dụng Đảng Thành phố; thực hiện cải cách hành chính, giảm thiểu giấy tờ, giảm thời gian đi lại giữa các đơn vị; là kênh thông tin, trao đổi về chuyên môn nghiệp vụ trong hệ thống; hướng tới thực hiện số hóa các tài liệu, hồ sơ của đảng viên với độ an toàn bảo mật cao nhất.
+Về tiến độ thực hiện 2 phần mềm, theo kế hoạch, công tác đào tạo, tập huấn hoàn thành trong tháng 03/2023; tập trung tuyên truyền, quán triệt triển khai thực hiện 02 phần mềm ngay sau khi Đảng ủy ĐHQGHN ban hành kế hoạch triển khai; cài đặt, chuyển giao từ tháng 02/2023; triển khai đồng bộ trong toàn Đảng bộ ĐHQGHN từ tháng 03/2023.
+Để triển khai đồng bộ, hiệu quả nội dung kế hoạch, các cấp ủy cơ sở trực thuộc Đảng ủy ĐHQGHN (Đảng bộ, Chi bộ cơ sở) cần chỉ đạo tuyên truyền, xây dựng kế hoạch cụ thể hóa các nội dung thực hiện phần mềm theo tình hình thực tế của đơn vị; chỉ đạo các cấp ủy trực thuộc thực hiện kết nối mạng diện rộng của Đảng (mạng Lotus Note) để triển khai có hiệu quả phần mềm “Điều hành tác nghiệp quản lý đảng viên”; tổ chức triển khai hiệu quả phần mềm “Sổ tay đảng viên điện tử” bảo đảm phần mềm được triển khai, ứng dụng đến từng đảng viên. Tỷ lệ đảng viên sử dụng phần mềm “Sổ tay đảng viên điện tử” sẽ là căn cứ đánh giá mức độ hoàn thành chức trách, nhiệm vụ của người đứng đầu cấp ủy cơ sở trực thuộc Đảng ủy ĐHQGHN.
+Các cấp ủy chủ động chỉ đạo các chi bộ trực thuộc tích cực ứng dụng phần mềm trong công tác quản lý, điều hành, tuyên truyền phổ biến các chủ trương của Đảng, pháp luật của Nhà nước tới từng đảng viên; chuẩn bị cơ sở vật chất (wifi, internet, máy tính, điện thoại thông minh, thiết bị và các điều kiện cần thiết khác…) để cài đặt ứng dụng “Sổ tay đảng viên điện tử”, bố trí lực lượng tham gia cài đặt, hướng dẫn sử dụng phần mềm tại các chi bộ trực thuộc; chuẩn bị các thiết bị, cơ sở vật chất tại đơn vị để cài đặt phần mềm “Điều hành tác nghiệp quản lý đảng viên”; thường xuyên đôn đốc, kiểm tra, tổng hợp kết quả triển khai thực hiện 02 phần mềm trên của cấp ủy cơ sở, chi bộ trực thuộc, định kỳ báo cáo Ban Thường vụ Đảng ủy ĐHQGHN (qua Ban Tổ chức Đảng ủy ĐHQGHN)...
+Nội dung toàn văn của Kế hoạch số 52-KH/ĐU ngày 17/2/2023 tham khảo
+tại đây
+./.
+02:03 06/03/2023
+Tóm tắt và luận án tiến sĩ của NCS Ngô Văn Định trước bảo vệ
+Thông tin về luận án tiến sĩ của NCS Ngô Văn Định
+Thông báo về việc giới thiệu danh sách thành viên Hội đồng Giáo sư cơ sở Trường Đại học Giáo dục, ĐHQGHN năm 2025
+Thông báo tổ chức buổi bảo vệ luận án cấp Đại học Quốc gia của NCS Nguyễn Công Ước
+Thông báo tổ chức đánh giá luận án tiến sĩ của nghiên cứu sinh Lê Phương Thúy
+Thông báo về việc thu hồ sơ xét tốt nghiệp đợt tháng 6 năm 2025
+Thông báo thu học phí học kỳ II năm học 2024 - 2025 chương trình đào tạo cử nhân khóa QH2023S ngành
+Thông báo thu học phí học kỳ II năm học 2024-2025 chương trình đào tạo cử nhân khoá QH2021-S ngành GD3
+Tuyển sinh
+Đại học
+Sau đại học
+Chương trình bồi dưỡng
+Đào tạo
+Cử nhân Sư phạm Toán
+Cử nhân Sư phạm Vật lý
+Cử nhân Sư phạm Hóa học
+Cử nhân Sư phạm Sinh học
+Cử nhân Sư phạm Ngữ văn
+Cử nhân Sư phạm Lịch sử
+Cử nhân Sư phạm Khoa học Tự nhiên
+Cử nhân Quản trị trường học
+Cử nhân Quản trị Công nghệ Giáo dục
+Cử nhân Quản trị Chất lượng giáo dục
+Cử nhân Tham vấn học đường
+Cử nhân Khoa học Giáo dục
+Cử nhân Giáo dục mầm non
+Cử nhân Giáo dục tiểu học
+Cử nhân Sư phạm Lịch sử và Địa lý
+Cử nhân Tâm lí học
+Thạc sĩ Quản lý giáo dục
+Thạc sĩ LL&PPDH bộ môn (Toán, Vật lý, Hóa học, Sinh học, Ngữ văn, Lịch sử)
+Thạc sĩ Tâm lý học Lâm sàng TE&VTN
+Thạc sĩ Đo lường & Đánh giá trong GD
+Thạc sĩ Quản trị trường học
+Thạc sĩ Tham vấn học đường
+Thạc sĩ Giáo dục mầm non, giáo dục tiểu học
+Thạc sĩ Quản trị Công nghệ Giáo dục
+Tiến sĩ Quản lý Giáo dục
+Tiến sĩ Tâm lý học Lâm sàng TE&VTN
+Tiến sĩ Đo lường & Đánh giá trong GD
+Tiến sỹ Lý luận, phương pháp và công nghệ dạy học

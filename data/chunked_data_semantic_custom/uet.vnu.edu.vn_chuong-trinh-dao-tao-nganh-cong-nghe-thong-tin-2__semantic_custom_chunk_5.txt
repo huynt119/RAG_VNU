@@ -1,0 +1,32 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-thong-tin-2_.txt
+
+Kiến thức tin học
+Giải thích được các kiến thức cơ bản về thông tin;
+Sử dụng được công cụ xử lý thông tin thông dụng (hệ điều hành, các phần mềm hỗ trợ công tác văn phòng và khai thác Internet,…);
+Có khả năng phân tích, đánh giá và lập trình một ngôn ngữ lập trình;
+Có khả năng phân tích, đánh giá phương pháp lập trình hướng thủ tục và lập trình hướng đối tượng; phân biệt được ưu và nhược điểm của hai phương pháp lập trình;
+Hiểu các kiến thức cơ bản về nguyên lý hoạt động của hệ thống phần cứng, phần mềm, tối ưu hóa hệ thống kết hợp giữa phần cứng và phần mềm. 1.3     Kiến thức theo khối ngành
+Vận dụng được các kiến thức liên quan đến cấu trúc dữ liệu về mảng, danh sách liên kết, hàng đợi, ngăn xếp, cây nhị phân, bảng băm;
+Vận dụng được các thuật toán cơ bản liên quan đến sắp xếp, tìm kiếm và các thuật toán khác trên các cấu trúc dữ liệu;
+Vận dụng được các khái niệm cơ bản về số phức và các loại biểu diễn của số phức;
+Vận dụng được các khái niệm cơ bản của lý thuyết xác suất;
+Vận dụng được các phương pháp phân tích tín hiệu, phân tích và thiết kế hệ thống tuyến tính trong các miền biểu diễn khác nhau…
+1.4     Kiến thức theo nhóm ngành
+Vận dụng được các kiến thức cơ bản về Toán rời rạc để xây dựng các thuật toán, tối ưu các giải pháp trong công nghệ;
+Sử dụng được một ngôn ngữ lập trình hướng đối tượng, hiểu các khái niệm và viết được chương trình phần mềm theo phương pháp hướng đối tượng;
+Hiểu được cơ chế hoạt động chung của hệ thống máy tính, các bộ phận, cấu trúc của máy tính;
+Hiểu nguyên lý cơ bản chung hệ điều hành của máy tính;
+Hiểu các khái niệm cơ bản về mạng máy tính, các bộ phận, các giao thức, cách thức truyền dữ liệu trên mạng;
+Vận dụng được các khái niệm về cơ sở dữ liệu trong hệ thống, các phương pháp xây dựng và tối ưu hóa cơ sở dữ liệu của hệ thống;
+Hiểu các khái niệm chung về quy trình phát triển phần mềm, các kỹ thuật xây dựng một hệ thống phần mềm có chất lượng. 1.5     Kiến thức ngành
+Lập trình thành thạo một số ngôn ngữ lập trình thông dụng;
+Vận dụng được các kiến thức về phân tích thiết kế để xây dựng yêu cầu, tiến hành phân tích và thiết kế các hệ thống phần mềm;
+Vận dụng các kỹ thuật thiết kế giao diện người dùng trong xây dựng hệ thống phần mềm;
+Vận dụng được việc xây dựng cơ sở dữ liệu cho hệ thống, sử dụng các công cụ để quản trị các hệ cơ sở dữ liệu;
+Lập trình được các ứng dụng trên môi trường web, sử dụng được những kỹ thuật cơ bản của quản trị mạng, thiết kế được các mạng vừa và nhỏ;
+Biết cách cập nhật các kiến thức hiện đại trong ngành Công nghệ thông tin;
+Biết tối ưu hóa hệ thống thông qua các kiến thức bổ trợ về các ngành khác liên quan đến Công nghệ thông tin;
+Biết các kỹ thuật, các công nghệ mới trong ngành Công nghệ thông tin, ứng dụng trong phát triển các phần mềm đặc biệt, bảo đảm chất lượng và an toàn, an ninh cho hệ thống;
+Biết làm việc trong môi trường thực tế;
+Biết nghiên cứu, xây dựng sản phẩm phục vụ cho mục đích khoa học hoặc đời sống;
+Biết trình bày ‎ý tưởng dưới dạng một báo cáo khoa học.

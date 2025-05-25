@@ -1,0 +1,19 @@
+Nguồn: uet.vnu.edu.vn_thong_tin_luan_tien_sy_cua_ncs_ho_anh_tam_.txt
+
+Tóm tắt các
+kết quả mới
+của luận án:
+Luận án tập trung nghiên cứu và chế tạo cảm biến từ tổng trở (MI) phẳng độ nhạy cao, kích thước micro và nano, hoạt động trong dải tần số thấp và từ trường dải rộng, nhằm tích hợp với hệ thống kênh dẫn vi lưu để phát hiện hạt nano từ tính trong ứng dụng y-sinh. Đối tượng nghiên cứu của Luận án là vật liệu từ băng từ mềm Fe
+90.88
+Si
+4.13
+C
+4.99
+chiều dày 20 µm thương mại được tạo hình bằng phương pháp ăn mòn hóa ướt với sự trợ giúp của công nghệ khắc laser; Vật liệu PDMS và PMMA dùng trong chế tạo kênh vi lưu; Và các hạt nano từ Fe
+3
+O
+4
+chế tạo bằng phương pháp đồng kết tủa có sử dụng chất hoạt hóa PVP được dùng để thử nghiệm hệ thống tích hợp. Các phương pháp nghiên cứu sử dụng trong Luận án:
+Chế tạo cảm biến MI:
+Sử dụng băng từ mềm Fe​Si​C​ dày 20 µm kết hợp với công nghệ vi gia công laser để tạo các cấu trúc cảm biến micro/nano có hình dạng dây thẳng, meander và xoắn ốc hình đa giác​. Tối ưu hóa vật liệu bằng xử lý nhiệt laser:
+Điều chỉnh công suất laser để tạo cấu trúc nano tinh thể với kích thước hạt có thể kiểm soát, nhằm tăng hiệu ứng từ tổng trở.

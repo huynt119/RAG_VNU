@@ -1,0 +1,80 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-robot-3_.txt
+
+Tóm tắt yêu cầu chương trình đào tạo
+Tổng số tín chỉ của chương trình đào tạo:
+150
+tín chỉ
+(Chưa tính các học phần
+Giáo dục thể chất, Giáo dục Quốc phòng – An ninh
+)
+–
+Khối kiến thức chung
+16 tín chỉ
+–
+Khối kiến thức theo lĩnh vực
+22
+tín chỉ
+–
+Khối kiến thức theo khối ngành
+10 tín chỉ
++
+Các học phần
+bắt buộc
+7
+tín chỉ
++
+Các học phần tự chọn
+3/6
+tín chỉ
+–
+Khối kiến thức theo nhóm ngành
+37
+tín chỉ
++
+Các học phần
+bắt buộc
+33
+tín chỉ
++
+Các học phần tự chọn
+4/8
+tín chỉ
+–
+Khối kiến thức ngành
+65
+tín chỉ
++ Các học phần bắt buộc
+29
+tín chỉ
++ Các học phần tự chọn
+18/41
+tín chỉ
++ Các học phần lựa chọn bổ trợ
+6/23
+tín chỉ
++
+Thực tập và Tốt nghiệp
+12
+tín chỉ
+2. Khung chương trình đào tạo
+Số
+TT
+Mã
+số
+Học phần
+(
+ghi bằng tiếng Việt và tiếng Anh
+)
+Số tín chỉ
+Số giờ tín chỉ
+Mã học phần tiên quyết
+Lý thuyết
+Thực hành
+Tự học
+I
+Khối kiến thức chung
+(Chưa tính các học phần
+Giáo dục thể chất, Giáo dục Quốc phòng – An ninh
+)
+16
+1.

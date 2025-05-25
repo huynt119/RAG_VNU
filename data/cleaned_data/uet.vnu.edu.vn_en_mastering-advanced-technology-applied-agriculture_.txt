@@ -1,0 +1,83 @@
+Mastering advanced technology applied in agriculture
+Recently, a group researching Engineering Mechanics and Automation from the University of Engineering and Technology has successfully built a fruit-harvesting robot which can support agricultural activities. This marvelous result guarantees application on a large scale, helping increase productivity, minimize costs and tackle human resource problems in the agricultural market nowadays.
+From practical concerns…
+With the concept of 4.0 industrial revolution, high-tech agriculture is becoming trendy in lots of countries including Vietnam. New and modern technologies are being used in production widely in order to improve efficiency, bring about a breakthrough in productivity and quality of agricultural products, satisfy the demand and assure a stable development of green agriculture.
+Besides, utilizing technology in agricultural activities helps cope with climate change and infestation, decrease workload, cultivation period and orientate agricultural production towards centralization and scale-up.
+According to Assoc. Prof. Pham Manh Thang – Dean of the Faculty of Engineering Mechanics and Automation, leader of the team, robotic technology is expected to be widely used in high-tech agriculture. However, this will surge and expand only when the national agriculture reaches certain standards of facilities, along with concerns from farm managers and robotic automation to solve practical problems.
+Struggling with how to apply technology, since the very first time experiencing high-tech agriculture mode, the research crew has been planning on building robots in agricultural production.
+“We have visited, exchanged with many advanced farms and glasshouses imported from developed nations and attempted try-outs for the cultivation process of tomatoes, cucumbers and other fruit trees in Vietnam using up-to-date technologies. However, harvesting is still done manually instead of automatically while robots nowadays can make remarkable contributions to the growth of agriculture.”, Assoc. Prof. Nguyen Quang Thang said.
+Receiving support from the Administrators of the University of Engineering and Technology, the team has carried out an agriculture support robot harvesting orchards.
+… to a superior upshot
+Before finishing a realistic product, the group had gone through many difficulties as it takes great time and effort to successfully achieve such a wonderful outcome.
+Sharing some thoughts, Assoc. Prof. Nguyen Quang Thang said that unlike traditional problems, for example an automatic car assembling chain, shapes, sizes, and details’ position are fixed making the monitoring process easier. A screw robot at one of Toyota factories is programmed to use tools precisely in the same spots on every car of the same type. Nonetheless, when it comes to agriculture, such a problem modifies depending on natural conditions so it will be more difficult to control. Even when products are planted in glasshouses where certain conditions such as temperature, lighting and moisture are controlled, when plants will bear fruits is unpredictable therefore perfect time and location cannot be “programmed” for robots. These are challenges that need addressing.
+Fruit-harvesting robot expected to be introduced and widely applied in the agricultural market in early 2022
+However, after the first nine months of 2021, the team has done analyzing and initially designed a compact robot that can pass through two cultivation beds. It is capable of detecting fruit types and whether they are ripe. Then it can determine which to harvest, even in a messy and complicated garden. At the same time, the robot needs to be able to reach deep into the pipes to pick ripe fruits without affecting surrounding ones.
+“Besides having a proper grip system, robots need to be intelligent enough to identify ripeness, move in a three-dimensional space towards the fruit, this is a combination of space analyzing, complex control and technology. This is also one of the advantages and potentials that fruit-harvesting robots have in today’s agricultural market.”,
+Assoc. Prof. Nguyen Quang Thang stated.
+That the research group starts digging deep into manufacturing glasshouse fruit-harvesting robots is an important phase in mastering advanced technology applied in agriculture. Due to being designed and built with all domestic components, the price is 30% lower compared to similar imported robots. Robot-controlling software can be programmed and monitored independently from foreign technology by Vietnamese engineers.
+In the future, the research team will continue to perfect the product, expand the robot’s capabilities and operating space by placing the robotic arm on an autonomous arm so that it can move automatically in the glasshouse. Moreover, the group will carry out scientific projects that they have set aside, aiming to make the best use of techniques and technologies in the field of Engineering Mechanics and Automation to serve the socio-economic development of the country.
+The group researching Engineering Mechanics and Automation from the University of Engineering and Technology was founded in 2009 and guided by Assoc. Prof. Pham Manh Thang – Dean of the Faculty of Engineering Mechanics and Automation. Through the process of establishment and development, the group has designed and manufactured over 30 products applied on the basis of embedded control systems, applied automation technology on building exact tool machines and SCADA systems for measurement and control of industrial and agricultural production chains.
+Introduction to the Faculty of Engineering Mechanics and Automation
+The Faculty of Engineering Mechanics and Automation (FEMA) was founded by Decision No. 1279 / QĐ-TCCB on 04th July 2005 of the Director of Vietnam National University, Hanoi (VNU).
+The Faculty of Engineering Mechanics and Automation is a new model, typical of the cooperation of University + Research Institute + Industrial Group in the field of training and scientific research.
+In recent years, the FEMA has constantly improved the quality of its activities in all aspects with the aim of becoming a unit of training, research and development of high-quality science and technology, creating elite products which meet the increasing demands of the country. In 2005, the FEMA was honored to receive the Certificate of Merit of the President of VNU for its achievements in the process of 5 years of construction and development (2005-2010).
+Up till now, the Faculty has been initiating 03 undergraduate programs, 02 master program and 01 doctoral program.
+Undergraduate Program:
++ Mechatronic Engineering Technology (Honors)
++ Control and automation engineering
++ Mechanical engineering
+Graduate Program:
++ Master in Engineering Mechanics program
++ Master in Mechatronics Engineering program
++ Doctor of Philosophy program major: Engineering Mechanics
+By admin
+|
+Student research
+|
+3816 Views
+admin
+Previous
+Researching on the field of testing car control software
+Related posts
+Researching on the field of testing car control software
+Passion with the practical applications of algorithms in the field of biomedicine
+Research on applicating convolution neural networks in extracting information from medical data
+The 16th Student-level Scientific Research Conference:  Enhancing students’ creativity and self-research skills
+Installing FairKit network in Hanoi for monitoring fine dust
+Mastering advanced technology applied in agriculture
+Recently, a group researching Engineering Mechanics and Automation from the University of Engineering and Technology has successfully built a fruit-harvesting robot which can support agricultural activities. This marvelous result guarantees application on a large scale, helping increase productivity, minimize costs and tackle human resource problems in the agricultural market nowadays.
+From practical concerns…
+With the concept of 4.0 industrial revolution, high-tech agriculture is becoming trendy in lots of countries including Vietnam. New and modern technologies are being used in production widely in order to improve efficiency, bring about a breakthrough in productivity and quality of agricultural products, satisfy the demand and assure a stable development of green agriculture.
+Besides, utilizing technology in agricultural activities helps cope with climate change and infestation, decrease workload, cultivation period and orientate agricultural production towards centralization and scale-up.
+According to Assoc. Prof. Pham Manh Thang – Dean of the Faculty of Engineering Mechanics and Automation, leader of the team, robotic technology is expected to be widely used in high-tech agriculture. However, this will surge and expand only when the national agriculture reaches certain standards of facilities, along with concerns from farm managers and robotic automation to solve practical problems.
+Struggling with how to apply technology, since the very first time experiencing high-tech agriculture mode, the research crew has been planning on building robots in agricultural production.
+“We have visited, exchanged with many advanced farms and glasshouses imported from developed nations and attempted try-outs for the cultivation process of tomatoes, cucumbers and other fruit trees in Vietnam using up-to-date technologies. However, harvesting is still done manually instead of automatically while robots nowadays can make remarkable contributions to the growth of agriculture.”, Assoc. Prof. Nguyen Quang Thang said.
+Receiving support from the Administrators of the University of Engineering and Technology, the team has carried out an agriculture support robot harvesting orchards.
+… to a superior upshot
+Before finishing a realistic product, the group had gone through many difficulties as it takes great time and effort to successfully achieve such a wonderful outcome.
+Sharing some thoughts, Assoc. Prof. Nguyen Quang Thang said that unlike traditional problems, for example an automatic car assembling chain, shapes, sizes, and details’ position are fixed making the monitoring process easier. A screw robot at one of Toyota factories is programmed to use tools precisely in the same spots on every car of the same type. Nonetheless, when it comes to agriculture, such a problem modifies depending on natural conditions so it will be more difficult to control. Even when products are planted in glasshouses where certain conditions such as temperature, lighting and moisture are controlled, when plants will bear fruits is unpredictable therefore perfect time and location cannot be “programmed” for robots. These are challenges that need addressing.
+Fruit-harvesting robot expected to be introduced and widely applied in the agricultural market in early 2022
+However, after the first nine months of 2021, the team has done analyzing and initially designed a compact robot that can pass through two cultivation beds. It is capable of detecting fruit types and whether they are ripe. Then it can determine which to harvest, even in a messy and complicated garden. At the same time, the robot needs to be able to reach deep into the pipes to pick ripe fruits without affecting surrounding ones.
+“Besides having a proper grip system, robots need to be intelligent enough to identify ripeness, move in a three-dimensional space towards the fruit, this is a combination of space analyzing, complex control and technology. This is also one of the advantages and potentials that fruit-harvesting robots have in today’s agricultural market.”,
+Assoc. Prof. Nguyen Quang Thang stated.
+That the research group starts digging deep into manufacturing glasshouse fruit-harvesting robots is an important phase in mastering advanced technology applied in agriculture. Due to being designed and built with all domestic components, the price is 30% lower compared to similar imported robots. Robot-controlling software can be programmed and monitored independently from foreign technology by Vietnamese engineers.
+In the future, the research team will continue to perfect the product, expand the robot’s capabilities and operating space by placing the robotic arm on an autonomous arm so that it can move automatically in the glasshouse. Moreover, the group will carry out scientific projects that they have set aside, aiming to make the best use of techniques and technologies in the field of Engineering Mechanics and Automation to serve the socio-economic development of the country.
+The group researching Engineering Mechanics and Automation from the University of Engineering and Technology was founded in 2009 and guided by Assoc. Prof. Pham Manh Thang – Dean of the Faculty of Engineering Mechanics and Automation. Through the process of establishment and development, the group has designed and manufactured over 30 products applied on the basis of embedded control systems, applied automation technology on building exact tool machines and SCADA systems for measurement and control of industrial and agricultural production chains.
+Introduction to the Faculty of Engineering Mechanics and Automation
+The Faculty of Engineering Mechanics and Automation (FEMA) was founded by Decision No. 1279 / QĐ-TCCB on 04th July 2005 of the Director of Vietnam National University, Hanoi (VNU).
+The Faculty of Engineering Mechanics and Automation is a new model, typical of the cooperation of University + Research Institute + Industrial Group in the field of training and scientific research.
+In recent years, the FEMA has constantly improved the quality of its activities in all aspects with the aim of becoming a unit of training, research and development of high-quality science and technology, creating elite products which meet the increasing demands of the country. In 2005, the FEMA was honored to receive the Certificate of Merit of the President of VNU for its achievements in the process of 5 years of construction and development (2005-2010).
+Up till now, the Faculty has been initiating 03 undergraduate programs, 02 master program and 01 doctoral program.
+Undergraduate Program:
++ Mechatronic Engineering Technology (Honors)
++ Control and automation engineering
++ Mechanical engineering
+Graduate Program:
++ Master in Engineering Mechanics program
++ Master in Mechatronics Engineering program
++ Doctor of Philosophy program major: Engineering Mechanics
+By admin
+|
+Student research
+|
+3816 Views

@@ -1,0 +1,360 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-nong-nghiep-7_.txt
+
+Khung chương trình đào tạo
+STT
+Mã học phần
+Học phần
+(ghi bằng tiếng Việt và tiếng Anh)
+Số tín chỉ
+Số giờ tín chỉ
+Mã học phần tiên quyết
+Lý thuyết
+Thực hành
+Tự học
+I
+Khối kiến thức chung
+(
+chưa tính các học phần Kỹ năng bổ trợ, Giáo dục thể chất, Giáo dục Quốc phòng – An ninh
+)
+21
+1
+PHI1006
+Triết học Mác – Lênin
+Marxist-Leninist Philosophy
+3
+30
+15
+2
+PEC1008
+Kinh tế chính trị Mác – Lênin
+Marx-Lenin Political Economy
+2
+20
+10
+PHI1006
+3
+PHI1002
+Chủ nghĩa xã hội khoa học
+Scientific Socialism
+2
+30
+4
+HIS1001
+Lịch sử Đảng Cộng sản Việt Nam
+Revolutionary Guidelines of Vietnam Communist Party
+2
+20
+10
+5
+POL1001
+Tư tưởng Hồ Chí Minh
+Ho Chi Minh’s Ideology
+2
+20
+10
+6
+THL1057
+Nhà nước và Pháp luật Đại cương
+State and Law
+2
+20
+5
+5
+7
+FLF1107
+Tiếng Anh B1
+English B1
+5
+20
+35
+20
+8
+INT1009
+Tin học cơ sở
+Introduction to Informatics
+3
+15
+30
+9
+Kỹ năng bổ trợ
+Soft Skills
+3
+10
+Giáo dục thể chất
+Physical Education
+4
+11
+Giáo dục quốc phòng – an ninh
+National Defence Education
+8
+II
+Khối kiến thức theo lĩnh vực
+19
+12
+MAT1093
+Đại số
+Algebra
+4
+30
+30
+13
+MAT1041
+Giải tích 1
+Calculus 1
+4
+30
+30
+14
+MAT1042
+Giải tích 2
+Calculus 2
+4
+30
+30
+MAT1041
+15
+EPN1095
+Vật lý đại cương 1
+General
+P
+hysics 1
+2
+30
+16
+EPN1096
+Vật lý đại cương 2
+General
+P
+hysics 2
+2
+30
+EPN1095
+17
+INT1008
+Nhập môn lập trình
+Fundamentals of Programming
+3
+20
+25
+III
+Khối kiến thức theo khối ngành
+13
+18
+AGT2001
+Thực vật, động vật và vi sinh vật học
+Plants, Animals and Microorganisms
+3
+40
+5
+19
+AGT2002
+Các quá trình sinh học ở sinh vật
+Biological Processes in Organisms
+3
+40
+5
+AGT2001
+20
+AGT2103
+Hóa nông nghiệp và thực phẩm
+Agricultural and Food Chemistry
+4
+50
+10
+21
+MAT1101
+Xác suất thống kê
+Probablity and Statistics
+3
+30
+15
+MAT1041
+IV
+Khối kiến thức theo nhóm ngành
+16
+22
+AGT2111
+Công nghệ sinh học
+Biotechnology
+3
+40
+5
+AGT2001
+AGT2103
+23
+AGT2000
+Nhập môn Công nghệ Nông nghiệp
+Introduction to Agricultural Technology
+3
+45
+24
+AGT2105
+Trồng trọt
+Crop Prodution
+4
+50
+10
+AGT2002,
+AGT2103
+25
+AGT2106
+Chăn nuôi
+Livestock Production
+3
+45
+AGT2002, AGT2103
+26
+AGT2107
+Nuôi trồng thủy sản
+Aquaculture
+3
+45
+AGT2002, AGT2103
+V
+Khối kiến thức ngành
+81
+V.1
+Các học phần bắt buộc
+23
+27
+AGT2008
+Khí tượng nông nghiệp và biến đổi khí hậu
+Agricultural Meteorology and Climate Change
+3
+45
+EPN1095
+28
+AGT3013
+Hệ sinh thái nông nghiệp và nông nghiệp bền vững
+Agro-ecosystems and Sustainable Agriculture
+3
+45
+29
+AGT3014
+Trồng cây không đất
+Soiless Farming
+3
+45
+AGT2103
+AGT2105
+30
+AGT3114
+Thực hành trồng cây không đất
+Soiless Farming Practice
+2
+10
+20
+AGT2105
+MAT1101
+31
+AGT3115
+Bảo vệ thực vật
+Plant Protection
+4
+45
+15
+AGT2105
+AGT2111
+32
+AGT4001
+Dự án Công nghệ Nông nghiệp
+Agricultural Technology Project
+2
+10
+10
+10
+33
+AGT4002
+Thực tập Công nghệ nông nghiệp
+Agricultural
+T
+echnology
+P
+ractice
+3
+45
+34
+AGT4003
+Rèn nghề Công nghệ Nông nghiệp
+Professional Skills in Agricultural Technology
+3
+45
+V.2
+Các học phần tự chọn theo định hướng chuyên sâu
+27
+V.2.1
+Định hướng chuyên sâu về Nông nghiệp kỹ thuật số
+27
+35
+AGT3101
+Lập trình Python cho nông nghiệp
+Python Programming for Agriculture
+3
+45
+INT1008
+36
+AGT3102
+Lập trình trực quan hóa dữ liệu
+Programming for Data
+V
+isualization
+3
+45
+INT1008
+MAT1101
+37
+AGT3103
+Phân tích dữ liệu nông nghiệp
+Analysis of Agricultural Data
+3
+45
+MAT1101
+38
+AGT3104
+Ứng dụng trí tuệ nhân tạo trong nông nghiệp
+AI
+A
+pplication in Agriculture
+3
+45
+39
+AGT3105
+Chuyên đề nông nghiệp số
+Special Problems in Digital Agriculture
+3
+45
+INT1008
+40
+AGT3018
+Kỹ thuật đo lường và cảm biến ứng dụng trong nông nghiệp
+Sensors and Measurement  Engineering for Agricultural Applications
+3
+30
+15
+INT1008
+EPN1096
+41
+AGT3106
+Vi điều khiển và ứng dụng trong nông nghiệp
+Microcontroller Application in Agriculture
+3
+30
+15
+INT1008
+42
+AGT3107
+Phát triển ứng dụng IoT trong nông nghiệp
+IoT Application in Agriculture
+3
+30
+15
+AGT3101
+AGT3106
+43
+AGT3108
+Ứng dụng Robotic và Drone trong nông nghiệp
+Robotic and UAV Application in Agriculture
+3
+30
+15
+V.2.2.

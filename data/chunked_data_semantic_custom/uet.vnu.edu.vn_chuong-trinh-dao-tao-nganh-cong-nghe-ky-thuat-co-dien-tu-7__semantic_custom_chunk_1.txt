@@ -1,0 +1,50 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-ky-thuat-co-dien-tu-7_.txt
+
+Tóm tắt yêu cầu chương trình đào tạo
+Tổng số tín chỉ của chương trình đào tạo
+(Chưa tính các
+học phần
+Giáo dục thể chất, Giáo dục quốc phòng
+– an ninh
+, kỹ năng bổ trợ
+)
+:
+135
+tín chỉ
+–
+Khối kiến thức chung
+(Chưa tính các
+học phần
+Giáo dục thể chất, Giáo dục quốc phòng
+– an ninh
+, kỹ năng bổ trợ
+)
+: 26 tín chỉ
+– Khối kiến thức chung theo lĩnh vực: 19 tín chỉ
+– Khối kiến thức theo khối ngành: 06 tín chỉ
+– Khối kiến thức theo nhóm ngành: 14 tín chỉ
+– Khối kiến thức ngành: 70 tín chỉ
++ Các học phần bắt buộc: 27 tín chỉ
++ Các học phần bổ trợ: 04 tín chỉ
++ Định hướng chuyên sâu: 25 tín chỉ
+Bắt buộc: 19 tín chỉ
+Tự chọn: 06 tín chỉ
++ Thực tập: 07 tín chỉ
+Khóa luận tốt nghiệp/ các học phần thay thế khóa luận tốt nghiệp:
+0
+7 tín chỉ
+2. Khung chương trình đào tạo
+STT
+Mã học phần
+Học phần
+Số tín chỉ
+Số giờ tín chỉ
+Mã số học phần tiên quyết
+Lý thuyết
+Thực hành
+Tự học
+I
+Khối kiến thức chung
+(Chưa tính các học phần Kỹ năng bổ trợ, Giáo dục thể chất, Giáo dục quốc phòng – an ninh)
+26
+1.

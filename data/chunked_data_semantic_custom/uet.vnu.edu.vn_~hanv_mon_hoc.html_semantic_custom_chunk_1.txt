@@ -1,0 +1,44 @@
+Nguồn: uet.vnu.edu.vn_~hanv_mon_hoc.html.txt
+
+Danh sách môn học đảm nhiệm
+Năm 2013~2014
+Lập trình hướng đối tượng
+Năm 2012~2013
+Kiến trúc phần mềm hiện đại (cao học)
+Lập trình hướng đối tượng (CLC)
+Năm 2011~2012
+Lập trình hướng đối tượng
+Năm 2010~2011
+Kiến trúc phần mềm hiện đại: K16CNPM-N2
+Năm 2009~2010
+Lập trình hướng đối tượng: K53CC
+Các vấn đề hiện đại về CNPM: K15CNPM-N1, K16CNPM-N1
+Kỹ nghệ phần mềm: K52CA
+Seminar: K51, CNPM nhóm 1
+Năm 2008~2009
+Lập trình hướng đối tượng: K52CA
+Seminar: K50, CNPM nhóm 3
+Năm 2007~2008
+Lập trình hướng đối tượng: K51CA
+Tin học cơ sở 2 (lập trình): K52CB
+Seminar: K49, CNPM nhóm 2
+Năm 2006~2007
+Tin học cơ sở 2 (lập trình): K51CA, K51CD
+Seminar: K48, CNPM nhóm 1
+Năm 2005~2006
+Seminar: K47, CNPM nhóm 1
+Lập trình hướng đối tượng: K48CA, K49CA, K49CC
+Năm 2004~2005
+Kỹ nghệ phần mềm: K47CA
+Seminar: K46, nhóm 2
+Lập trình hướng đối tượng (cao học): K10T2
+Hệ chuyên gia: K10T2, K10T1
+Năm 2003~2004
+Kỹ nghệ phần mềm: K46CA, CB
+Lập trình hướng đối tượng: K46CC
+Nhập môn Công nghệ phần mềm: K45T
+Hệ chuyên gia: K9T2
+Lập trình hướng đối tượng (cao học): K9T2
+Tin học thực hành: K10N2
+Năm 2002~2003
+Nhập môn Công nghệ phần mềm: K44T, K45C

@@ -1,0 +1,22 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-thong-thong-tin-10_.txt
+
+Năng lực vận dụng kiến thức, kỹ năng vào thực tiễn
+Vận dụng kiến thức trong thiết kế;
+Thiết kế và mô phỏng quá trình triển khai;
+Qui trình sản xuất (phần cứng, phần mềm, và tích hợp);
+Kiểm tra, kiểm chứng, phê chuẩn và chứng nhận;
+Quản lý và tối ưu hóa vận hành;
+Hỗ trợ chu kỳ vòng đời hệ thống;
+Cải thiện và phát triển hệ thống;
+Các vấn đề liên quan đến kết thúc vòng đời;
+So sánh phương án giải pháp sử dụng tiêu chí quyết định tổng hợp;
+Lập vốn đầu tư cho các dự án chuyên sâu CNTT, hình thành biện minh về tài chính cho việc lựa chọn giữa các phương án thay thế. Năng lực sáng tạo, phát triển và dẫn dắt sự thay đổi trong nghề nghiệp
+Tìm tòi, cập nhật thông tin về phát triển công nghệ;
+Phân tích, tổng hợp và đánh giá tác động của công nghệ đến xã hội, môi trường;
+Nhận định các xu hướng phát triển tương lai;
+Đánh giá sự khác biệt văn hóa cho các tùy chọn vượt qua ranh giới địa lý;
+Lập kế hoạch và quản lý một dự án đến khi hoàn thành;
+Tập dượt đánh giá dự án/giải pháp và lập luận phản biện;
+Thiết kế và giới thiệu sản phẩm và dịch vụ mới;
+Phát triển của các thiết bị, vật liệu hay quy trình mới để tạo ra sản phẩm hay dịch vụ mới;
+Cài đặt và vận hành: Tạo và vận hành sản phẩm/dịch vụ tạo giá trị mới.

@@ -1,0 +1,167 @@
+Nguồn: uet.vnu.edu.vn_lich_hoc_bo_sung_kien_thuc_ky_thi_tuyen_sinh_sau_dai_hoc_dot_2_nam_2023_.txt
+
+Trần Hoàng Việt
+313-GĐ2
+10
+19/08/2023
+7
+14h00
+Công nghệ phần mềm
+313-GĐ2
+11
+25/08/2023
+6
+18h00
+Công nghệ phần mềm
+307-GĐ2
+12
+26/08/2023
+7
+14h00
+Công nghệ phần mềm
+313-GĐ2
+13
+15/08/2023
+3
+18h00
+Cơ sở dữ liệu
+PGS. Trần Trọng Hiếu
+307-GĐ2
+14
+22/08/2023
+3
+18h00
+Cơ sở dữ liệu
+307-GĐ2
+15
+29/08/2023
+3
+18h00
+Cơ sở dữ liệu
+307-GĐ2
+16
+05/09/2023
+3
+18h00
+Cơ sở dữ liệu
+307-GĐ2
+17
+09/08/2023
+4
+18h00
+Toán học rời rạc
+TS. Tô Văn Khánh
+307-GĐ2
+18
+11/08/2023
+6
+18h00
+Toán học rời rạc
+307-GĐ2
+19
+16/08/2023
+4
+18h00
+Toán học rời rạc
+307-GĐ2
+20
+18/08/2023
+6
+18h00
+Toán học rời rạc
+307-GĐ2
+21
+19/08/2023
+7
+8h00
+Lập trình hướng đối tượng
+TS. Nguyễn Văn Sơn
+313-GĐ2
+22
+23/08/2023
+4
+18h00
+Lập trình hướng đối tượng
+307-GĐ2
+23
+26/08/2023
+7
+8h00
+Lập trình hướng đối tượng
+313-GĐ2
+24
+30/08/2023
+4
+18h00
+Lập trình hướng đối tượng
+307-GĐ2
+25
+06/09/2023
+4
+18h00
+Nhập môn an toàn thông tin
+TS. Nguyễn Đại Thọ
+307-GĐ2
+26
+08/09/2023
+6
+18h00
+Nhập môn an toàn thông tin
+307-GĐ2
+27
+09/09/2023
+7
+8h00
+Nhập môn an toàn thông tin
+313-GĐ2
+28
+09/09/2023
+7
+14h00
+Nhập môn an toàn thông tin
+313-GĐ2
++
+Học phí quy định:
+STT
+Học phần
+Số
+tín chỉ
+Học phí/
+Tín chỉ (đ)
+Tổng tiền (đ)
+1
+Toán học rời rạc
+04
+315.000
+1.260.000
+2
+Cấu trúc dữ liệu và giải thuật
+04
+315.000
+1.260.000
+3
+Cơ sở dữ liệu
+04
+315.000
+1.260.000
+4
+Lập trình nâng cao
+04
+315.000
+1.260.000
+5
+Công nghệ phần mềm
+03
+315.000
+945.000
+6
+Lập trình hướng đối tượng
+03
+315.000
+945.000
+7
+Nhập môn an toàn thông tin
+03
+315.000
+945.000
++  Quy định đăng ký học: thí sinh đăng ký học theo Học phần.

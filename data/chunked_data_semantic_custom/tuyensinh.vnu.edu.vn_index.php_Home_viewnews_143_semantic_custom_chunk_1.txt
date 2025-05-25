@@ -1,0 +1,105 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_143.txt
+
+Chỉ tiêu:
+STT
+Tên ngành
+Mã ngành
+Chỉ tiêu
+Tổ hợp xét tuyển 1
+Tổ hợp xét tuyển 2
+Tổ hợp xét tuyển 3
+Tổ hợp xét tuyển 4
+Ghi chú
+Theo kết quả thi THPT QG
+Theo phương thức khác
+I
+Khối ngành III
+1
+Quản trị kinh doanh *
+7340101
+145
+5
+D01
+(Toán, Ngữ văn, Tiếng Anh)
+D09
+(Toán, Lịch sử, Tiếng Anh)
+D10
+(Toán, Địa lý, Tiếng Anh
+A01
+(Toán, Vật lý, Tiếng Anh)
+Điểm môn Tiếng Anh * 2
+2
+Tài chính - Ngân hàng *
+7340201
+115
+5
+D01
+(Toán, Ngữ văn, Tiếng Anh)
+D09
+(Toán, Lịch sử, Tiếng Anh)
+D10
+(Toán, Địa lý, Tiếng Anh
+A01
+(Toán, Vật lý, Tiếng Anh)
+Điểm môn Tiếng Anh * 2
+3
+Kế toán *
+7340301
+115
+5
+D01
+(Toán, Ngữ văn, Tiếng Anh)
+D09
+(Toán, Lịch sử, Tiếng Anh)
+D10
+(Toán, Địa lý, Tiếng Anh
+A01
+(Toán, Vật lý, Tiếng Anh)
+Điểm môn Tiếng Anh * 2
+II
+Khối ngành VII
+1
+Kinh tế
+7310101
+175
+5
+D01
+(Toán, Ngữ văn, Tiếng Anh)
+A00
+(Toán, Vật lý, Hóa học)
+C04
+(Ngữ văn, Toán, Địa lý)
+A01
+(Toán, Vật lý, Tiếng Anh)
+2
+Kinh tế phát triển
+7310105
+175
+5
+D01
+(Toán, Ngữ văn, Tiếng Anh)
+A00
+(Toán, Vật lý, Hóa học)
+C04
+(Ngữ văn, Toán, Địa lý)
+A01
+(Toán, Vật lý, Tiếng Anh)
+3
+Kinh tế quốc tế *
+7310106
+194
+6
+D01
+(Toán, Ngữ Văn, Tiếng Anh)
+D09
+(Toán, Lịch sử, Tiếng Anh)
+D10
+(Toán, Địa lý, Tiếng Anh
+A01
+(Toán, Vật lý, Tiếng Anh)
+Điểm môn Tiếng Anh * 2
+Tổng
+919
+31
+Lưu ý
+(*): Các ngành Quản trị kinh doanh, Tài chính - Ngân hàng, Kế toán, Kinh tế quốc tế tuyển sinh các chương trình đào tạo chất lượng cao đáp ứng Thông tư 23/2014-TT-BGDĐT của Bộ GD&ĐT.

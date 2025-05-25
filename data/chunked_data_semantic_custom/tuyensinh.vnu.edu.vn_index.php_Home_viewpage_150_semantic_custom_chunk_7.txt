@@ -1,0 +1,557 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewpage_150.txt
+
+300 chỉ tiêu)
+920
+691
+689
+QHX
+QHX01
+Báo chí
+64
+48
+48
+A01
+C00
+D01
+D78
+QHX
+QHX02
+Chính trị học
+24
+18
+18
+A01
+C00
+D01, D04
+D78
+QHX
+QHX03
+Công tác xã hội
+26
+20
+19
+A01
+C00
+D01, D04
+D78
+QHX
+QHX04
+Đông Nam Á học
+20
+15
+15
+A01
+D14
+D01
+D78
+QHX
+QHX05
+Đông phương học
+40
+30
+3
+0
+C00
+D01, D04
+D78
+QHX
+QHX26
+Hàn Quốc học
+24
+18
+18
+A01
+C00
+D01
+, DD2
+D78
+QHX
+QHX06
+Hán Nôm
+12
+9
+9
+C00
+D01, D04
+D78
+QHX
+QHX07
+Khoa học quản lý
+48
+36
+36
+A01
+C00
+D01
+D78
+QHX
+QHX08
+Lịch sử
+32
+24
+2
+4
+D14
+C00
+D01, D04
+D78
+QHX
+QHX09
+Lưu trữ học
+20
+15
+15
+A01
+C00
+D01, D04
+D78
+QHX
+QHX10
+Ngôn ngữ học
+32
+24
+24
+C00
+D01, D04
+D78
+QHX
+QHX11
+Nhân học
+24
+18
+18
+A01
+C00
+D01, D04
+D78
+QHX
+QHX12
+Nhật Bản học
+20
+15
+15
+D01, D06
+D78
+QHX
+QHX13
+Quan hệ công chúng
+44
+33
+33
+C00
+D01, D04
+D78
+QHX
+QHX14
+Quản lý thông tin
+40
+30
+30
+A01
+C00
+D01
+D78
+QHX
+QHX15
+Quản trị dịch vụ du lịch và lữ hành
+48
+36
+36
+A01
+C00
+D01
+D78
+QHX
+QHX16
+Quản trị khách sạn
+40
+30
+30
+A01
+C00
+D01
+D78
+QHX
+QHX17
+Quản trị văn phòng
+36
+2
+7
+2
+7
+A01
+C00
+D01, D04
+D78
+QHX
+QHX18
+Quốc tế học
+60
+4
+5
+4
+5
+A01
+C00
+D01
+D78
+QHX
+QHX19
+Tâm lý học
+6
+4
+4
+8
+4
+8
+A01
+C00
+D01
+D78
+QHX
+QHX20
+Thông tin - Thư viện
+20
+15
+15
+D14
+C00
+D01
+D78
+QHX
+QHX21
+Tôn giáo học
+24
+1
+8
+18
+A01
+C00
+D01, D04
+D78
+QHX
+QHX22
+Triết học
+20
+15
+15
+C00
+D01, D04
+D78
+QHX
+QHX27
+Văn hóa học
+22
+1
+7
+1
+6
+D14
+C00
+D01, D04
+D78
+QHX
+QHX23
+Văn học
+4
+0
+30
+30
+C00
+D01, D04
+D78
+QHX
+QHX24
+Việt Nam học
+28
+21
+21
+C00
+D01, D04
+D78
+QHX
+QHX25
+Xã hội học
+28
+21
+2
+1
+A01
+C00
+D01
+D78
+QHX
+QHX28
+Điện ảnh và Nghệ thuật đại chúng
+20
+15
+15
+C00
+D01, D04
+D78
+4. TRƯỜNG ĐẠI HỌC NGOẠI NGỮ (2.000 chỉ tiêu)
+(Chỉ tiêu các ngành sư phạm chỉ là chỉ tiêu dự kiến)
+1.002
+202
+796
+QHF
+7140231
+Sư phạm tiếng Anh
+75
+15
+60
+D01
+Tiếng
+Anh
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+D14
+Tiếng
+Anh
+QHF
+7140234
+Sư phạm tiếng Trung
+13
+3
+9
+D01
+Tiếng
+Anh
+D04
+Tiếng
+Trung
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7140235
+Sư phạm tiếng Đức
+13
+3
+9
+D01
+Tiếng
+Anh
+D0
+5
+Tiếng
+Đức
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7140236
+Sư phạm tiếng Nhật
+13
+3
+9
+D01
+Tiếng
+Anh
+D06
+Tiếng
+Nhật
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7140237
+Sư phạm tiếng Hàn Quốc
+13
+3
+9
+D01
+Tiếng
+Anh
+DD2
+Tiếng
+Hàn
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220201
+Ngôn ngữ Anh
+2
+80
+56
+224
+D01
+Tiếng
+Anh
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+D14
+Tiếng
+Anh
+QHF
+7220202
+Ngôn ngữ Nga
+35
+7
+28
+D01
+Tiếng
+Anh
+D02
+Tiếng
+Nga
+D
+78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220203
+Ngôn ngữ Pháp
+75
+1
+5
+60
+D01
+Tiếng
+Anh
+D03
+Tiếng
+Pháp
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220204
+Ngôn ngữ Trung Quốc
+13
+5
+27
+108
+D01
+Tiếng
+Anh
+D04
+Tiếng
+Trung
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220205
+Ngôn ngữ Đức
+50
+10
+40
+D01
+Tiếng
+Anh
+D05
+Tiếng
+Đức
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220209
+Ngôn ngữ Nhật
+13
+5
+27
+108
+D01
+Tiếng
+Anh
+D06
+Tiếng
+Nhật
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220210
+Ngôn ngữ Hàn Quốc
+125
+25
+10
+0
+D01
+Tiếng
+Anh
+DD2
+Tiếng
+Hàn
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220211
+Ngôn ngữ Ả Rập
+15
+3
+12
+D01
+Tiếng
+Anh
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+D14
+Tiếng
+Anh
+QHF
+7220212
+QTD
+Văn hóa và truyền thông xuyên quốc gia
+25
+5
+20
+D01
+Tiếng
+Anh
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+D14
+Tiếng
+Anh
+5.

@@ -1,0 +1,42 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-thong-thong-tin-chat-luong-cao-theo-thong-tu-23-2_.txt
+
+2.1.2
+T
+hiết kế cơ hội để cải t
+iến
+tổ chức
+dựa trên
+CNTT
+(Hình thành ý tưởng)
+–         Liên kết từng phần và đầy đủ chiến lược CNTT (chiến lược HTTT) và chiến lược tổ chức;
+–         Cải thiện quy trình tổ chức nhờ các giải pháp CNTT;
+–         Hiểu và thiết kế vai trò của HTTT quản lý rủi ro của tổ chức và thiết lập giám sát rủi ro;
+–         Xác định chính xác và khai thác tốt cơ hội được tạo ra thông qua đổi mới công nghệ mới nổi;
+–         Làm tài liệu về yêu cầu thông tin;
+–         Nâng cao kinh nghiệm của các bên liên quan (nhà đầu tư) trong tương tác với các tổ chức, bao gồm các vấn đề tương tác người-máy;
+–         Quản lý được dự án HTTT. 2.1.3
+Thiết kế
+và thi hành
+giải pháp HTTT
+(Thiết kế và thi hành)
+–         Thiết kế kiến ​​trúc doanh nghiệp;
+–         Xác định, đánh giá, và thu thập các giải pháp cụ thể và các tùy chọn tìm nguồn cung ứng, cấu hình và tích hợp các giải pháp tổ chức sử dụng các giải pháp đóng gói;
+–         Thiết kế và thi hành các giải pháp cung cấp một trải nghiệm người dùng chất lượng cao đối với HTTT, các mô hình tiếp nhận công nghệ (
+Technology Acceptance Model
+: TAM) của người sử dụng;
+–         Thiết kế an toàn hệ thống và hạ tầng dữ liệu;
+–         Thiết kế và thi hành các ứng dụng, kiến ​​trúc ứng dụng và hệ thống tích hợp ứng dụng;
+–         Quản lý và khai thác dữ liệu và thông tin tổ chức, thiết kế các mô hình dữ liệu và thông tin;
+–         Quản lý tài nguyên phát triển / mua sắm HTTT;
+–         Quản lý dự án HTTT. 2.1.4
+Quản lý hoạt động
+CNTT
+đang diễn ra
+(Vận hành)
+–         Quản lý việc sử dụng các nguồn tài nguyên công nghệ doanh nghiệp;
+–         Quản lý hiệu suất và năng lực mở rộng ứng dụng;
+–         Duy trì HTTT hiện có;
+–         Quản lý mối quan hệ với các nhà cung cấp dịch vụ công nghệ;
+–         Bảo mật dữ liệu và hạ tầng hệ thống;
+–         Đảm bảo tính liên tục kinh doanh;
+–         Cải tiến và tiến hoá HTTT.

@@ -1,0 +1,17 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-vien-thong-6_.txt
+
+Yêu cầu về kiến thức chuyên môn
+2.1. Kiến thức nhóm chuyên ngành
+Sử dụng thành thạo một số phương pháp và công cụ tính toán, mô hình hóa và mô phỏng phục vụ cho việc học tập và nghiên cứu các chuyên đề của Kỹ thuật Viễn thông;
+Làm chủ và vận dụng thành thạo các kiến thức nâng cao về một số lĩnh vực của Kỹ thuật Viễn thông như: Xử lý tín hiệu, Mạng Viễn thông, Hệ thống viễn thông di động- Viễn thông vô tuyến, Kỹ thuật cao tần, Anten và truyền sóng, …
+2.2. Kiến thức chuyên ngành
+Vận dụng thành thạo, có tư duy hệ thống các kiến thức chuyên ngành nâng cao và chuyên sâu về quá trình ngẫu nhiên, viễn thông số, mạng truyền dữ liệu, lý thuyết thông tin và mã hóa, các hệ thống viễn thông (hữu tuyến, vô tuyến, quang), … nhằm phục vụ cho việc nghiên cứu và phát triển các lý thuyết và công nghệ mới trong các lĩnh vực của Kỹ thuật Viễn thông. Kiến thức học phần và chuyên đề tiến sĩ
+Có kiến thức về quản trị tổ chức;
+Vận dụng thành thạo các phương pháp nghiên cứu và kỹ thuật viết, trình bày báo cáo khoa học;
+Nắm bắt được các xu hướng và làm chủ các chủ đề nghiên cứu có tính thời sự; hiểu và có khả năng trình bày lại/ sáng tạo và vận dụng các kiến thức mới trong một số hướng nghiên cứu hẹp của các lĩnh vực của Kỹ thuật Viễn thông như: mạng truyền thông vô tuyến tiên tiến, mạng truyền thông hiệu năng cao…
+3. Yêu cầu về năng lực nghiên cứu
+Kiến thức khoa học chuyên ngành để phát hiện các vấn đề mới;
+Kiến thức về phương pháp nghiên cứu khoa học;
+Có khả năng trình bày báo cáo khoa học ở hội thảo trong nước, quốc tế;
+Có khả năng công bố kết quả nghiên cứu khoa học ở các tạp chí về công nghệ Điện tử – Viễn thông;
+Tính trung thực trong nghiên cứu khoa học.

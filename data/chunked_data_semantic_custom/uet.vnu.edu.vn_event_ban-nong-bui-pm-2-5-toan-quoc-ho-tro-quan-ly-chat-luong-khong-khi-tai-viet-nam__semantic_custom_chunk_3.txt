@@ -1,0 +1,5 @@
+Nguồn: uet.vnu.edu.vn_event_ban-nong-bui-pm-2-5-toan-quoc-ho-tro-quan-ly-chat-luong-khong-khi-tai-viet-nam_.txt
+
+Việt Nam: 18/63 tỉnh, thành phố ô nhiễm bụi PM 2.5
+Bản đồ này được xây dựng trong báo cáo “Chất lượng Không khí – Tiếp cận đa nguồn trong giám sát bụi PM 2.5” thuộc Dự án“Chung tay vì Không khí Sạch” do Cơ quan Phát triển Quốc tế Hoa Kỳ (USAID) tài trợ. Báo cáo gồm Bản đồ nồng độ bụi PM 2.5 toàn quốc có trọng số dân số cấp tỉnh/thành phố năm 2019 và Bản đồ nồng độ bụi PM 2.5 có trọng số dân số cấp quận/huyện ở Hà Nội năm 2019. Theo bản đồ nồng độ bụi PM 2.5 toàn quốc năm 2019, có 18/63 tỉnh, thành ở Việt Nam được coi là ô nhiễm bụi PM 2.5 do nồng độ bụi trung bình năm vượt tiêu chuẩn QCVN 05:2013. Giao diện “Bản đồ nồng độ bụi PM 2.5 toàn quốc”
+Bản đồ này dựa trên dữ liệu ảnh vệ tinh kết hợp với dữ liệu trên mặt đất từ các trạm chuẩn truyền thống và mạng lưới trạm cảm biến trong giai đoạn 2016-2019, các nhà nghiên cứu đã sử dụng mô hình học máy thống kê (Statistical Machine Learning) để tìm ra những đặc trưng và xu hướng từ chuỗi số liệu, từ đó phân tích, ước tính và trực quan hóa nồng độ chất ô nhiễm PM 2.5 trên lãnh thổ Việt Nam.

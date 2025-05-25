@@ -1,0 +1,9 @@
+Nguồn: uet.vnu.edu.vn_truong_dai_hoc_cong_nghe_dhqghn_duoc_cap_bang_doc_quyen_giai_phap_huu_ich_cho_nghien_cuu_phuong_phap_quan_ly_va_giam_sat_bo_chuyen_doi_.txt
+
+Trường Đại học Công nghệ – ĐHQGHN được cấp bằng độc quyền giải pháp hữu ích cho nghiên cứu Phương pháp quản lý và giám sát bộ chuyển đổi công suất cho thiết bị điện gió
+Cục Sở hữu trí tuệ, Bộ Khoa học và Công nghệ vừa cấp bằng độc quyền
+giải pháp hữu ích mới cho nghiên cứu của Trường Đại học Công nghệ (Đại học Quốc gia Hà Nội) tại Quyết định 59
+6w/QĐ-SHTT, ngày 13/01/2022. Giải pháp hữu ích “
+Phương pháp quản lý và giám sát bộ chuyển đổi công suất cho thiết bị điện gió” được cấp bằng độc quyền giải pháp hữu ích
+do nhóm nghiên cứu của
+PGS.TS Phạm Mạnh Thắng thực hiện. Giải pháp hữu ích đề cập đến phương pháp quản lý và giám sát bộ chuyển đổi công suất cho thiết bị điện gió từ xa, không phụ thuộc vào khoảng cách. Phương pháp quản lý và giám sát bộ chuyển đổi công suất điện từ thiết bị điện gió thành dòng điện xoay chiều ổn định 220V, 50Hz bằng cách tích hợp phần cứng trên nền tảng các hệ thống vi điều khiển và phần mềm nhúng chuyên dụng với các chức năng giám sát truyền dữ liệu với các thông tin của bộ chuyển đổi công suất theo thời gian thực.

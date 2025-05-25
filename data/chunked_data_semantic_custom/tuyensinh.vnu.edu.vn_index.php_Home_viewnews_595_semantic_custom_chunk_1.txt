@@ -1,0 +1,64 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_595.txt
+
+Điểm trúng tuyển:
+STT
+Mã xét tuyển
+Tên ngành
+Điểm trúng tuyển
+Tiêu chí phụ
+(nếu điểm xét tuyển bằng mức điểm trúng tuyển sẽ sử dụng tiêu chí phụ)
+Ghi chú
+Điểm môn Toán
+Thứ tự nguyện vọng
+I
+Chương trình đào tạo chất lượng cao theo Thông tư 23/TT-BGDĐT
+1
+QHE40
+Quản trị kinh doanh
+29.60
+≥7.8
+NV1, NV2, NV3
+* Thang điểm 40
+* Điểm môn Tiếng Anh đạt từ 4.0/10.0 trở lên và nhân hệ số 2; điểm ưu tiên đối tượng và khu vực chia 3 nhân 4
+2
+QHE41
+Tài chính - Ngân hàng
+28.08
+≥7.8
+NV1, NV2, NV3
+3
+QHE42
+Kế toán
+28.07
+≥7.0
+NV1, NV2, NV3
+4
+QHE43
+Kinh tế quốc tế
+31.06
+≥7.4
+NV1
+5
+QHE44
+Kinh tế
+27.08
+≥6.8
+NV1, NV2
+II
+Chương trình đào tạo chuẩn
+1
+QHE01
+Kinh tế phát triển
+23.50
+≥8.0
+NV1
+Thang điểm 30
+III
+Chương trình đào tạo liên kết quốc tế
+1
+QHE80
+Quản trị kinh doanh (liên kết quốc tế do Đại học Troy - Hoa Kỳ cấp bằng)
+23.45
+* Thang điểm 40
+* Điểm môn Tiếng Anh đạt từ 6.0/10.0 trở lên và nhân hệ số 2; điểm ưu tiên đối tượng và khu vực chia 3 nhân 4
+1.2.

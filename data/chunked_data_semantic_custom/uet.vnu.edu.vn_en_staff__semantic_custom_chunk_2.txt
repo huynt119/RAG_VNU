@@ -1,0 +1,379 @@
+Nguồn: uet.vnu.edu.vn_en_staff_.txt
+
+Professors:
+Ordinal number
+Full name
+Current working institute
+1
+Prof.Dr Nguyen Dinh Duc
+School of Aerospace Engineering
+2
+Prof.Dr Nguyen Huu Duc
+Key Laboratory for Micro and Nanotechnology
+3
+Prof.Dr Nguyen Nang Dinh
+Faculty of Engineering Physics and
+Nanotechnology
+4
+Prof.Dr Hoang Nam Nhat
+Faculty of Engineering Physics and
+Nanotechnology
+5
+Prof.Dr Le Huy Ham
+Faculty of Agriculture technology
+6
+Prof.Dr Nguyen Thanh Thuy
+Faculty of Information Technology
+7
+Prof.Dr Chu Duc Trinh
+Faculty of Electronics and Telecommunications
+2. Associate Professor
+Ordinal number
+Full name
+Current working institute
+1
+A.Prof.Dr Nguyen Viet Anh
+Faculty of Information Technology
+2
+A.Prof.Dr Dang The Ba
+Faculty of Engineering Mechanics and Automation
+3
+A.Prof.Dr Nguyen hai Chau
+Faculty of Information Technology
+4
+A.Prof.Dr Nguyen Kien Cuong
+Faculty of Engineering Physics and Nanotechnology
+5
+A.Prof.DrDo Thi Huong Giang
+Faculty of Engineering Physics and Nanotechnology
+6
+A.Prof.Dr Phan Xuan Hieu
+Faculty of Information Technology
+7
+A.Prof.Dr Nguyen Viet Ha
+Faculty of Information Technology
+8
+A.Prof.Dr Le Thanh Ha
+Faculty of Information Technology
+9
+A.Prof.Dr Nguyen Ngoc Hoa
+Faculty of Information Technology
+10
+A.Prof.Dr Truong Anh Hoang
+Faculty of Information Technology
+11
+A.Prof.Dr Nguyen Nam Hoang
+Faculty of Electronics and Telecommunications
+12
+A.Prof.Dr Hoang Xuan Huan
+Faculty of Information Technology
+13
+A.Prof.Dr Pham Ngoc Hung
+Faculty of Information Technology
+14
+A.Prof.Dr Nguyen Phuong Hoai Nam
+Faculty of Engineering Physics and
+Nanotechnology
+15
+A.Prof.Dr Nguyen Hoai Son
+Faculty of Information Technology
+16
+A.Prof.Dr Nguyen Phuong Thai
+Faculty of Information Technology
+17
+A.Prof.Dr Nguyen Thi Nhat Thanh
+Faculty of Information Technology
+18
+A.Prof.Dr Pham Duc Thang
+Faculty of Engineering Physics and
+Nanotechnology
+19
+A.Prof.Dr Pham Manh Thang
+Faculty of Engineering Mechanics and Automation
+20
+A.Prof.Dr Nguyen Tri Thanh
+Faculty of Information Technology
+21
+A.Prof.Dr Truong Ninh Thuan
+School of Aerospace Engineering
+22
+A.Prof.Dr Ha Quang Thuy
+Faculty of Information Technology
+23
+A.Prof.Dr Nguyen Linh Trung
+Faculty of Electronics and Telecommunications
+24
+A.Prof.Dr  Tran Xuan Tu
+Faculty of Electronics and Telecommunications
+25
+A.Prof.Dr Nguyen Quoc Tuan
+Faculty of Electronics and Telecommunications
+26
+A.Prof.Dr Bui Thanh Tung
+Faculty of Electronics and Telecommunications
+27
+A.Prof.Dr Nguyen Dinh Viet
+Faculty of Information Technology
+28
+A.Prof.Dr Le Sy Vinh
+Faculty of Information Technology
+29
+A.Prof.Dr Trinh Anh Vu
+Faculty of Electronics and Telecommunications
+3. Doctor
+Ordinal number
+Full name
+Current working institute
+1
+Dr Nguyen Ngoc An
+Faculty of Electronics and Telecommunications
+2
+Dr Le Dinh Anh
+School of Aerospace Engineering
+3
+Dr Ho Thi Anh
+Faculty of Engineering Physics and Nanotechnology
+4
+Dr Vu Tuan Anh
+Faculty of Electronics and Telecommunications
+5
+Dr Vu Thi Thuy Anh
+Department of Civil Engineering and Transportation
+6
+Dr Tran Thi Minh Chau
+Faculty of Information Technology
+7
+Dr Ma Thi Chau
+Faculty of Information Technology
+8
+Dr Lam Sinh Cong
+Faculty of Electronics and Telecommunications
+9
+Dr Dang Cao Cuong
+Faculty of Information Technology
+10
+Dr Nguyen Duc Cuong
+Faculty of Engineering Physics and Nanotechnology
+11
+Dr Ha Minh Cuong
+School of Aerospace Engineering
+12
+Dr Le Viet Cuong
+Faculty of Engineering Physics and Nanotechnology
+13
+Dr Ta Viet Cuong
+Faculty of Information Technology
+14
+Dr Tran Mau Danh
+Faculty of Engineering Physics and Nanotechnology
+15
+Dr Nguyen Thi Ngoc Diep
+Faculty of Information Technology
+16
+Dr Le Phe Do
+Faculty of Information Technology
+17
+Dr Do Duc Dong
+Faculty of Information Technology
+18
+Dr Duong Viet Dung
+School of Aerospace Engineering
+19
+Dr Nguyen Viet Dung
+Faculty of Electronics and Telecommunications
+20
+Dr Dinh Trieu Duong
+Faculty of Electronics and Telecommunications
+21
+Dr Phung Manh Duong
+Faculty of Electronics and Telecommunications
+22
+Dr Ngo Thi Duyen
+Faculty of Information Technology
+23
+Dr Le Vu Ha
+Faculty of Electronics and Telecommunications
+24
+Dr Luu Manh Ha
+Faculty of Electronics and Telecommunications
+25
+Dr Le Hong Hai
+Faculty of Electronics and Telecommunications
+26
+Dr Dang Thanh Hai
+Faculty of Information Technology
+27
+Dr Bui Thu Hang
+Faculty of Information Technology
+28
+Dr Dang Duc Hanh
+Faculty of Electronics and Telecommunications
+29
+Dr Nguyen Thi Hau
+Faculty of Information Technology
+30
+Dr  Le Thi Hien
+Faculty of Agriculture Technology
+31
+Dr Dinh Tran Hiep
+Faculty of Engineering Mechanics and Automation
+32
+Dr Bui Duy Hieu
+Faculty of Electronics and Telecommunications
+33
+Dr Vo Dinh Hieu
+Faculty of Information Technology
+34
+Dr Tran Trong Hieu
+Faculty of Information Technology
+35
+Dr Le Quang Hieu
+Faculty of Information Technology
+36
+Dr Nguyen Thi Minh Hong
+Faculty of Engineering Physics and Nanotechnology
+37
+Dr Le Thi Hoi
+Faculty of Information Technology
+38
+Dr Nguyen Kiem Hung
+Faculty of Electronics and Telecommunications
+39
+Dr Tran Cuong Hung
+Faculty of Engineering Mechanics and Automation
+40
+Dr Hoang Gia Hung
+Faculty of Electronics and Telecommunications
+41
+Dr Pham Gia Hung
+Faculty of Electronics and Telecommunications
+42
+Dr Bui Quang Hung
+Center of Multidisciplinary Integrated Technologies for Field Monitoring
+43
+Dr Vu Dieu Huong
+Faculty of Information Technology
+44
+Dr Nguyen Le Khanh
+Faculty of Information Technology
+45
+Dr Dang Nam Khanh
+Faculty of Electronics and Telecommunications
+46
+Dr To Van Khanh
+Faculty of Information Technology
+47
+Dr Tran Dang Khoa
+Faculty of Agriculture Technology
+48
+Dr Le Nguyen Khoi
+Faculty of Information Technology
+49
+Dr Nguyen Duy Khuong
+Faculty of Information Technology
+50
+Dr Nguyen Dinh Lam
+Faculty of Engineering Physics and Nanotechnology
+51
+Dr Pham Manh Linh
+Center of Multidisciplinary Integrated Technologies for Field Monitoring
+52
+Dr Nguyen Ngoc Linh
+Faculty of Engineering Mechanics and Automation
+53
+Dr Tran Quoc Long
+Faculty of Information Technology
+54
+Dr Tran Truc Mai
+Faculty of Information Technology
+55
+Dr Dinh Thi Thai Mai
+Faculty of Electronics and Telecommunications
+56
+Dr Nguyen Thi Yen Mai
+Faculty of Engineering Physics and Nanotechnology
+57
+Dr Duong Tuan Manh
+Department of Civil Engineering and Transportation
+58
+Dr Duong Le Minh
+Faculty of Information Technology
+59
+Dr Vu Thi Hong Nhan
+Faculty of Information Technology
+60
+Dr Bui Trung Ninh
+Faculty of Electronics and Telecommunications
+61
+Dr Nguyen Hoang Quan
+School of Aerospace Engineering
+62
+Dr Ha Thi Quyen
+Faculty of Information Technology
+63
+Dr Tran Cao Quyen
+Faculty of Electronics and Telecommunications
+64
+Dr Tran Thi Thuy Quynh
+Faculty of Electronics and Telecommunications
+65
+Dr Bui Hong Son
+Faculty of Engineering Mechanics and Automation
+66
+Dr Nguyen Anh Thai
+University Administrator
+67
+Dr Bui Ngoc Thang
+Faculty of Information Technology
+68
+Dr Le Dinh Thanh
+Faculty of Information Technology
+69
+Dr Nguyen Hong Thinh
+Faculty of Electronics and Telecommunications
+70
+Dr Nguyen Dai Tho
+Faculty of Information Technology
+71
+Dr Vu Thi Thao
+Faculty of Engineering Physics and Nanotechnology
+72
+Dr Pham Ngoc Thao
+Faculty of Electronics and Telecommunications
+73
+Dr Pham Minh Trien
+Faculty of Agriculture Technology
+74
+Dr Le Duc Trong
+Faculty of Information Technology
+75
+Dr Nguyen Huy Tiep
+Faculty of Engineering Physics and Nanotechnology
+76
+Dr Bui Dinh Tu
+Faculty of Engineering Physics and Nanotechnology
+77
+Dr Le Van Tuan
+Department of Civil Engineering and Transportation
+78
+Dr Tran Thanh Tung
+Faculty of Engineering Mechanics and Automation
+79
+Dr Hoang Xuan Tung
+Faculty of Information Technology
+80
+Dr Ta Duc Uyen
+Faculty of Electronics and Telecommunications
+81
+Dr Nguyen Thi Thanh Van
+Faculty of Electronics and Telecommunications
+82
+Dr Nguyen Van Vinh
+Faculty of Information Technology
+83
+Dr Tran Mai Vu
+Faculty of Information Technology
+84
+Dr Hoang Van Xiem
+Faculty of Electronics and Telecommunications
+4.

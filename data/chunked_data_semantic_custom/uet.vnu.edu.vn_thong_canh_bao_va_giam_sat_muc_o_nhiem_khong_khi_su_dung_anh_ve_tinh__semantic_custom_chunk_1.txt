@@ -1,0 +1,25 @@
+Nguồn: uet.vnu.edu.vn_thong_canh_bao_va_giam_sat_muc_o_nhiem_khong_khi_su_dung_anh_ve_tinh_.txt
+
++ T
+ính toán thông số PM
+2.5
+(
+nồng độ bụi có kích cỡ < 2.5 micromet trong không khí
+)
+cho toàn bộ vùng lãnh thổ Việt Nam,
+độ phân giải không gian 10×10 km với tần suất 4 lần/ngày
+(dựa trên xử lý
+ảnh MODIS Terra/Aqua
+)
+và 6×6 km với tần suất 2 lần/ngày
+(dựa trên xử lý
+ảnh VIIRS NPP
+)
+. + Áp dụng công thức chuyển đổi từ mức độ bụi PM
+2.5
+về chỉ số chất lượng không khí AQI theo tiêu chuẩn Việt Nam
+và
+tiêu chuẩn quốc tế. Thông qua phân tách dữ liệu tới 63 Tỉnh/Thành phố, hệ thống cung cấp nguồn ảnh về bụi PM
+2.5
+, AQI cho toàn bộ lãnh thổ Việt Nam và các Tỉnh/Thành phố từ năm 2010 đến hiện nay. + Phát triển thành công hệ thống thông tin địa lý (GIS) quản lý và cảnh báo ô nhiễm không khí trên nền tảng Web với các tính năng như hiển thị thông tin cảnh báo ô nhiễm cấp tỉnh, tìm kiếm các dữ liệu lịch sử, thống kê – báo cáo dữ liệu theo thời gian và đăng ký các thông tin cảnh báo theo phiên ảnh hàng ngày. Thống kê dữ liệu định kỳ theo thời gian một cách tự động, tùy ý theo yêu cầu của các cấp quản lý, chính quyền nhằm phát hiện sự tương quan, ảnh hưởng của ô nhiễm không khí theo thời gian, đưa ra các
+Khi nhắc đến định hướng trong thời gian tới, TS.

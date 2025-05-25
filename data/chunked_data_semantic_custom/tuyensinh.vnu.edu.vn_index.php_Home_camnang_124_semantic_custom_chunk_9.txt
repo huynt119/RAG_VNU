@@ -1,0 +1,200 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_camnang_124.txt
+
+KẾT QUẢ KHẢO SÁT VIỆC LÀM CỦA SINH VIÊN SAU TỐT NGHIỆP
+NĂM 2020
+TT
+Ngành đào tạo
+Tổng số SVTN
+Chia theo giới tính
+Tổng số SVTN được khảo sát
+Tổng số SVTN có phản hồi
+Chia theo tình trạng việc làm
+Tỷ lệ SVTN có việc làm
+Mã ngành
+Tên ngành
+Nam
+Nữ
+SL  SVTN có việc làm
+SL SVTN đang học nâng cao
+SL SVTN chưa có việc làm
+1
+52140209
+Sư phạm Toán
+38
+8
+30
+38
+34
+26
+6
+2
+94,1%
+2
+52140211
+Sư phạm Vật lí
+20
+3
+17
+20
+20
+11
+6
+3
+85%
+3
+52140212
+Sư phạm Hóa học
+27
+2
+25
+27
+22
+21
+1
+0
+95,6%
+4
+52140213
+Sư phạm Sinh học
+15
+2
+13
+15
+13
+13
+0
+0
+100%
+5
+52140217
+Sư phạm Ngữ văn
+42
+1
+41
+42
+35
+31
+3
+1
+97,1%
+6
+52140218
+Sư phạm Lịch sử
+21
+1
+20
+21
+19
+15
+4
+0
+100%
+TỔNG CỘNG:
+6 NGÀNH
+163
+143
+117
+20
+6
+95.8%
+NĂM 2021
+TT
+Ngành đào tạo
+Tổng số SVTN
+Chia theo giới tính
+Tổng số SVTN được khảo sát
+Tổng số SVTN có phản hồi
+Chia theo tình trạng
+việc làm
+Tỷ lệ SVTN có việc làm
+Mã ngành
+Tên ngành
+Nam
+Nữ
+SL  SVTN có việc làm
+SL SVTN đang học nâng cao
+SL SVTN chưa có việc làm
+1
+52140209
+Sư phạm Toán
+47
+9
+38
+47
+42
+33
+7
+2
+95.2%
+2
+52140211
+Sư phạm Vật lí
+21
+3
+18
+21
+18
+11
+5
+2
+88,9%
+3
+52140212
+Sư phạm Hóa học
+33
+4
+29
+33
+25
+12
+12
+1
+96%
+4
+52140213
+Sư phạm Sinh học
+8
+0
+8
+8
+6
+6
+0
+0
+100%
+5
+52140217
+Sư phạm Ngữ văn
+54
+1
+53
+54
+38
+34
+2
+2
+94,7%
+6
+52140218
+Sư phạm Lịch sử
+17
+1
+16
+17
+14
+11
+1
+2
+85,7%
+TỔNG CỘNG:
+6 NGÀNH
+180
+18
+162
+180
+143
+107
+27
+09
+93,7%
+PHỤ LỤC 4.

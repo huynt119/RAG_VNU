@@ -1,0 +1,8 @@
+Nguồn: uet.vnu.edu.vn_phat-trien-thong-dich-da-ngu-giua-tieng-viet-va-mot-ngon-ngu-khac_.txt
+
+Phát triển hệ thống dịch đa ngữ giữa tiếng Việt và một số ngôn ngữ khác
+Từ năm 2020 đến nay, TS. Nguyễn Văn Vinh – Chủ nhiệm đề tài cùng nhóm nghiên cứu
+về Xử lý ngôn ngữ tự nhiên & ứng dụng của
+khoa Công nghệ thông tin – Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội và một số đơn vị khác như Trường Công nghệ thông tin và truyền thông -ĐH Bách Khoa, Trường ĐH Kinh tế kỹ thuật Hà Nội, Trường ĐH Khoa học xã hội và nhân văn… đã thành công nghiên cứu đề tài cấp quốc gia KC-4.0.12/19-25 “Phát triển hệ thống dịch đa ngữ giữa tiếng Việt và một số ngôn ngữ khác” và đưa hệ thống vào sử dụng tại website itrithuc.vn. Nguyễn Văn Vinh (thứ 4, từ trái sang) – Chủ nhiệm đề tài ” Phát triển hệ thống dịch đa ngữ giữa tiếng Việt và một số ngôn ngữ khác” cùng nhóm nghiên cứu
+Hệ thống dịch đa ngữ giữa tiếng Việt và một số ngôn ngữ hạn chế tài nguyên
+Hiện nay, do hội nhập quốc tế Việt Nam và nhiều nước trên thế giới có quan hệ ngoại giao, kinh tế. Do vậy, lượng văn bản song ngữ giữa Việt Nam và các nước khác ngày càng lớn.

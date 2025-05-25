@@ -1,0 +1,6 @@
+Nguồn: uet.vnu.edu.vn_thong_tin_luan_tien_si_cua_ncs_nguyen_tho_thong_.txt
+
+Tóm tắt các
+kết quả mới
+của luận án:
+Thứ nhất, luận án đề xuất một lý thuyết mở rộng với tên gọi tập neutrosophic giá trị khoảng động (DIVNS) để thể hiện tính động của dữ liệu không chắc chắn, không xác định và không nhất quán theo khoảng thời gian. Ngoài ra các định nghĩa, tính chất, phép toán liên quan của DIVNS cũng được giới thiệu. Một mô hình ra quyết định mở rộng TOPSIS (kỹ thuật sắp xếp thứ tự ưu tiên tương đương giải pháp lý tưởng) dựa trên lý thuyết DIVNS cũng đã được phát triển và ứng dụng trong đánh giá năng lực sinh viên để cho thấy lợi thế của mô hình đã đề xuất cũng như khả năng ứng dụng của mô hình trong thực tiễn. Thứ hai, luận án trình bày các cách xử lý vấn đề thông tin trọng số không biết của mô hình ra quyết định trong môi trường neutrosophic giá trị khoảng động bao gồm trọng số thời gian, trọng số người ra quyết định và trọng số của bộ tiêu chí. Mô hình TOPSIS-DIVNS cũng được mở rộng để giải quyết vấn về không biết thông tin trọng số. Tiếp theo, mô hình đề xuất được ứng dụng trong đánh giá năng lực của sinh viên để chứng minh những lợi thế của mô hình với không biết thông tin trọng số trong môi trường neutrosophic giá trị khoảng động.

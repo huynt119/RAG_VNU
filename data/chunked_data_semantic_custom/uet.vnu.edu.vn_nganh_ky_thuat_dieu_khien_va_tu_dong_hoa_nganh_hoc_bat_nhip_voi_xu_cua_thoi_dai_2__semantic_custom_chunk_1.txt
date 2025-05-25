@@ -1,0 +1,9 @@
+Nguồn: uet.vnu.edu.vn_nganh_ky_thuat_dieu_khien_va_tu_dong_hoa_nganh_hoc_bat_nhip_voi_xu_cua_thoi_dai_2_.txt
+
+Có thể hiểu, Kỹ thuật điều khiển và Tự động hoá là ngành học nghiên cứu, thiết kế, vận hành các hệ thống tự động, các dây chuyền sản xuất tự động tại các nhà máy (xi măng, sắt thép, nước giải khát, dược phẩm,…); thiết kế, điều khiển và chế tạo robot; quản lý sản phẩm tại các công ty trong và ngoài nước kinh doanh về các thiết bị điện tử tự động…
+Cụ thể, nếu theo học chương trình đào tạo Kỹ sư Kỹ thuật điều khiển và Tự động hoá, sinh viên sẽ được cung cấp các kiến thức và kỹ năng chuyên môn thuộc một trong các lĩnh vực như Điều khiển các thiết bị và hệ thống tự động; Tự động hóa sản xuất và truyền thông trong công nghiệp; Lĩnh vực chế tạo và điều khiển robot;…
+Hiện ngành này được coi là một trong những ngành “hot” tại các trường đại học có đào tạo khối kỹ thuật như Trường ĐH Công nghệ, ĐHQGHN. Theo PGS.TS Phạm Mạnh Thắng – Chủ nhiệm Khoa Cơ học kỹ thuật và Tự động hóa của Trường ĐH Công nghệ, ĐHQGHN nhấn mạnh: “
+Phương châm của ĐHQGHN nói chung và của Khoa nói riêng là “phát huy thế mạnh về khoa học cơ bản của ĐHQGHN để phát triển các ngành công nghệ trọng điểm” cộng hưởng với mô hình hoạt động “kết hợp giữa viện nghiên cứu và trường đại học, gắn nghiên cứu – triển khai với sản xuất – kinh doanh”. Khoa đang tổ chức đào tạo
+3 chương trình bậc đại học, 2 chương trình thạc sĩ, 1 chương trình tiến sĩ
+,
+với hơn 40 cán bộ, giảng viên, các hướng nghiên cứu chính gồm Công nghệ Cơ điện tử, Tự động hóa và Robotics; Cơ học sông, biển, khí quyển và môi trường; Cơ học công trình; Chẩn đoán kỹ thuật công trình; Cơ học thủy khí công nghiệp; Hàng không vũ trụ; Cơ học vật liệu và kết cấu composite”.

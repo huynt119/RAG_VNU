@@ -1,0 +1,293 @@
+Nguồn: uet.vnu.edu.vn_danh_sach_thi_sinh_du_phong_van_ky_ts_sdh_dot_1_nam_2024_.txt
+
+Phòng thi số: 03 – P.305 GĐ2                                       Thời gian thi: ngày 11/05/2024
+TT
+SBD
+Họ và tên
+Giới tính
+Ngày sinh
+Chuyên
+ngành
+ĐKDT
+Thời gian vào phòng chờ PV
+Thời gian vào
+phòng PV
+Thời gian
+PV
+1
+0476597
+Đỗ Thành Đạt
+Nam
+02/09/1999
+KTPM
+6h45
+7h05
+7h05-7h25
+2
+0475526
+Nguyễn Minh Đức
+Nam
+27/03/2000
+KTPM
+7h00
+7h30
+7h30-7h50
+3
+0475669
+Ngô Hoàng Duy
+Nam
+21/07/2000
+KTPM
+7h25
+7h55
+7h55-8h15
+4
+0475939
+Nguyễn Quang Minh
+Nam
+11/09/2000
+KTPM
+7h50
+8h20
+8h20-8h40
+5
+0475796
+Mai Xuân Ngọc
+Nam
+21/04/2000
+KTPM
+8h15
+8h45
+8h45-9h05
+6
+0476163
+Nguyễn Trọng Phi
+Nam
+26/11/1983
+KTPM
+8h40
+9h10
+9h10-9h30
+7
+0475086
+Phạm Hồng Phúc
+Nam
+16/06/2000
+KTPM
+9h05
+9h35
+9h35-9h55
+8
+0475142
+Nguyễn Hải Sơn
+Nam
+22/01/2001
+KTPM
+9h30
+10h00
+10h00-10h20
+9
+0475957
+Nguyễn Xuân Thành
+Nam
+01/11/2001
+KTPM
+9h55
+10h25
+10h25-10h45
+10
+0476212
+Phan Thị Phương Thảo
+Nữ
+27/08/1998
+KTPM
+10h20
+10h50
+10h50-11h10
+11
+0475232
+Nguyễn Thị Thanh Thư
+Nữ
+17/06/1999
+KTPM
+10h45
+11h15
+11h15-11h35
+12
+0475205
+Phạm Mạnh Tường
+Nam
+11/10/1998
+KTPM
+11h10
+11h40
+11h40-12h00
+13
+0475654
+Vũ Đình Hiệu
+Nam
+06/05/1988
+ATTT
+11h35
+12h05
+12h05-12h25
+14
+0475989
+Trương Ngọc Anh
+Nam
+11/08/2000
+MMT&TTDL
+11h55
+12h30
+12h30-12h50
+15
+0475829
+Bùi Tiến Duy
+Nam
+14/10/1999
+MMT&TTDL
+12h15
+12h55
+12h55-13h15
+Danh sách này gồm 15 thí sinh./. II,  CHUYÊN NGÀNH KỸ THUẬT ĐIỆN TỬ
+Phòng thi số: 04 – P.306 GĐ2                                             Thời gian thi: ngày 11/05/2024
+TT
+SBD
+Họ và tên
+Giới tính
+Ngày sinh
+Chuyên
+ngành
+ĐKDT
+Thời gian vào phòng chờ PV
+Thời gian vào
+phòng PV
+Thời gian
+PV
+1
+0476329
+Hoàng Linh Chi
+Nữ
+09/08/2000
+KTĐT
+6h45
+7h05
+7h05-7h25
+2
+0475366
+Nguyễn Trường Chinh
+Nam
+02/08/1996
+KTĐT
+7h00
+7h30
+7h30-7h50
+3
+0475144
+Lê Xuân Đông
+Nam
+31/01/2000
+KTĐT
+7h25
+7h55
+7h55-8h15
+4
+0476269
+Nguyễn Đình Dương
+Nam
+31/03/2000
+KTĐT
+7h50
+8h20
+8h20-8h40
+5
+0475473
+Nguyễn Hữu Hưng
+Nam
+03/02/2000
+KTĐT
+8h15
+8h45
+8h45-9h05
+6
+0475032
+Vũ Đình Hưng
+Nam
+15/11/1980
+KTĐT
+8h40
+9h10
+9h10-9h30
+7
+0475812
+Vũ Duy Hưng
+Nam
+23/10/2000
+KTĐT
+9h05
+9h35
+9h35-9h55
+8
+0475658
+Phạm Tài Lân
+Nam
+24/12/2000
+KTĐT
+9h30
+10h00
+10h00-10h20
+9
+0475398
+Vương Tô Thùy Linh
+Nữ
+02/04/2001
+KTĐT
+9h55
+10h25
+10h25-10h45
+10
+0476574
+Đặng Minh Quang
+Nam
+06/01/1996
+KTĐT
+10h20
+10h50
+10h50-11h10
+11
+0476493
+Nguyễn Đình Như Quỳnh
+Nữ
+08/03/2000
+KTĐT
+10h45
+11h15
+11h15-11h35
+12
+0475325
+Ngô Đức Thắng
+Nam
+29/11/1998
+KTĐT
+11h10
+11h40
+11h40-12h00
+13
+0475135
+Nguyễn Thanh Tùng
+Nam
+28/12/1998
+KTĐT
+11h35
+12h05
+12h05-12h25
+14
+0476109
+Nguyễn Huy Việt
+Nam
+22/03/1998
+KTĐT
+11h55
+12h30
+12h30-12h50
+Danh sách này gồm 14 thí sinh./.

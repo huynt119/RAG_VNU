@@ -1,0 +1,101 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_1178.txt
+
+QHF
+7220211
+Ngôn ngữ Ả Rập
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2024
+15
+D01
+D78
+D90
+D14
+301
+Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ GD&ĐT và xét tuyển dự bị đại học
+1
+F31
+- Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ GD&ĐT
+- Xét tuyển thí sinh thuộc các trường dự bị đại học
+303
+Xét tuyển thẳng, ưu tiên xét tuyển theo Quy định của ĐHQGHN và xét tuyển kết quả học tập THPT kết hợp phỏng vấn
+5
+F33
+402
+Xét tuyển theo kết quả thi ĐGNL học sinh bậc THPT do ĐHQGHN hoặc ĐHQG HCM tổ chức
+3
+Q00
+408
+Xét tuyển chứng chỉ ngoại ngữ, chứng chỉ quốc tế
+6
+F48
+- Xét tuyển chứng chỉ ngoại ngữ kết hợp kết quả học tập bậc THPT
+- Xét tuyển chứng chỉ quốc tế (SAT, ACT, A-Level)
+- Xét tuyển chứng chỉ ngoại ngữ kết hợp kết quả thi tốt nghiệp THPT năm 2024
+14. QHF
+7220212QTD
+Văn hóa và truyền thông xuyên quốc gia
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2024
+25
+D01
+D78
+D90
+D14
+301
+Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ GD&ĐT và xét tuyển dự bị đại học
+2
+F31
+- Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ GD&ĐT
+- Xét tuyển thí sinh thuộc các trường dự bị đại học
+303
+Xét tuyển thẳng, ưu tiên xét tuyển theo Quy định của ĐHQGHN và xét tuyển kết quả học tập THPT kết hợp phỏng vấn
+8
+F33
+402
+Xét tuyển theo kết quả thi ĐGNL học sinh bậc THPT do ĐHQGHN hoặc ĐHQG HCM tổ chức
+5
+Q00
+408
+Xét tuyển chứng chỉ ngoại ngữ, chứng chỉ quốc tế
+10
+F48
+- Xét tuyển chứng chỉ ngoại ngữ kết hợp kết quả học tập bậc THPT
+- Xét tuyển chứng chỉ quốc tế (SAT, ACT, A-Level)
+- Xét tuyển chứng chỉ ngoại ngữ kết hợp kết quả thi tốt nghiệp THPT năm 2024
+Tổng cộng
+2000
+Ghi chú:
+Danh sách các tổ hợp xét tuyển:
+Mã tổ hợp xét tuyển bằng kết quả thi tốt nghiệp THPT (mã 100)
+Mã tổ hợp xét tuyển bằng các phương thức khác
+D01
+: Toán, Ngữ Văn, Tiếng Anh
+D02
+: Toán, Ngữ Văn, Tiếng Nga
+F31
+: Xét tuyển thẳng theo Quy chế tuyển sinh của Bộ GD&ĐT (mã 301)
+F33
+: Xét tuyển thẳng theo Quy định của ĐHQGHN (mã 303)
+D03
+: Toán, Ngữ Văn, Tiếng Pháp
+D04
+: Toán, Ngữ Văn, Tiếng Trung
+D05
+: Toán, Ngữ Văn, Tiếng Đức
+D06
+: Toán, Ngữ Văn, Tiếng Nhật
+Q00
+: Thi đánh giá năng lực cho học sinh THPT của ĐHQGHN (mã 402)
+F48
+: Chỉ sử dụng chứng chỉ quốc tế (mã 408)
+DD2
+: Toán, Ngữ Văn, Tiếng Hàn
+D78
+: Ngữ Văn, KHXH, Tiếng Anh
+D90
+: Toán, KHTN, Tiếng Anh
+D14
+: Ngữ Văn, Lịch sử, Tiếng Anh
+A01
+: Toán, Vật Lý, Tiếng Anh
+Bảng chứng chỉ ngoại ngữ xem chi tiết tại phụ lục 13 của văn bản này.

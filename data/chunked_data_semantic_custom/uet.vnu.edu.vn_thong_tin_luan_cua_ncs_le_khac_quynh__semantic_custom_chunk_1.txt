@@ -1,0 +1,13 @@
+Nguồn: uet.vnu.edu.vn_thong_tin_luan_cua_ncs_le_khac_quynh_.txt
+
+Tóm tắt các
+kết quả mới
+của luận án:
+Tiếng Anh
+– Chế tạo, nghiên cứu tính chất từ và từ điện trở dị hướng trên các màng mỏng cấu trúc Ta/Ni
+80
+Fe
+20
+/Ta được chế tạo bằng phương pháp phún xạ phụ thuộc vào các thông số hình thái học như chiều dày màng, độ lớp từ trương ghim, phương ghim, hình dạng, …
+– Mô phỏng, tính toán, tối ưu thiết kế, từ đó chế tạo cảm biến dựa trên mạch cầu với các cấu trúc đơn thanh, đa thanh nối tiếp, nối tiếp-song song. Từ đó tìm ra cấu trúc cảm biến tối ưu cho độ nhạy cao trong vùng từ trường nhỏ. Cảm biến tối ưu có cấu trúc nối tiếp-song song vừa cho độ nhạy cao, vừa giảm được nhiễu nhiệt do đó sẽ có tỉ số tín hiệu/nhiễu lớn. – Nghiên cứu khả năng ứng dụng của cảm biến tối ưu chế tạo được trong lĩnh vực đo góc định hướng từ trường trái đất và ứng dụng làm cảm biến sinh học (phát hiện DNA của vi khuẩn):
+° Ứng dụng đo từ trường trái đất: luận án đã lựa chọn cảm biến loại đa thanh gồm 18 thanh nối tiếp song song, kích thước L = 250 µm, W = 10 µm, t = 5 nm.

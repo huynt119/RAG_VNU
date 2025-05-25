@@ -1,0 +1,84 @@
+Nguyễn Thị Thanh Vân
+ThS
+Department of
+Electronics and Computer Engineering
+Faculty of Electronics
+and Telecommunications
+VNU University of
+Engineering and Technology
+Office: G2-315, 144 Xuan Thuy, Cau Giay, Hanoi
+Phone: +84 4 3754-9272
+Email:
+vanntt.
+vnu
+.
+edu
+.
+vn
+Teaching
+Control Theory
+Research
+Mobile robot, Intelligent robot
+Publications
+Journal articles
+1.
+Nguyen
+Thi Thanh Van
+,
+Phung
+Manh Duong
+, Pham Dinh Tuan, and Tran Quang Vinh,
+“Development of a Fuzzy-based Patrol Robot Using in Building Automation
+System”
+, Journal of Computer Science and Cybernetics, vol.27 no.1, 2011,
+p83-93.
+Conference
+papers
+1.
+P. M. Duong, T. T. Hoang,
+N. T. T. Van
+, D.
+A. Viet and T. Q. Vinh,
+“A Novel Platform
+for Internet-based Mobile Robot Systems”
+, The 7th IEEE Conference on
+Industrial Electronics and Applications (ICIEA 2012), Singapore
+2.
+Manh Duong
+Phung,
+Thanh Van Thi Nguyen
+, and Tran Quang Vinh,
+“Control of an Internet-based Robot System Using Fuzzy Logic”
+,
+Conference on Integrated Circuits and Devices in Vietnam (ICDV) 2011, Hanoi,
+Vietnam.
+3.
+Nguyen Thi
+Thanh Van
+, Phung Manh
+Duong, Pham Dinh Tuan, and Tran Quang Vinh,
+“Development
+of a Fuzzy-based Patrol Robot Using in Building Automation System”
+, Journal
+of Computer Science and Cybernetics, vol.27 no.1, 2011, p83-93.
+4.
+Manh Duong
+Phung,
+Thanh Van Thi Nguyen
+, Cong Hoang Quach, Quang Vinh Tran,
+“Development of a Tele-guidance System with Fuzzy-based
+Secondary Controller
+”, The 11th International Conference on Control,
+Automation, Robotics and Vision, ICARCV, Singapore 2010.
+5.
+Manh Duong PHUNG,
+Thanh Van
+Thi NGUYEN
+, Quang Vinh TRAN
+,
+“Controlling
+of an Internet-based Robot System Using the Real-time Transport Protocol”
+, The 5
+th
+Vietnam Conference on
+Mechatronics, Vietnam, 2010.

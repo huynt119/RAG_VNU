@@ -1,0 +1,117 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-khoa-hoc-va-ky-thuat-du-lieu-nganh-khoa-hoc-du-lieu-3_.txt
+
+Thu thập và chuyển hoá dữ liệu
+28
+AIT2101
+Phương pháp luận Khoa học dữ liệu
+Data Science methodology
+3
+45
+105
+MAT1101
+CSN
+29
+AIT2006
+Lập trình xử lý dữ liệu
+Programming for Data Engineering
+3
+30
+30
+90
+INT1009
+CSN
+30
+AIT2102
+Thực hành Quy trình xử lý dữ liệu
+ETL and Data pipelines practice
+3
+30
+30
+90
+AIT2101
+TTNLNN, ĐA1
+V.1.2. Khai phá và phân tích dữ liệu
+31
+INT3209
+Khai phá dữ liệu
+Data mining
+3
+45
+105
+INT2211
+CSN
+32
+AIT2103
+Phân tích và diễn giải dữ liệu
+Data analytics and interpretation
+3
+45
+105
+MAT1101
+INT2210
+CSN
+33
+INT3406
+Xử lý ngôn ngữ tự nhiên
+Natural language processing
+3
+45
+105
+INT2210
+KTCN
+34
+AIT3002
+Xử lý và phân tích hình ảnh
+Visual processing and analytics
+3
+45
+105
+AIT2101
+KTCN
+V.1.3. Dữ liệu lớn & tích hợp dữ liệu
+35
+INT3229
+Kỹ thuật và công nghệ dữ liệu lớn
+Big Data Techniques and Technologies
+3
+30
+30
+90
+INT2211
+CSN
+36
+AIT3100
+Tích hợp dữ liệu
+Data integration
+3
+45
+105
+AIT2101
+KTCN
+V.1.4. Chủ đề hiện đại và nghiên cứu
+37
+AIT3101
+Khai thác dữ liệu có trách nhiệm
+Responsible data exploitation
+3
+45
+105
+AIT2101
+KTCN
+38
+AIT3005
+Seminar khoa học
+Scientific Seminars
+3
+45
+105
+KTBT
+39
+AIT4100
+Đồ án
+Capstone project
+2
+15
+85
+KTCN,ĐA2
+V.2.

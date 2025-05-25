@@ -1,0 +1,28 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-mang-may-tinh-va-truyen-thong-du-lieu-2_.txt
+
+Kiến thức nhóm chuyên ngành
+Đọc hiểu các tài liệu tiếng Anh chuyên ngành;
+Hiểu và vận dụng được các kiến thức chuyên ngành trong Máy tính và Công nghệ thông tin liên quan đến việc xây dựng và tối ưu các hệ thống mạng, bao gồm thiết kế và tối ưu hóa cơ sở dữ liệu, kiến trúc phần mềm, quy trình phát triển và các kỹ thuật xây dựng phần mềm, trí tuệ nhân tạo và học máy, tương tác ngườimáy;
+Hiểu và vận dụng được các kiến thức chuyên ngành về mạng máy tính, các phương thức truyền dữ liệu trên mạng, các thuật toán định tuyến, điều khiển tắc nghẽn, các mối đe dọa an ninh mạng và cách phòng chống. Kiến thức chuyên ngành
+Hiểu và vận dụng được các kiến thức chuyên sâu trong chuyên ngành Mạng máy tính và truyền thông dữ liệu bao gồm (1) các phương thức truyền dữ liệu trong mạng không dây di động, mạng cảm biến không dây và truyền dữ liệu đa phương tiện, (2) cách phương thức đánh hiệu năng mạng và quản trị mạng (3) cách thức lập trình và phát triển các ứng dụng mạng và các hệ thống phân tán (4) các phương thức mã hóa và đảm bảo an toàn thông tin, (5) các chủ đề nghiên cứu mới, tiên tiến trong lĩnh vực Mạng máy tính và truyền thông dữ liệu, …
+2.3. Kiến thức học phần và chuyên đề tiến sĩ
+Có kiến thức về quản trị tổ chức;
+Hiểu và vận dụng các kiến thức tiên tiến, cập nhậtliên quan đếnmột chủ đề hẹp trong cácchủ đề thuộc Mạng máy tính và truyền thông dữ liệu bao gồmMạng không dây di động, Các công nghệ mạng tiên tiến, Tính toán phân tán, Đảm bảo an toàn thông tin. Yêu cầu về năng lực nghiên cứu
+Tiến sĩ chuyên ngành Mạng máy tính và truyền thông dữ liệu cần có các năng lực để trở thành một chuyên gia, nhà khoa học độc lập sáng tạo có khả năng phát triển các tri thức mới, và giải quyết những vấn đề mới về khoa học, công nghệ. Các yêu cầu về năng lực nghiên cứu cụ thể bao gồm:
+Năng lực tự học để nắm bắt các kiến thức, công nghệ, vấn đề mới trong các lĩnh vực công nghệ thông tin nói chung và lĩnh vực Mạng máy tính và truyền thông dữ liệu nói riêng;
+Năng lực nghiên cứu chuyên sâu các vấn đề lý thuyết và công nghệ mới trong lĩnh vực Mạng máy tính và truyền thông dữ liệu;
+Năng lực tổng hợp và phân tích các giải pháp, công nghệ hiện có, phát hiện các vấn đề nghiên cứu về lý thuyết và công nghệ;
+Tư duy logic tốt, có năng lực sáng tạo để tìm hiểu và đề xuất các giải pháp công nghệ cho các vấn đề về mạng và truyền dữ liệu (kiến trúc mạng, giao thức mạng, an ninh mạng);
+Có khả năng hướng dẫn nghiên cứu khoa học và tổ chức triển khai các hoạt động nghiên cứu khoa học. Yêu cầu về kỹ năng:
+4.1 Kỹ năng nghề nghiệp
+Biết phát hiện tri thức mới và trình bày một cách khoa học;
+Biết và vận dụng được qui trình thiết kế, phân đoạn qui trình thiết kế và phương pháp tiếp cận;
+Biết tìm kiếm, cập nhật, tổng hợp, khai thác thông tin;
+Có năng lực nghiên cứu và khả năng lãnh đạo. Thành thạo kỹ năng phát hiện vấn đề nghiên cứu;
+Thành thạo kỹ năng đánh giá và phân tích vấn đề nghiên cứu;
+Thành thạo kỹ năng giải quyết vấn đề nghiên cứu;
+Thành thạo kỹ năng mô hình hóa. Thành thạo kỹ năng thiết lập giả thiết;
+Thành thạo kỹ năng dùng thực nghiệm để khám phá kiến thức;
+Thành thạo kỹ năng kiểm nghiệm và bảo vệ giả thiết;
+Thành thạo kỹ năng áp dụng kiến thức vào thực tế;
+Thành thạo kỹ năng thu thập thông tin.

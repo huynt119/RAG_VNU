@@ -1,0 +1,237 @@
+Nguồn: education.vnu.edu.vn_index.php_WebControl_viewpage_295.txt
+
+Tóm tắt yêu cầu chương trình đào tạo
+Tổng số tín chỉ của chương trình đào tạo:
+66
+tín chỉ
+- Khối kiến thức chung:
+5
+tín chỉ
++ Ngoại ngữ B1
+5 tín chỉ
+Khối kiến thức theo lĩnh vực
+:
+13
+tín chỉ
+Khối kiến thức theo khối ngành:
+11
+tín chỉ
+Khối kiến thức theo nhóm ngành:
+29
+tín chỉ
+Khối kiến thức ngành:
+8
+tín chỉ
+2. Khung chương trình đào tạo
+STT
+Mã học phần
+Tên học phần
+Số tín chỉ
+Số giờ tín chỉ
+Mã học phần tiên quyết
+Lý thuyết
+Thực hành
+Tự học
+I
+Khối kiến thức chung
+5
+1
+FLF001
+Ngoại ngữ B1
+Foreign Language B1
+5
+20
+35
+20
+II
+Khối kiến thức theo lĩnh vực
+13
+2
+EDT2001
+Nhập môn Công nghệ giáo dục
+Introduction of Educational Technology
+2
+20
+5
+5
+3
+PSE2009
+Nhập môn Khoa học giáo dục
+Introduction to Education Science
+3
+35
+5
+5
+4
+PSE2004
+Phương pháp nghiên cứu khoa học trong giáo dục
+Research Methodology in Education
+3
+26
+16
+3
+5
+EAM2052
+Nhập môn đo lường và đánh giá trong giáo dục
+Introduction to measurement and evaluation in education
+2
+24
+6
+0
+6
+EAM3002
+Nhập môn thống kê ứng dụng trong giáo dục
+Introduction of Applied statistics in education
+3
+26
+16
+3
+III
+Khối kiến thức theo khối ngành
+11
+7
+TMT3008
+Quy tắc đạo đức nghề nghiệp trong lĩnh vực giáo dục
+Code of professional ethics in the field of education
+2
+12
+18
+0
+8
+TMT1003
+Phương pháp và thực hành dạy học hiện đại
+Methodology and Practices of active techniques Modern Teaching
+3
+10
+25
+10
+9
+PSE2006
+Tư vấn tâm lý học đường
+Psychological Counseling in Schools
+3
+17
+25
+3
+10
+EDM2001
+Phát  triển chương trình giáo dục
+School Education Curriculum Development
+3
+36
+6
+3
+IV
+Khối kiến thức theo nhóm ngành
+29
+11
+HIS2006
+Lịch sử văn minh thế giới
+World civilization history
+3
+42
+3
+0
+12
+TMT4013
+Địa lí kinh tế - xã hội  Việt Nam
+Socio – economic geography of Vietnam
+3
+25
+10
+10
+13
+HIS2065
+Lịch sử Thế giới hiện đại
+Contemporary History of the World
+4
+46
+4
+10
+14
+HIS2104
+Lịch sử Việt Nam hiện đại. Contemporary History of Vietnam
+3
+40
+3
+2
+15
+HIS3125
+Làng xã Việt Nam trong lịch sử
+Vietnamese Villages in History
+2
+20
+5
+5
+16
+TMT4012
+Địa lí kinh tế xã hội đại cương
+Socio-Economic geography
+3
+25
+10
+10
+17
+TMT4011
+Địa lí tự nhiên đại cương
+Fundamental physical geography
+5
+50
+20
+5
+18
+TMT4010
+Bản đồ học
+- Cartography
+4
+30
+25
+5
+19
+TMT2074
+Giáo dục vì sự phát triển bền vững
+Education for sustainable development
+2
+10
+15
+5
+V
+Khối kiến thức ngành
+8
+20
+TMT2060
+Phương pháp dạy học liên môn
+(Lịch sử và Địa lí)
+Methodology of History and Geography Teaching
+2
+20
+5
+5
+21
+TMT3014
+Thực hành dạy học liên môn (Lịch sử và Địa lí)
+Practice of History and Geography Teaching
+2
+20
+5
+5
+22
+TMT3018
+Các dự án STEAM trong dạy học liên môn Lịch sử và Địa lý
+STEAM projects in
+History and Geography Teaching
+2
+5
+20
+5
+23
+TMT4015
+Ứng dụng GIS trong giảng dạy Lịch sử và Địa lí
+GIS application in History and Geography teaching
+2
+10
+15
+5
+Tổng cộng
+66
+Ghi chú: Học phần Ngoại ngữ thuộc khối kiến thức chung được tính vào tổng số tín chỉ của chương trình đào tạo nhưng kết quả đánh giá các học phần này không tính vào điểm trung bình chung học kì, điểm trung bình chung các học phần và điểm trung bình chung tích lũy.

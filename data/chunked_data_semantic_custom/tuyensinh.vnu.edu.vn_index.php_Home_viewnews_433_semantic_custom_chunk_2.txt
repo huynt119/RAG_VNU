@@ -1,0 +1,180 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_433.txt
+
+TRƯỜNG ĐẠI HỌC KHOA HỌC XÃ HỘI VÀ NHÂN VĂN
+Thứ tự
+Mã trường
+Mã xét tuyển
+Tên ngành/Nhóm ngành
+Điểm trúng tuyển
+Năm 2017
+Năm 2018
+1
+QHX
+QHX01
+Báo chí
+26,50
+19,00-19,75
+2
+QHX
+QHX40
+Báo chí**
+Chưa có
+Chưa có
+3
+QHX
+QHX02
+Chính trị học
+23,75
+16,25-18,00
+4
+QHX
+QHX03
+Công tác xã hội
+25,50
+17,00-19,00
+5
+QHX
+QHX04
+Đông Nam Á học
+25,50
+17,00-19,00
+6
+QHX
+QHX05
+Đông phương học
+28,50
+17,00-22,25
+7
+QHX
+QHX06
+Hán Nôm
+23,75
+17,00-18,00
+8
+QHX
+QHX07
+Khoa học quản lý
+25,00
+17,00-19,25
+9
+QHX
+QHX41
+Khoa học quản lý**
+Chưa có
+Chưa có
+10
+QHX
+QHX08
+Lịch sử
+23,75
+16,50-21,00
+11
+QHX
+QHX09
+Lưu trữ học
+22,75
+16,50-21,00
+12
+QHX
+QHX10
+Ngôn ngữ học
+20,75
+16,00-22,00
+13
+QHX
+QHX11
+Nhân học
+20,75
+16,00-20,75
+14
+QHX
+QHX12
+Nhật Bản học
+Chưa có
+Chưa có
+15
+QHX
+QHX13
+Quan hệ công chúng
+26,50
+18,00-25,50
+16
+QHX
+QHX14
+Quản lý thông tin
+23,00
+16,50-21,00
+17
+QHX
+QHX42
+Quản lý thông tin**
+Chưa có
+Chưa có
+18
+QHX
+QHX15
+Quản trị dịch vụ du lịch và lữ hành
+21,75
+17,00-26,50
+19
+QHX
+QHX16
+Quản trị khách sạn
+27,00
+17,00-26,50
+20
+QHX
+QHX17
+Quản trị văn phòng
+26,25
+17,00-26,50
+21
+QHX
+QHX18
+Quốc tế học
+26,00
+16,50-25,00
+22
+QHX
+QHX19
+Tâm lý học
+26,25
+18,00-24,24
+23
+QHX
+QHX20
+Thông tin – thư viện
+16,00-19,75
+24
+QHX
+QHX21
+Tôn giáo học
+20,75
+16,50-18,00
+25
+QHX
+QHX22
+Triết học
+21,25
+16,00-18,50
+26
+QHX
+QHX23
+Văn học
+23,75
+17,50-21,50
+27
+QHX
+QHX24
+Việt
+Nam
+học
+25,25
+18,00-23,50
+28
+QHX
+QHX25
+Xã hội học
+24,25
+18,00-23,50
+Ghi chú: Các ngành đào tạo có ký hiệu (**) có mức học phí khoảng 35.000.000 đồng/năm.

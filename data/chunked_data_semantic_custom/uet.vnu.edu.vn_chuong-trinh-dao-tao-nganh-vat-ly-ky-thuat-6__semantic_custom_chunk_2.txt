@@ -1,0 +1,16 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-vat-ly-ky-thuat-6_.txt
+
+Ứng dụng lý thuyết thống kê để giải quyết các bài toán thực tế liên quan, ứng dụng lý thuyết độ tin cậy trong các vấn đề kỹ thuậ
+1.1.4  Kiến thức theo nhóm ngành
+Biết được các kiến thức cơ bản về các phương pháp toán-lý để vận dụng trong các bài toán vật lý cụ thể;
+Nắm được các kiến thức cơ bản về khoa học vật liệu và vật lý lượng tử và giải được một số bài toán ứng dụng thực tế;
+Biết được các kiến thức thực hành vật lý đại cương và có thể ứng dụng trong một số phép đo đạc vật lý thực tiễ
+1.1.5  Kiến thức ngành
+Hiểu được các kiến thức cơ bản và liên ngành về Vật lý, Hóa học, Sinh học. Nắm được các qui luật, bản chất, nguyên lý, hiện tượng Vật lý và ứng dụng bao gồm bán dẫn, từ học, quang và thông tin quang;
+Biết được các, công cụ, kiến thức về tin học sử dụng để và phương pháp mô phỏng Vật lý;
+Biết các phương pháp, kỹ thuật và vận hành được một số trang thiết bị khoa học kỹ thuật để chế tạo và nghiên cứu các vật liệu có cấu trúc/kích thước micro-nano. Nắm được các kiến thức và kỹ năng thực hành tổng hợp, chế tạo và phân tích đặc trưng tính chất của một số vật liệu cấu trúc micro-nano;
+Nắm được một số kiến thức định hướng chuyên sâu về Công nghệ nano/Công nghệ quang tử/Công nghệ nanno sinh học/Vật lý tính toán;
+Có khả năng ứng dụng kiến thức ngành trong chế tạo, nghiên cứu và phân tích vật liệu và linh kiện micro-nano;
+Có kiến thức chuyên môn để triển khai được các công việc trong các lĩnh vực về Vật lý, Hóa học, Sinh học và Công nghệ
+1.2. Năng lực tự chủ và trách nhiệm
+Có năng lực dẫn dắt về chuyên môn, nghiệp vụ đã được đào tạo; có sáng kiến trong quá trình thực hiện nhiệm vụ được giao; có khả năng tự định hướng, thích nghi với các môi trường làm việc khác nhau; tự học tập, tích lũy kiến thức, kinh nghiệm để nâng cao trình độ chuyên môn nghiệp vụ; có khả năng đưa ra được kết luận về các vấn đề chuyên môn, nghiệp vụ thông thường và một số vấn đề phức tạp về mặt kỹ thuật; có năng lực lập kế hoạch, điều phối, phát huy trí tuệ tập thể; có năng lực đánh giá và cải tiến các hoạt động chuyên môn ở quy mô trung bình.

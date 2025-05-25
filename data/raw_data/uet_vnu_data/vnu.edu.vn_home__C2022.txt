@@ -1,0 +1,2527 @@
+
+|
+KHOA HỌC CÔNG NGHỆ
+Giới thiệu chung
+Tin tức hoạt động KHCN
+S&T Media
+Chiến lược KHCN&ĐMST 2021-2030
+> Chương trình, dự án, đề tài
+Chương trình KHCN cấp Nhà nước
+Đề tài cấp Nhà nước
+Chương trình KHCN cấp ĐHQGHN
+Đề tài cấp ĐHQGHN
+Bộ, ngành, địa phương và doanh nghiệp
+Nghiên cứu ứng dụng
+Hệ thống phòng thí nghiệm
+Nhóm nghiên cứu
+Các hội đồng chuyên môn
+> Quỹ phát triển khoa học & công nghệ
+Giới thiệu
+Điều lệ, tổ chức họat động
+> Giải thưởng Khoa học - Công nghệ
+Giải thưởng Hồ Chí Minh
+Giải thưởng Nhà nước
+Giải thưởng quốc tế
+Giải thưởng ĐHQGHN
+Giải thưởng khoa học sinh viên
+Các giải thưởng khác
+> Các sản phẩm KHCN
+Các ấn phẩm
+Sở hữu trí tuệ
+Các sản phẩm công nghệ, kỹ thuật
+Bài báo khoa học
+Chuyển giao tri thức & hỗ trợ khởi nghiệp
+Văn bản liên quan
+Trang chủ
+>
+KHOA HỌC CÔNG NGHỆ
+>
+Các sản phẩm KHCN
+Các xuất bản thuộc danh mục ISI và/hoặc Scopus của ĐHQGHN 2018
+1.
+Aaij, R., Adeva, B., Adinolfi, M., Affolder, A., Ajaltouni, Z., Akar, S., . . . Collaboration, L. H. (2018). Differential branching fraction and angular analysis of Lambda(0)(b) -> Lambda mu(+)mu(-) decays.
+Journal of High Energy Physics
+(9). doi:10.1007/jhep09(2018)145
+2.
+Aaij, R., Adeva, B., Adinolfi, M., Aidala, C. A., Ajaltouni, Z., Akar, S., . . . collaboration, L. H. (2018). Central exclusive production of J/psi and (2S) mesons in pp collisions at p s=13 TeV.
+Journal of High Energy Physics
+(10). doi:10.1007/jhep10(2018)167
+3.
+Aaij, R., Adeva, B., Adinolfi, M., Aidala, C. A., Ajaltouni, Z., Akar, S., . . . Collaboration, L. H. (2018). Angular moments of the decay Lambda(0)(b) -> Lambda mu(+)mu(-) at low hadronic recoil.
+Journal of High Energy Physics
+(9). doi:10.1007/jhep09(2018)146
+4.
+Aaij, R., Adeva, B., Adinolfi, M., Aidala, C. A., Ajaltouni, Z., Akar, S., . . . Collaboration, L. H. (2018). First Observation of the Doubly Charmed Baryon Decay Xi(++)(cc) -> Xi(+)(c)pi(+).
+Physical Review Letters, 121
+(16). doi:10.1103/PhysRevLett.121.162002
+5.
+Aaij, R., Adeva, B., Adinolfi, M., Aidala, C. A., Ajaltouni, Z., Akar, S., . . . Collaboration, L. H. (2018). Measurement of Angular and CP Asymmetries in D-0 -> pi(+) pi(-) mu(+) mu(-) and D-0 -> K+ K- mu(+) mu(-) Decays.
+Physical Review Letters, 121
+(9). doi:10.1103/PhysRevLett.121.091801
+6.
+Aaij, R., Adeva, B., Adinolfi, M., Aidala, C. A., Ajaltouni, Z., Akar, S., . . . Collaboration, L. H. (2018). Measurement of the CKM angle gamma using B-+/- -> DK +/- with D -> K-S(0)pi(+)pi(-), (KSK+K-)-K-0 decays.
+Journal of High Energy Physics
+(8). doi:10.1007/jhep08(2018)176
+7.
+Aaij, R., Adeva, B., Adinolfi, M., Aidala, C. A., Ajaltouni, Z., Akar, S., . . . Collaboration, L. H. (2018). Measurement of the Lifetime of the Doubly Charmed Baryon Xi(++)(cc).
+Physical Review Letters, 121
+(5). doi:10.1103/PhysRevLett.121.052002
+8.
+Aaij, R., Adeva, B., Adinolfi, M., Aidala, C. A., Ajaltouni, Z., Akar, S., . . . Collaboration, L. H. (2018). Measurement of the time-integrated CP asymmetry in D (0) -> K (S) (0) K (S) (0) decays.
+Journal of High Energy Physics
+(11). doi:10.1007/jhep11(2018)048
+9.
+Aaij, R., Adeva, B., Adinolfi, M., Aidala, C. A., Ajaltouni, Z., Akar, S., . . . Collaboration, L. H. (2018). Measurement of Z -> tau(+)tau(-) production in proton-proton collisions at root s=8 TeV.
+Journal of High Energy Physics
+(9). doi:10.1007/jhep09(2018)159
+10.
+Aaij, R., Adeva, B., Adinolfi, M., Aidala, C. A., Ajaltouni, Z., Akar, S., . . . Collaboration, L. H. (2018). Observation of a New Xi(-)(b) Resonance.
+Physical Review Letters, 121
+(7). doi:10.1103/PhysRevLett.121.072002
+11.
+Aaij, R., Adeva, B., Adinolfi, M., Aidala, C. A., Ajaltouni, Z., Akar, S., . . . Collaboration, L. (2018). Observation of B-s(0) -> (D)over-bar*(0)phi and search for B-0 -> (D)over-bar(0)phi decays.
+Physical Review D, 98
+(7). doi:10.1103/PhysRevD.98.071103
+12.
+Aaij, R., Adeva, B., Adinolfi, M., Aidala, C. A., Ajaltouni, Z., Akar, S., . . . Collaboration, L. H. (2018). Observation of the decay (B)over-bar(s)(0) -> chi(c2) K+K- in the phi mass region.
+Journal of High Energy Physics
+(8). doi:10.1007/jhep08(2018)191
+13.
+Aaij, R., Adeva, B., Adinolfi, M., Aidala, C. A., Ajaltouni, Z., Akar, S., . . . Collaboration, L. H. (2018). Search for beautiful tetraquarks in the ?(1S)(+-) invariant-mass spectrum.
+Journal of High Energy Physics
+(10). doi:10.1007/jhep10(2018)086
+14.
+Aaij, R., Adeva, B., Adinolfi, M., Aidala, C. A., Ajaltouni, Z., Akar, S., . . . Collaboration, L. H. (2018). Search for CP violation in Lambda(0)(b)-> pK(- )and Lambda(0)(b) -> p pi(-) decays.
+Physics Letters B, 787
+, 124-133. doi:10.1016/j.physletb.2018.10.039
+15.
+Aaij, R., Adeva, B., Adinolfi, M., Aidala, C. A., Ajaltouni, Z., Akar, S., . . . Collaboration, L. H. (2018). Observation of the decay Lambda(0)(b) -> psi(2S)p pi(-).
+Journal of High Energy Physics
+(8). doi:10.1007/jhep08(2018)131
+16.
+Aaij, R., Adeva, B., Adinolfi, M., Aidala, C. A., Ajaltouni, Z., Akar, S., . . . Collaboration, L. (2018). Measurement of the CKM angle using B-+/- DK +/- with D -> KS0(+-),(KsK+K-)-K-0 decays (vol 08, 176, 2018).
+Journal of High Energy Physics
+(10). doi:10.1007/jhep10(2018)107
+17.
+Aaij, R., Adeva, B., Adinolfi, M., Aidala, C. A., Alaltouni, Z., Akarp, S., . . . Collaboration, L. H. (2018). Observation of the decay B-s(0) -> (D)over-bar(0)K (+) K.
+Physical Review D, 98
+(7). doi:10.1103/PhysRevD.98.072006
+18.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albicocco, P., . . . Collaboration, L. H. (2018). Evidence for the decay B-s(0) -> (K)over-bar(*0) mu(+)mu(-).
+Journal of High Energy Physics
+(7). doi:10.1007/jhep07(2018)020
+19.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albicocco, P., . . . Collaboration, L. H. (2018). Measurement of CP asymmetries in two-body B-(s)(0)-meson decays to charged pions and kaons.
+Physical Review D, 98
+(3). doi:10.1103/PhysRevD.98.032004
+20.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albicocco, P., . . . Collaboration, L. H. (2018). Measurement of CP violation in B-0 -> D--/+pi(+/-) decays.
+Journal of High Energy Physics
+(6). doi:10.1007/jhep06(2018)084
+21.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albicocco, P., . . . Collaboration, L. H. (2018). Measurement of D-s(+/-) production asymmetry in pp collisions at root s=7 and 8 TeV.
+Journal of High Energy Physics
+(8). doi:10.1007/jhep08(2018)008
+22.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albicocco, P., . . . Collaboration, L. (2018). Measurement of the CP asymmetry in B- -> (Ds-D0) and B- -> (D-D0) decays.
+Journal of High Energy Physics
+(5). doi:10.1007/jhep05(2018)160
+23.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albicocco, P., . . . Collaboration, L. H. (2018). Search for a dimuon resonance in the Upsilon mass region.
+Journal of High Energy Physics
+(9). doi:10.1007/jhep09(2018)147
+24.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albicocco, R., . . . Collaboration, L. H. (2018). Observation of the decay Lambda(0)(b) -> Lambda(+)(c)p(p)over-bar pi(-).
+Physics Letters B, 784
+, 101-111. doi:10.1016/j.physletb.2018.07.033
+25.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. H. (2018). Amplitude Analysis of the Decay (B)over-bar(0 )-> K-S(0)pi(+)pi(- )and First Observation of the CP Asymmetry in (B)over-bar(0 )-> K* (892)(-)pi(+).
+Physical Review Letters, 120
+(26). doi:10.1103/PhysRevLeAt.120.261801
+26.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. H. (2018). Evidence for the Rare Decay Sigma(+) -> p mu(+)mu(-).
+Physical Review Letters, 120
+(22). doi:10.1103/PhysRevLett.120.221803
+27.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. H. (2018). First measurement of the CP-violating phase phi(dd)(s) in B-s(0) -> (K+pi(-))(K-pi(+)) decays.
+Journal of High Energy Physics
+(3). doi:10.1007/jhep03(2018)140
+28.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. H. (2018). First observation of B+ -> D-s(+) K+ K- decays and a search for B+ -> D-s(+) phi decays.
+Journal of High Energy Physics
+(1). doi:10.1007/jhep01(2018)131
+29.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. H. (2018). First observation of forward Z -> b(b)over-bar production in pp collisions at root s=8 TeV.
+Physics Letters B, 776
+, 430-439. doi:10.1016/j.physletb.2017.11.066
+30.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. H. (2018). Measurement of branching fractions of charmless four-body Lambda(0)(b) and Xi(0)(b) decays.
+Journal of High Energy Physics
+(2). doi:10.1007/jhep02(2018)098
+31.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. H. (2018). Measurement of CP asymmetry in B-s(0) -> (DsK +/-)-K--/+ decays.
+Journal of High Energy Physics
+(3). doi:10.1007/jhep03(2018)059
+32.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. H. (2018). Measurement of CP observables in B-+/- -> D(*)K-+/- and B-+/- -> D(*)pi(+/-) decays.
+Physics Letters B, 777
+, 16-30. doi:10.1016/j.physletb.2017.11.070
+33.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. H. (2018). Measurement of forward top pair production in the dilepton channel in pp collisions at root s=13 TeV.
+Journal of High Energy Physics
+(8). doi:10.1007/jhep08(2018)174
+34.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. H. (2018). A measurement of the CP asymmetry difference between Lambda(+)(C) -> pK(-)K(+) and p pi(-)pi(+) decays.
+Journal of High Energy Physics
+(3). doi:10.1007/jhep03(2018)182
+35.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. H. (2018). Measurement of the inelastic pp cross-section at a centre-of-mass energy of 13 TeV.
+Journal of High Energy Physics
+(6). doi:10.1007/jhep06(2018)100
+36.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Zucchelli, S. (2018). Measurement of the Ratio of Branching Fractions B(B-c(+) -> J/psi tau(+)nu(tau))/B(B-c(+) -> J/psi mu(+)nu(mu)).
+Physical Review Letters, 120
+(12). doi:10.1103/PhysRevLett.120.121801
+37.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. H. (2018). Measurement of the Ratio of the B-0 -> D*(-)iota(+)v(iota) and B-0 -> D*(-) mu(+)v(mu) Branching Fractions Using Three-Prong tau-Lepton Decays.
+Physical Review Letters, 120
+(17). doi:10.1103/PhysRevLett.120.171802
+38.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. H. (2018). Measurement of Upsilon production in pp collisions at root s=13 TeV.
+Journal of High Energy Physics
+(7). doi:10.1007/jhep07(2018)134
+39.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. H. (2018). Measurements of the branching fractions of Lambda(+)(c) -> p pi(-)pi(+), Lambda(+)(c) -> pK(-)K(+), and Lambda(+)(c) -> p pi K--(+).
+Journal of High Energy Physics
+(3). doi:10.1007/jhep03(2018)043
+40.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. H. (2018). Search for B-c(+) decays to two charm mesons LHCb Collaboration.
+Nuclear Physics B, 930
+, 563-582. doi:10.1016/j.nuclphysb.2018.03.015
+41.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. H. (2018). Search for Dark Photons Produced in 13 TeV pp Collisions.
+Physical Review Letters, 120
+(6). doi:10.1103/PhysRevLett.120.061801
+42.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. H. (2018). Search for excited B-c(+) states.
+Journal of High Energy Physics
+(1). doi:10.1007/jhep01(2018)138
+43.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collabotation, L. H. (2018). Search for the lepton-flavour violating decays B-(s)(0) -> e(+/-) mu(-/+).
+Journal of High Energy Physics
+(3). doi:10.1007/jhep03(2018)078
+44.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. H. (2018). Search for the rare decay Lambda(+)(c) -> p mu(+ )mu(-).
+Physical Review D, 97
+(9). doi:10.1103/PhysRevD.97.091101
+45.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. H. (2018). Search for weakly decaying b-flavored pentaquarks.
+Physical Review D, 97
+(3). doi:10.1103/PhysRevD.97.032010
+46.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Zucchelli, S. (2018). Studies of the resonance structure in D-0 -> K--/+ pi(+/-) pi(+/-) pi(-/+) decays.
+European Physical Journal C, 78
+(6). doi:10.1140/epjc/s10052-018-5758-4
+47.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Collaboration, L. (2018). Test of lepton flavor universality by the measurement of the B-0 -> D*(-) tau(+) nu(tau) branching fraction using three-prong tau decays.
+Physical Review D, 97
+(7). doi:10.1103/PhysRevD.97.072013
+48.
+Aaij, R., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., Albrecht, J., . . . Zucchelli, S. (2018). Updated determination of D-0-(D)over-bar(0) mixing and CP violation parameters with D-0 -> K+ pi(-) decays.
+Physical Review D, 97
+(3). doi:10.1103/PhysRevD.97.031101
+49.
+Aaij, R., Beteta, C. A., Adeva, B., Adinolfi, M., Aidala, C. A., Ajaltouni, Z., . . . Lhcb, C. (2018). Measurement of Antiproton Production in p-He Collisions at root S-NN=110 GeV.
+Physical Review Letters, 121
+(22). doi:10.1103/PhysRevLett.121.222001
+50.
+Aaij, R., Collaboration, L., Adeva, B., Adinolfi, M., Aidala, C. A., Ajaltouni, Z., . . . Zucchelli, S. (2018). Measurement of the Omega(0)(c) Baryon Lifetime.
+Physical Review Letters, 121
+(9). doi:10.1103/PhysRevLett.121.092003
+51.
+Aaij, R., Collaboration, L., Adeva, B., Adinolfi, M., Ajaltouni, Z., Akar, S., . . . Zucchelli, S. (2018). Measurement of CP observables in B-+/- -> DK*(+/-) decays using two- and four-body D final states (vol 11, 156, 2017).
+Journal of High Energy Physics
+(5). doi:10.1007/jhep05(2018)067
+52.
+Abanin, A. V., & Tien, P. T. (2018). Compactness of classical operators on weighted Banach spaces of holomorphic functions.
+Collectanea Mathematica, 69
+(1), 1-15. doi:10.1007/s13348-016-0185-z
+53.
+Abanin, A. V., & Tien, P. T. (2018). Weighted Inductive Limits of Holomorphic Functions with o-Growth Condition.
+Complex Analysis and Operator Theory
+, 1-9. doi:10.1007/s11785-018-0792-7
+54.
+Ali, M., Dat, L. Q., Son, L. H., & Smarandache, F. (2018). Interval Complex Neutrosophic Set: Formulation and Applications in Decision-Making.
+International Journal of Fuzzy Systems, 20
+(3), 986-999. doi:10.1007/s40815-017-0380-4
+55.
+Ali, M., Son, L., Thanh, N. D., & Minh, N. V. (2018). A neutrosophic recommender system for medical diagnosis based on algebraic neutrosophic measures.
+Applied Soft Computing, 71
+, 1054-1071. doi:10.1016/j.asoc.2017.10.012
+56.
+Ali, M., Son, L. H., Khan, M., & Tung, N. T. (2018). Segmentation of dental X-ray images in medical imaging using neutrosophic orthogonal matrices.
+Expert Systems with Applications, 91
+, 434-441. doi:10.1016/j.eswa.2017.09.027
+57.
+Amal, L., Son, L. H., & Chabchoub, H. (2018). SGA: spatial GIS-based genetic algorithm for route optimization of municipal solid waste collection.
+Environmental Science and Pollution Research, 25
+(27), 27569-27582. doi:10.1007/s11356-018-2826-0
+58.
+Anh, D. T. T., Cuc, D. T., Giang, L. N. T., Hien, N. T., Doan, V. N., Thanh, N. H., . . . Van Kiem, P. (2018). Design, synthesis and cytotoxic evaluation of novel lupane triterpenoid and ursolic acid derived 2-aminobenzamides.
+Natural Product Communications, 13
+(7), 817-822.
+59.
+Anh, H. Q., Tomioka, K., Tue, N. M., Suzuki, G., Minh, T. B., Viet, P. H., & Takahashi, S. (2018). Comprehensive analysis of 942 organic micro-pollutants in settled dusts from northern Vietnam: pollution status and implications for human exposure.
+Journal of Material Cycles and Waste Management
+, 1-10. doi:10.1007/s10163-018-0745-2
+60.
+Anh, H. Q., Tomioka, K., Tue, N. M., Tri, T. M., Minh, T. B., & Takahashi, S. (2018). PBDEs and novel brominated flame retardants in road dust from northern Vietnam: Levels, congener profiles, emission sources and implications for human exposure.
+Chemosphere, 197
+, 389-398. doi:10.1016/j.chemosphere.2018.01.066
+61.
+Anh Le, H. (2018). Real-time black carbon personal exposure levels in microenvironments: Home to home on a round-trip, Hanoi–Singapore.
+Journal of the Air and Waste Management Association
+. doi:10.1080/10962247.2018.1537943
+62.
+Anh, N. T. N., Dat, N. Q., Van, N. T., Doanh, N. N., & An, N. L. (2018).
+Wavelet-Artificial Neural Network Model for Water Level Forecasting.
+Paper presented at the Proceedings of the 2018 3rd IEEE International Conference on Research in Intelligent and Computing in Engineering, RICE 2018.
+63.
+Anh, P. K., & Hai, T. N. (2018). Novel self-adaptive algorithms for non-Lipschitz equilibrium problems with applications.
+Journal of Global Optimization
+. doi:10.1007/s10898-018-0722-2
+64.
+Anh, P. K., & Hai, T. N. (2018). A splitting algorithm for equilibrium problem given by the difference of two bifunctions.
+Journal of Fixed Point Theory and Applications, 20
+(1). doi:10.1007/s11784-018-0532-7
+65.
+Anh, P. K., & Vinh, N. T. (2018). Self-adaptive gradient projection algorithms for variational inequalities involving non-Lipschitz continuous operators.
+Numerical Algorithms
+. doi:10.1007/s11075-018-0578-z
+66.
+Anh, P. K., Vinh, N. T., & Dung, V. T. (2018). A new self-adaptive CQ algorithm with an application to the LASSO problem.
+Journal of Fixed Point Theory and Applications, 20
+(4). doi:10.1007/s11784-018-0620-8
+67.
+Anh, S. T. L., Trang, P. T. H., Trang, T. Q., & Bang, H. H. (2018). Unparticle Effects on Axion-Like Particles Production in e (+) e (-) Collisions.
+International Journal of Theoretical Physics, 57
+(7), 2015-2021. doi:10.1007/s10773-018-3727-1
+68.
+Anh, S. T. L., Trang, T. Q., Huong, N. T., & Bang, H. H. (2018). Unparticle effects on Bhabha scattering.
+Canadian Journal of Physics, 96
+(3), 268-271. doi:10.1139/cjp-2016-0955
+69.
+Anh, T. V., Muu, L. D., & Son, D. X. (2018). Parallel Algorithms for Solving a Class of Variational Inequalities over the Common Fixed Points Set of a Finite Family of Demicontractive Mappings.
+Numerical Functional Analysis and Optimization
+. doi:10.1080/01630563.2018.1485695
+70.
+Bach, Q. V., Le, V. T., Yoon, Y. S., Bui, X. T., Chung, W., Chang, S. W., . . . Nguyen, D. D. (2018). A new hybrid sewage treatment system combining a rolled pipe system and membrane bioreactor to improve the biological nitrogen removal efficiency: A pilot study.
+Journal of Cleaner Production, 178
+, 937-946. doi:10.1016/j.jclepro.2018.01.038
+71.
+Baird, I. G., Noseworthy, W., Tuyen, N. P., Ha, L. T., & Fox, J. (2018). Land grabs and labour: Vietnamese workers on rubber plantations in southern Laos.
+Singapore Journal of Tropical Geography
+. doi:10.1111/sjtg.12261
+72.
+Bau, N. Q., & Long, D. T. (2018). Influence of confined optical phonons and laser radiation on the hall effect in a compositional superlattice.
+Physica B-Condensed Matter, 532
+, 149-154. doi:10.1016/j.physb.2017.09.127
+73.
+Belova, N. V., Girichev, G. V., Kotova, V. E., Korolkova, K. A., & Trang, N. H. (2018). The molecular structure of 4-methylpyridine-N-oxide: Gas-phase electron diffraction and quantum chemical calculations.
+Journal of Molecular Structure, 1156
+, 210-215. doi:10.1016/j.molstruc.2017.11.070
+74.
+Bensaida, A., Boubaker, S., & Nguyen, D. K. (2018). The shifting dependence dynamics between the G7 stock markets.
+Quantitative Finance, 18
+(5), 801-812. doi:10.1080/14697688.2017.1419628
+75.
+BenSaida, A., Boubaker, S., Nguyen, D. K., & Slim, S. (2018). Value-at-risk under market shifts through highly flexible models.
+Journal of Forecasting, 37
+(8), 790-804. doi:10.1002/for.2503
+76.
+Bertassello, L. E., Rao, P. S. C., Jawitz, J. W., Botter, G., Le, P. V. V., Kumar, P., & Aubeneau, A. F. (2018). Wetlandscape Fractal Topography.
+Geophysical Research Letters, 45
+(14), 6983-6991. doi:10.1029/2018gl079094
+77.
+Binh, P. T., Thao, N. P., Luyen, N. T., Trang, D. T., Binh, P. T. X., Nguyen, N. P. D., . . . Dat, N. T. (2018). Lanostane-type triterpenoids from ganoderma lucidum and G. multipileum fruiting bodies.
+Natural Product Communications, 13
+(11), 1441-1444.
+78.
+Bondar, V. S., Dansin, V. V., Vu, L. D., & Duc, N. D. (2018). Constitutive modeling of cyclic plasticity deformation and low–high-cycle fatigue of stainless steel 304 in uniaxial stress state.
+Mechanics of Advanced Materials and Structures, 25
+(12), 1009-1017. doi:10.1080/15376494.2017.1342882
+79.
+Bordier, M., Binot, A., Pauchard, Q., Nguyen, D. T., Trung, T. N., Fortané, N., & Goutard, F. L. (2018). Antibiotic resistance in Vietnam: Moving towards a One Health surveillance system 11 Medical and Health Sciences 1117 Public Health and Health Services.
+Bmc Public Health, 18
+(1). doi:10.1186/s12889-018-6022-4
+80.
+Borndorfer, R., & Hoang, N. D. (2018). Fair ticket pricing in public transport as a constrained cost allocation game (vol 226, pg 51, 2015).
+Annals of Operations Research, 264
+(1-2), 541-541. doi:10.1007/s10479-017-2731-9
+81.
+Bosma, R. H., Nguyen, T. D., Calumpang, L. M., & Carandang, S. A. (2018). Gender action plans in the aquaculture value chain: what's missing?
+Reviews in Aquaculture
+. doi:10.1111/raq.12293
+82.
+Boubaker, S., Gounopoulos, D., Nguyen, D. K., & Paltalidis, N. (2018). Assessing the effects of unconventional monetary policy and low interest rates on pension fund risk incentives (Reprinted of JOURNAL OF BANKING AND FINANCE vol 77, pg 35).
+Journal of Banking & Finance, 92
+, 340-357. doi:10.1016/j.jbankfin.2018.03.003
+83.
+Boulkhrif, H., Luu, H. M., van Walsum, T., & Moelker, A. (2018). Accuracy of semi-automated versus manual localisation of liver tumours in CT-guided ablation procedures.
+European Radiology, 28
+(12), 4978-4984. doi:10.1007/s00330-018-5498-8
+84.
+Brandt, C., Benmansour, M., Walz, L., Nguyen, L. T., Cadisch, G., & Rasche, F. (2018). Integrating compound-specific δ13C isotopes and fallout radionuclides to retrace land use type-specific net erosion rates in a small tropical catchment exposed to intense land use change.
+Geoderma, 310
+, 53-64. doi:10.1016/j.geoderma.2017.09.008
+85.
+Brandt, C., Dercon, G., Cadisch, G., Nguyen, L. T., Schuller, P., Linares, C. B., . . . Rasche, F. (2018). Towards global applicability? Erosion source discrimination across catchments using compound-specific δ13C isotopes.
+Agriculture, Ecosystems and Environment, 256
+, 114-122. doi:10.1016/j.agee.2018.01.010
+86.
+Brandt, S. C., Ellinger, B., van Nguyen, T., Thi, Q. D., van Nguyen, G., Baschien, C., . . . Gand, M. (2018). A unique fungal strain collection from Vietnam characterized for high performance degraders of bioecological important biopolymers and lipids.
+Plos One, 13
+(8). doi:10.1371/journal.pone.0202695
+87.
+Braun, G., Sebesvari, Z., Braun, M., Kruse, J., Amelung, W., An, N. T., & Renaud, F. G. (2018). Does sea-dyke construction affect the spatial distribution of pesticides in agricultural soils? – A case study from the Red River Delta, Vietnam.
+Environmental Pollution, 243
+, 890-899. doi:10.1016/j.envpol.2018.09.050
+88.
+Bui, D. T. (2018). Procedural Proportionality: The Remedy for an Uncertain Jurisprudence of Minor Offence Justice.
+Criminal Law and Philosophy, 12
+(1), 83-106. doi:10.1007/s11572-017-9413-1
+89.
+Bui, D. T., Tran, T. D., Nguyen, T. T., Tran, Q. L., & Nguyen, D. V. (2018) Aerial image semantic segmentation using neural search network architecture. In
+: Vol. 11248 LNAI. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+(pp. 113-124).
+90.
+Bui, H. N., Nguyen, T. T., Nguyen, T. C., & Ha, Q. T. (2018) A New Trace Clustering Algorithm Based on Context in Process Mining. In
+: Vol. 11103 LNAI. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+(pp. 644-657).
+91.
+Bui, T. L., Tran, H. C., Azadi, H., & Lebailly, P. (2018). Improving the technical efficiency of sengcu rice producers through better financial management and sustainable farming practices in mountainous areas of Vietnam.
+Sustainability (Switzerland), 10
+(7). doi:10.3390/su10072279
+92.
+Bui, V. B., Dumack, K., & Bonkowski, M. (2018). Two new species and one new record for the genus Copris (Coleoptera: Scarabaeidae: Scarabaeinae) from Vietnam with a key to Vietnamese species.
+European Journal of Entomology, 115
+, 167-191. doi:10.14411/eje.2018.016
+93.
+Bulhoes, T., Ha, M. H., Martinelli, R., & Vidal, T. (2018). The vehicle routing problem with service level constraints.
+European Journal of Operational Research, 265
+(2), 544-558. doi:10.1016/j.ejor.2017.08.027
+94.
+Buzinde, C. N., Vogt, C. A., Andereck, K. L., Pham, L. H., Ngo, L. T., & Do, H. H. (2018). Tourism students’ motivational orientations: the case of Vietnam.
+Asia Pacific Journal of Tourism Research, 23
+(1), 68-78. doi:10.1080/10941665.2017.1399918
+95.
+Cao, T., Yamada, K., Unehara, M., Suzuki, I., & Nguyen, D. V. (2018). Parallel Computation of Rough Set Approximations in Information Systems with Missing Decision Data.
+Computers, 7
+(3). doi:10.3390/computers7030044
+96.
+Cao, T. T. H., Nakamura, T., Saiki, M., Ta, T. T., Toyama, T., & Nishida, K. (2018). Effect of dissolved organic nitrogen contamination on N-15-NH4 determination in water samples by modification of the diffusion method with gas-phase trapping.
+Rapid Communications in Mass Spectrometry, 32
+(8), 635-638. doi:10.1002/rcm.8091
+97.
+Casanola-Martin, G. M., Hai, P. T., Castillo-Garit, J. A., & Huong, L. T. T. (2018). Atom based linear index descriptors in QSAR-machine learning classifiers for the prediction of ubiquitin-proteasome pathway activity.
+Medicinal Chemistry Research, 27
+(3), 695-704. doi:10.1007/s00044-017-2091-7
+98.
+Castro, L. P., Minh, L. T., & Tuan, N. M. (2018). New Convolutions for Quadratic-Phase Fourier Integral Operators and their Applications.
+Mediterranean Journal of Mathematics, 15
+(1). doi:10.1007/s00009-017-1063-y
+99.
+Chan, D. Q., Anh, V. T. T., & Duc, N. D. (2018). Vibration and nonlinear dynamic response of eccentrically stiffened functionally graded composite truncated conical shells surrounded by an elastic medium in thermal environments.
+Acta Mechanica
+. doi:10.1007/s00707-018-2282-4
+100.
+Chan, D. Q., Dung, D. V., & Hoa, L. K. (2018). Thermal buckling analysis of stiffened FGM truncated conical shells resting on elastic foundations using FSDT.
+Acta Mechanica, 229
+(5), 2221-2249. doi:10.1007/s00707-017-2090-2
+101.
+Chatterjee, J. M., Son, L. H., Ghatak, S., Kumar, R., & Khari, M. (2018). BitCoin exclusively informational money: a valuable review from 2010 to 2017.
+Quality & Quantity, 52
+(5), 2037-2054. doi:10.1007/s11135-017-0605-5
+102.
+Chau, L. M. (2018). Actively cautious: Industrialization and rural livelihood choices in contemporary northern Vietnam.
+South East Asia Research, 26
+(1), 21-37. doi:10.1177/0967828x17752415
+103.
+Chau, L. M. (2018). “Extremely Rightful” Resistance: Land Appropriation and Rural Agitation in Contemporary Vietnam.
+Journal of Contemporary Asia
+. doi:10.1080/00472336.2018.1517896
+104.
+Chau, N. T. T., Thien, L. V., Hong, L. T. T., & Futamata, H. (2018). Effect of Using Thermophilic Bacteria as Start Inoculum on Microbial Aspect of Pulp and Paper Mill Sludge Composting Process.
+Chiang Mai Journal of Science, 45
+(7), 2623-2636.
+105.
+Chau, N. T. T., Thien, L. V., Lan, P. T. N., & Futamata, H. (2018). Characterization and utilization of pulp and paper mill sludge digesting thermophilic bacteria in composting process.
+Sains Malaysiana, 47
+(5), 1051-1060. doi:10.17576/jsm-2018-4705-23
+106.
+Chinh, N. T., Trang, N. T. T., Mai, T. T., Thanh, D. T. M., Trung, T. H., Trung, T. H., . . . Hoang, T. (2018). Polylactic Acid/Chitosan Nanoparticles Loading Nifedipine: Characterization Findings and In Vivo Investigation in Animal.
+Journal of Nanoscience and Nanotechnology, 18
+(4), 2294-2303. doi:10.1166/jnn.2018.14537
+107.
+Chu, D. T., Minh Nguyet, N. T., Dinh, T. C., Thai Lien, N. V., Nguyen, K. H., Nhu Ngoc, V. T., . . . Pham, V. H. (2018). An update on physical health and economic consequences of overweight and obesity.
+Diabetes and Metabolic Syndrome: Clinical Research and Reviews, 12
+(6), 1095-1100. doi:10.1016/j.dsx.2018.05.004
+108.
+Chu, D. T., Nhu, N. V. T., Tao, Y., & Hoang, S. L. (2018). Achievements and challenges in HIV/AIDS control in Vietnam.
+Hiv Medicine, 19
+(9), E75-E76. doi:10.1111/hiv.12631
+109.
+Chuan, P. M., Giap, C. N., Son, L. H., Bhatt, C., & Khang, T. D. (2018) Enhance link prediction in online social networks using similarity metrics, sampling, and classification. In
+: Vol. 672. Advances in Intelligent Systems and Computing
+(pp. 823-833).
+110.
+Chuan, P. M., Son, L. H., Ali, M., Khang, T. D., Huong, L. T., & Dey, N. (2018). Link prediction in co-authorship networks based on hybrid content similarity metric.
+Applied Intelligence, 48
+(8), 2470-2486. doi:10.1007/s10489-017-1086-x
+111.
+Comber, A., Chi, K., Huy, M. Q., Nguyen, Q., Lu, B., Phe, H. H., & Harris, P. (2018). Distance metric choice can both reduce and induce collinearity in geographically weighted regression.
+Environment and Planning B: Urban Analytics and City Science
+. doi:10.1177/2399808318784017
+112.
+Cong, P. H., Chien, T. M., Khoa, N. D., & Duc, N. D. (2018). Nonlinear thermomechanical buckling and post-buckling response of porous FGM plates using Reddy's HSDT.
+Aerospace Science and Technology, 77
+, 419-428. doi:10.1016/j.ast.2018.03.020
+113.
+Cong, P. H., & Duc, N. D. (2018). New approach to investigate the nonlinear dynamic response and vibration of a functionally graded multilayer graphene nanocomposite plate on a viscoelastic Pasternak medium in a thermal environment.
+Acta Mechanica, 229
+(9), 3651-3670. doi:10.1007/s00707-018-2178-3
+114.
+Cong, P. H., Khanh, N. D., Khoa, N. D., & Duc, N. D. (2018). New approach to investigate nonlinear dynamic response of sandwich auxetic double curves shallow shells using TSDT.
+Composite Structures, 185
+, 455-465. doi:10.1016/j.compstruct.2017.11.047
+115.
+Cong, V. H. (2018). Desalination of brackish water for agriculture: Challenges and future perspectives for seawater intrusion areas in Vietnam.
+Journal of Water Supply: Research and Technology - AQUA, 67
+(3), 211-217. doi:10.2166/aqua.2018.094
+116.
+Cuong, A. M., Na, N. T. L., Thang, P. N., Diep, T. N., Thuy, L. B., Thanh, N. L., & Thang, N. D. (2018). Melanin-embedded materials effectively remove hexavalent chromium (Cr-VI) from aqueous solution.
+Environmental Health and Preventive Medicine, 23
+(1). doi:10.1186/s12199-018-0699-y
+117.
+Cuong, D. X., Hien, H. T., & Long, T. (2018). Multi-criteria Decision-Making model evaluating the performance of Vietnamese commercial banks.
+International Journal of Financial Research, 9
+(1), 132-141. doi:10.5430/ijfr.v9n1p132
+118.
+Cuong, N. V., & Linh, V. H. (2018). The Impact of Migration and Remittances on Household Welfare: Evidence from Vietnam.
+Journal of International Migration and Integration, 19
+(4), 945-963. doi:10.1007/s12134-018-0571-3
+119.
+Cuong, T. T., Diem, G. H., Doan, T. T., Huy, N. Q., Phuong, N., & Hung, H. T. (2018). Wedelolactone from Vietnamese Eclipta prostrata (L) L. Protected Zymosan-induced shock in Mice.
+Iranian Journal of Pharmaceutical Research, 17
+(2), 653-660.
+120.
+Dang, A. K., Nathan, N., Le, Q. N. H., Nguyen, L. H., Nguyen, H. L. T., Nguyen, C. T., . . . Ho, R. C. M. (2018). Associations between internet addiction and physical activity among Vietnamese youths and adolescents.
+Children and Youth Services Review, 93
+, 36-40. doi:10.1016/j.childyouth.2018.06.030
+121.
+Dang, A. K., Nguyen, L. H., Nguyen, A. Q., Tran, B. X., Tran, T. T., Latkin, C. A., . . . Ho, R. C. M. (2018). Physical activity among HIV-positive patients receiving antiretroviral therapy in Hanoi and Nam Dinh, Vietnam: a cross-sectional study.
+Bmj Open, 8
+(5). doi:10.1136/bmjopen-2017-020688
+122.
+Dang, H. M., Weiss, B., Lam, T., & Ho, H. (2018). Mental health literacy and intervention program adaptation in the internationalization of school psychology for Vietnam.
+Psychology in the Schools, 55
+(8), 941-954. doi:10.1002/pits.22156
+123.
+Dang, K., Sassa, K., Konagai, K., Karunawardena, A., Bandara, R. M. S., Hirota, K., . . . Ha, N. D. (2018). Recent rainfall-induced rapid and long-traveling landslide on 17 May 2016 in Aranayaka, Kagelle District, Sri Lanka.
+Landslides
+. doi:10.1007/s10346-018-1089-7
+124.
+Dang, M. N. (2018). A NEW DECISION MAKING MODEL BASED ON THE MADE IN VIETNAM LEAN MANAGEMENT PHILOSOPHY.
+Economics & Sociology, 11
+(1), 44-60. doi:10.14254/2071-789x.2018/11-1/3
+125.
+Dang, N. B., Ngo, X. N., & Doan, H. M. (2018). Ecosystem status of my son sanctuary in Quang Nam province, Vietnam.
+International Journal of Civil Engineering and Technology, 9
+(11), 1912-1917.
+126.
+Dang, T. N. Y. (2018). The nature of vocabulary in academic speech of hard and soft sciences.
+English for Specific Purposes, 51
+, 69-83. doi:10.1016/j.esp.2018.03.004
+127.
+Dao, T. H., Tran, T. T., Nguyen, V. R., Pham, T. N. M., Vu, C. M., & Pham, T. D. (2018). Removal of antibiotic from aqueous solution using synthesized TiO2 nanoparticles: characteristics and mechanisms.
+Environmental Earth Sciences, 77
+(10). doi:10.1007/s12665-018-7550-z
+128.
+Dao, T. H. H., & Hölscher, D. (2018). Impact of non-timber forest product use on the tree community in north-western Vietnam.
+Forests, 9
+(7). doi:10.3390/f9070431
+129.
+Dao-Tuan, A., Nguyen-Thi-Ngoc, A., Nguyen-Trong, K., Bui-Tuan, A., & Dinh-Thi-Hai, V. (2018) Optimizing vehicle routing with path and carbon dioxide emission for municipal solid waste collection in Ha Giang, Vietnam. In
+: Vol. 221. Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST
+(pp. 212-227).
+130.
+Dau, V., Dinh, T. X., Bui, T. T., & Tran, C. D. (2018). Vortex flow generator utilizing synthetic jets by diaphragm vibration.
+International Journal of Mechanical Sciences, 142
+, 432-439. doi:10.1016/j.ijmecsci.2018.05.028
+131.
+Dau, V. T., Dinh, T. X., Dang, L. B., Tran, C. D., Bui, T. T., & Hoa, P. T. (2018). Tri-axis convective accelerometer with closed-loop heat source.
+Sensors and Actuators a-Physical, 275
+, 51-59. doi:10.1016/j.sna.2018.03.047
+132.
+Dau, V. T., Dinh, T. X., Tran, C. D., Bui, T. T., & Phan, H. T. (2018). A study of angular rate sensing by corona discharge ion wind.
+Sensors and Actuators a-Physical, 277
+, 169-180. doi:10.1016/j.sna.2018.05.021
+133.
+Dau, V. T., Dinh, T. X., Tran, C. D., Terebessy, T., Duc, T. C., & Bui, T. T. (2018). Particle precipitation by bipolar corona discharge ion winds.
+Journal of Aerosol Science, 124
+, 83-94. doi:10.1016/j.jaerosci.2018.07.007
+134.
+Dau, V. T., Tran, C. D., Dinh, T. X., Dang, L. B., Terebessy, T., & Bui, T. T. (2018). Estimating the Effect of Asymmetric Electrodes in Bipolar Discharge Ion Wind Generator.
+Ieee Transactions on Dielectrics and Electrical Insulation, 25
+(3), 900-907. doi:10.1109/tdei.2018.006881
+135.
+Dian, S., Chen, L., Hoang, S., Zhao, T., & Tan, J. (2018). Gain scheduled dynamic surface control for a class of underactuated mechanical systems using neural network disturbance observer.
+Neurocomputing, 275
+, 1998-2008. doi:10.1016/j.neucom.2017.10.042
+136.
+Diep, D. N., Giang, D. H., & Phu, P. H. (2018). Application of Quantum Gauss-Jordan Elimination Code to Quantum Secret Sharing Code.
+International Journal of Theoretical Physics, 57
+(3), 841-847. doi:10.1007/s10773-017-3617-y
+137.
+Diep, N. V., Sueyoshi, M., Izzati, U., Fuke, N., Teh, A. P. P., Lan, N. T., & Yamaguchi, R. (2018). Appearance of US-like porcine epidemic diarrhoea virus (PEDV) strains before US outbreaks and genetic heterogeneity of PEDVs collected in Northern Vietnam during 2012–2015.
+Transboundary and Emerging Diseases, 65
+(1), e83-e93. doi:10.1111/tbed.12681
+138.
+Dinh Duc, N., & Hong Cong, P. (2018). Nonlinear thermo-mechanical dynamic analysis and vibration of higher order shear deformable piezoelectric functionally graded material sandwich plates resting on elastic foundations.
+Journal of Sandwich Structures and Materials, 20
+(2), 191-218. doi:10.1177/1099636216648488
+139.
+Dinh, T. M. T., Nguyen, Q. T., & Sandrasegaran, K. (2018).
+A closed-form of cooperative detection probability using EGC-based soft decision under Suzuki fading.
+Paper presented at the 2017, 11th International Conference on Signal Processing and Communication Systems, ICSPCS 2017 - Proceedings.
+140.
+Do, H., Giang, T. H. T., & Mai, K. (2018). Vietnamese telephone openings Both universals and particulars.
+Language and Dialogue, 8
+(3), 363-389. doi:10.1075/ld.00022.do
+141.
+Do, H. D., Thi, H. L., Thi, T. H. L., Nguyen, H. N., Bui, V. K., Thi, M. N. H., & Ha, P. T. (2018). Folate-modified, curcumin and paclitaxel co-loaded PLA-TPGS nanoparticles: Preparation, optimization and in vitro cytotoxicity assays.
+Advances in Natural Sciences: Nanoscience and Nanotechnology, 9
+(2). doi:10.1088/2043-6254/aabb5c
+142.
+Do, L. Q., Bui, T. T., Tran, H. T. T., Kikuchi, K., Aoyagi, M., & Duc, T. C. (2018). Fluidic platform with embedded differential capacitively coupled contactless conductivity detector for micro-object sensing.
+International Journal of Nanotechnology, 15
+(1-3), 24-38.
+143.
+Do, L. Q., Thuy, H. T. T., Bui, T. T., Dau, V. T., Nguyen, N. V., Duc, T. C., & Jen, C. P. (2018). Dielectrophoresis Microfluidic Enrichment Platform with Built-In Capacitive Sensor for Rare Tumor Cell Detection.
+Biochip Journal, 12
+(2), 114-122. doi:10.1007/s13206-017-2204-x
+144.
+Do, P. T., Pham, H. Q., Nguyen, H. M., & Le, D. H. (2018). ASSESSMENT OF SEQUENCE POLYMORPHISM AND GENE EXPRESSION OF OSSOS1 GENE IN TWO CONTRASTING RICE GENOTYPES.
+Acta Biologica Cracoviensia Series Botanica, 60
+(1). doi:10.24425/118042
+145.
+Do, T. H., Krott, M., Juerges, N., & Böcher, M. (2018). Red lists in conservation science-policy interfaces: A case study from Vietnam.
+Biological Conservation, 226
+, 101-110. doi:10.1016/j.biocon.2018.07.016
+146.
+Do Thi, H., Krott, M., Böcher, M., & Juerges, N. (2018). Toward successful implementation of conservation research: A case study from Vietnam.
+Ambio, 47
+(5), 608-621. doi:10.1007/s13280-017-0999-2
+147.
+Do, T. Q. (2018).
+On the validity of cosmic no-hair conjecture in an anisotropic inationary model.
+Paper presented at the Journal of Physics: Conference Series.
+148.
+Do, T. Q., & Kao, W. F. (2018). Anisotropic power-law inflation for a conformal-violating Maxwell model.
+European Physical Journal C, 78
+(5). doi:10.1140/epjc/s10052-018-5846-5
+149.
+Do, T. T. T., Le, M. D., Nguyen, T. V., Tran, B. X., Le, H. T., Nguyen, H. D., . . . Zhang, M. W. B. (2018). Receptiveness and preferences of health-related smartphone applications among Vietnamese youth and young adults.
+Bmc Public Health, 18
+. doi:10.1186/s12889-018-5641-0
+150.
+Doan, N., Pham, T., Pham, M., & Tran, K. (2018). English as an international language in Viet Nam: history and development.
+Asian Englishes, 20
+(2), 106-121. doi:10.1080/13488678.2018.1439324
+151.
+Doan, T., Le, Q., & Tran, T. Q. (2018). Lost in Transition? Declining Returns to Education in Vietnam.
+European Journal of Development Research, 30
+(2), 195-216. doi:10.1057/s41287-017-0080-9
+152.
+Doan, T., Tran, T. Q., & Nguyen, H. (2018). Provincial competitiveness and labour market returns in Vietnam.
+Hitotsubashi Journal of Economics, 59
+(2), 95-112.
+153.
+Doan, T. T., Rao Sahib, P., & van Witteloostuijn, A. (2018). Lessons from the flipside: How do acquirers learn from divestitures to complete acquisitions?
+Long Range Planning, 51
+(2), 252-266. doi:10.1016/j.lrp.2018.01.002
+154.
+Dong, L. N. T., & Phuong, N. N. D. (2018). Organizational justice, job satisfaction and organizational citizenship behavior in higher education institutions: A research proposition in Vietnam.
+Journal of Asian Finance, Economics and Business, 5
+(3), 113-119. doi:10.13106/jafeb.2018.vol5.no3.113
+155.
+Doss, S., Nayyar, A., Suseendran, G., Tanwar, S., Khanna, A., Hoang Son, L., & Huy Thong, P. (2018). APD-JFAD: Accurate prevention and detection of jelly fish attack in MANET.
+IEEE Access, 6
+, 56954-56965. doi:10.1109/ACCESS.2018.2868544
+156.
+Duc, D. M. (2018). TXT-tool 4.084-1.1 soil slope stability analysis. In
+Landslide Dynamics: ISDR-ICL Landslide Interactive Teaching Tools
+(Vol. 2, pp. 447-460).
+157.
+Duc, D. M., Nhuan, M. T., Quy, T. D., & Lieu, T. M. (2018). TXT-tool 4.084-1.2 landslide vulnerability assessment: A case study of Backan Town, Northeast Vietnam. In
+Landslide Dynamics: ISDR-ICL Landslide Interactive Teaching Tools
+(Vol. 2, pp. 521-537).
+158.
+Duc, N. D., Duc Tuan, N., Hong Cong, P., Dinh Dat, N., & Dinh Khoa, N. (2018). Geometrically nonlinear dynamic response and vibration of shear deformable eccentrically stiffened functionally graded material cylindrical panels subjected to thermal, mechanical, and blast loads.
+Journal of Sandwich Structures and Materials
+. doi:10.1177/1099636218765603
+159.
+Duc, N. D., Khoa, N. D., & Thiem, H. T. (2018). Nonlinear thermo-mechanical response of eccentrically stiffened Sigmoid FGM circular cylindrical shells subjected to compressive and uniform radial loads using the Reddy's third-order shear deformation shell theory.
+Mechanics of Advanced Materials and Structures, 25
+(13), 1156-1167. doi:10.1080/15376494.2017.1341581
+160.
+Duc, N. D., Quang, V. D., Nguyen, P. D., & Chien, T. M. (2018). Nonlinear dynamic response of functionally graded porous plates on elastic foundation subjected to thermal and mechanical loads.
+Journal of Applied and Computational Mechanics, 4
+(4), 245-259. doi:10.22055/jacm.2018.23219.1151
+161.
+Duc, N. D., Seung-Eock, K., Quan, T. Q., Long, D. D., & Anh, V. M. (2018). Nonlinear dynamic response and vibration of nanocomposite multilayer organic solar cell.
+Composite Structures, 184
+, 1137-1144. doi:10.1016/j.compstruct.2017.10.064
+162.
+Duc, N. D., Trinh, T. D., Van Do, T., & Doan, D. H. (2018) On the buckling behavior of multi-cracked FGM plates. In
+: Vol. PartF3. Lecture Notes in Mechanical Engineering
+(pp. 29-45).
+163.
+Duc, N. H. (2018). ISAMMA 2017 Chairman's Preface.
+Ieee Transactions on Magnetics, 54
+(6). doi:10.1109/tmag.2018.2832499
+164.
+Dũng, D. (2018). B-Spline Quasi-Interpolation Sampling Representation and Sampling Recovery in Sobolev Spaces of Mixed Smoothness.
+Acta Mathematica Vietnamica, 43
+(1), 83-110. doi:10.1007/s40306-017-0230-3
+165.
+Dũng, D., Griebel, M., Huy, V. N., & Rieger, C. (2018). ε-dimension in infinite dimensional hyperbolic cross approximation and application to parametric elliptic PDEs.
+Journal of Complexity, 46
+, 66-89. doi:10.1016/j.jco.2017.12.001
+166.
+Dung, D. T. M., Hai, P. T., Anh, D. T., Huong, L. T. T., Yen, N. T. K., Han, B. W., . . . Nam, N. H. (2018). Novel hydroxamic acids incorporating 1-((1H-1,2,3-Triazol-4-yl)methyl)-3-hydroxyimino-indolin-2-ones: synthesis, biological evaluation, and SAR analysis.
+Journal of Chemical Sciences, 130
+(6). doi:10.1007/s12039-018-1472-x
+167.
+Dung, D. T. M., Huan, N. V., Cam, D. M., Hieu, D. C., Hai, P. T., Huong, L. T. T., . . . Nam, N. H. (2018). Novel Hydroxamic Acids Incorporating 1-((1H-1,2,3-Triazol-4-yl)methyl)-3-substituted-2-oxoindolines: Synthesis, Biological Evaluation and SAR Analysis.
+Medicinal Chemistry, 14
+(8), 831-850. doi:10.2174/1573406414666180528111749
+168.
+Dung, D. V., & Nga, N. T. (2018). Thermomechanical postbuckling analysis of eccentrically stiffened FGM sandwich plates with general Sigmoid and power laws based on TSDT.
+Journal of Sandwich Structures & Materials, 20
+(8), 907-945. doi:10.1177/1099636216682545
+169.
+Dung, H. C., Thanh, P. T. K., Oanh, D. V., & Long, N. H. (2018). Local government involvement in small tourism firms investment: The case of Phu Tho Province, Vietnam.
+Economics and Sociology, 11
+(2), 97-111. doi:10.14254/2071-789X.2018/11-2/7
+170.
+Dung, L. V., Son, T. C., & Yen, N. T. H. (2018). Weak Laws of Large Numbers for sequences of random variables with infinite rth moments.
+Acta Mathematica Hungarica, 156
+(2), 408-423. doi:10.1007/s10474-018-0865-0
+171.
+Dung, N. T., Khanh, N. N., & Ngo, Q. A. (2018). Gradient estimates for some f-heat equations driven by Lichnerowicz's equation on complete smooth metric measure spaces.
+Manuscripta Mathematica, 155
+(3-4), 471-501. doi:10.1007/s00229-017-0946-3
+172.
+Dung, N. T., & Tien, P. T. (2018). Vanishing properties of p-harmonic ℓ-forms on riemannian manifolds.
+Journal of the Korean Mathematical Society, 55
+(5), 1103-1129. doi:10.4134/JKMS.j170575
+173.
+Dung, S. C., Quoc, K. P., & Van, D. T. (2018). Development and evaluation of surface electrocardiogram in the septal accessory pathway localization in typical Wolff-Parkinson-White syndrome.
+Biomedical Research and Therapy, 5
+(9), 2680-2687. doi:10.15419/bmrat.v5i9.479
+174.
+Duoc, T. V. (2018). NAVIER-STOKES-OSEEN FLOWS IN THE EXTERIOR OF A ROTATING AND TRANSLATING OBSTACLE.
+Discrete and Continuous Dynamical Systems, 38
+(7), 3387-3405. doi:10.3934/dcds.2018145
+175.
+Duong, M. V., Nguyen, H. T., Mai, T. V. T., & Huynh, L. K. (2018). Global minimum profile error (GMPE)-a least-squares-based approach for extracting macroscopic rate coefficients for complex gas-phase chemical reactions.
+Physical Chemistry Chemical Physics, 20
+(2), 1231-1239. doi:10.1039/c7cp06340g
+176.
+Duong, N. T. B., & de Groot, W. T. (2018). Distributional risk in PES: Exploring the concept in the Payment for Environmental Forest Services program, Vietnam.
+Forest Policy and Economics, 92
+, 22-32. doi:10.1016/j.forpol.2018.03.008
+177.
+Eggers, T., Lam, D. S., Thiabgoh, O., Marcin, J., Svec, P., Huong, N. T., . . . Phan, M. H. (2018). Impact of the transverse magnetocrystalline anisotropy of a Co coating layer on the magnetoimpedance response of FeNi-rich nanocrystalline ribbon.
+Journal of Alloys and Compounds, 741
+, 1105-1111. doi:10.1016/j.jallcom.2018.01.206
+178.
+Eguchi, A., Nomiyama, K., Sakurai, K., Kim Trang, P. T., Viet, P. H., Takahashi, S., . . . Mori, C. (2018). Alterations in urinary metabolomic profiles due to lead exposure from a lead–acid battery recycling site.
+Environmental Pollution, 242
+, 98-105. doi:10.1016/j.envpol.2018.06.071
+179.
+Elshopakey, G. E., Risha, E. F., Abdalla, O. A., Okamura, Y., Hanh, V. D., Ibuki, M., . . . Itami, T. (2018). Enhancement of immune response and resistance against Vibrio parahaemolyticus in kuruma shrimp (Marsupenaeus japonicus) by dietary supplementation of β-1,4-mannobiose.
+Fish and Shellfish Immunology, 74
+, 26-34. doi:10.1016/j.fsi.2017.12.036
+180.
+Elvidge, C. D., Ghosh, T., Baugh, K., Zhizhin, M., Hsu, F. C., Katada, N. S., . . . Hung, B. Q. (2018). Rating the effectiveness of fishery closures with visible infrared imaging Radiometer Suite Boat detection data.
+Frontiers in Marine Science, 5
+(APR). doi:10.3389/fmars.2018.00132
+181.
+Fan, P., Ouyang, Z., Nguyen, D. D., Nguyen, T. T. H., Park, H., & Chen, J. (2018). Urbanization, economic development, environmental and social changes in transitional economies: Vietnam after Doimoi.
+Landscape and Urban Planning
+. doi:10.1016/j.landurbplan.2018.10.014
+182.
+Fortes, M. R. S., Zacchi, L. F., Nguyen, L. T., Raidan, F., Weller, M. M. D. C. A., Choo, J. J. Y., . . . Moore, S. S. (2018). Pre- and post-puberty expression of genes and proteins in the uterus of Bos indicus heifers: the luteal phase effect post-puberty.
+Animal Genetics, 49
+(6), 539-549. doi:10.1111/age.12721
+183.
+Fox, J., Nghiem, T., Kimkong, H., Hurni, K., & Baird, I. G. (2018). Large-Scale Land Concessions, Migration, and Land Use: The Paradox of Industrial Estates in the Red River Delta of Vietnam and Rubber Plantations of Northeast Cambodia.
+Land, 7
+(2). doi:10.3390/land7020077
+184.
+Ghimire, J., Vu, K. C., & Thuy, H. N. T. (2018) Resilience Concepts and Planning Realities: How Quy Nhon Is Becoming a Resilient City by Integrating Climate Change Adaptation into Master Plans? In
+: Vol. 65. Lecture Notes in Energy
+(pp. 129-146).
+185.
+Giang, P. M., & Otsuka, H. (2018). New Compounds and Potential Candidates for Drug Discovery from Medicinal Plants of Vietnam.
+Chemical & Pharmaceutical Bulletin, 66
+(5), 493-505.
+186.
+Giap, C. N., Son, L. H., & Chiclana, F. (2018). Dynamic structural neural network.
+Journal of Intelligent & Fuzzy Systems, 34
+(4), 2479-2490. doi:10.3233/jifs-171947
+187.
+Golnaraghi, A., Shahraeen, N., & Nguyen, H. D. (2018). Characterization and genetic structure of a tospovirus causing chlorotic ring spots and chlorosis disease on peanut; comparison with Iranian and polish populations of tomato yellow fruit ring virus.
+Plant Disease, 102
+(8), 1509-1519. doi:10.1094/PDIS-10-17-1686-RE
+188.
+Ha, H. M., Hoa, T. T. Q., Vu, L. V., & Long, N. N. (2018). Radiative transition dynamics of holmium ions-doped LaF3 nanocrystals.
+Journal of Materials Science-Materials in Electronics, 29
+(2), 1607-1613. doi:10.1007/s10854-017-8071-3
+189.
+Ha, M. N., Wang, L., & Zhao, Z. (2018). Doping effects on mixed-phase crystalline perovskite A<inf>x</inf>Sr<inf>1−x</inf>FeO<inf>3−δ</inf> (A = Pr, Sm; 0 ≤ x ≤ 0.8) nanoparticles and their application for photodegradation of rhodamine B.
+Research on Chemical Intermediates
+. doi:10.1007/s11164-018-3676-6
+190.
+Ha, P. (2018). Spectral Characterizations of Solvability and Stability for Delay Differential-Algebraic Equations.
+Acta Mathematica Vietnamica, 43
+(4), 715-735. doi:10.1007/s40306-018-0279-7
+191.
+Ha, Q. M., Deville, Y., Pham, Q. D., & Hà, M. H. (2018). On the min-cost Traveling Salesman Problem with Drone.
+Transportation Research Part C: Emerging Technologies, 86
+, 597-621. doi:10.1016/j.trc.2017.11.015
+192.
+Ha, Q. T., Pham, T. N., Nguyen, V. Q., Nguyen, M. C., Pham, T. H., & Nguyen, T. T. (2018) A new text semi-supervised multi-label learning model based on using the label-feature relations. In
+: Vol. 11055 LNAI. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+(pp. 403-413).
+193.
+Ha, Q. T., Pham, T. N., Nguyen, V. Q., Nguyen, T. C., Vuong, T. H., Tran, M. T., & Nguyen, T. T. (2018). New Lifelong Topic Modeling Method and Its Application to Vietnamese Text Multi-label Classification. In N. T. Nguyen, D. H. Hoang, T. P. Hong, H. Pham, & B. Trawinski (Eds.),
+Intelligent Information and Database Systems, Aciids 2018, Pt I
+(Vol. 10751, pp. 200-210).
+194.
+Ha, T. B., Le, H. T., Cao, H. H., Binh, N. T., Nguyen, H. L., Dang, L. H., . . . Nguyen, V. A. (2018). Electro-Immobilization of Acetylcholinesterase Using Polydopamine for Carbaryl Microsensor.
+Journal of Electronic Materials, 47
+(2), 1686-1693. doi:10.1007/s11664-017-5880-3
+195.
+Ha, T. H., Marchand, C., Aimé, J., Dang, H. N., Phan, N. H., Nguyen, X. T., & Nguyen, T. K. C. (2018). Belowground carbon sequestration in a mature planted mangroves (Northern Viet Nam).
+Forest Ecology and Management, 407
+, 191-199. doi:10.1016/j.foreco.2017.06.057
+196.
+Hampton, M. P., Jeyacheya, J., & Long, P. H. (2018). Can Tourism Promote Inclusive Growth? Supply Chains, Ownership and Employment in Ha Long Bay, Vietnam.
+Journal of Development Studies, 54
+(2), 359-376. doi:10.1080/00220388.2017.1296572
+197.
+Hanh, P. T. M., Nghi, D. T., Lan, T. D., Van Quan, N., Ba, D. T., & Viet, P. H. (2018). The status and distribution of PCBs along the coast of Vietnam.
+Environmental Geochemistry and Health
+. doi:10.1007/s10653-018-0168-y
+198.
+Hao, P. V., Xuan, C. T., Thanh, P. D., Thuat, N. T., Hai, N. H., & Tuan, M. A. (2018). Detection analysis limit of nonlinear characteristics of DNA sensors with the surface modified by polypyrrole nanowires and gold nanoparticles.
+Journal of Science-Advanced Materials and Devices, 3
+(2), 129-138. doi:10.1016/j.jsamd.2018.04.002
+199.
+Hemanth, D. J., Anitha, J., Son, L. H., & Mittal, M. (2018). Diabetic Retinopathy Diagnosis from Retinal Images Using Modified Hopfield Neural Network.
+Journal of Medical Systems, 42
+(12). doi:10.1007/s10916-018-1111-6
+200.
+Hie, T. D., Thanh, B. T., & Giang, N. T. Q. (2018). Uncertainty qualification for the free vibration of a functionally graded material plate with uncertain mass density. In Q. B. Bui, R. Cajka, M. T. Tran, T. A. Trinh, A. U. H. Yasar, G. Wets, & M. Woloszyn (Eds.),
+2nd International Conference on Sustainable Development in Civil, Urban and Transportation Engineering
+(Vol. 143).
+201.
+Hien, L. T. T., Linh, N. N., Hang, P. B., Mai, N. P., Hanh, H. H., Hue, H. T. T., & Van Huan, H. (2018). Developing DNA barcodes for species identification of Berberis and Dysosma genera in Vietnam.
+International Journal of Agriculture and Biology, 20
+(5), 1097-1106. doi:10.17957/IJAB/15.0608
+202.
+Hien, T. D., Thanh, B. T., & Quynh Giang, N. T. (2018).
+Uncertainty qualification for the free vibration of a functionally graded material plate with uncertain mass density.
+Paper presented at the IOP Conference Series: Earth and Environmental Science.
+203.
+Hieu, D. T., Anh, D. T., Hai, P. T., Huong, L. T. T., Park, E. J., Choi, J. E., . . . Nam, N. H. (2018). Quinazoline-Based Hydroxamic Acids: Design, Synthesis, and Evaluation of Histone Deacetylase Inhibitory Effects and Cytotoxicity.
+Chemistry & Biodiversity, 15
+(6). doi:10.1002/cbdv.201800027
+204.
+Hieu, D. T., Anh, D. T., Tuan, N. M., Hai, P. T., Huong, L. T. T., Kim, J., . . . Hoa, N. D. (2018). Design, synthesis and evaluation of novel N-hydroxybenzamides/N-hydroxypropenamides incorporating quinazolin-4(3H)-ones as histone deacetylase inhibitors and antitumor agents.
+Bioorganic Chemistry, 76
+, 258-267. doi:10.1016/j.bioorg.2017.12.007
+205.
+Hieu, D. V. (2018). Convergence analysis of a new algorithm for strongly pseudomontone equilibrium problems.
+Numerical Algorithms, 77
+(4), 983-1001. doi:10.1007/s11075-017-0350-9
+206.
+Hieu, D. V. (2018). New extragradient method for a class of equilibrium problems in Hilbert spaces.
+Applicable Analysis, 97
+(5), 811-824. doi:10.1080/00036811.2017.1292350
+207.
+Hieu, D. V. (2018). Projected subgradient algorithms on systems of equilibrium problems.
+Optimization Letters, 12
+(3), 551-566. doi:10.1007/s11590-017-1127-8
+208.
+Hieu, D. V. (2018). Two hybrid algorithms for solving split equilibrium problems.
+International Journal of Computer Mathematics, 95
+(3), 561-583. doi:10.1080/00207160.2017.1291934
+209.
+Hieu, N., Huong, H. T. T., Hens, L., Hieu, D. T., Phuong, D. T., & Canh, P. X. (2018). Sustainable livelihoods development by utilization of geomorphological resources in the Bai Tu Long Bay, Quang Ninh Province, Vietnam.
+Environment Development and Sustainability, 20
+(6), 2463-2485. doi:10.1007/s10668-017-9999-4
+210.
+Hoai, T. D., Mitomi, K., Nishiki, I., & Yoshida, T. (2018). A lytic bacteriophage of the newly emerging rainbow trout pathogen Weissella ceti.
+Virus Research, 247
+, 34-39. doi:10.1016/j.virusres.2018.01.016
+211.
+Hoai, T. D., Nishiki, I., Yoshida, T., & Nakai, T. (2018). Host range and influence of a cell capsule on the phage efficacy of three Lactococcus garvieae lytic phages.
+Diseases of Aquatic Organisms, 128
+(1), 81-86. doi:10.3354/dao03212
+212.
+Hoang, D. T., Chernomor, O., von Haeseler, A., Minh, B. Q., & Vinh, L. S. (2018). UFBoot2: Improving the Ultrafast Bootstrap Approximation.
+Molecular Biology and Evolution, 35
+(2), 518-522. doi:10.1093/molbev/msx281
+213.
+Hoang, D. T., Vinh, L. S., Flouri, T., Stamatakis, A., von Haeseler, A., & Minh, B. Q. (2018). MPBoot: fast phylogenetic maximum parsimony tree inference and bootstrap approximation.
+Bmc Evolutionary Biology, 18
+. doi:10.1186/s12862-018-1131-3
+214.
+Hoang, H., Hori, T., Yasuda, T. O., Kizu, T., Tsukagoshi, K., Nabatame, T., . . . Fujiwara, A. (2018).
+Investigation on solution-processed In-Si-O thin-film transistor via spin-coating method.
+Paper presented at the AM-FPD 2018 - 25th International Workshop on Active-Matrix Flatpanel Displays and Devices: TFT Technologies and FPD Materials, Proceedings.
+215.
+Hoang, H. T., Nguyen, T. T., & Reynolds, J. F. (2018). Buddhism-based charity, philanthropy, and social work: A lesson from Vietnam.
+International Social Work
+. doi:10.1177/0020872818767257
+216.
+Hoang, H. T., Pham, D. T., & Nguyen, D. D. (2018). Innovation practices at Vietnamese manufacturers: the impacts of innovation on profitability and growth.
+Economics Bulletin, 38
+(3), 1457-1466.
+217.
+Hoang, H. T. T., Truong, Q. H., Nguyen, A. T., & Hens, L. (2018). Multicriteria Evaluation of Tourism Potential in the Central Highlands of Vietnam: Combining Geographic Information System (GIS), Analytic Hierarchy Process (AHP) and Principal Component Analysis (PCA).
+Sustainability, 10
+(9). doi:10.3390/su10093097
+218.
+Hoang, M., Wu, H. Y., Lien, Y. X., Chiou, M. T., & Lin, C. N. (2018). A SimpleProbe®real-time PCR assay for differentiating the canine parvovirus type 2 genotype.
+Journal of Clinical Laboratory Analysis
+. doi:10.1002/jcla.22654
+219.
+Hoang, V. T., Hoang, D. H., Pham, N. D., Tran, H. M., Bui, H. T. V., & Ngo, T. A. (2018). Hydrogen production by newly isolated Clostridium species from cow rumen in pure- and co-cultures on a broad range of carbon sources.
+Aims Energy, 6
+(5), 846-865. doi:10.3934/energy.2018.5.846
+220.
+Hoang, V. V., Ochi, T., Kurata, K., Arita, Y., Ogasahara, Y., & Enomoto, K. (2018). Nisin-induced expression of recombinant T cell epitopes of major Japanese cedar pollen allergens in Lactococcus lactis.
+Applied Microbiology and Biotechnology, 102
+(1), 261-268. doi:10.1007/s00253-017-8579-8
+221.
+Hong, P. L., Minh, T. L., & Hoang, Q. P. (2018). On a three dimensional Cauchy problem for inhomogeneous Helmholtz equation associated with perturbed wave number.
+Journal of Computational and Applied Mathematics, 335
+, 86-98. doi:10.1016/j.cam.2017.11.042
+222.
+Huan, H. V., Trang, H. M., & Toan, N. V. (2018). Identification of DNA barcode sequence and genetic relationship among some species of magnolia family.
+Asian Journal of Plant Sciences, 17
+(1), 56-64. doi:10.3923/ajps.2018.56.64
+223.
+Huan, L. C., Hai, P. T., Huong, L. T. T., Thao, T. P., Que, D. N., Trang, N. T., . . . Nam, N. H. (2018). Exploration of Some Thiazolidine-2,4-dione and 2-Oxoindoline Derivatives Incorporating 3,4,5-trimethoxybenzyl Moiety as Novel Anticancer Agent.
+Letters in Drug Design & Discovery, 15
+(4), 375-387. doi:10.2174/1570180814666170605122552
+224.
+Huan, L. C., Truc, L. C., Phuong, C. V., Hai, P. T., Huong, L. T. T., Linh, N. T. P., . . . Tran, P. T. (2018). N- (E)-Arylidene -2-(2,3-dihydro-3-oxo-4H-1,4-benzoxazin-4-yl)-acetohydr azides: Synthesis and Evaluation of Caspase Activation Activity and Cytotoxicity.
+Chemistry & Biodiversity, 15
+(10). doi:10.1002/cbdv.201800322
+225.
+Huang, N. T., & Gammeltoft, T. M. (2018). "A Combination of Imagination and Observation": Medical Anthropology in Vietnam since the 1990s.
+American Anthropologist, 120
+(3), 570-573.
+226.
+Huang, Y., Yamaguchi, A., Pham, T. D., & Kobayashi, M. (2018). Charging and aggregation behavior of silica particles in the presence of lysozymes.
+Colloid and Polymer Science, 296
+(1), 145-155. doi:10.1007/s00396-017-4226-2
+227.
+Hue, H. T. T., Pradit, S., Jarunee, C., Lim, A., Nitiratsuwan, T., & Goncalo, C. (2018). PHYSICAL PROPERTIES OF THREE SONGKHLA LAGOON FISH SPECIES IN THE LOWER GULF OF THAILAND DURING AND AFTER THE MONSOON SEASON.
+Applied Ecology and Environmental Research, 16
+(5), 6113-6127. doi:10.15666/aeer/1605_61136127
+228.
+Hue, H. T. T., Pradit, S., Lim, A., Goncalo, C., & Nitiratsuwan, T. (2018). SHRIMP AND FISH CATCH LANDING TRENDS IN SONGKHLA LAGOON, THAILAND DURING 2003-2016.
+Applied Ecology and Environmental Research, 16
+(3), 3061-3078. doi:10.15666/aeer/1603_30613078
+229.
+Hue, N. T. M., Thuong, N. V., Mai, P. T. N., & Minh, N. H. (2018). Site-specific bioaccumulation of polychlorinated dibenzo-p-dioxins and polychlorinated dibenzofurans (PCDD/PCDFs) in mothers and their infants living in vicinity of Bien Hoa airbase, Southern Vietnam.
+Environmental Geochemistry and Health, 40
+(6), 2539-2549. doi:10.1007/s10653-018-0118-8
+230.
+Huong, L. T. T., Thuyet, N. T. M., Phan, T. L., Tran, N., Toan, D. N., Thang, P. D., & Huy, B. T. (2018). Alternative approaches used to assess structural changes of natural zircon caused by heat treatment.
+Physica B-Condensed Matter, 532
+, 42-47. doi:10.1016/j.physb.2017.03.007
+231.
+Hutabarat, P. U. B., Nguyen, X. H., & Suda, S. (2018). Black Band disease-related (BBD) cyanobacterium from Okinawan corals.
+Journal of Applied Phycology
+, 1-7. doi:10.1007/s10811-018-1507-1
+232.
+Huy, P. T., & Takahashi, K. (2018). Determinants of psychological contract breach: an empirical study of Vietnamese employees.
+Management Research Review, 41
+(1), 29-45. doi:10.1108/mrr-11-2016-0244
+233.
+Huy, V. N., Rodrigues, M. M., & Tuan, N. M. (2018). Norm Estimates and Uncertainty Principles Associated with the Laguerre Integral Transform.
+Complex Analysis and Operator Theory, 12
+(3), 683-704. doi:10.1007/s11785-017-0736-7
+234.
+Huyen, P. T. T., Giang, P. Q., van Toan, N., & Trinh, P. T. (2018). Correlation between the distribution of nematodes and soil physicochemical characteristics in coffee rejuvenation areas.
+EnvironmentAsia, 11
+(1), 141-156. doi:10.14456/ea.2018.11
+235.
+Huynh, K., Nguyen, T. H., Nguyen, P. T., Tran, N. Q., Vo, V. T., Gyenes, M., & Stoldt, V. R. (2018). Leu33Pro (PlA) polymorphism of integrin beta3 modulates platelet Src pY418 and focal adhesion kinase pY397 phosphorylation in response to abnormally high shear stress.
+Blood coagulation &amp; fibrinolysis : an international journal in haemostasis and thrombosis, 29
+(6), 488-495. doi:10.1097/MBC.0000000000000744
+236.
+Jha, S., Son, L. H., & Kumar, R. (2018) Fading Channel and Imperfect Channel Estimation for OFDM in Wireless Communication. In
+: Vol. 29. Advances in Parallel Computing
+(pp. 557-582).
+237.
+Kapoor, R., Gupta, R., Kumar, R., Son, L. H., & Jha, S. (2018). New scheme for underwater acoustically wireless transmission using direct sequence code division multiple access in MIMO systems.
+Wireless Networks
+, 1-13. doi:10.1007/s11276-018-1750-z
+238.
+Kapoor, R., Gupta, R., Son, L. H., Jha, S., & Kumar, R. (2018). Boosting performance of power quality event identification with KL Divergence measure and standard deviation.
+Measurement, 126
+, 134-142. doi:10.1016/j.measurement.2018.05.053
+239.
+Kapoor, R., Gupta, R., Son, L. H., Jha, S., & Kumar, R. (2018). Detection of Power Quality Event using Histogram of Oriented Gradients and Support Vector Machine.
+Measurement, 120
+, 52-75. doi:10.1016/j.measurement.2018.02.008
+240.
+Kasereka, S., Kasoro, N., Kyamakya, K., Doungmo Goufo, E. F., Chokki, A. P., & Yengo, M. V. (2018).
+Agent-Based Modelling and Simulation for evacuation of people from a building in case of fire.
+Paper presented at the Procedia Computer Science.
+241.
+Kato, M., Henry, A., Graham, S., Doan, D. H., & Fushinobu, K. (2018). Molecular dynamics simulation of oxygen transport characteristics in the electrolyte membrane of PEMFC.
+International Journal of Numerical Methods for Heat & Fluid Flow, 28
+(2), 289-296. doi:10.1108/hff-10-2016-0430
+242.
+Kha, D. D., Nhu, N. Y., & Anh, T. N. (2018). An Approach for Flow Forecasting in Ungauged Catchments - A Case Study for Ho Ho reservoir catchment, Ngan Sau River, Central Vietnam.
+Journal of Ecological Engineering, 19
+(3), 74-79. doi:10.12911/22998993/85759
+243.
+Khan, M., Son, L. H., Ali, M., Chau, H. T. M., Na, N. T. N., & Smarandache, F. (2018). Systematic review of decision making algorithms in extended neutrosophic sets.
+Symmetry, 10
+(8). doi:10.3390/sym10080314
+244.
+Khanh, N. V. (2018). Our master, the historian Phan Huy Le (1934-2018), has works published, Historian.
+Moussons-Recherche En Sciences Humaines Sur L Asie Du Sud-Est
+(32), 13-15. doi:10.4000/moussons.4754
+245.
+Khanh, T. Q., Bodrogi, P., Vinh, Q. T., Guo, X., & Anh, T. T. (2018). Colour preference, naturalness, vividness and colour quality metrics, Part 4: Experiments with still life arrangements at different correlated colour temperatures.
+Lighting Research & Technology, 50
+(6), 862-879. doi:10.1177/1477153517700705
+246.
+Khuat, T. H., Do, T. T., Nguyen, V. A. T., Vu, X. T., Nguyen, P. T. T., Tran, K., . . . Vuong, Q. H. (2018). The Dark Side of Female HIV Patient Care: Sexual and Reproductive Health Risks in Pre- and Post-Clinical Treatments.
+Journal of Clinical Medicine, 7
+(11). doi:10.3390/jcm7110402
+247.
+Khuc, Q. V., Tran, B. Q., Meyfroidt, P., & Paschke, M. W. (2018). Drivers of deforestation and forest degradation in Vietnam: An exploratory analysis at the national level.
+Forest Policy and Economics, 90
+, 128-141. doi:10.1016/j.forpol.2018.02.004
+248.
+Kim, H. K., Kim, H. J., Noh, J. Y., Van Phan, L., Kim, J. H., Song, D., . . . Yoon, S. W. (2018). Serological evidence of H5-subtype influenza A virus infection in indigenous avian and mammalian species in Korea.
+Archives of Virology, 163
+(3), 649-657. doi:10.1007/s00705-017-3655-z
+249.
+Kim, H. O., Na, W., Yeom, M., Choi, J., Kim, J., Lim, J. W., . . . Haam, S. (2018). Host Cell Mimic Polymersomes for Rapid Detection of Highly Pathogenic Influenza Virus via a Viral Fusion and Cell Entry Mechanism.
+Advanced Functional Materials, 28
+(34). doi:10.1002/adfm.201800960
+250.
+Kizirian, D., Truong, N. Q., Ngo, H. T., & Le, M. D. (2018). Parahelicops, Pararhabdophis, Paraphyly: Phylogenetic Relationships among Certain Southeast Asian Natricine Snakes (Hebius).
+American Museum Novitates
+(3906), 1-7. doi:10.1206/3906.1
+251.
+Koh, D., Pham, T., Shen, C. Y., & Le, A. V. (2018). Expansion for the product of matrices in groups.
+Forum Mathematicum
+. doi:10.1515/forum-2018-0063
+252.
+Koike, N., Mai, T. N., Shirai, M., Kubo, M., Hata, K., Marumoto, N., . . . Sekiguchi, S. (2018). Detection of neutralizing antibody against porcine epidemic diarrhea virus in subclinically infected finishing pigs.
+Journal of Veterinary Medical Science, 80
+(11). doi:10.1292/jvms.18-0132
+253.
+Kumar, P., Le, P. V. V., Papanicolaou, A. N. T., Rhoads, B. L., Anders, A. M., Stumpf, A., . . . Belmont, P. (2018). Critical transition in critical zone of intensively managed landscapes.
+Anthropocene, 22
+, 10-19. doi:10.1016/j.ancene.2018.04.002
+254.
+Kumar, R., Son, L. H., Jha, S., Mittal, M., & Goyal, L. M. (2018). Spatial data analysis using association rule mining in distributed environments: a privacy prospect.
+Spatial Information Research, 26
+(6), 629-638. doi:10.1007/s41324-018-0207-x
+255.
+Kurina, G. A., & Hoai, N. T. (2018). Projector Approach for Constructing the Zero Order Asymptotic Solution for the Singularly Perturbed Linear-Quadratic Control Problem in a Critical Case. In A. Ashyralyev, A. Lukashov, & M. Sadybekov (Eds.),
+International Conference on Analysis and Applied Mathematics
+(Vol. 1997).
+256.
+Kurokawa, Y., Nagai, K., Huan, P. D., Shimazaki, K., Qu, H., Mori, Y., . . . Ashikari, M. (2018). Rice leaf hydrophobicity and gas films are conferred by a wax synthesis gene (LGF1) and contribute to flood tolerance.
+New Phytologist, 218
+(4), 1558-1569. doi:10.1111/nph.15070
+257.
+Lasko, K., Vadrevu, K. P., & Nguyen, T. T. N. (2018). Analysis of air pollution over Hanoi, Vietnam using multi-satellite and MERRA reanalysis datasets.
+Plos One, 13
+(5). doi:10.1371/journal.pone.0196629
+258.
+Le, A. S., & Aoki, H. (2018). SmartEye and Polhemus data for vestibulo–ocular reflex and optokinetic reflex model.
+Data in Brief, 18
+, 882-885. doi:10.1016/j.dib.2018.03.097
+259.
+Le, A. S., Aoki, H., Murase, F., & Ishida, K. (2018). A novel method for classifying driver mental workload under naturalistic conditions with information from near-infrared spectroscopy.
+Frontiers in Human Neuroscience, 12
+. doi:10.3389/fnhum.2018.00431
+260.
+Le, A. T. T., Kasahara, T., & Vudhivanich, V. (2018). Seasonal Variation and Retention of Ammonium in Small Agricultural Streams in Central Thailand.
+Environments, 5
+(7). doi:10.3390/environments5070078
+261.
+Le, D. T., Le, T. T., & Cahill, L. W. (2018).
+Optical Signal Processing Based on 4×4 Multimode Interference Structures.
+Paper presented at the International Conference on Transparent Optical Networks.
+262.
+Le, G. H., Ngo, Q. T., Nguyen, T. T., Nguyen, Q. K., Quan, T. T. T., Vu, L. D., . . . Vu, T. A. (2018). High Catalytic Activity of Phenol Photodegradation from Aqueous Solution with Novel Fe-Fe<inf>3</inf>O<inf>4</inf>-GO Nanocomposite.
+Journal of Materials Engineering and Performance, 27
+(8), 4225-4234. doi:10.1007/s11665-018-3496-2
+263.
+Le, H., & Safavi-Naini, R. (2018).
+On de-anonymization of single tweet messages.
+Paper presented at the IWSPA 2018 - Proceedings of the 4th ACM International Workshop on Security and Privacy Analytics, Co-located with CODASPY 2018.
+264.
+Le, H. N. T., Imamura, K., Furuta, M., Boi, L. V., & Maeda, Y. (2018). Production of biodiesel from Vernicia montana Lour. oil using a co-solvent method and the subsequent evaluation of its stability during storage.
+Green Processing and Synthesis, 7
+(2), 170-179. doi:10.1515/gps-2016-0215
+265.
+Le, H. N. T., Imamura, K., Watanabe, N., Furuta, M., Takenaka, N., Boi, L. V., & Maeda, Y. (2018). Biodiesel Production from Rubber Seed Oil by Transesterification Using a Co-solvent of Fatty Acid Methyl Esters.
+Chemical Engineering & Technology, 41
+(5), 1013-1018. doi:10.1002/ceat.201700575
+266.
+Le, N. P., Nguyen, T. T. P., & Zhu, D. (2018). Understanding the stakeholders' involvement in utilizing municipal solid waste in agriculture through composting: A case study of Hanoi, Vietnam.
+Sustainability (Switzerland), 10
+(7). doi:10.3390/su10072314
+267.
+Le, P. V. V., Kumar, P., & Ruiz, M. O. (2018). Stochastic lattice-based modelling of malaria dynamics.
+Malaria Journal, 17
+. doi:10.1186/s12936-018-2397-z
+268.
+Le, Q. T. (2018). ALEXANDER POLYNOMIALS OF COMPLEX PROJECTIVE PLANE CURVES.
+Bulletin of the Australian Mathematical Society, 97
+(3), 386-395. doi:10.1017/s0004972717001198
+269.
+Le, Q. T. (2018). Motivic Milnor Fibers of Plane Curve Singularities.
+Vietnam Journal of Mathematics, 46
+(3), 493-506. doi:10.1007/s10013-017-0250-2
+270.
+Le, Q. T. (2018). The motivic Thom-Sebastiani theorem for regular and formal functions.
+Journal Fur Die Reine Und Angewandte Mathematik, 735
+, 175-198. doi:10.1515/crelle-2015-0022
+271.
+Lê, Q. T. (2018). Alexander polynomials of complex projective plane curves.
+Bulletin of the Australian Mathematical Society, 97
+(3), 386-395. doi:10.1017/S0004972717001198
+272.
+Le, T., Son, L. H., Vo, M. T., Lee, M. Y., & Baik, S. W. (2018). A Cluster-Based Boosting Algorithm for Bankruptcy Prediction in a Highly Imbalanced Dataset.
+Symmetry-Basel, 10
+(7). doi:10.3390/sym10070250
+273.
+Le, T. A., Nguyen, C. T., Bui, V. L., & Lakosi, L. (2018). Relative efficiency calibration for determining isotopic composition and age of HEU items by passive non-destructive gamma spectrometry.
+Applied Radiation and Isotopes, 142
+, 220-226. doi:10.1016/j.apradiso.2018.09.023
+274.
+Le, T. H., Le, T. S., Dien, L. X., Vo, D. V. N., & Truong, Q. D. (2018). Hierarchical nanorod-based TiO2 microspheres for superior electrochemical energy storage.
+Journal of Electroanalytical Chemistry, 820
+, 32-40. doi:10.1016/j.jelechem.2018.04.052
+275.
+Le, T. H., Le, T. S., & Truong, Q. D. (2018). Synthesis of Europium-doped Yttrium Picolinate Microspheres and Photoluminescence Properties.
+Colloid and Interface Science Communications, 24
+, 68-74. doi:10.1016/j.colcom.2018.04.002
+276.
+Le, T. T. (2018). Cascaded multimode interference-based microresonators for multiple Fano resonance engineering.
+Optical Engineering, 57
+(11). doi:10.1117/1.OE.57.11.117102
+277.
+Le, T. T. (2018). Highly sensitive sensor based on 4×4 multimode interference coupler with microring resonators.
+Journal of Optoelectronics and Advanced Materials, 20
+(5-6), 264-270.
+278.
+Le, T. T. H., Bui, T. Q., Ha, T. M. T., Le, M. H., Pham, H. N., & Ha, P. T. (2018). Optimizing the alginate coating layer of doxorubicin-loaded iron oxide nanoparticles for cancer hyperthermia and chemotherapy.
+Journal of Materials Science, 53
+(19), 13826-13842. doi:10.1007/s10853-018-2574-z
+279.
+Le, V. H., Vu, H., Nguyen, T. T., Le, T. L., & Tran, T. H. (2018). Acquiring qualified samples for RANSAC using geometrical constraints.
+Pattern Recognition Letters, 102
+, 58-66. doi:10.1016/j.patrec.2017.12.012
+280.
+Le, V. P., Song, S., An, B. H., Park, G. N., Pham, N. T., Le, D. Q., . . . An, D. J. (2018). A novel strain of porcine deltacoronavirus in Vietnam.
+Archives of Virology, 163
+(1), 203-207. doi:10.1007/s00705-017-3594-8
+281.
+Lee, L. H., Wu, T. Y., Shak, K. P. Y., Lim, S. L., Ng, K. Y., Nguyen, M. N., & Teoh, W. H. (2018). Sustainable approach to biotransform industrial sludge into organic fertilizer via vermicomposting: a mini-review.
+Journal of Chemical Technology and Biotechnology, 93
+(4), 925-935. doi:10.1002/jctb.5490
+282.
+Lee, S. K., & Dang, T. A. (2018). Experimental investigation and numerical simulation of morphological changes in natural channel bend.
+Journal of Applied Fluid Mechanics, 11
+(3), 721-731. doi:10.18869/acadpub.jafm.73.246.28505
+283.
+Lefebvre, J. P., Mari, X., & Chu, T. V. (2018). A laboratory study on the generation of estuarine negatively, neutrally and positively buoyant bio-mediated flocs.
+Estuarine Coastal and Shelf Science, 208
+, 180-190. doi:10.1016/j.ecss.2018.05.005
+284.
+Lim, J. W., Na, W., Kim, H. O., Yeom, M., Park, G., Kang, A., . . . Haam, S. (2018). Cationic Poly(Amino Acid) Vaccine Adjuvant for Promoting Both Cell-Mediated and Humoral Immunity Against Influenza Virus.
+Advanced Healthcare Materials
+. doi:10.1002/adhm.201800953
+285.
+Linh, N. V., Somfai, T., Nguyen, T. H., Nhung, N. T., Hong, N. T., Dat, N. T., . . . Kikuchi, K. (2018). Optimization of the in vitro fertilization protocol for frozen epididymal sperm with low fertilization ability in Ban—A native Vietnamese pigs.
+Animal Science Journal, 89
+(8), 1079-1084. doi:10.1111/asj.13045
+286.
+Linh, V. H., & Nga, N. T. T. (2018). Bohl-Perron Type Stability Theorems for Linear Singular Difference Equations.
+Vietnam Journal of Mathematics, 46
+(3), 437-451. doi:10.1007/s10013-017-0245-z
+287.
+Linh, V. H., Nga, N. T. T., & Thuan, D. D. (2018). EXPONENTIAL STABILITY AND ROBUST STABILITY FOR LINEAR TIME-VARYING SINGULAR SYSTEMS OF SECOND ORDER DIFFERENCE EQUATIONS.
+Siam Journal on Matrix Analysis and Applications, 39
+(1), 204-233. doi:10.1137/16m1104548
+288.
+Linh, V. H., & Truong, N. D. (2018). Runge-kutta methods revisited for a class of structured strangeness-free differential-algebraic equations.
+Electronic Transactions on Numerical Analysis, 48
+, 131-155. doi:10.1553/etna_vol48s131
+289.
+Link, V. H., Truong, N. D., & Bulatov, M. V. (2018). Convergence analysis of linear multistep methods for a class of delay differential-algebraic equations.
+Bulletin of the South Ural State University, Series: Mathematical Modelling, Programming and Computer Software, 11
+(4), 78-93. doi:10.14529/mmpl80406
+290.
+Loan, L. T. M., & Son, P. M. (2018). THE EFFECT OF MOTIVES ON THE EMPLOYEES' PROACTIVE ATTITUDE AT WORK.
+Sibirskiy Psikhologicheskiy Zhurnal-Siberian Journal of Psychology
+(68), 143-161. doi:10.17223/17267080/68/9
+291.
+Loan, T. T., Huong, V. H., Tham, V. T., & Long, N. N. (2018). Effect of zinc doping on the bandgap and photoluminescence of Zn2+-doped TiO2 nanowires.
+Physica B-Condensed Matter, 532
+, 210-215. doi:10.1016/j.physb.2017.05.027
+292.
+Long, H. V., Ali, M., Son, L. H., Khan, M., & Tu, D. N. (2018). A novel approach for fuzzy clustering based on neutrosophic association matrix.
+Computers and Industrial Engineering
+. doi:10.1016/j.cie.2018.11.007
+293.
+Long, N. V., Yang, Y., Thi, C. M., Phuc, L. H., Tuyen, V. P., & Nogami, M. (2018). Hierarchical micro/nanoscale NdFe<inf>11</inf>Co oxide and alloy materials synthesized by polyol mediated methods with heat treatment.
+Materials Letters, 212
+, 202-206. doi:10.1016/j.matlet.2017.10.018
+294.
+Lopez-Realpozo, J. C., Caballero-Perez, R. O., Rodriguez-Ramos, R., Guinovart-Diaz, R., Bravo-Castillero, J., Camacho-Montes, H., . . . Chi-Vinh, P. (2018). Analysis of mechanical and electrical imperfect contacts in piezoelectric composites.
+Mechanics Research Communications, 93
+, 96-102. doi:10.1016/j.mechrescom.2017.11.001
+295.
+Louati, A., Son, L. H., & Chabchoub, H. (2018). Smart routing for municipal solid waste collection: a heuristic approach.
+Journal of Ambient Intelligence and Humanized Computing
+, 1-20. doi:10.1007/s12652-018-0778-3
+296.
+Louis-Jean, J., Balasekaran, S. M., Smith, D., Salamat, A., Pham, C. T., & Poineau, F. (2018). Structural and vibrational spectroscopic studies of hexafluororhenate (IV) salts.
+Abstracts of Papers of the American Chemical Society, 255
+.
+297.
+Louis-Jean, J., Balasekaran, S. M., Smith, D., Salamat, A., Pham, C. T., & Poineau, F. (2018). Syntheses, Raman spectroscopy and crystal structures of alkali hexafluoridorhenates(IV) revisited.
+Acta Crystallographica Section E-Crystallographic Communications, 74
+, 646-+. doi:10.1107/s2056989018005297
+298.
+Lu, D. N., Nguyen, D. N., Nguyen, T. H., & Nguyen, H. N. (2018). Vehicle mode and driving activity detection based on analyzing sensor data of smartphones.
+Sensors (Switzerland), 18
+(4). doi:10.3390/s18041036
+299.
+Lu, D. N., Tran, T. B., Nguyen, D. N., Nguyen, T. H., & Nguyen, H. N. (2018) Abnormal Behavior Detection Based on Smartphone Sensors. In
+: Vol. 217. Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST
+(pp. 195-204).
+300.
+Lund, B., Pham, T., & Vinh, L. (2018). Distinct spreads in vector spaces over finite fields.
+Discrete Applied Mathematics, 239
+, 154-158. doi:10.1016/j.dam.2017.12.027
+301.
+Luong, H. D., Pham, T. D., Morikawa, Y., Shibutani, Y., & Dinh, V. (2018). Diffusion mechanism of Na ion-polaron complex in potential cathode materials NaVOPO4 and VOPO4 for rechargeable sodium-ion batteries.
+Physical Chemistry Chemical Physics, 20
+(36), 23625-23634. doi:10.1039/c8cp03391a
+302.
+Luong, T. M., Castro, C. L., Nguyen, T. M., Cassell, W. W., & Chang, H. I. (2018). Improvement in the Modeled Representation of North American Monsoon Precipitation Using a Modified Kain-Fritsch Convective Parameterization Scheme.
+Atmosphere, 9
+(1). doi:10.3390/atmos9010031
+303.
+Luu, Q. H., Wu, Q., Tkalich, P., & Chen, G. (2018). Global mean sea level rise during the recent warming hiatus from satellite-based data.
+Remote Sensing Letters, 9
+(5), 497-506. doi:10.1080/2150704x.2018.1437291
+304.
+Luu, V. Q., Bonkowski, M., Nguyen, T. Q., Le, M. D., Caíame, T., & Ziegler, T. (2018). A new species of Lycodon Boie, 1826 (Serpentes: Colubridae) from central Laos.
+Revue Suisse de Zoologie, 125
+(2), 263-276. doi:10.5281/zenodo.l414221
+305.
+Mahiuddin, M., Khan, M. I. H., Duc Pham, N., & Karim, M. A. (2018). Development of fractional viscoelastic model for characterizing viscoelastic properties of food material during drying.
+Food Bioscience, 23
+, 45-53. doi:10.1016/j.fbio.2018.03.002
+306.
+Mai, N. T., Tran, C. T., Lai, T. Q., Nguyen, L. T. K., Nguyen, H. X., Luong, V. T. T., . . . Nguyen, M. N. (2018). Removal of iron from aqueous solution using phytolith-aided aggregation.
+Journal of Water Process Engineering, 25
+, 39-44. doi:10.1016/j.jwpe.2018.06.006
+307.
+Mai, P. T. N., Thuong, N. V., Tham, T. T., Hoang, N. K., Anh, H. Q., Tri, T. M., . . . Minh, T. B. (2018). Distribution, accumulation profile, and risk assessment of polybrominated diphenyl ethers in sediment from lake and river systems in Hanoi Metropolitan Area, Vietnam.
+Environmental Science and Pollution Research, 25
+(8), 7170-7179. doi:10.1007/s11356-015-5235-7
+308.
+Mai, T. N., Nguyen, V. D., Yamazaki, W., Okabayashi, T., Mitoma, S., Notsu, K., . . . Sekiguchi, S. (2018). Development of pooled testing system for porcine epidemic diarrhoea using real-time fluorescent reverse-transcription loop-mediated isothermal amplification assay.
+BMC Veterinary Research, 14
+(1). doi:10.1186/s12917-018-1498-9
+309.
+Mai, T. V. T., Duong, M. V., Nguyen, H. T., & Huynh, L. K. (2018). Detailed kinetics of tetrafluoroethene ozonolysis.
+Physical Chemistry Chemical Physics, 20
+(44), 28059-28067. doi:10.1039/c8cp05386c
+310.
+Mai, T. V. T., Ratkiewicz, A., Le, A., Duong, M. V., Truong, T. N., & Huynh, L. K. (2018). On-the-fly kinetics of hydrogen abstraction from polycyclic aromatic hydrocarbons by methyl/ethyl radicals.
+Physical Chemistry Chemical Physics, 20
+(36), 23578-23592. doi:10.1039/c8cp03718c
+311.
+Man, C. D., Nguyen, T. T., Bui, H. Q., Lasko, K., & Nguyen, T. N. T. (2018). Improvement of land-cover classification over frequently cloud-covered areas using Landsat 8 time-series composites and an ensemble of supervised classifiers.
+International Journal of Remote Sensing, 39
+(4), 1243-1255. doi:10.1080/01431161.2017.1399477
+312.
+Mata, C. I., Van de Poel, B., Hertog, M. L. A. T. M., Tran, D., & Nicolai, B. M. (2018). Transcription analysis of the ethylene receptor and CTR genes in tomato: The effects of on and off-vine ripening and 1-MCP.
+Postharvest Biology and Technology, 140
+, 67-75. doi:10.1016/j.postharvbio.2018.02.014
+313.
+Matsuo, T., Koshimizu, S., Sasaki, N., Kawata, S., Sison, R., Haron, H. N., . . . Nguyen, P. Q. (2018).
+A Human Capital Development Model in Higher Engineering Professions.
+Paper presented at the Proceedings - 2017 7th World Engineering Education Forum, WEEF 2017- In Conjunction with: 7th Regional Conference on Engineering Education and Research in Higher Education 2017, RCEE and RHEd 2017, 1st International STEAM Education Conference, STEAMEC 2017 and 4th Innovative Practices in Higher Education Expo 2017, I-PHEX 2017.
+314.
+Miao, J., Wang, L., Ha, M. N., Liu, Z., Zhu, F., & Zhao, Z. (2018). Preparation heterojunction structure of SrTiO<inf>3</inf>/TiO<inf>2</inf> nano-Pt loaded and photo-catalytic properties.
+Cailiao Kexue yu Gongyi/Material Science and Technology, 26
+(1), 16-23. doi:10.11951/j.issn.1005-0299.20170071
+315.
+Minh, P. P., Van Do, T., Duc, D. H., & Duc, N. D. (2018). The stability of cracked rectangular plate with variable thickness using phase field method.
+Thin-Walled Structures, 129
+, 157-165. doi:10.1016/j.tws.2018.03.028
+316.
+Mitomi, K., Hoai, T. D., Nishiki, I., & Yoshida, T. (2018). First isolation of Weissella ceti responsible for outbreaks of weissellosis in farmed rainbow trout in Japan.
+Journal of Fish Diseases, 41
+(5), 847-850. doi:10.1111/jfd.12787
+317.
+Mukunoki, T., Hoai, T. T., Fukushima, D., Komiya, T., & Shimaoka, T. (2018). Physical and mechanical properties of municipal solid waste incineration residues with cement and coal fly ash using X-ray Computed Tomography scanners.
+Frontiers of Structural and Civil Engineering
+. doi:10.1007/s11709-018-0502-6
+318.
+Nam, V. H., Thi Phuong, N., & Huy Bich, D. (2018). Buckling analysis of parallel eccentrically stiffened functionally graded annular spherical segments subjected to mechanic loads.
+Mechanics of Advanced Materials and Structures
+, 1-10. doi:10.1080/15376494.2018.1487608
+319.
+Neidhardt, H., Schoeckle, D., Schleinitz, A., Eiche, E., Berner, Z., Tram, P. T. K., . . . Berg, M. (2018). Biogeochemical phosphorus cycling in groundwater ecosystems - Insights from South and Southeast Asian floodplain and delta aquifers.
+Science of the Total Environment, 644
+, 1357-1370. doi:10.1016/j.scitotenv.2018.07.056
+320.
+Neidhardt, H., Winkel, L. H. E., Kaegi, R., Stengel, C., Trang, P. T. K., Lan, V. M., . . . Berg, M. (2018). Insights into arsenic retention dynamics of Pleistocene aquifer sediments by in situ sorption experiments.
+Water Research, 129
+, 123-132. doi:10.1016/j.watres.2017.11.018
+321.
+Nga, D. T., Duong, P. Q., Dang, Q. L., Tung, N. H., & Hoang, V. D. (2018). Two new oleanane-type saponins from Elaeocarpus hainanensis Oliv. growing in Vietnam.
+Phytochemistry Letters, 27
+, 174-177. doi:10.1016/j.phytol.2018.07.003
+322.
+Nga, D. T., Thao, T. T., Tu, V. V., Phuc, P. D., & Hung, N. V. (2018). Development of nutrient cycle through agricultural activities of a rural area in the North of Vietnam.
+Journal of Material Cycles and Waste Management, 20
+(1), 167-175. doi:10.1007/s10163-016-0557-1
+323.
+Ngan, R. T., Ali, M., & Son, L. H. (2018). δ-equality of intuitionistic fuzzy sets: a new proximity measure and applications in medical diagnosis.
+Applied Intelligence, 48
+(2), 499-525. doi:10.1007/s10489-017-0986-0
+324.
+Ngan, R. T., Cuong, B. C., Tuan, T. M., & Son, L. H. (2018) Medical Diagnosis from Images with Intuitionistic Fuzzy Distance Measures. In
+: Vol. 11103 LNAI. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+(pp. 479-490).
+325.
+Ngan, R. T., Son, L. H., Cuong, B. C., & Ali, M. (2018). H-max distance measure of intuitionistic fuzzy sets in decision making.
+Applied Soft Computing, 69
+, 393-425. doi:10.1016/j.asoc.2018.04.036
+326.
+Ngan, T. T., Lan, L. T. H., Ali, M., Tamir, D., Son, L. H., Tuan, T. M., . . . Kandel, A. (2018). Logic connectives of complex fuzzy sets.
+Romanian Journal of Information Science and Technology, 21
+(4), 344-357.
+327.
+Ngo, D. T., Duong, H. G., Nguyen, H. H., Nguyen, C., Basith, M., & Hoang, D. Q. (2018). The microstructure, high performance magnetic hardness and magnetic after-effect of an alpha-FeCo/Pr2Fe14B nanocomposite magnet with low Pr concentration (vol 20, 165707, 2009).
+Nanotechnology, 29
+(38). doi:10.1088/1361-6528/aacd52
+328.
+Ngo, D. T., Duong, H. G., Nguyen, H. H., Nguyen, C., Basith, M., & Hoang, D. Q. (2018). Notice of Redundant Publication: The microstructure, high performance magnetic hardness and magnetic after-effect of an α-FeCo/Pr<inf>2</inf>Fe<inf>14</inf>B nanocomposite magnet with low Pr concentration (Nanotechnology (2009) 20 (165707) DOI: 10.1088/1361-6528/aacd52).
+Nanotechnology, 29
+(39). doi:10.1088/1361-6528/aacd52
+329.
+Ngo, D. T., Mahmud, M. S., Nguyen, H. H., Duong, H. G., Nguyen, Q. H., McVitie, S., & Nguyen, C. (2018). Crystallisation progress in Si-rich ultra-soft nanocomposite alloy fabricated by melt spinning (vol 322, pg 342, 2010).
+Journal of Magnetism and Magnetic Materials, 461
+, 132-132. doi:10.1016/j.jmmm.2018.04.009
+330.
+Ngô, Q. A. (2018). Classification of entire solutions of (−Δ)Nu + u−(4n−1)= 0 with exact linear growth at infinity in r2N−1.
+Proceedings of the American Mathematical Society, 146
+(6), 2585-2600. doi:10.1090/proc/13960
+331.
+Ngo, Q. A., Nguyen, V. H., & Phan, Q. H. (2018). A pointwise inequality for a biharmonic equation with negative exponent and related problems.
+Nonlinearity, 31
+(12), 5484-5499. doi:10.1088/1361-6544/aae173
+332.
+Ngo, T. T. H., Azadi, H., Tran, H. C., & Lebailly, P. (2018). Assessment of household risk management strategies for coastal aquaculture: the case of clam farming in Thaibinh Province, Vietnam.
+Aquaculture International, 26
+(2), 451-468. doi:10.1007/s10499-017-0226-y
+333.
+Ngo, X. M. (2018). A sociocultural perspective on second language writing teacher cognition: A Vietnamese teacher's narrative.
+System, 78
+, 79-90. doi:10.1016/j.system.2018.08.002
+334.
+Ngo, X. M. (2018). Sociopolitical contexts of efl writing assessment in Vietnam: Impact of a national project. In
+The Politics of English Second Language Writing Assessment in Global Contexts
+(pp. 47-59).
+335.
+Ngoc, V. T. N., Huong, L. T., van Nhon, B., Tan, N. T. M., van Thuc, P., Hien, V. T. T., . . . Chu, D. T. (2018). The higher prevalence of developmental defects of enamel in the dioxin-affected region than non-dioxin-affected region: result from a cross-sectional study in Vietnam.
+Odontology
+, 1-6. doi:10.1007/s10266-018-0358-1
+336.
+Nguyen, A. T., Tran, T. Q., Vu, H. V., & Luu, D. Q. (2018). Housing satisfaction and its correlates: a quantitative study among residents living in their own affordable apartments in urban Hanoi, Vietnam.
+International Journal of Urban Sustainable Development, 10
+(1), 79-91. doi:10.1080/19463138.2017.1398167
+337.
+Nguyen, A. T., Vu, A. D., Dang, G. T. H., Hoang, A. H., & Hens, L. (2018). How do local communities adapt to climate changes along heavily damaged coasts? A Stakeholder Delphi study in Ky Anh (Central Vietnam).
+Environment, Development and Sustainability, 20
+(2), 749-767. doi:10.1007/s10668-017-9908-x
+338.
+Nguyen, D. B., & Tran, L. N. (2018). Assessment of Electrocatalytic Performance of Metal-Free C-Doped BN Nanoflakes for Oxygen Reduction and Hydrogen Evolution Reactions: A Comparative Study.
+Journal of Physical Chemistry C, 122
+(37), 21124-21131. doi:10.1021/acs.jpcc.8b04073
+339.
+Nguyen, D. D. (2018). Nonlinear thermo- electro-mechanical dynamic response of shear deformable piezoelectric sigmoid functionally graded sandwich circular cylindrical shells on elastic foundations.
+Journal of Sandwich Structures and Materials, 20
+(3), 351-378. doi:10.1177/1099636216653266
+340.
+Nguyen, D. D., Busetti, F., Johnson, S. K., & Solah, V. A. (2018). Degradation of β-casomorphins and identification of degradation products during yoghurt processing using liquid chromatography coupled with high resolution mass spectrometry.
+Food Research International, 106
+, 98-104. doi:10.1016/j.foodres.2017.12.035
+341.
+Nguyen, D. D., Busetti, F., Johnson, S. K., & Solah, V. A. (2018). Evaluation of a Commercial Sandwich Enzyme-Linked Immunosorbent Assay for the Quantification of Beta-Casomorphin 7 in Yogurt Using Solid-Phase Extraction Coupled to Liquid Chromatography-Tandem Mass Spectrometry as the "Gold Standard" Method.
+Journal of AOAC International, 101
+(2), 515-519. doi:10.5740/jaoacint.17-0155
+342.
+Nguyen, D. D., & Pham, C. H. (2018). Nonlinear dynamic response and vibration of sandwich composite plates with negative Poisson’s ratio in auxetic honeycombs.
+Journal of Sandwich Structures and Materials, 20
+(6), 692-717. doi:10.1177/1099636216674729
+343.
+Nguyen, Ð. H., & Alves, M. J. (2018). Vietnamese. In
+The World's Major Languages: Third Edition
+(pp. 696-712).
+344.
+Nguyen, D. K., Tran Thi Van, A., & Phan, T. (2018). Child Custody and Family Labour Supply: Evidence from the United States.
+Labour, 32
+(1), 74-92. doi:10.1111/labr.12113
+345.
+Nguyen, D. M., Grillet, A. C., Goldin, T., Diep, T. M. H., & Woloszyn, M. (2018).
+Bamboo fiberboards and attapulgite : does it lead to an improvement of humidity control in buildings?
+Paper presented at the IOP Conference Series: Earth and Environmental Science.
+346.
+Nguyen, D. T. N., Okazaki, N., Nakayama, H., & Sakaeda, T. (2018).
+Pob: Toward reasoning patterns of beauty in image data.
+Paper presented at the MM 2018 - Proceedings of the 2018 ACM Multimedia Conference.
+347.
+Nguyen, H. (2018). Attributes of a viable policy for the Vietnam electricity sector: opinions of stakeholders.
+International Journal of Global Energy Issues, 41
+(1-4), 128-145. doi:10.1504/ijgei.2018.10013448
+348.
+Nguyen, H., Doan, T., & Tran, T. Q. (2018). The effect of various income sources on income inequality: a comparison across ethnic groups in Vietnam.
+Environment, Development and Sustainability
+, 1-22. doi:10.1007/s10668-018-0221-0
+349.
+Nguyen, H. C., & Ta, T. T. H. (2018). Exploring impact of accreditation on higher education in developing countries: a Vietnamese view.
+Tertiary Education and Management, 24
+(2), 154-167. doi:10.1080/13583883.2017.1406001
+350.
+Nguyen, H. H., Erfanifard, Y., & Petritan, I. C. (2018). Nearest neighborhood characteristics of a tropical mixed broadleaved forest stand.
+Forests, 9
+(1). doi:10.3390/f9010033
+351.
+Nguyen, H. H., Erfanifard, Y., Pham, V. D., Le, X. T., Bui, T. D., & Petritan, I. C. (2018). Spatial association and diversity of dominant tree species in tropical rainforest, Vietnam.
+Forests, 9
+(10). doi:10.3390/f9100615
+352.
+Nguyen, H. H., Petritan, I. C., & Burslem, D. F. R. P. (2018). High frequency of positive interspecific interactions revealed by individual species–area relationships for tree species in a tropical evergreen forest.
+Plant Ecology and Diversity
+. doi:10.1080/17550874.2018.1541486
+353.
+Nguyen, H. K., & Tran, X. T. (2018).
+A novel priority-driven arbiter for the router in reconfigurable Network-on-Chips.
+Paper presented at the ICICDT 2018 - International Conference on IC Design and Technology, Proceedings.
+354.
+Nguyen, H. Q., Nguyen, D. V., Fujiwara, A., & Trinh, B. N. Q. (2018). Solution-processed CuO thin films with various Cu2+ ion concentrations.
+Thin Solid Films, 660
+, 819-823. doi:10.1016/j.tsf.2018.03.036
+355.
+Nguyen, H. T. (2018). Asia-Pacific Moving towards the Ratification of the Treaty on the Prohibition of Nuclear Weapons.
+Journal of East Asia and International Law, 11
+(2), 465-475. doi:10.14330/jeail.2018.11.2.11
+356.
+Nguyen, H. T. (2018). Gendered Vulnerabilities in Times of Natural Disasters: Male-to-Female Violence in the Philippines in the Aftermath of Super Typhoon Haiyan.
+Violence Against Women
+. doi:10.1177/1077801218790701
+357.
+Nguyen, H. T., Dang, L. T., Nguyen, H. T., Hoang, H. H., Lai, H. T. N., & Nguyen, H. T. T. (2018). Screening antibacterial effects of vietnamese plant extracts against pathogens caused acute hepatopancreatic necrosis disease in shrimps.
+Asian Journal of Pharmaceutical and Clinical Research, 11
+(5), 77-83. doi:10.22159/ajpcr.2018.v11i5.23618
+358.
+Nguyen, H. T., Nguyen, H., Nguyen, N. D., & Phan, A. C. (2018). Determinants of Customer Satisfaction and Loyalty in Vietnamese Life-Insurance Setting.
+Sustainability, 10
+(4). doi:10.3390/su10041151
+359.
+Nguyen, H. T., Vu, Q. H., Van Mai, T., Nguyen, T. T., Vu, L. D., Nguyen, T. T., . . . Van Vu, L. (2018). Marker-Assisted Selection of Xa21 Conferring Resistance to Bacterial Leaf Blight in indica Rice Cultivar LT2.
+Rice Science, 25
+(1), 52-56. doi:10.1016/j.rsci.2017.08.004
+360.
+Nguyen, H. T. T., Moir, M. P. I., Nguyen, T. X., Vu, A. P., Luong, L. H., Nguyen, T. N., . . . Vu, H. T. T. (2018). Health-related quality of life in elderly diabetic outpatients in Vietnam.
+Patient Preference and Adherence, 12
+, 1347-1354. doi:10.2147/ppa.S162892
+361.
+Nguyen, K. T., Uchino, E., & Suetake, N. (2018). Coronary plaque classification with accumulative training of deep Boltzmann machines.
+ICIC Express Letters, 12
+(9), 881-886. doi:10.24507/icicel.12.09.881
+362.
+Nguyen, K. T., Uchino, E., & Suetake, N. (2018). Recognition of coronary atherosclerotic plaque tissue on intravascular ultrasound images by using misclassification sensitive training of discriminative restricted boltzmann machine.
+Journal of Biomimetics, Biomaterials and Biomedical Engineering, 37
+, 85-93. doi:10.4028/www.scientific.net/JBBBE.37.85
+363.
+Nguyen, L., Nguyen, V., Thameri, M., Truong, M., & Abed Meraim, K. (2018). Low-complexity adaptive algorithms for robust subspace tracking.
+IEEE Journal on Selected Topics in Signal Processing
+. doi:10.1109/JSTSP.2018.2876626
+364.
+Nguyen, L. H., Kakeda, S., Katsuki, A., Sugimoto, K., Otsuka, Y., Ueda, I., . . . Yoshimura, R. (2018). Relationship between VEGF-related gene polymorphisms and brain morphology in treatment-naïve patients with first-episode major depressive disorder.
+European Archives of Psychiatry and Clinical Neuroscience
+. doi:10.1007/s00406-018-0953-8
+365.
+Nguyen, L. H., Tran, B. X., Nguyen, H. L. T., Le, H. T., Do, H. T., Dang, A. K., . . . Ho, R. C. M. (2018). Socio-Economic Disparities in Attitude and Preference for Menu Labels among Vietnamese Restaurant Customers.
+International Journal of Environmental Research and Public Health, 15
+(3). doi:10.3390/ijerph15030460
+366.
+Nguyen, L. T., Reverter, A., Cánovas, A., Venus, B., Anderson, S. T., Islas-Trejo, A., . . . Fortes, M. R. S. (2018). STAT6, PBX2, and PBRM1 emerge as predicted regulators of 452 differentially expressed genes associated with puberty in Brahman heifers.
+Frontiers in Genetics, 9
+(MAR). doi:10.3389/fgene.2018.00087
+367.
+Nguyen, L. T., Zacchi, L. F., Schulz, B. L., Moore, S. S., & Fortes, M. R. S. (2018). Adipose tissue proteomic analyses to study puberty in brahman heifers.
+Journal of Animal Science, 96
+(6), 2392-2398. doi:10.1093/jas/sky128
+368.
+Nguyen, M. D., Ancev, T., & Randall, A. (2018). Forest governance and economic values of forest ecosystem services in Vietnam.
+Land Use Policy
+. doi:10.1016/j.landusepol.2018.03.028
+369.
+Nguyen, M. D., Nguyen, C. T. Q., Vu, H. N., & Rijnders, G. (2018). Controlling microstructure and film growth of relaxor-ferroelectric thin films for high break-down strength and energy-storage performance.
+Journal of the European Ceramic Society, 38
+(1), 95-103. doi:10.1016/j.jeurceramsoc.2017.08.027
+370.
+Nguyen, M. H., Khuat, T. T. H., Nguyen, H. H., & Dinh, T. H. (2018). NiII, PdII Complexes with Pyrene-based Thiosemicarbazones: Syntheses, Molecular Structures, and Excimeric Emissions.
+Zeitschrift fur Anorganische und Allgemeine Chemie
+. doi:10.1002/zaac.201800437
+371.
+Nguyen, M. H., Pham, T. D., Nguyen, T. L., Vu, H. A., Ta, T. T., Tu, M. B., . . . Chu, D. B. (2018). Speciation Analysis of Arsenic Compounds by HPLC-ICP-MS: Application for Human Serum and Urine.
+Journal of Analytical Methods in Chemistry
+. doi:10.1155/2018/9462019
+372.
+Nguyen, M. H., Phan, A. C., & Matsui, Y. (2018). Contribution of Quality Management Practices to Sustainability Performance of Vietnamese Firms.
+Sustainability, 10
+(2). doi:10.3390/su10020375
+373.
+Nguyen, M. H., Phan, A. C., & Matsui, Y. (2018). Supply chain management in developing countries: Empirical evidence from Vietnamese manufacturing companies.
+International Journal of Productivity and Quality Management, 24
+(4), 566-584. doi:10.1504/IJPQM.2018.093455
+374.
+Nguyen, M. N., Nguyen, L. Q., Ha, N. S., Chu, H. M., Vu, H. N., & Chu, T. D. (2018). Z-axis tuning fork gyroscope having a controlled anti-phase and freestanding architecture: design and fabrication.
+International Journal of Nanotechnology, 15
+(1-3), 14-23.
+375.
+Nguyen, M. T., Tran, D. V., Nguyen, L. M., & Phan, X. H. (2018). Exploiting User Posts for Web Document Summarization.
+Acm Transactions on Knowledge Discovery from Data, 12
+(4). doi:10.1145/3186566
+376.
+Nguyen, M. T. T., Do, H. T., Pham, T. T., & Nguyen, A. T. (2018). The effectiveness of corrective feedback for the acquisition of L2 pragmatics: An eight month investigation.
+Iral-International Review of Applied Linguistics in Language Teaching, 56
+(3), 345-375. doi:10.1515/iral-2015-0059
+377.
+Nguyen, N. T. T., Le, H. A. V., Pham, D. A., & Tran, T. N. Y. (2018). Evaluation of physical, nutritional and sensorial properties cookie supplied with Hibiscus sabdariffa L. seed powder (without shell).
+International Food Research Journal, 25
+(3), 1281-1287.
+378.
+Nguyen, P. T., & Wells, S. (2018). Systemic Indicators for Rural Communities in Developing Economies: Bringing the Shared Vision into Being.
+Systemic Practice and Action Research, 31
+(2), 159-177. doi:10.1007/s11213-017-9421-z
+379.
+Nguyen, P. T., Wells, S., & Nguyen, N. (2018). A Systemic Indicators Framework for Sustainable Rural Community Development.
+Systemic Practice and Action Research
+, 1-18. doi:10.1007/s11213-018-9456-9
+380.
+Nguyen, Q. T., Thi Hang, A. H., Ho Nguyen, T. L., Nguyen Chau, D. K., & Tran, P. H. (2018). Phosphonium acidic ionic liquid: An efficient and recyclable homogeneous catalyst for the synthesis of 2-Arylbenzoxazoles, 2-Arylbenzimidazoles, and 2-Arylbenzothiazoles.
+RSC Advances, 8
+(21), 11834-11842. doi:10.1039/c8ra01709c
+381.
+Nguyen, S. H., Nguyen, H. D. T., Bremner, G., & Hegarty, R. S. (2018). Methane emissions and productivity of defaunated and refaunated sheep while grazing.
+Small Ruminant Research, 161
+, 28-33. doi:10.1016/j.smallrumres.2018.02.004
+382.
+Nguyen, S. T., Fukuda, Y., Nguyen, D. T., Dao, H. T., Le, D. Q., Bui, K. L., . . . Nakai, Y. (2018). Prevalence, genotyping and risk factors of Giardia duodenalis from dogs in Vietnam.
+Journal of Veterinary Medical Science, 80
+(1), 92-97. doi:10.1292/jvms.17-0498
+383.
+Nguyen, T., & Foster, K. A. (2018). Research Note—Multiple Time Point Course Evaluation and Student Learning Outcomes in an MSW Course.
+Journal of Social Work Education
+. doi:10.1080/10437797.2018.1474151
+384.
+Nguyen, T. A. T., Duong, T. H., Le Pogam, P., Beniddir, M. A., Nguyen, H. H., Nguyen, T. P., . . . Nguyen, K. P. P. (2018). Two new triterpenoids from the roots of Phyllanthus emblica.
+Fitoterapia, 130
+, 140-144. doi:10.1016/j.fitote.2018.08.022
+385.
+Nguyen, T. D. (2018). Do trade agreements increase Vietnam's exports to RCEP markets?
+Asian-Pacific Economic Literature, 32
+(1), 94-107. doi:10.1111/apel.12213
+386.
+Nguyen, T. D., Le, H. B., Dong, T. O., & Pham, T. D. (2018). Determination of Fluoroquinolones in Pharmaceutical Formulations by Extractive Spectrophotometric Methods Using Ion-Pair Complex Formation with Bromothymol Blue.
+Journal of Analytical Methods in Chemistry
+. doi:10.1155/2018/8436948
+387.
+Nguyen, T. D., Nguyen, N. K., & Son, T. C. (2018). The Number of Cusps of Complete Riemannian Manifolds with Finite Volume.
+Taiwanese Journal of Mathematics, 22
+(6), 1403-1425. doi:10.11650/tjm/180604
+388.
+Nguyen, T. H., Brochier, T., Auger, P., Trinh, V. D., & Brehmere, P. (2018). Competition or cooperation in transboundary fish stocks management: Insight from a dynamical model.
+Journal of Theoretical Biology, 447
+, 1-11. doi:10.1016/j.jtbi.2018.03.017
+389.
+Nguyen, T. M. K., Nguyen, T. D., Le, T. M. C., Burny, P., & Lebailly, P. (2018). Leaving the village but not the rice field: Role of female migrants in agricultural production and household autonomy in Red River Delta, Vietnam.
+Social Sciences, 7
+(10). doi:10.3390/socsci7100202
+390.
+Nguyen, T. P., Pham, C. C., Ha, S. V., & Jeon, J. W. (2018). Change Detection by Training a Triplet Network for Motion Feature Extraction.
+IEEE Transactions on Circuits and Systems for Video Technology
+. doi:10.1109/TCSVT.2018.2795657
+391.
+Nguyen, T. T., Dinh, S. V., Quang, N. T., & Binh, H. T. T. (2018).
+Semantic segmentation of objects from airborne imagery.
+Paper presented at the Proceedings of the 4th Asian Conference on Defence Technology, ACDT 2017.
+392.
+Nguyen, T. T., Do, T. L., & Grote, U. (2018). Natural resource extraction and household welfare in rural Laos.
+Land Degradation and Development, 29
+(9), 3029-3038. doi:10.1002/ldr.3056
+393.
+Nguyen, T. T., Do, T. L., Parvathi, P., Wossink, A., & Grote, U. (2018). Farm production efficiency and natural forest extraction: Evidence from Cambodia.
+Land Use Policy, 71
+, 480-493. doi:10.1016/j.landusepol.2017.11.016
+394.
+Nguyen, T. T., Hoang, V. N., Le, T. L., Tran, T. H., & Vu, H. (2018).
+A vision based method for automatic evaluation of germination rate of rice seeds.
+Paper presented at the 2018 1st International Conference on Multimedia Analysis and Pattern Recognition, MAPR 2018 - Proceedings.
+395.
+Nguyen, T. T. B., Duc, N. H., Quy, V. C., Yen, H. T., Loan, T. T., Thuy, D. T. N., . . . Thuy, N. T. D. (2018). Effect of nucleotide polymorphism of candidate genes on egg production traits in native Lien Minh chicken.
+Livestock Research for Rural Development, 30
+(6).
+396.
+Nguyen, T. V., Tanihara, F., Hirata, M., Hirano, T., Nishio, K., Do, L. T. K., . . . Otoi, T. (2018). Effects of antifreeze protein supplementation on the development of porcine morulae stored at hypothermic temperatures.
+Cryo-Letters, 39
+(2), 131-136.
+397.
+Nguyen, T. V., & Tran, T. Q. (2018). Forestland and rural household livelihoods in the North Central Provinces, Vietnam.
+Land Use Policy, 79
+, 10-19. doi:10.1016/j.landusepol.2018.07.046
+398.
+Nguyen, T. V., Wittayarat, M., Do, L. T. K., Nguyen, T. V., Nii, M., Namula, Z., . . . Otoi, T. (2018). Effects of chlorogenic acid (CGA) supplementation during in vitro maturation culture on the development and quality of porcine embryos with electroporation treatment after in vitro fertilization.
+Animal Science Journal, 89
+(8), 1207-1213. doi:10.1111/asj.13049
+399.
+Nguyen, V. K., Thi Hai Yen, H., Van Khai, T., To, L. H., & Duc, N. T. (2018). Key analysis of the dairy value chain in Vietnam: the case of Bavi.
+Journal of Agribusiness in Developing and Emerging Economies, 8
+(2), 222-233. doi:10.1108/JADEE-06-2016-0041
+400.
+Nguyen, V. L., Colella, V., Iatta, R., Bui, K. L., Dantas-Torres, F., & Otranto, D. (2018). Ticks and associated pathogens from dogs in northern Vietnam.
+Parasitology Research
+. doi:10.1007/s00436-018-6138-6
+401.
+Nguyen, V. N., Tran, D. T., Nguyen, M. T., Le, T. T. T., Ha, M. N., Nguyen, M. V., & Pham, T. D. (2018). Enhanced photocatalytic degradation of methyl orange using ZnO/graphene oxide nanocomposites.
+Research on Chemical Intermediates, 44
+(5), 3081-3095. doi:10.1007/s11164-018-3294-3
+402.
+Nguyen, V. T., & Tran, T. H. (2018) Solving Inconsistencies in Probabilistic Knowledge Bases via Inconsistency Measures. In
+: Vol. 10751 LNAI. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+(pp. 3-14).
+403.
+Nguyen, X. C., Chang, S. W., Nguyen, T. L., Ngo, H. H., Kumar, G., Banu, J. R., . . . Nguyen, D. D. (2018). A hybrid constructed wetland for organic-material and nutrient removal from sewage: Process performance and multi-kinetic models.
+Journal of Environmental Management, 222
+, 378-384. doi:10.1016/j.jenvman.2018.05.085
+404.
+Nguyen-Thu, G. (2018). Vietnamese media going social: Connectivism, collectivism, and conservatism.
+Journal of Asian Studies, 77
+(4), 895-908. doi:10.1017/S0021911818002504
+405.
+Nguyen-Thuy, D., Ta, P. H., Nguyen-Van, H., Van Dinh, H., Van Dang, B., Dang, N. H., . . . Hoang, T. T. (2018). Evaluation of Geological Heritage of Geosites for a Potential Geopark in Binh Thuan–Ninh Thuan Coastal Zone, Vietnam.
+Geoheritage
+. doi:10.1007/s12371-018-0324-x
+406.
+Nguyen-Viet, H., Grace, D., Pham-Duc, P., Dang-Xuan, S., Luu-Quoc, T., Unger, F., . . . Tuyet-Hanh, T. T. (2018). Research and training partnership to assist policy and capacity building in improving food safety in Vietnam.
+Global Food Security, 19
+, 24-30. doi:10.1016/j.gfs.2018.08.009
+407.
+Nielsen, M. R., Theilade, I., Meilby, H., Nui, N. H., & Lam, N. T. (2018). Can PES and REDD+ match Willingness To Accept payments in contracts for reforestation and avoided forest degradation? The case of farmers in upland Bac Kan, Vietnam.
+Land Use Policy, 79
+, 822-833. doi:10.1016/j.landusepol.2018.09.010
+408.
+Ninh, D. G., & Bich, D. H. (2018). Characteristics of nonlinear vibration of nanocomposite cylindrical shells with piezoelectric actuators under thermo-mechanical loads.
+Aerospace Science and Technology, 77
+, 595-609. doi:10.1016/j.ast.2018.04.008
+409.
+Ninh, L. N., Tangkawattana, S., Sukon, P., Takahashi, N., Takehana, K., & Tangkawattana, P. (2018). Neutralizing formaldehyde in chicken cadaver with urea and urea fertilizer solution.
+Journal of Veterinary Medical Science, 80
+(4), 606-610. doi:10.1292/jvms.17-0480
+410.
+Ninh, N. T. H., Lebailly, P., & Dung, N. M. (2018). The Red River Delta, Vietnam: How does industrialization change the use of labor in agricultural production at farm households?
+Asia Life Sciences, 27
+(2), 311-328.
+411.
+Ninh, V. T., Nguyen, T. L. H., Tran, Q. H., & Kim, H. (2018). On the Automorphism Groups of Finite Multitype Models in Cn.
+Journal of Geometric Analysis
+, 1-23. doi:10.1007/s12220-018-9999-0
+412.
+Nishiki, I., Minami, T., Murakami, A., Hoai, T. D., & Fujiwara, A. (2018). Multilocus sequence analysis of Vibrionaceae isolated from farmed amberjack and the development of a multiplex PCR assay for the detection of pathogenic species.
+Journal of Fish Diseases, 41
+(8), 1295-1301. doi:10.1111/jfd.12823
+413.
+Noi, P. T., & Kappas, M. (2018). Comparison of random forest, k-nearest neighbor, and support vector machine classifiers for land cover classification using sentinel-2 imagery.
+Sensors (Switzerland), 18
+(1). doi:10.3390/s18010018
+414.
+Nong, D. H., Lepczyk, C. A., Miura, T., & Fox, J. M. (2018). Quantifying urban growth patterns in Hanoi using landscape expansion modes and time series spatial metrics.
+Plos One, 13
+(5). doi:10.1371/journal.pone.0196940
+415.
+Norval, G., Jablonski, D., Christophoryová, J., Luu, V. Q., Goldberg, S. R., & Bursey, C. R. (2018). A record of an Asian house gecko, Hemidactylus frenatus, from Laos as a host of the pentastome, Kiricephalus pattoni, with comments on the distribution and natural history of this parasite.
+Comparative Parasitology, 85
+(2), 189-192. doi:10.1654/1525-2647-85.2.189
+416.
+Nui, D. X., Tuan, L., Trung Kien, N. D., Huy, P. T., Dang, H. T., & Viet, D. X. (2018). Correlation length in a generalized two-dimensional XY model.
+Physical Review B, 98
+(14). doi:10.1103/PhysRevB.98.144421
+417.
+Onyusheva, I., Ushakov, D., & Van, H. T. (2018). The eco-problems and green economy development in kazakhstan: An analytical survey.
+International Journal of Energy Economics and Policy, 8
+(2), 148-153.
+418.
+Owusu-Nketia, S., Inukai, Y., Ohashi, S., Suralta, R. R., Doi, K., Mitsuya, S., . . . Yamauchi, A. (2018). Root plasticity under fluctuating soil moisture stress exhibited by backcross inbred line of a rice variety, Nipponbare carrying introgressed segments from KDML105 and detection of the associated QTLs.
+Plant Production Science, 21
+(2), 106-122. doi:10.1080/1343943X.2018.1446759
+419.
+Owusu-Nketia, S., Siangliw, J. L., Siangliw, M., Toojinda, T., Vanavichit, A., Ratsameejanphen, N., . . . Yamauchi, A. (2018). Functional roles of root plasticity and its contribution to water uptake and dry matter production of CSSLs with the genetic background of KDML105 under soil moisture fluctuation.
+Plant Production Science, 21
+(3), 266-277. doi:10.1080/1343943X.2018.1477509
+420.
+Perez-Castillo, Y., Sánchez-Rodríguez, A., Tejera, E., Cruz-Monteagudo, M., Borges, F., D S Cordeiro, M. N., . . . Pham-The, H. (2018). A desirability-based multi objective approach for the virtual screening discovery of broad-spectrum anti-gastric cancer agents.
+Plos One, 13
+(2). doi:10.1371/journal.pone.0192176
+421.
+Pham, B. T., Son, L. H., Hoang, T. A., Nguyen, D. M., & Bui, D. T. (2018). Prediction of shear strength of soft soil using machine learning methods.
+Catena, 166
+, 181-191. doi:10.1016/j.catena.2018.04.004
+422.
+Pham, C. T., Le, M. D., Ngo, H. T., Ziegler, T., & Nguyen, T. Q. (2018). A new species of Limnonectes (Amphibia: Anura: Dicroglossidae) from Vietnam.
+Zootaxa, 4508
+(1), 115-130. doi:10.11646/zootaxa.4508.1.7
+423.
+Pham, C. T., Nguyen, T. Q., Nguyen, T. T., Nguyen, T. V., Orlov, N. L., van Schingen, M., & Ziegler, T. (2018). FIRST RECORD OF Liuixalus feii YANG, RAO ET WANG, 2015 (ANURA: RHACOPHORIDAE) FROM VIETNAM AND TAXONOMIC ASSIGNMENT OF L-jinxiuensis LI, MO, XIE ET JIANG, 2015.
+Russian Journal of Herpetology, 25
+(2), 121-125.
+424.
+Pham, C. V., Phu, Q. V., & Hoang, H. X. (2018) Targeted Misinformation Blocking on Online Social Networks. In
+: Vol. 10751 LNAI. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+(pp. 107-116).
+425.
+Pham, C. V., Thai, M. T., Duong, H. V., Bui, B. Q., & Hoang, H. X. (2018). Maximizing misinformation restriction within time and budget constraints.
+Journal of Combinatorial Optimization, 35
+(4), 1202-1240. doi:10.1007/s10878-018-0252-3
+426.
+Pham, D. H., & Le, A. C. (2018). Exploiting multiple word embeddings and one-hot character vectors for aspect-based sentiment analysis.
+International Journal of Approximate Reasoning, 103
+, 1-10. doi:10.1016/j.ijar.2018.08.003
+427.
+Pham, D. H., & Le, A. C. (2018). Learning multiple layers of knowledge representation for aspect based sentiment analysis.
+Data & Knowledge Engineering, 114
+, 26-39. doi:10.1016/j.datak.2017.06.001
+428.
+Pham, D. H., Le, A. C., & Le, T. K. C. (2018) Learning Word Embeddings for Aspect-Based Sentiment Analysis. In
+: Vol. 781. Communications in Computer and Information Science
+(pp. 28-40).
+429.
+Pham, H. T. (2018). Biosensors based on lithotrophic microbial fuel cells in relation to heterotrophic counterparts: research progress, challenges, and opportunities.
+Aims Microbiology, 4
+(3), 567-583. doi:10.3934/microbiol.2018.3.567
+430.
+Pham, H. T., & Iwamoto, T. (2018). An evaluation of fracture properties of type-304 austenitic stainless steel at high deformation rate using the small punch test.
+International Journal of Mechanical Sciences, 144
+, 249-261. doi:10.1016/j.ijmecsci.2018.05.056
+431.
+Pham, H. T., & Iwamoto, T. (2018) Finite element simulation on small punch test for an evaluation of J-integral for TRIP steel. In
+: Vol. PartF3. Lecture Notes in Mechanical Engineering
+(pp. 17-28).
+432.
+Pham, N. D., Martens, W., Karim, M. A., & Joardder, M. U. H. (2018). Nutritional quality of heat-sensitive food materials in intermittent microwave convective drying.
+Food and Nutrition Research, 62
+. doi:10.29219/fnr.v62.1292
+433.
+Pham, T., Phuong, N. D., Sang, N. M., Valculescu, C., & Vinh, L. A. (2018). Distinct distances between points and lines in F<inf>q</inf>2.
+Forum Mathematicum, 30
+(4), 799-808. doi:10.1515/forum-2016-0248
+434.
+Pham, T., Tait, M., Vinh, L. A., & Won, R. (2018). A structure theorem for product sets in extra special groups.
+Journal of Number Theory, 184
+, 461-472. doi:10.1016/j.jnt.2017.08.031
+435.
+Pham, T. A., & Do, N. T. (2018). Embedding hierarchical clustering in product quantization for feature indexing.
+Multimedia Tools and Applications
+. doi:10.1007/s11042-018-6626-9
+436.
+Pham, T. D., Bui, D. T., Yoshino, K., & Le, N. N. (2018). Optimized rule-based logistic model tree algorithm for mapping mangrove species using ALOS PALSAR imagery and GIS in the tropical region.
+Environmental Earth Sciences, 77
+(5). doi:10.1007/s12665-018-7373-y
+437.
+Pham, T. D., Bui, T. T., Nguyen, V. T., Bui, T. K. V., Tran, T. T., Phan, Q. C., . . . Hoang, T. H. (2018). Adsorption of Polyelectrolyte onto Nanosilica Synthesized from Rice Husk: Characteristics, Mechanisms, and Application for Antibiotic Removal.
+Polymers, 10
+(2). doi:10.3390/polym10020220
+438.
+Pham, T. D., Do, T. U., Pham, T. T., Nguyen, T. A. H., Nguyen, T. K. T., Vu, N. D., . . . Kobayashi, M. (2018). Adsorption of poly(styrenesulfonate) onto different-sized alumina particles: characteristics and mechanisms.
+Colloid and Polymer Science
+. doi:10.1007/s00396-018-4433-5
+439.
+Pham, T. D., Kaida, N., Yoshino, K., Nguyen, X. H., Nguyen, H. T., & Bui, D. T. (2018). Willingness to pay for mangrove restoration in the context of climate change in the Cat Ba biosphere reserve, Vietnam.
+Ocean and Coastal Management, 163
+, 269-277. doi:10.1016/j.ocecoaman.2018.07.005
+440.
+Pham, T. D., Yoshino, K., Le, N. N., & Bui, D. T. (2018). Estimating aboveground biomass of a mangrove plantation on the Northern coast of Vietnam using machine learning techniques with an integration of ALOS-2 PALSAR-2 and Sentinel-2A data.
+International Journal of Remote Sensing, 39
+(22), 7761-7788. doi:10.1080/01431161.2018.1471544
+441.
+Pham, T. H., & Le-Hong, P. (2018) End-to-End Recurrent Neural Network Models for Vietnamese Named Entity Recognition: Word-Level Vs. Character-Level. In
+: Vol. 781. Communications in Computer and Information Science
+(pp. 219-232).
+442.
+Pham, T. H., Pham, X. K., & Le-Hong, P. (2018).
+On the use of machine translation-based approaches for Vietnamese diacritic restoration.
+Paper presented at the Proceedings of the 2017 International Conference on Asian Language Processing, IALP 2017.
+443.
+Pham, T. T. T., Mathews, N., Lam, Y. M., & Mhaisalkar, S. (2018). Influence of size and shape of sub-micrometer light scattering centers in ZnO-assisted TiO2 photoanode for dye-sensitized solar cells.
+Physica B-Condensed Matter, 532
+, 225-229. doi:10.1016/j.physb.2017.03.016
+444.
+Pham-The, H., & Le-Thi-Thu, H. (2018). Integrating structure and ligand-based approaches for modelling the histone deacetylase inhibition activity of hydroxamic acid derivatives.
+Asian Journal of Pharmaceutical and Clinical Research, 11
+(2), 198-206. doi:10.22159/ajpcr.2018.v11i2.22995
+445.
+Phan, H., Bui, T. Q., Nguyen, H. T. L., & Pham, C. V. (2018). Computation of interface wave motions by reciprocity considerations.
+Wave Motion, 79
+, 10-22. doi:10.1016/j.wavemoti.2018.02.008
+446.
+Phan, Q. S. (2018). Spectral monodromy of small non-selfadjoint quantum perturbations of completely integrable Hamiltonians.
+Journal of Mathematical Analysis and Applications, 458
+(1), 795-811. doi:10.1016/j.jmaa.2017.09.042
+447.
+Phan, T. K. T., Shahbazzadeh, F., Pham, T. T. H., & Kihara, T. (2018). Alpha-mangostin inhibits the migration and invasion of A549 lung cancer cells.
+Peerj, 6
+. doi:10.7717/peerj.5027
+448.
+Phan, T. N., & Kappas, M. (2018). Application of MODIS land surface temperature data: A systematic literature review and analysis.
+Journal of Applied Remote Sensing, 12
+(4). doi:10.1117/1.JRS.12.041501
+449.
+Phan, T. N., Kappas, M., & Tran, T. P. (2018). Land surface temperature variation due to changes in elevation in Northwest Vietnam.
+Climate, 6
+(2). doi:10.3390/cli6020028
+450.
+Phan, T. T. H., Bigand, A., & Caillault, E. P. (2018). A New Fuzzy Logic-Based Similarity Measure Applied to Large Gap Imputation for Uncorrelated Multivariate Time Series.
+Applied Computational Intelligence and Soft Computing, 2018
+. doi:10.1155/2018/9095683
+451.
+Phung, H. G., & Pham, D. B. (2018). Effects of Integrated Shrimp Farming in Vietnam.
+Journal of the World Aquaculture Society, 49
+(4), 664-675. doi:10.1111/jwas.12465
+452.
+Phung, T. V. B., Yoshida, A., Iemoto, Y., Uematsu, H., & Tanoue, S. (2018). Numerical simulation of airflow characteristics in the spinning zone at starting time of air-jet spinning machine.
+Textile Research Journal
+. doi:10.1177/0040517518792743
+453.
+Phuong, N. N. D., Khuong, M. N., Phuc, L. H., & Dong, L. N. T. (2018). The effect of two-dimensional factor on Municipal Civil Servants' Job satisfaction and public policy implications.
+Journal of Asian Finance, Economics and Business, 5
+(3), 133-142. doi:10.13106/jafeb.2018.vol5.no3.133
+454.
+Phuong, T. H. (2018). Perceived justice in performance appraisal among Vietnamese employees: Antecedents and consequences.
+International Journal of Business Excellence, 15
+(2), 209-221. doi:10.1504/IJBEX.2018.091920
+455.
+Prativadibhayankaram, S., Luong, H. V., Le, T. H., & Kaup, A. (2018). Compressive Online Video Background-Foreground Separation Using Multiple Prior Information and Optical Flow.
+Journal of Imaging, 4
+(7). doi:10.3390/jimaging4070090
+456.
+Quach, T. N., Nguyen, L. A. T., Nguyen, N. T., Nguyen, C. T., Dam, T. Q., Dinh, L. T., & Nguyen, H. T. (2018). Soybean PI 675847 A as a new source of salt tolerance.
+Plant Genetic Resources: Characterisation and Utilisation
+. doi:10.1017/S1479262118000266
+457.
+Quoc, T. V., Ngoc, L. N., Ba, D. D., Chien, T. P., Huy, H. N., & Van Meervelt, L. (2018). Crystal structure and Hirshfield surface analysis of 4-phenyl-3-(thiophen-3-ylmethyl)-1H-1,2,4-triazole-5(4H)-thione.
+Acta Crystallographica Section E-Crystallographic Communications, 74
+, 812-+. doi:10.1107/s2056989018007193
+458.
+Quynh, L. K., Tu, B. D., Anh, C. V., Duc, N. H., Phung, A. T., Dung, T. T., & Giang, D. T. H. (2018). Design Optimization of an Anisotropic Magnetoresistance Sensor for Detection of Magnetic Nanoparticles.
+Journal of Electronic Materials
+. doi:10.1007/s11664-018-6822-4
+459.
+Quynh, L. M., Dung, C. T., Mai, B. T., Huy, H. V., Loc, N. Q., Hoa, N. Q., . . . Vu, L. V. (2018). Development of Fe<inf>3</inf>O<inf>4</inf>/Ag core/shell-based multifunctional immunomagnetic nanoparticles for isolation and detection of CD34+ stem cells.
+Journal of Immunoassay and Immunochemistry, 39
+(3), 308-322. doi:10.1080/15321819.2018.1488725
+460.
+Quynh, L. M., Tien, N. T., Van Thanh, P., Hieu, N. M., Doanh, S. C., Thuat, N. T., . . . Hoang, N. L. H. (2018). Optical and electrical responses of magnetron-sputtered amorphous Nb-doped TiO2 thin films annealed at low temperature.
+Physica B-Condensed Matter, 532
+, 200-203. doi:10.1016/j.physb.2017.05.024
+461.
+Rahman, M. M., Joardder, M. U. H., Khan, M. I. H., Pham, N. D., & Karim, M. A. (2018). Multi-scale model of food drying: Current status and challenges.
+Critical Reviews in Food Science and Nutrition, 58
+(5), 858-876. doi:10.1080/10408398.2016.1227299
+462.
+Ramesh, K., Lama, D., Tan, K. W., Nguyen, V. S., Chew, F. T., Verma, C. S., & Mok, Y. K. (2018). Homologous Lympho-Epithelial Kazal-type Inhibitor Domains Delay Blood Coagulation by Inhibiting Factor X and XI with Differential Specificity.
+Structure, 26
+(9), 1178-+. doi:10.1016/j.str.2018.05.018
+463.
+Rich, K. M., Dizyee, K., Huyen Nguyen, T. T., Ha Duong, N., Hung Pham, V., Nga Nguyen, T. D., . . . Lapar, M. L. (2018). Quantitative value chain approaches for animal health and food safety.
+Food Microbiology, 75
+, 103-113. doi:10.1016/j.fm.2017.09.018
+464.
+Sa, L. K., Nhung, N. C., Van Chien, L., Tuan, N. A., & Van Tu, P. (2018). Green material selection using an integrated fuzzy multi-criteria decision making model.
+Asian Journal of Scientific Research, 11
+(2), 195-202. doi:10.3923/ajsr.2018.195.202
+465.
+Sabharwal, T., Gupta, R., Son, L. H., Kumar, R., & Jha, S. (2018). Recognition of surgically altered face images: an empirical analysis on recent advances.
+Artificial Intelligence Review
+. doi:10.1007/s10462-018-9660-0
+466.
+Saravanan, K., Anusuya, E., Kumar, R., & Son, L. H. (2018). Real-time water quality monitoring using Internet of Things in SCADA.
+Environmental Monitoring and Assessment, 190
+(9). doi:10.1007/s10661-018-6914-x
+467.
+Saravanan, K., Aswini, S., Kumar, R., & Son, L. H. (2018). How to prevent maritime border collision for fisheries?-A design of Real-Time Automatic Identification System.
+Earth Science Informatics
+. doi:10.1007/s12145-018-0371-5
+468.
+Scheela, W., Nguyen Thi Thu, N. T. T., & Anh, N. T. K. (2018). Business angel investing in Vietnam: An exploratory study.
+Journal of Private Equity, 21
+(2), 96-106. doi:10.3905/jpe.2018.21.2.096
+469.
+Scheela, W., Trang, N. T. T., & Anh, N. T. K. (2018). Business Angel Investing in Vietnam: An Exploratory Study.
+Journal of Private Equity, 21
+(2), 96-106. doi:10.3905/jpe.2018.1.067
+470.
+Schneider, J., Korshunova, K., Musiani, F., Alfonso-Prieto, M., Giorgetti, A., & Carloni, P. (2018). Predicting ligand binding poses for low-resolution membrane protein models: Perspectives from multiscale simulations.
+Biochemical and Biophysical Research Communications, 498
+(2), 366-374. doi:10.1016/j.bbrc.2018.01.160
+471.
+Settele, J., Heong, K. L., Kuhn, I., Klotz, S., Spangenberg, J. H., Arida, G., . . . Wiemers, M. (2018). Rice ecosystem services in South-east Asia.
+Paddy and Water Environment, 16
+(2), 211-224. doi:10.1007/s10333-018-0656-9
+472.
+Sial, M. S., Chunmei, Z., Khan, T., & Nguyen, V. K. (2018). Corporate social responsibility, firm performance and the moderating effect of earnings management in Chinese firms.
+Asia-Pacific Journal of Business Administration, 10
+(2-3), 184-199. doi:10.1108/APJBA-03-2018-0051
+473.
+Singh, K., Singh, K., Son, L. H., & Aziz, A. (2018). Congestion control in wireless sensor networks by hybrid multi-objective optimization algorithm.
+Computer Networks, 138
+, 90-107. doi:10.1016/j.comnet.2018.03.023
+474.
+Slik, J. W. F., Franklin, J., Arroyo-Rodríguez, V., Field, R., Aguilar, S., Aguirre, N., . . . Zang, R. (2018). Phylogenetic classification of the world's tropical forests.
+Proceedings of the National Academy of Sciences of the United States of America, 115
+(8), 1837-1842. doi:10.1073/pnas.1714977115
+475.
+Smith, R. K., Montgomery, M. T., & Bui, H. (2018). Axisymmetric Balance Dynamics of Tropical Cyclone Intensification and Its Breakdown Revisited.
+Journal of the Atmospheric Sciences, 75
+(9), 3169-3189. doi:10.1175/jas-d-17-0179.1
+476.
+So, H. U., Postma, D., Lan, V. M., Trang, P. T. K., Kazmierczak, J., Nga, D. V., . . . Jakobsen, R. (2018). Arsenic in Holocene aquifers of the Red River floodplain, Vietnam: Effects of sediment-water interactions, sediment burial age and groundwater residence time.
+Geochimica Et Cosmochimica Acta, 225
+, 192-209. doi:10.1016/j.gca.2018.01.010
+477.
+Sokolova, D., Kuzmin, V., Batyrov, A., Pivovarova, I., Tran, N. A., Dang, D., & Shemanaev, K. V. (2018). Use of MLCM3 software for flash flood modeling and forecasting.
+Journal of Ecological Engineering, 19
+(1), 177-185. doi:10.12911/22998993/79419
+478.
+Son, D. X. (2018). An algorithm for solving a class of bilevel split problems involving pseudomonotone equilibrium problem.
+Afrika Matematika, 29
+(7-8), 1159-1171. doi:10.1007/s13370-018-0614-0
+479.
+Son, L. H., Chiclana, F., Kumar, R., Mittal, M., Khari, M., Chatterjee, J. M., & Baik, S. W. (2018). ARM-AMO: An efficient association rule mining algorithm based on animal migration optimization.
+Knowledge-Based Systems, 154
+, 68-80. doi:10.1016/j.knosys.2018.04.038
+480.
+Son, L. H., & Fujita, H. (2018). Neural-fuzzy with representative sets for prediction of student performance.
+Applied Intelligence
+. doi:10.1007/s10489-018-1262-7
+481.
+Son, L. H., Jha, S., Kumar, R., Chatterjee, J. M., & Khari, M. (2018). Collaborative handshaking approaches between internet of computing and internet of things towards a smart world: a review from 2009–2017.
+Telecommunication Systems
+, 1-18. doi:10.1007/s11235-018-0481-x
+482.
+Son, L. H., Tuan, T. M., Fujita, H., Dey, N., Ashour, A. S., Ngoc, V. T. N., . . . Chu, D. T. (2018). Dental diagnosis from X-Ray images: An expert system based on fuzzy computing.
+Biomedical Signal Processing and Control, 39
+, 64-73. doi:10.1016/j.bspc.2017.07.005
+483.
+Son, T. C., Thang, D. H., & Dung, L. V. (2018). On convergence of moving average series of martingale differences fields taking values in Banach spaces.
+Communications in Statistics-Theory and Methods, 47
+(22), 5590-5603. doi:10.1080/03610926.2017.1397172
+484.
+Srikaeo, K., Hao, P. b. T. b., & Lerdluksamee, C. (2018). Effects of Heating Temperatures and Acid Concentrations on Physicochemical Properties and Starch Digestibility of Citric Acid Esterified Tapioca Starches.
+Starch/Staerke
+. doi:10.1002/star.201800065
+485.
+Stringer, L. C., Quinn, C. H., Le, H. T. V., Msuya, F., Pezzuti, J., Dallimer, M., . . . Rijal, M. L. (2018). A New Framework to Enable Equitable Outcomes: Resilience and Nexus Approaches Combined.
+Earths Future, 6
+(6), 902-918. doi:10.1029/2017ef000694
+486.
+Suralta, R. R., Kano-Nakata, M., Niones, J. M., Inukai, Y., Kameoka, E., Tran, T. T., . . . Yamauchi, A. (2018). Root plasticity for maintenance of productivity under abiotic stressed soil environments in rice: Progress and prospects.
+Field Crops Research, 220
+, 57-66. doi:10.1016/j.fcr.2016.06.023
+487.
+Suralta, R. R., Niones, J. M., Kano-Nakata, M., Thi Tran, T., Mitsuya, S., & Yamauchi, A. (2018). Plasticity in nodal root elongation through the hardpan triggered by rewatering during soil moisture fluctuation stress in rice.
+Scientific Reports, 8
+(1). doi:10.1038/s41598-018-22809-5
+488.
+Szili, E. J., Oh, J. S., Fukuhara, H., Bhatia, R., Gaur, N., Nguyen, C. K., . . . Short, R. D. (2018). Modelling the helium plasma jet delivery of reactive species into a 3D cancer tumour.
+Plasma Sources Science & Technology, 27
+(1). doi:10.1088/1361-6595/aa9b3b
+489.
+Ta, T. T., Trinh, D. A., & Do, N. T. (2018). Nitrogen flow assessment in rapidly urbanizing Hai Duong province, downstream of Cau River Basin, Vietnam.
+Journal of Material Cycles and Waste Management, 20
+(1), 533-542. doi:10.1007/s10163-017-0616-2
+490.
+Tai, N. T. (2018). On the asymptotic behavior of radial entire solutions for the equation (-Delta)(3)u = u(p) in R-n.
+Journal of Differential Equations, 264
+(6), 3940-3975. doi:10.1016/j.jde.2017.11.036
+491.
+Tam, N. T., Hai, D. T., Son, L. H., & Vinh, L. T. (2018). Improving lifetime and network connections of 3D wireless sensor networks based on fuzzy clustering and particle swarm optimization.
+Wireless Networks, 24
+(5), 1477-1490. doi:10.1007/s11276-016-1412-y
+492.
+Thach, H. M., Le, M. D., Vu, N. B., Panariello, A., Sethi, G., Sterling, E. J., & Blair, M. E. (2018). Slow Loris Trade in Vietnam: Exploring Diverse Knowledge and Values.
+Folia Primatologica, 89
+(1), 45-62. doi:10.1159/000481196
+493.
+Thai, P. H., & Van Toan, T. (2018). Beekeeping in Vietnam. In
+Asian Beekeeping in the 21st Century
+(pp. 247-267).
+494.
+Thai, P. K., Ky, L. X., Binh, V. N., Nhung, P. H., Nhan, P. T., Hieu, N. Q., . . . Anh, N. T. K. (2018). Occurrence of antibiotic residues and antibiotic-resistant bacteria in effluents of pharmaceutical manufacturers and other sources around Hanoi, Vietnam.
+Science of the Total Environment, 645
+, 393-400. doi:10.1016/j.scitotenv.2018.07.126
+495.
+Thanh, B. T., Hai, T. H., Van, P. H., Minh Tung, L., & Lee, J. (2018). Detection of hepatitis B surface antigen by immunoassay using magnetite nanoparticles binding hepatitis B surface antibody.
+Geosystem Engineering
+. doi:10.1080/12269328.2018.1540310
+496.
+Thanh Tung, N., Hoan, V. K., Van Thuan, L., & Cong Vinh, P. (2018) Applying and Deploying Cyber Physical System in Monitoring and Managing Operations Under Mines and Underground Works. In
+: Vol. 217. Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST
+(pp. 145-154).
+497.
+Thao, N. T., & Nhu, N. T. (2018). Evaluation of catalytic activity of MeO<inf>x</inf>/sepiolite in benzyl alcohol oxidation.
+Journal of Science: Advanced Materials and Devices, 3
+(3), 289-295. doi:10.1016/j.jsamd.2018.07.006
+498.
+Thao, N. T., Nhu, N. T., & Lin, K. S. (2018). Liquid phase oxidation of benzyl alcohol to benzaldehyde over sepiolite loaded chromium oxide catalysts.
+Journal of the Taiwan Institute of Chemical Engineers, 83
+, 10-22. doi:10.1016/j.jtice.2017.11.034
+499.
+Thao, N. T., Phuong, H. N., Tung, H. T., Phat, N. T., Dat, H. T., & Vinh, L. Q. (2018). The enhanced current density of the quantum dots solar cells based on CdSe:Mn2+ crystalline.
+Optical Materials, 84
+, 199-204. doi:10.1016/j.optmat.2018.06.069
+500.
+Thao, N. X. (2018). A new correlation coefficient of the intuitionistic fuzzy sets and its application.
+Journal of Intelligent and Fuzzy Systems, 35
+(2), 1959-1968. doi:10.3233/JIFS-171589
+501.
+Thao, N. X., Son, L. H., Cuong, B. C., Ali, M., & Lan, L. H. (2018) Fuzzy equivalence on standard and rough neutrosophic sets and applications to clustering analysis. In
+: Vol. 672. Advances in Intelligent Systems and Computing
+(pp. 834-842).
+502.
+Thi, H. T., Le, B. A., Le, H. N. T., Okitsu, K., Imamura, K., Takenaka, N., . . . Maeda, Y. (2018). Screening of fatty acids, saccharides, and phytochemicals in Jatropha curcas seed kernel as their trimethylsilyl derivatives using gas chromatography/mass spectrometry.
+Journal of Chromatography B-Analytical Technologies in the Biomedical and Life Sciences, 1102
+, 66-73. doi:10.1016/j.jchromb.2018.10.009
+503.
+Thi Nguyen, H., Nguyen, Q. C., Kabango, A. N., & Pham, T. D. (2018). Vietnamese Consumers’ Willingness to Pay for Safe Pork in Hanoi.
+Journal of International Food and Agribusiness Marketing
+. doi:10.1080/08974438.2018.1533506
+504.
+Thi, T. M., Boggiano, V. L., Tran, B. X., Nguyen, L. H., Tran, T. T., Latkin, C. A., . . . Ho, R. C. M. (2018). Sexual Risk Behaviors of Patients with HIV/AIDS over the Course of Antiretroviral Treatment in Northern Vietnam.
+International Journal of Environmental Research and Public Health, 15
+(6). doi:10.3390/ijerph15061106
+505.
+Thien, N. D., Vu, L. V., & Long, N. N. (2018). The effect of interaction between surface plasmons of gold nanoparticles and optical active centers on luminescence of Eu3+-doped Zn2SnO4 nanocrystals.
+Optical Materials, 78
+, 319-324. doi:10.1016/j.optmat.2018.02.039
+506.
+Thinh, N. H., Vinh, N. T., Linh, N. V., Giang, N. T. P., Doan, B. H., & Dang, P. K. (2018). Effect of dietary supplementation with green tea powder on performance characteristic, meat organoleptic quality and cholesterol content of broilers.
+Livestock Research for Rural Development, 30
+(9).
+507.
+Thinh, N. V., Osanai, Y., Adachi, T., Thai, P. K., Nakano, N., Ozaki, A., . . . Kurosawa, K. (2018). Chemical speciation and bioavailability concentration of arsenic and heavy metals in sediment and soil cores in estuarine ecosystem, Vietnam.
+Microchemical Journal, 139
+, 268-277. doi:10.1016/j.microc.2018.03.005
+508.
+Thoai, T. Q., Rañola, R. F., Camacho, L. D., & Simelton, E. (2018). Determinants of farmers’ adaptation to climate change in agricultural production in the central region of Vietnam.
+Land Use Policy, 70
+, 224-231. doi:10.1016/j.landusepol.2017.10.023
+509.
+Thom, V. T., Tung, N. H., Van Diep, D., Thuy, D. T., Hue, N. T., Long, D. D., . . . Huong, D. T. L. (2018). Antithrombotic Activity and Saponin Composition of the Roots of Panax bipinnatifidus Seem. Growing in Vietnam.
+Pharmacognosy Research, 10
+(4), 333-338. doi:10.4103/pr.pr_58_18
+510.
+Thong, P. H., Tuan, T. A., Minh, N. T. H., & Son, L. H. (2018) One solution for proving convergence of picture fuzzy clustering method. In
+: Vol. 672. Advances in Intelligent Systems and Computing
+(pp. 843-852).
+511.
+Thu Hương, N., & Gammeltoft, T. M. (2018). “A Combination of Imagination and Observation”: Medical Anthropology in Vietnam since the 1990s: Special Section on Medical Anthropology.
+American Anthropologist, 120
+(3), 570-573. doi:10.1111/aman.13098
+512.
+Thu, N. T. K., Hai, N. T., & Tung, B. T. (2018). In vitro antioxidant and acetylcholinesterase inhibitory activities of fractions from centella asiatica (Linn.) extract.
+Current Bioactive Compounds, 14
+(1), 86-91. doi:10.2174/1573407213666161129124609
+513.
+Thuong, L. Q., & Duc, N. H. (2018). EULER REFLEXION FORMULAS FOR MOTIVIC MULTIPLE ZETA FUNCTIONS.
+Journal of Algebraic Geometry, 27
+(1), 91-120. doi:10.1090/jag/689
+514.
+Thuong, N. T. H., Zhang, R., Li, Z., & Hong, P. T. D. (2018). Multi-criteria evaluation of financial statement quality based on hesitant fuzzy judgments with assessing attitude.
+International Journal of Management Science and Engineering Management, 13
+(4), 254-264. doi:10.1080/17509653.2017.1421107
+515.
+Thuy, N. T. D., Thu, N. T., Cuong, N. H., Ty, L. V., Nguyen, T. T. B., & Khoa, D. V. A. (2018). Polymorphism of PIT-1 and Prolactin Genes and Their Effects on Milk Yield in Holstein Frisian Dairy Cows Bred in Vietnam.
+Russian Journal of Genetics, 54
+(3), 346-352. doi:10.1134/S1022795418030146
+516.
+Tien, C. N., Thu, H. L. T., Van, T. N., Quoc, T. V., Quoc, M. V., Chien, T. P., & Van Meervelt, L. (2018). Crystal structure of (E)-N '- 1-(4-aminophenyl)-ethylidene -2-hydroxy-5-iodobenzohydrazide methanol monosolvate.
+Acta Crystallographica Section E-Crystallographic Communications, 74
+, 910-+. doi:10.1107/s2056989018008204
+517.
+Tien, N. N. T., Anh, T. N. Q., Phi, N. T. L., & Hung, P. V. (2018). In Vitro and In Vivo Starch Digestibility and Quality of Bread Substituted with Acid and Heat-Moisture Treated Sweet Potato Starch.
+Starch/Staerke, 70
+(9-10). doi:10.1002/star.201800069
+518.
+Tilker, A., Nguyen, A., Abrams, J. F., Bhagwat, T., Le, M., Van Nguyen, T., . . . Wilting, A. (2018). A little-known endemic caught in the South-east Asian extinction crisis: The Annamite striped rabbit Nesolagus timminsi.
+ORYX
+, 1-10. doi:10.1017/S0030605318000534
+519.
+Toan, D. N., Tuan, H. C., & Toan, H. M. (2018). A novel selection model of random features for the estimation of facial expression.
+International Journal of Advanced and Applied Sciences, 5
+(6), 56-60. doi:10.21833/ijaas.2018.06.008
+520.
+Tong, T. T. V., Le, T. H. H., Tu, B. M., & Le, D. C. (2018). Spatial and seasonal variation of diarrheic shellfish poisoning (DSP) toxins in bivalve mollusks from some coastal regions of Vietnam and assessment of potential health risks.
+Marine Pollution Bulletin, 133
+, 911-919. doi:10.1016/j.marpolbul.2018.06.045
+521.
+Tran, B. N., Tanase, M. A., Bennett, L. T., & Aponte, C. (2018). Evaluation of spectral indices for assessing fire severity in Australian temperate forests.
+Remote Sensing, 10
+(11). doi:10.3390/rs10111680
+522.
+Tran, B. X., Boggiano, V. L., Thi Nguyen, H. L., Nguyen, L. H., Nguyen, H. V., Hoang, C. D., . . . Ho, R. C. M. (2018). Concurrent drug use among methadone maintenance patients in mountainous areas in northern Vietnam.
+Bmj Open, 8
+(3). doi:10.1136/bmjopen-2017-015875
+523.
+Tran, B. X., Do, H. T., Nguyen, L. T., Boggiano, V., Le, H. T., Thi Le, X. T., . . . Latkin, C. A. (2018). Evaluating food safety knowledge and practices of food processors and sellers working in food facilities in Hanoi, Vietnam.
+Journal of Food Protection, 81
+(4), 646-652. doi:10.4315/0362-028X.JFP-17-161
+524.
+Tran, B. X., Nguyen, L. H., Nguyen, C. T., & Latkin, C. A. (2018). Health-related work productivity loss is low for patients in a methadone maintenance program in Vietnam.
+International Journal of Drug Policy, 60
+, 1-7. doi:10.1016/j.drugpo.2018.07.007
+525.
+Tran, B. X., Nguyen, L. H., Tran, T. T., & Latkin, C. A. (2018). Social and structural barriers for adherence to methadone maintenance treatment among Vietnamese opioid dependence patients.
+Plos One, 13
+(1). doi:10.1371/journal.pone.0190941
+526.
+Tran, B. X., Vu, G. G., Nguyen, L. H., Le Nguyen, A. T., Tran, T. T., Nguyen, B. T., . . . Ho, R. C. M. (2018). Cost-of-Illness and the Health-Related Quality of Life of Patients in the Dengue Fever Outbreak in Hanoi in 2017.
+International Journal of Environmental Research and Public Health, 15
+(6). doi:10.3390/ijerph15061174
+528.
+Tran, C. T., Mai, N. T., Nguyen, V. T., Nguyen, H. X., Meharg, A., Carey, M., . . . Nguyen, M. N. (2018). Phytolith-associated potassium in fern: characterization, dissolution properties and implications for slash-and-burn agriculture.
+Soil Use and Management, 34
+(1), 28-36. doi:10.1111/sum.12409
+529.
+Tran Huy, P., & Takahashi, K. (2018). Determinants of psychological contract breach: an empirical study of Vietnamese employees.
+Management Research Review, 41
+(1), 29-45. doi:10.1108/MRR-11-2016-0244
+530.
+Tran, H. V. U., Kiemer, A. K., & Helms, V. (2018). Copy number alterations in tumor genomes deleting antineoplastic drug targets partially compensated by complementary amplifications.
+Cancer Genomics and Proteomics, 15
+(5), 365-378. doi:10.21873/cgp.20095
+531.
+Tran, L. N., Iskakov, S., & Zgid, D. (2018). Spin-Unrestricted Self-Energy Embedding Theory.
+Journal of Physical Chemistry Letters, 9
+(15), 4444-4450. doi:10.1021/acs.jpclett.8b01754
+532.
+Tran, O. T., & Luong, T. C. (2018) Towards Understanding User Requests in AI Bots. In
+: Vol. 11012 LNAI. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+(pp. 864-877).
+533.
+Tran, P. A., Nguyen, H. T., Fox, K., & Tran, N. (2018). In vitro cytotoxicity of iron oxide nanoparticles: Effects of chitosan and polyvinyl alcohol as stabilizing agents.
+Materials Research Express, 5
+(3). doi:10.1088/2053-1591/aab5f3
+534.
+Tran, Q. H., Duong, H. T., & Tran, T. M. (2018). Free vibration analysis of functionally graded doubly curved shell panels resting on elastic foundation in thermal environment.
+International Journal of Advanced Structural Engineering, 10
+(3), 275-283. doi:10.1007/s40091-018-0197-x
+535.
+Tran, T. A., Tran, T. Q., Tran, N. T., & Nguyen, H. T. (2018). The role of education in the livelihood of households in the Northwest region, Vietnam.
+Educational Research for Policy and Practice
+. doi:10.1007/s10671-018-9242-6
+536.
+Tran, T. M., Tu, M. B., & Vu, N. D. (2018). Cyclic siloxanes in indoor environments from hair salons in Hanoi, Vietnam: Emission sources, spatial distribution, and implications for human exposure.
+Chemosphere, 212
+, 330-336. doi:10.1016/j.chemosphere.2018.08.101
+537.
+Tran, T. Q., Doan, T. T., Van Vu, H., & Nguyen, H. T. (2018). Heterogeneous impacts of provincial governance on household welfare in Vietnam.
+International Journal of Social Welfare
+. doi:10.1111/ijsw.12337
+538.
+Tran, T. Q., Nguyen, C. V., & Van Vu, H. (2018). Does Economic Inequality Affect the Quality of Life of Older People in Rural Vietnam?
+Journal of Happiness Studies, 19
+(3), 781-799. doi:10.1007/s10902-017-9851-4
+539.
+Tran, T. Q., Tran, A. L., Pham, T. M., & Van Vu, H. (2018). Local governance and occupational choice among young people: First evidence from Vietnam.
+Children and Youth Services Review, 86
+, 21-31. doi:10.1016/j.childyouth.2018.01.019
+540.
+Tran, T. Q., & Van Vu, H. (2018). A microeconometric analysis of housing and life satisfaction among the Vietnamese elderly.
+Quality and Quantity, 52
+(2), 849-867. doi:10.1007/s11135-017-0492-9
+541.
+Tran, T. T., Tran, H. D., & Nguyen, H. X. (2018). Larval description and habitat utilization of an amphidromous goby, Redigobius bikolanus (Gobiidae).
+Animal Biology, 68
+(1), 15-26. doi:10.1163/15707563-17000079
+542.
+Tran, T. T. V., Le, T. A., Truong, H. H., Dao, T. N., Soldatenkov, A. T., & Khrustalev, V. N. (2018). One-pot synthesis of (1RS, 21SR)-diethyl 2- 23-amino-22-ethoxycarbonyl-8,11,14-trioxa-25-azatetracyclo 19.3.1.0(2 ,7).0(15,20) pentacosa-2,4,6,15(20),16,18,22-heptaen-25-yl but-2-endioat e.
+Acta Crystallographica Section E-Crystallographic Communications, 74
+, 1281-+. doi:10.1107/s205698901801160x
+543.
+Tran, V. D., Vu, T. T., Tran, Q. B., Nguyen, T. H., Ta, T. N., Ha, T. M., & Nguyen, H. V. (2018). Predicting suitable distribution for an endemic, rare and threatened species (Grey-shanked douc langur, pygathrix cinerea nadler, 1997) using MaxEnt model.
+Applied Ecology and Environmental Research, 16
+(2), 1275-1291. doi:10.15666/aeer/1602_12751291
+544.
+Tran, V. H., Vu, H. T., Nguyen, V. V., & Nguyen, M. L. (2018) A classifier-based preordering approach for English-Vietnamese statistical machine translation. In
+: Vol. 9624 LNCS. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+(pp. 74-87).
+545.
+Tranh, D. T. N., Van Hoang, V., & Thi Thu Hanh, T. (2018). Molecular dynamics simulation of melting of 2D glassy monatomic system.
+Materials Research Express, 5
+(1). doi:10.1088/2053-1591/aaa7a5
+546.
+Trinh, L. H., Zablotskii, V. R., Le, T. G., Dinh, T. T. H., Le, T. T., Trinh, T. T., & Nguyen, T. T. N. (2018). Estimation of suspended sediment concentration using VNREDSat – 1A multispectral data, a case study in Red River, Hanoi, Vietnam.
+Geography, Environment, Sustainability, 11
+(3), 49-60. doi:10.24057/2071-9388-2018-11-3-49-60
+547.
+Trinh, T. T., Hoang, T. S., Tran, D. A., Trinh, V. T., Gohler, A., Nguyen, T. T., . . . Steinmetz, I. (2018). A simple laboratory algorithm for diagnosis of melioidosis in resource-constrained areas: a study from north-central Vietnam.
+Clinical Microbiology and Infection, 24
+(1). doi:10.1016/j.cmi.2017.07.029
+548.
+Trinh, T. T., Trinh, T. T., Le, T. T., Nguyen, T. D. H., & Tu, B. M. (2018). Temperature inversion and air pollution relationship, and its effects on human health in Hanoi City, Vietnam.
+Environmental Geochemistry and Health
+. doi:10.1007/s10653-018-0190-0
+549.
+Truc, N. T. T., Hanh, N. T., Nguyen, M. V., Chi, N., Noi, N. V., Tran, D. T., . . . Pham, T. D. (2018). Novel direct Z-scheme Cu2V2O7/g-C-3 N-4 for visible light photocatalytic conversion of CO2 into valuable fuels.
+Applied Surface Science, 457
+, 968-974. doi:10.1016/j.apsusc.2018.07.034
+550.
+Truc, N. T. T., Tran, D. T., Hanh, N. T., & Pham, T. D. (2018). Novel visible light-driven Nb-doped Ta3N5 sensitized/protected by PPy for efficient overall water splitting.
+International Journal of Hydrogen Energy, 43
+(33), 15898-15906. doi:10.1016/j.ijhydene.2018.06.128
+551.
+Truong Anh, T., Do Van, T., Pham Tien, D., & Dinh Duc, N. (2018). The effects of strength models in numerical study of metal plate destruction by contact explosive charge.
+Mechanics of Advanced Materials and Structures
+, 1-10. doi:10.1080/15376494.2017.1410907
+552.
+Truong, T. D., Nguyen, V. T., & Tran, M. T. (2018).
+Lightweight deep convolutional network for tiny object recognition.
+Paper presented at the ICPRAM 2018 - Proceedings of the 7th International Conference on Pattern Recognition Applications and Methods.
+553.
+Tsunoda, R. T., Saito, S., & Nguyen, T. T. (2018). Post-sunset rise of equatorial F layer—or upwelling growth?
+Progress in Earth and Planetary Science, 5
+(1). doi:10.1186/s40645-018-0179-4
+554.
+Tu, M. T. C., & Giang, H. T. T. (2018). Estimating the impact of trade cost on export: A case study Vietnam.
+Journal of Asian Finance, Economics and Business, 5
+(3), 43-50. doi:10.13106/jafeb.2018.vol5.no3.43
+555.
+Tuan, N. A., Thanh, N. M., & Loc, T. T. (2018). Technology management and challenges of Vietnamese enterprises in the international market.
+Journal of Asian Finance, Economics and Business, 5
+(1), 43-52. doi:10.13106/jafeb.2018.vol5.no1.43
+556.
+Tuan, V. Q., Nguyen, N. V., Wu, M. S., Jen, C. P., Tung, B. T., & Duc Trinh, C. (2018).
+Development of an impedance spectroscopy measurement circuit board for protein detection.
+Paper presented at the 2018 IEEE 7th International Conference on Communications and Electronics, ICCE 2018.
+557.
+Tung, D. T., Tran, M. N., & Cuong, T. M. (2018). Bayesian adaptive lasso with variational Bayes for variable selection in high-dimensional generalized linear mixed models.
+Communications in Statistics: Simulation and Computation
+, 1-14. doi:10.1080/03610918.2017.1387663
+558.
+Tung, L. M., Huong, P. T. L., Phan, V. N., Huy, L. T., Vinh, L. K., Hoa, N. Q., . . . Le, A. T. (2018). Superparamagnetic Iron Oxide@Carbon Core-Shell Nanoparticles as Advanced Adsorbent for Efficient Removal of As(V) Ions From Wastewater.
+Ieee Transactions on Magnetics, 54
+(6). doi:10.1109/tmag.2018.2822318
+559.
+Tung, L. V., Dinh, M. L., HoangVan, X., Dinh, T. D., Vu, T. H., & Le, H. T. (2018). View synthesis method for 3D video coding based on temporal and inter view correlation.
+IET Image Processing, 12
+(11), 2111-2118. doi:10.1049/iet-ipr.2018.5390
+560.
+Tung, N. H., Hung, L. Q., Oanh, H. V., Huong, D. T. L., Thuong, P. T., Long, D. D., & Hai, N. T. (2018). Bioactive Phenolic Compounds from the Roots of Danshen (Salvia miltiorrhiza).
+Natural Product Communications, 13
+(10), 1305-1307.
+561.
+Tung, N. T., & Duc, N. H. (2018). Design and implementing Big Data system for cardiovascular data.
+Concurrency Computation
+. doi:10.1002/cpe.5068
+562.
+Tuyen, P. T., Xuan, T. D., Thi Tu Anh, T., Van, T. M., Ahmad, A., Elzaawely, A. A., & Khanh, T. D. (2018). Weed Suppressing Potential and Isolation of Potent Plant Growth Inhibitors from Castanea crenata Sieb. et Zucc.
+Molecules, 23
+(2). doi:10.3390/molecules23020345
+563.
+Uto, T., Tung, N. H., Ohta, T., Juengsanguanpornsuk, W., Hung, L. Q., Hai, N. T., . . . Shoyama, Y. (2018). Antiproliferative activity and apoptosis induction by trijuganone C isolated from the root of Salvia miltiorrhiza Bunge (Danshen).
+Phytotherapy Research, 32
+(4), 657-666. doi:10.1002/ptr.6013
+564.
+Vaan, K. V., & Nhinh, D. T. (2018).
+The Prevalence of Cryptocaryon irritans in wild marine ornamental fish from Vietnam.
+Paper presented at the IOP Conference Series: Earth and Environmental Science.
+565.
+Vafaei, S., Soosani, J., Adeli, K., Fadaei, H., Naghavi, H., Pham, T. D., & Bui, D. T. (2018). Improving accuracy estimation of Forest Aboveground Biomass based on incorporation of ALOS-2 PALSAR-2 and Sentinel-2A imagery and machine learning: A case study of the Hyrcanian forest area (Iran).
+Remote Sensing, 10
+(2). doi:10.3390/rs10020172
+566.
+Vallejo-Vaz, A. J., Marco, M. D., Stevens, C. A. T., Akram, A., Freiberger, T., Hovingh, G. K., . . . Le, T. T. (2018). Overview of the current status of familial hypercholesterolaemia care in over 60 countries - The EAS Familial Hypercholesterolaemia Studies Collaboration (FHSC).
+Atherosclerosis, 277
+, 234-255. doi:10.1016/j.atherosclerosis.2018.08.051
+567.
+Van Canh, L. (2018). Remapping the teacher knowledge-base of language teacher education: A Vietnamese perspective.
+Language Teaching Research
+. doi:10.1177/1362168818777525
+568.
+Van Cao, V. (2018). Effect of soil-structure interaction on seismic damage of mid-rise reinforced concrete structures retrofitted by FRP composites.
+Earthquake and Structures, 15
+(3), 307-317. doi:10.12989/eas.2018.15.3.307
+569.
+Van Dinh, D., Yoon, B. N., Le, H. N., Nguyen, U. Q., Dang Phan, K., & Dinh Pham, L. (2018).
+ICT enabling technologies for smart cities.
+Paper presented at the International Conference on Advanced Communication Technology, ICACT.
+570.
+Van Doan, H., Hoseinifar, S. H., Faggio, C., Chitmanat, C., Mai, N. T., Jaturasitha, S., & Ringø, E. (2018). Effects of corncob derived xylooligosaccharide on innate immune response, disease resistance, and growth performance in Nile tilapia (Oreochromis niloticus) fingerlings.
+Aquaculture, 495
+, 786-793. doi:10.1016/j.aquaculture.2018.06.068
+571.
+Van Doan, H., Hoseinifar, S. H., Khanongnuch, C., Kanpiengjai, A., Unban, K., Van Kim, V., & Srichaiyo, S. (2018). Host-associated probiotics boosted mucosal and serum immunity, disease resistance and growth performance of Nile tilapia (Oreochromis niloticus).
+Aquaculture, 491
+, 94-100. doi:10.1016/j.aquaculture.2018.03.019
+572.
+Van Hao, P., Xuan, C. T., Thanh, P. D., Thuat, N. T., Hai, N. H., & Tuan, M. A. (2018). Detection analysis limit of nonlinear characteristics of DNA sensors with the surface modified by polypyrrole nanowires and gold nanoparticles.
+Journal of Science: Advanced Materials and Devices, 3
+(2), 129-138. doi:10.1016/j.jsamd.2018.04.002
+573.
+Van Hieu, D. (2018). Convergence analysis of a new algorithm for strongly pseudomontone equilibrium problems.
+Numerical Algorithms, 77
+(4), 983-1001. doi:10.1007/s11075-017-0350-9
+574.
+Van, H. T., Onyusheva, I., Ushakov, D., & Santhanakrishnan, R. (2018). Impedimental policies impacting shrinking world solar industry eco-economic development.
+International Journal of Energy Economics and Policy, 8
+(4), 21-27.
+575.
+Van Huong, N., Cuong, T. H., Thu, T. T. N., & Lebailly, P. (2018). Efficiency of different integrated agriculture aquaculture systems in the Red River Delta of Vietnam.
+Sustainability (Switzerland), 10
+(2). doi:10.3390/su10020493
+576.
+Van, L. H., Yu, V. F., Dat, L. Q., Dung, C. C., Chou, S. Y., & Loc, N. V. (2018). New Integrated Quality Function Deployment Approach Based on Interval Neutrosophic Set for Green Supplier Evaluation and Selection.
+Sustainability, 10
+(3). doi:10.3390/su10030838
+577.
+Van Luot, N., Dat, N. B., & Lam, T. Q. (2018). Subjective well-being among “left-behind children” of labour migrant parents in rural northern Vietnam.
+Pertanika Journal of Social Sciences and Humanities, 26
+(3), 1529-1545.
+578.
+Van Nguyen, T. H., Nguyen, T. T., Ji, X., Lanh Do, K. T., & Guo, M. (2018).
+Using Artificial Neural Networks (ANN) for Modeling Predicting Hardness Change of Wood during Heat Treatment.
+Paper presented at the IOP Conference Series: Materials Science and Engineering.
+579.
+Van Nguyen, T. H., Nguyen, T. T., Ji, X., Nguyen, V. D., & Guo, M. (2018). Enhanced bonding strength of heat-treated wood using a cold atmospheric-pressure nitrogen plasma jet.
+European Journal of Wood and Wood Products, 76
+(6), 1697-1705. doi:10.1007/s00107-018-1351-7
+580.
+Van, N. N., Viet, H. N., Thi, B. H., Tagane, S., Toyama, H., Son, H. T., . . . Yahara, T. (2018). Lithocarpus vuquangensis (Fagaceae), a new species from Vu Quang National Park, Vietnam.
+PhytoKeys
+(95), 15-25. doi:10.3897/phytokeys.95.21832
+581.
+Van Tan, L., Vy, N. D., & Cao, H. T. (2018). Temperature and carrier density dependence of electron effective mass and bandgap in semiconductor carbon nanotubes at elevated temperature: Analytical calculations.
+Journal of Applied Physics, 124
+(12). doi:10.1063/1.5034404
+582.
+Van Thang, B., Van Viet, N., Nam, V. Q., Tung, H. T., & Nhut, D. T. (2018). Triploid plant regeneration from immature endosperms of Melia azedazach.
+Plant Cell, Tissue and Organ Culture, 133
+(3), 351-357. doi:10.1007/s11240-018-1387-8
+583.
+Van Thanh, N., Dinh Quang, V., Dinh Khoa, N., Seung-Eock, K., & Dinh Duc, N. (2018). Nonlinear dynamic response and vibration of FG CNTRC shear deformable circular cylindrical shell with temperature-dependent material properties and surrounded on elastic foundations.
+Journal of Sandwich Structures and Materials
+. doi:10.1177/1099636217752243
+584.
+Vi Dũng, N., BíchThủy, Đ. T., & NgọcThắng, N. (2018). Economic and non-economic determinants of FDI inflows in Vietnam: a sub-national analysisPost-Communist Economies.
+Post-Communist Economies, 30
+(5), 693-712. doi:10.1080/14631377.2018.1458458
+585.
+Vidal-Garcia, J., Vidal, M., Boubaker, S., & Hassan, M. (2018). The efficiency of mutual funds.
+Annals of Operations Research, 267
+(1-2), 555-584. doi:10.1007/s10479-017-2429-z
+586.
+Vidal-García, J., Vidal, M., Boubaker, S., & Manita, R. (2018). Idiosyncratic risk and mutual fund performance.
+Annals of Operations Research
+, 1-24. doi:10.1007/s10479-018-2794-2
+587.
+Viet, N. X., Chikae, M., Ukita, Y., & Takamura, Y. (2018). Enzyme-free glucose sensor based on micro-nano Dualporous gold-modified screen-printed carbon electrode.
+International Journal of Electrochemical Science, 13
+(9), 8633-8644. doi:10.20964/2018.09.08
+588.
+Vinh, P. C., & Anh, V. T. N. (2018). Rayleigh waves in a layered orthotropic elastic half-space with sliding contact.
+Journal of Vibration and Control, 24
+(10), 2070-2079. doi:10.1177/1077546316677211
+589.
+Vinh, P. C., Anh, V. T. N., Merodio, J., & Hue, L. T. (2018). Explicit transfer matrices of pre-stressed elastic layers.
+International Journal of Non-Linear Mechanics, 106
+, 288-296. doi:10.1016/j.ijnonlinmec.2018.05.011
+590.
+Vinh, P. C., Anh, V. T. N., Tung, D. X., & Kieu, N. T. (2018). Homogenization of very rough interfaces for the micropolar elasticity theory.
+Applied Mathematical Modelling, 54
+, 467-482. doi:10.1016/j.apm.2017.09.039
+591.
+Vinh, P. C., Aoudia, A., & Anh, V. T. N. (2018). Rayleigh waves in anisotropic porous media and the polarization vector method.
+Wave Motion, 83
+, 202-213. doi:10.1016/j.wavemoti.2018.09.009
+592.
+Vinh, P. C., Tuan, T. T., & Hue, L. T. (2018). Formulas for the H/V ratio (ellipticity) of Rayleigh waves in orthotropic elastic half-spaces.
+Waves in Random and Complex Media
+, 1-16. doi:10.1080/17455030.2018.1470702
+593.
+Vinh, P. C., Tuan, T. T., & Hue, L. T. (2018). Formulas for the H/V ratio of Rayleigh waves in incompressible pre-stressed half-spaces.
+Archives of Mechanics, 70
+(2), 131-150.
+594.
+Vinh, T. Q., Nam, L. T. H., Nhiem, N. T., Duc, P. M., Trang, N. T. T., & Hieu, D. T. (2018). Effect of Porous Structure and Acidity of ZSM-5/SBA-15 Catalyst on 1,3,5-Triisopropylbenzene Cracking Catalytic Activity.
+Journal of Nanoscience and Nanotechnology, 18
+(2), 1396-1402. doi:10.1166/jnn.2018.14200
+595.
+Vinh, V. D., Ouillon, S., & Van Uu, D. (2018). Estuarine Turbidity Maxima and variations of aggregate parameters in the Cam-Nam Trieu Estuary, North Vietnam, in Early Wet Season.
+Water (Switzerland), 10
+(1). doi:10.3390/w10010068
+596.
+Vo, L. T. T., Nguyen, T. T., Le, H. X., & Le, H. T. T. (2018). Analysis of Common β-Thalassemia Mutations in North Vietnam.
+Hemoglobin, 42
+(1), 16-22. doi:10.1080/03630269.2018.1428621
+597.
+Vu, C. M., Nguyen, D. D., Sinh, L. H., Choi, H. J., & Pham, T. D. (2018). Improvement the mode I interlaminar fracture toughness of glass fiber reinforced phenolic resin by using epoxidized soybean oil.
+Polymer Bulletin, 75
+(10), 4769-4782. doi:10.1007/s00289-018-2296-z
+598.
+Vu, C. M., Nguyen, D. D., Sinh, L. H., Choi, H. J., & Pham, T. D. (2018). Micro-Fibril Cellulose as a Filler for Glass Fiber Reinforced Unsaturated Polyester Composites: Fabrication and Mechanical Characteristics.
+Macromolecular Research, 26
+(1), 54-60. doi:10.1007/s13233-018-6006-3
+599.
+Vu, H. T., Scarlett, C. J., & Vuong, Q. V. (2018). Phenolic compounds within banana peel and their potential uses: A review.
+Journal of Functional Foods, 40
+, 238-248. doi:10.1016/j.jff.2017.11.006
+600.
+Vu, N. T., Nguyen, Q. D., Nguyen, T. D., Nguyen, M. C., Vu, V. V., & Ha, Q. T. (2018) A Positive-Unlabeled Learning Model for Extending a Vietnamese Petroleum Dictionary Based on Vietnamese Wikipedia Data. In
+: Vol. 10751 LNAI. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+(pp. 190-199).
+601.
+Vu, T. T., Tran, L. M., Nguyen, M. D., Van Tran, D., Doherty, P. F., Giang, T. T., & Dong, H. T. (2018). A distance sampling approach to estimate density and abundance of gibbon groups.
+American Journal of Primatology, 80
+(9). doi:10.1002/ajp.22903
+602.
+Vu, T. T., Tran, L. M., Nguyen, M. D., Van Tran, D., & Ta, N. T. (2018). Improving the Estimation of Calling Probability and Correction Factors in Gibbon Monitoring Using the Auditory Point Count Method.
+International Journal of Primatology, 39
+(2), 222-236. doi:10.1007/s10764-018-0030-1
+603.
+Vu, V. V. (2018). An efficient semi-supervised graph based clustering.
+Intelligent Data Analysis, 22
+(2), 297-307. doi:10.3233/ida-163296
+604.
+Vuong, L. N., Dang, V. Q., Ho, T. M., Huynh, B. G., Ha, D. T., Pham, T. D., . . . Mol, B. W. (2018). IVF transfer of fresh or frozen embryos in women without polycystic ovaries.
+New England Journal of Medicine, 378
+(2), 137-147. doi:10.1056/NEJMoa1703768
+605.
+Vuong, P. M., & Duc, N. D. (2018). Nonlinear response and buckling analysis of eccentrically stiffened FGM toroidal shell segments in thermal environment.
+Aerospace Science and Technology, 79
+, 383-398. doi:10.1016/j.ast.2018.05.058
+606.
+Vuong, Q. V., Ngoc Thuy Pham, H., Vu, H. T., Dang, T. T., Van Ngo, T., & Chalmers, A. C. (2018). Fruit characteristics, phytochemical and antioxidant properties of blueberry ash (Elaeocarpus reticulatus).
+Heliyon, 4
+(10). doi:10.1016/j.heliyon.2018.e00834
+607.
+Waché, Y., Do, T. L., Do, T. B. H., Do, T. Y., Haure, M., Ho, P. H., . . . Chu-Ky, S. (2018). Prospects for food fermentation in South-east Asia, topics from the tropical fermentation and biotechnology network at the end of the Asifood Erasmus+project.
+Frontiers in Microbiology, 9
+(OCT). doi:10.3389/fmicb.2018.02278
+608.
+Wang, Q., Nguyen, T. T., Huang, J. Z., & Nguyen, T. T. (2018). An efficient random forests algorithm for high dimensional data classification.
+Advances in Data Analysis and Classification
+, 1-20. doi:10.1007/s11634-018-0318-1
+609.
+Wang, Z., Shibata, M., Nguyen, Y. T. H., Hayata, Y., Nonaka, N., Maruyama, H., & Yoshida, A. (2018). Development of nested multiplex polymerase chain reaction (PCR) assay for the detection of Toxocara canis, Toxocara cati and Ascaris suum contamination in meat and organ meats.
+Parasitology International, 67
+(5), 622-626. doi:10.1016/j.parint.2018.06.006
+610.
+Weiss, B., Nguyen, T., Trung, L., Ngo, V., & Lau, A. (2018). Tobacco Smoking and Antisocial Deviance among Vietnamese, Vietnamese-American, and European-American Adolescents.
+Journal of Abnormal Child Psychology
+, 1-11. doi:10.1007/s10802-018-0416-8
+611.
+Wu, Q., Luu, Q. H., Tkalich, P., & Chen, G. (2018). An improved empirical dynamic control system model of global mean sea level rise and surface temperature change.
+Theoretical and Applied Climatology, 132
+(1-2), 375-385. doi:10.1007/s00704-017-2039-3
+612.
+Yen, L. T. H., Tsurumi, Y., Hop, D. V., & Ando, K. (2018). Three New Anamorph of Ceramothyrium from Fallen Leaves in Vietnam.
+Advances in Microbiology, 8
+(4), 314-323. doi:10.4236/aim.2018.84021
+613.
+Yen, L. T. H., Yamaguchi, K., Tsurumi, Y., Hop, D. V., & Ando, K. (2018). Hamatispora, a new genus of aquatic fungi in Microthyriales isolated from fallen leaves in Vietnam.
+Mycoscience, 59
+(6), 467-472. doi:10.1016/j.myc.2018.04.004
+614.
+Yoon, B., Kim, K., Dinh Lam, P., Dat, P. T., Vu, V. V., Quan, D. H., & Toan, D. N. (2018).
+Study of p-ICN defined performance measurement Enterprise Architecture.
+Paper presented at the International Conference on Advanced Communication Technology, ICACT.
+615.
+Ziegler, T., David, P., Ziegler, T. N., Pham, C. T., Nguyen, T. Q., & Minh, D. L. (2018). Morphological and molecular review of Jacob’s Mountain Stream Keelback Opisthotropis jacobi Angel &amp; Bourret, 1933 (Squamata: Natricidae) with description of a sibling species from northern Vietnam.
+Zootaxa, 4374
+(4), 476-496. doi:10.11646/zootaxa.4374.4.2
+616.
+Ziegler, T., Ngo, H. N., Pham, A. V., Nguyen, T. T., Le, M. D., & Nguyen, T. Q. (2018). A new species of Parafimbrios from northern Vietnam (Squamata: Xenodermatidae).
+Zootaxa, 4527
+(2), 269-276. doi:10.11646/zootaxa.4527.2.7
+(Cập nhật đến 25/12/2018)
+Ban KHCN - Scopus
+In bài viết
+Gửi cho bạn bè
+Từ khóa :
+Thông tin liên quan
+Danh sách các sản phẩm Sở hữu trí tuệ và Giải pháp hữu ích 2009 - 2018 (10/12/2018)
+Các kết quả khoa học và công nghệ tiêu biểu năm 2014 (13/03/2015)
+Báo cáo Thường niên Kinh tế Việt Nam (13/03/2015)
+Danh sách các sản phẩm đăng ký sở hữu trí tuệ 2014 (11/03/2015)
+DANH SÁCH CÁC SẢN PHẨM ĐĂNG KÝ SỞ HỮU TRÍ TUỆ 2005-2010  (31/03/2011)
+Một số công trình chuyên khảo (22/03/2011)
+Trang:
+1|
+Bản quyền thuộc về Đại học Quốc gia Hà Nội
+Khu đô thị ĐHQGHN tại Hoà Lạc, Thạch Thất, Hà Nội
+Giấy phép số 993/GP-TTĐT ngày 20/3/2020 của Sở Thông tin và Truyền thông Hà Nội.
+Webmaster:
+media@vnu.edu.vn
+kiemtra_spam@vnu.edu.vn
+Trang chủ
+|
+Tìm kiếm
+|
+Sơ đồ Website
+|
+Văn bản

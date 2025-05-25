@@ -1,0 +1,637 @@
+TS. ĐỖ THỊ HƯƠNG GIANG
+Thông tin
+cá nhân
++
+Đơn vị:
+Khoa
+Vật lý Kỹ thuật và Công nghệ Nanô
++
+Điện thoại:
+04
+37549665
++
+Fax:
+04
+37547460
++
+Email:
+giangdth@vnu.edu.vn
+Quá trình
+Đào tạo
+Đại học:
+Ngành: Khoa học Vật liệu
+Nơi cấp bằng ĐH: Trường ĐH Khoa học Tự nhiên, Đại
+học Quốc gia Hà Nội, Việt
+Nam
+Ngày cấp bằng: 22/06/2001
+Tiến sĩ:
+Ngành: Vật lý
+Chuyên ngành: Vật lý chất rắn
+Nơi
+cấp bằng TS: Trường ĐH tổng hợp
+Rouen
+,
+Pháp
+Ngày cấp bằng: 31/03/2006
+Những
+môn học đã và đang giảng dạy
+A.
+Đại học
+×
+Vật lý Cơ và nhiệt
+×
+Quang học
+×
+Điện và Quang
+×
+Điện và Từ
+×
+Các vật liệu từ tính cấu trúc nanô và kỹ thuật spin điện tử
+×
+Thực hành công nghệ
+×
+Thực tập chuyên đề
+B.
+Sau đại học
+×
+Từ học và vật liệu từ tính cấu trúc nanô
+Những
+lĩnh vực khoa học đã và đang quan tâm
+×
+Vật liệu từ dạng màng mỏng và dạng khối (bao gồm từ giảo, từ-điện
+trở, hiệu ứng Hall…)
+×
+Vật liệu tổ hợp sắt từ/sắt điện (multiferroics) dạng màng mỏng và
+dạng khối
+×
+Cảm biến đo từ trường, đo góc, đo dòng,… và cảm biến sinh học
+Công trình
+nghiên cứu khoa học
+A.
+Tạp chí quốc tế:
+1.
+N. H. Duc, B. D. Tu, N. T. Ngoc and
+D. T. Huong
+Giang
+Metglas/PZT-magnetoelectric 2-D geomagnetic device for computing precise
+angular position
+IEEE Transactions on Magnetics, 2013 (in press) (SCI)
+http://dx.doi.org/10.1109/TMAG.2013.2241446
+2.
+D.T. Huong Giang
+, P.A. Duc, N.T. Ngoc and N.H. Duc
+E Geomagnetic sensors based on Metglas/PZT laminates
+Sensor and Actuator A: Physics
+179
+(2012) 78 (SCI)
+3.
+D.T. Huong Giang
+, V.N. Thuc and N.H. Duc
+Electric field-induced magnetoresistance in spin-valve/piezoelectric
+multiferroic laminates for low-power spintronics
+Journal of Magnetism and Magnetic Materials 324 (2012) 2019 (SCI).
+4.
+D.T. Huong Giang,
+P.A. Duc, N.T.
+Ngoc, N.T. Hien, and N.H. Duc
+Spatial angular positioning device with three-dimensional
+magnetoelectric sensors
+Review of scientific instrument
+83
+(2012) 095006 (SCI).
+5.
+D T Huong Giang
+, P A Duc ,
+N T Ngoc, N T Hien and N H Duc
+Enhancement of the magnetic flux in Metglas/PZT-magnetoelectric
+integrated 2D geomagnetic device
+Journal of Magnetics 17(4) (2012) 308-315 (SCIE)
+6.
+D.T. Huong Giang
+, N.H. Duc
+Magnetoelectric
+sensor for microtesla magnetic-fields based on (Fe80Co20)78Si12B10/PZT
+laminates
+Sensors and Actuators A: Physical 149 (2009) 229 (SCI).
+7.
+Do Thi Huong Giang
+, Le Khac Quynh, Nguyen Van Dung
+and Nguyen Hoang Nghi
+Magnetoelectric effects in piezoelectric/soft magnetic amorphous FeCo-based
+ribbon Composites
+Journal of Physics: Conference Series
+187
+(2009) 012057.
+8.
+Bui Dinh Tu, Le Viet Cuong, Tran Quang Hung,
+Do Thi
+Huong Giang,
+Nguyen Huu Duc and CheolGi Kim
+Optimization of spin-valve structure NiFe/Cu/NiFe/IrMn for planar Hall
+effect based biochips
+IEEE Transactions on Magnetics
+45
+(2009) 2378–2382 (SCI).
+9.
+Bui Dinh Tu, Le Viet Cuong,
+Do Thi Huong Giang
+,
+Tran Mau Danh and Nguyen Huu Duc
+Optimization of planar Hall effect sensor for magnetic bead detection using
+spin-valve NiFe/Cu/NiFe/IrMn structures
+Journal of Physics: Conference Series
+187
+(2009) 012056
+10.
+N.H. Duc and
+D.T.
+Huong Giang
+Magnetic sensors based on
+piezoelectric–magnetostrictive composites
+Journal of Alloys and Compound
+449
+(2008) 214–218 (SCI).
+11.
+P. D. Thang,
+D.
+T. Huong Giang
+, B. C. Tinh, T. M. Danh, N. H. Tuan, and N. H. Duc
+Magnetoelastic properties of nanostructured FeCoSiB ribbons used for
+high-sensitive stress sensors
+Physica status solidi (c)
+4
+(2007) 4585–4588
+12.
+N.H. Duc and
+D.T.
+Huong Giang
+Discontinuous spring magnet-type magnetostrictive Terfecohan/YFeCo
+multilayers: A novel nanostructured material principle for excellent magnetic
+softness
+Journal of Magnetism and Magnetic Materials
+310
+(2007) 2459-2465
+(SCI).
+13.
+D.T. Huong Giang
+, N.H. Duc, J. Juraszek , J.
+Teillet
+Magnetization and magnetostriction process in spring-magnet TbFeCo/Fe
+multilayers with variable TbFeCo thicknes
+Journal of Magnetism and Magnetic Materials
+316
+(2007) 379-382
+(SCI).
+14.
+D.T. Huong Giang
+, N.H. Duc, J. Juraszek , J.
+Teillet
+Magnetization and magnetostriction studies of TbFeCo/Fe multilayers
+Hyperfine Interact
+169
+(2006) 1337-1342 (SCI).
+15.
+N.H. Duc,
+D.T.
+Huong Giang
+, V.N. Thuc and A.D. Yao
+High-field magnetization process in novel TbFeCo/YfeCo magnetostrictive
+spring magnet type multilayers
+Journal of Alloys Compounds,
+408-412
+(2006) 37-42 (SCI).
+16.
+N.H. Duc,
+D.T.
+Huong Giang
+and N. Cha
+Novel exchange-spring configuration for excellent magnetic and
+magnetostrictive softness
+Journal of Magnetism and Magnetic Materials
+290-291
+(2005)
+800-803 (SCI).
+17.
+D.T. Huong Giang
+, N.H. Duc, V.N. Thuc, L.V. Vu and
+N. Chau
+Combining large magnetostriction and
+large magnetostrictive susceptibility
+in TbFeCo/YxFe1−x
+exchange-spring-type multilayers
+Applied Physics Letters
+85
+(2004) 1565 (SCI).
+18.
+N.H. Duc,
+D.T.
+Huong Giang
+and N. Cha
+Nanostructure and magnetization
+reversal process in TbFeCo/Yx(FeCo)1_x spring-magnet type multilayers
+Journal of Magnetism and Magnetic Materials
+282
+(2004) 44-48 (SCI).
+19.
+N.H. Duc,
+D.T.
+Huong Giang
+, V.N. Thuc, I. Davoli and F. Richomme
+Magnetisation and magnetostriction in Fe/Terfecohan/Fe sandwichfilms with
+an extended domain wall formation
+Journal of Magnetism and Magnetic
+Materials
+272
+-276
+(2004)
+e1597-e1599 (SCI).
+20.
+F. Richomme,
+D.T.
+Huong Giang
+, N.H. Duc and J. Teillet
+Structural, magnetostriction and M.ossbauer studies of
+Fe/Tb(Fe0.55Co0.45)1.5/Fe sandwich films
+Journal of Magnetism and Magnetic Materials
+272-276
+(2004) 2086-2087
+(SCI).
+21.
+N.H. Duc, V.N.
+Thuc,
+D.T. Huong Giang
+, N.T. Minh Hong and N. Chau
+Magnetisation process and magnetostriction in Fe/TerfecoHan/Fe sandwich
+films with perpendicular magnetic anisotropy
+Physica B
+327
+(2003) 328-333 (SCI).
+22.
+D.T. Huong Giang
+, N.H. Duc, F. Richomme and S.
+Schulze
+Microstructure and magnetic studies of magnetostrictive Terfecohan/YFeCo
+multilayers
+Journal of Magnetism and Magnetic Materials
+262
+(2003) 361-367 (SCI).
+23.
+N.H. Duc,
+D.T.
+Huong Giang
+, A. Fnidiki and J. Teillet
+Nanostructure and magnetic properties of Fe0.56Cu0.44 films
+Journal of Magnetism and Magnetic Materials
+262
+(2003) 420-426
+(SCI).
+24.
+N.H.
+Duc, F. Richomme, N.A. Tuan,
+D.T. Huong Giang
+, T. Verdier, J.
+Teillet
+Excellent magnetic softness in magnetostrictive TbFeCo/Yfe Multilayers
+Journal of Magnetism and Magnetic Materials
+242-245
+(2002) 1425-1427
+(SCI).
+B.
+Tạp chí trong nước:
+25.
+Nguyen Huu
+Duc,
+Do Thi Huong Giang
+, Tran
+Mau Danh, C.G. Kim, Nguyen Trung Thanh and Le Tuan Tu
+Multifunctional multiferroics for
+spintronics
+Advances in Natural Sciences,
+Vol.
+8
+(2007) 309 – 316.
+26.
+Do Thi Huong Giang
+and Nguyen
+Huu Duc
+Nanostructure and magnetostriction in novel discontinuous Terfecohan/YFe
+exchange-spring type multilayers
+VNU. Journal of science, Mathematics
+- Physics
+(Vietnam National University Publisher),
+No. 4
+, 2004, p. 1-8
+27.
+D.T. Huong Giang
+, N.T. Trung
+and N.H. Duc
+Magnetisation process in Fe/Terfecohan/Fe sandwich films
+VNU. Journal of science, Mathematics
+- Physics (
+Vietnam
+National
+University
+Publisher),
+Part XIX,
+No. 4
+,
+2003, p. 19-24.
+C.
+Hội nghị quốc tế:
+28.
+D.T. Huong Giang
+, N.H. Duc,
+G. Agnus, T. Maroutian and P. Lecoeur
+Electric field-controlled magnetization in exchange biased IrMn/Co/PZT
+multilayers
+The 6
+th
+International
+Workshop on Advanced materials science and nanotechnology, Ha Long City,
+Vietnam, October 30 – November 2, 2012.
+29.
+N.H. Duc,
+D.T. Huong Giang
+, B.D. Tu, P.A.
+Duc, N.T. Ngoc and N.T. Hien
+Metglas/PZT-magnetoelectric integrated spatial angular positioning devices
+The 6
+th
+International
+Workshop on Advanced materials science and nanotechnology, Ha
+Long City
+,
+Vietnam
+, October 30 – November
+2, 2012.
+30.
+D.T. Huong
+Giang
+, N.X. Toan, P.A. Duc and N.H. Duc
+Enhancement of Magnetoelectric effect in metglas/piezoelectric laminate
+composites
+The 5
+th
+International
+Workshop on Advanced Materials Science and Nanotechnology (IWAMSN2010),
+Hanoi, December 2010, pp 106-111.
+31.
+Do Thi Huong
+Giang
+and Nguyen Huu Duc
+Magnetic Directional sensor based on giant magnetoelectric effect using
+nanostructured FeCoSiB ribbons
+The 2
+nd
+International
+Workshop on Nanotechnology and Application (
+IWNA) ), V
+ung Tau 12-14 November 2009, pp. 291-294.
+32.
+Nguyen
+Huu Duc, Bui Dinh Tu, Le Viet
+Cuong, Tran Quang Hung,
+Do Thi Huong
+Giang
+and CheolGi Kim
+Optimization of spin-valve structure
+NiFe/Cu/NiFe/IrMn for planar Hall effect based biochips
+Asian Magnetics Conference
+2008,
+December 00-13, 2008, Busan, Korea.
+33.
+N.H. Duc
+,
+D.T. Huong Giang,
+P.D. Thang, T.M. Danh, C.G. Kim, N.T. Thanh
+and L.T. Tu
+Multifuntional multiferroics for
+spintronics
+Invited
+talk
+presented
+at the
+International
+Symposium on Advanced Magnetic Materials and
+Applications (
+ISAMMA 2007), 28 May-1 June 2007, Jeju, Korean.
+34.
+D.T. Huong Giang,
+V.N. Thuc
+and N.H. Duc
+Electric
+field-induced magnetoresistance change in spin-valve/PZT multifferoics
+,
+APCTP–ASEAN Workshop on Advanced
+Materials
+Science and Nanotechnology
+(AMSN2008) -
+Nha Trang
+,
+Vietnam
+–
+September 15-21, 2008.
+35.
+D.T.
+Huong Giang
+and N.H. Duc
+Magnetic
+field
+strength and orientation
+dependence of magnetoelectricity in composited
+magnetostrictive/piezoelectric multiferroics
+3
+rd
+International Workshop on Nanophysics and Nanotechnology (3rd
+IWONN),
+Halong City
+,
+Vietnam
+, 2006 (Poster).
+36.
+D.T.Huong Giang
+,
+N.H. Duc, J. Juraszek, J. Teillet
+Magnetization and magnetostriction
+studies of TbFeCo/YFeCo multilayers
+The International Conference on the
+Applications of the Mössbauer Effect, Montpellier, France, 2005 (Oral).
+37.
+D.T.Huong Giang
+,
+N.H. Duc, J. Juraszek, J. Teillet
+High-field magnetization and
+magnetostriction process in TbFeCo/Fe multilayers
+10ème Colloque Louis Néel, Dourdan, France,
+2005 (Poster).
+38.
+N.H. Duc,
+D.T.
+Huong Giang
+and P.T. Thuong
+Novel exchange-spring TbFeCo/YfeC
+o
+multilayers
+for combining large magnetostriction and large magnetostrictive
+susceptibility
+The 18th International Conference Workshop on
+High Performance Magnets and Applications, Annecy, France, 2004 (Invited
+paper).
+39.
+N.H. Duc,
+D.T.
+Huong Giang
+and T.V. Thang
+Giant Magnetoelectric Effect in Composites
+of Magnetostrictive Films and Piezoelectric Laminate
+The
+9th Asia Pacific Physics Conference (9th APPC),
+Hanoi
+,
+Vietnam
+,
+October 25 - 31, 2004 (Oral).
+40.
+N.H. Duc,
+D.T.
+Huong Giang
+, L.V. Vu and N. Chau
+Nanostructure and magnetization
+reserval process in TbFeCo/Yx(FeCo)1-x spring-magnet multilayers
+The Seventh Vietnamese-German Seminar on
+Physics and Engineering, Halong City, Vietnam, 2004 (Oral).
+41.
+D.T.
+Huong Giang
+, N.T.M. Hong
+and N.H. Duc
+Magnetostrictive-piezoelectric
+magnetic sensor
+The Seventh Vietnamese-German Seminar on
+Physics and Engineering, Halong City, 2004 (Poster).
+42.
+D.T.
+Huong Giang
+, N.H. Duc, F.
+Richomme, N.T. Hien and S. Schulze
+Microstructure and magnetic studies
+of magnetostrictive Terfecohan/YFeCo multilayer
+The Sixth German - Vietnamese Seminar on
+Physics and Engineering, Chemnitz, Germany, 2003 (Poster).
+43.
+D.T. Huong Giang
+,
+T.M. Danh and N.H. Duc
+Magnetisation reversal process in
+magnetostrictive Fe/TerfecoHan/Fe sandwich films
+The Fifth Vietnamese-German Seminar on Physics
+and Engineering, Hue, Vietnam, 2002 (Poster).
+44.
+N.H. Duc, T.M. Danh,
+D.T.H. Giang
+, N.T. Nam, and N.A. Tuan
+Giant Magnetoresistance and
+Magnetostriction in Nanostructured Multilayers
+The
+2nd International Workshop on Nanophysics and Nanotechnology
+IWONN02 (Oral).
+D.
+Hội nghị trong nước:
+45.
+Nguyễn
+Hữu Đức,
+Đỗ
+Thị Hương Giang
+và Phạm Văn Thạch
+Vật liệu multiferroics đa lớp cho kỹ
+thuật spin-điện tử
+Tuyển tập Hội nghị Vật lý Chất
+rắn toàn quốc lần thứ 5, Vũng Tàu, 2007, pp. 12-17
+46.
+Phạm
+Đức Thắng, Nguyễn
+Hữu Tuân,
+Đỗ Thị Hương Giang
+và
+Nguyễn Hữu Đức
+Nghiên cứu chế tạo sensơ ứng suất dựa
+trên băng từ cấu trúc nanô Fe-Co-B-Si
+Tuyển tập Hội nghị Vật lý Chất
+rắn toàn quốc lần thứ 5, Vũng Tàu, 2007
+47.
+Đỗ Thị Hương
+Giang
+,
+Phạm
+Văn Thạch và Nguyễn Hữu Đức
+Hiệu ứng từ - điện khổng lồ trên vật
+liệu multiferroic PZT/FeCoBSi dạng tấm và ứng dụng chế tạo sensơ đo từ
+trường độ nhạy cao
+Tuyển tập Hội nghị Vật lý Chất
+rắn toàn quốc lần thứ 5, Vũng Tàu, 2007
+48.
+Đỗ Thị Hương
+Giang
+và
+Nguyễn
+Hữu Đức
+Nghiên cứu quá trình từ hoá và từ giảo trên các màng đa lớp TbFeCo/Fe có
+cấu trúc từ đàn hồi
+Tuyển tập Hội nghị Vật lý toàn
+quốc lần thứ 6, Hà Nội, tr. 162, 2005
+49.
+N.T. Lam, T.L. Nhiem,
+D.T.H. Giang
+, P.T.
+Thuong
+, N.H. Duc
+Negative coercivity in exchange spring Tb(Fe
+0.55
+Co
+0.45
+)
+1.5
+/Y
+0.2
+(Fe
+0.7
+Co
+0.3
+)
+0.8
+multilayer
+Proceedings of the First Young Vietnamese
+Scientists Meeting (YVSM ‘05), Nha Trang. June 12‑16, 2005.
+50.
+Nguyễn Thị Minh Hồng,
+Đỗ Thị Hương Giang
+, Vũ Đức Hưng,
+Vũ Nguyên Thức, Nguyễn Hữu Đức và Chử Đức Trình
+Sensơ đo từ trường dựa trên hiệu ứng từ giảo - áp điện
+Tuyển
+tập Hội nghị Vật lý Chất rắn toàn quốc lần thứ IV, Núi Cốc, 2003
+51.
+Đỗ Thị Hương Giang
+,
+Vũ nguyên
+Thức và
+Nguyễn
+Hữu Đức
+Vật liệu từ giảo kiểu spring - magnets Terfecohan/YfeCo
+Tuyển
+tập Hội nghị Vật lý Chất rắn toàn quốc lần thứ IV, Núi Cốc, 2003
+52.
+Nguyen Anh
+Tuan, Tran Mau Danh, Nguyen Huu Duc, Nguyen
+Thi
+Ngoc Anh,
+D.T. Huong Giang
+and Vu Nguyen Thuc
+Từ giảo khổng lồ của các màng mỏng
+đơn lớp, ba lớp và đa lớp dựa trên hợp kim a-TerfecoHan
+Tuyển tập Hội nghị Vật
+lý Chất rắn toàn quốc lần thứ III
+Nha Trang, tr. 475, 2001
+Thông tin khác
+Cán bộ
+điền các thông tin thêm tại đây

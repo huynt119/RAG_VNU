@@ -1,0 +1,82 @@
+Nguồn: hus.vnu.edu.vn_khoa_hoc_cong_nghe_cong_bo_khoa_hoc_bai_bao_quoc_te_khac.html.txt
+
+Chemistry
+Vol.18: Global Risk-Based Management of Chemical A
+Nguyen Quang Bau, Le Thai Hung and Hoang Dinh Trien
+Nguyễn Quang Báu
+Effect of Magnetic Field on Nonlinear Absorption of a Strong Electromagnetic Wave in Low-dimensional Systems
+2011
+Behaviour of Electromagnetic waves in different media and structures
+pp.275-300
+Nguyen Quang Bau, Hoang Dinh Trien
+Nguyễn Quang Báu
+The nonlinear absorption of a strong electromagnetic wave in low-dimensional systems
+2011
+Wave propagation
+pp.461-482
+Nguyen Huu Du., Tong Thanh Trung
+Nguyễn Hữu Dư
+On the Dynamics of Predator-prey Systems with Beddington-de Angelis Functional Response
+2011
+Asian-European Journal of Mathematics
+Vol.4(1), pp.35-48
+Nguyen Anh Tuan, Dam Hieu Chi
+Nguyễn Anh Tuấn, Đàm Hiếu Chí
+Towards designing Mn4 molecules with strong intramolecular exchange coupling
+2011
+Advanced in Natural Sciences: Nanoscience and Nanotechnology
+Vol.2, pp.015011. Le Hoang Son, Pham Huy Thong, Nguyen Duy Linh, Truong Chi Cuong and Nguyen Dinh Hoa
+Lê Hoàng Sơn, Nguyễn Duy Linh
+Developing JSG Framework and Applications in COMGIS Project
+2011
+International Journal of Computer Information Systems and Industrial Management Applications (IJCISIM)
+Vol.3, pp.108-118
+Le Hoang Son, Pham Huy Thong, Nguyen Duy Linh, Nguyen Dinh Hoa, and Truong Chi Cuong
+Lê Hoàng Sơn, Phạm Huy Thông, Nguyễn Duy Linh
+Some Results of 3D Terrain Splitting By 2D Polygonal Vector Data
+2011
+International Journal of Machine Learning and Computing (IJMLC)
+Vol.1(3), pp.253-262
+Le Hoang Son, Pham Huy Thong, Nguyen Duy Linh and Nguyen Dinh Hoa
+Lê Hoàng Sơn, Phạm Huy Thông
+An Integration of Particle Swarm Optimization and Bread-Distributing Task for 3D Terrain Splitting Problem
+2011
+International Journal of Computer Science & Emerging Technologies (IJCSET)
+Vol.2(4), pp.463-469
+Le Hoang Son, Nguyen Duy Linh, Tran Van Huong, and Nguyen Huu Dien
+Lê Hoàng Sơn, Nguyễn Duy Linh, Nguyễn Hữu Điển
+A Lossless Effective Method for the Digital Elevation Model Compression for Fast Retrieval Problem
+2011
+International Journal of Computer Science and Network Security (IJCSNS)
+Vol.11(6), pp.35-44
+Le Hoang Son, Nguyen Dinh Hoa, Pier Luca Lanzi, and Bui Thi Huong Lan
+Lê Hoàng Sơn
+A Combination of Clustering Techniques and Fuzzy Control in 2D Polygon Determination for the Terrain Splitting and Mapping Problem
+2011
+International Journal of Computer and Electrical Engineering (IJCEE)
+Vol.3(5), pp.682-689
+Hoang The Tuan, Nguyen Hai Dang, Van Vu Khu
+Nguyễn Hải Đăng, Vũ Văn Khu
+Dynamics of a stochastic predator-prey model with the Bedington-DeAngelis functional response
+2011
+Communications on Stochastic Analysis
+Vol.5(2), pp.371-386
+Hoang Chi Thanh
+Hoàng Chí Thành
+Parallelizing a New Algorithm for the Set Partition Problem
+2011
+Annales UMCS Informatica
+Vol.12(1), pp.21-28
+Ha Huy Bang,Vu Nhat Huy
+Vũ Nhật Huy
+Behavior of the sequence of norm of primitives of a function in Orlicz space
+2011
+East Journal on Approximations
+Vol. 17(2), pp.127-136
+Ha Huy Bang,Vu Nhat Huy
+Vũ Nhật Huy
+New results concerning the Bernstein-Nikol'skii inequality
+2011
+Advances in Mathematics Research
+Vol.16, pp.177-191
+H.H.

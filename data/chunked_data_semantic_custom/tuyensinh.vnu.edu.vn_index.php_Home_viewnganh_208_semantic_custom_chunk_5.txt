@@ -1,0 +1,23 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnganh_208.txt
+
+Xét tuyển theo học bạ THPT hoặc theo kết quả thi tốt nghiệp THPT năm 2022
+:
+Điểm xét tuyển = Điểm hồ sơ x 0,6 + Điểm phỏng vấn x 0,4
+Điểm xét tuyển lấy từ cao xuống thấp cho đến hết chỉ tiêu. Trong đó:
+- Điểm phỏng vấn (do Trường Quốc tế tổ chức) phải đạt tối thiểu 5 điểm trên thang điểm 10;
+- Điểm hồ sơ của chương trình Quản lý và chương trình Kế toán và Tài chính:
++ Theo phương thức xét tuyển học bạ:
+Điểm hồ sơ
+= (Điểm TBC năm
+lớp 10 + Điểm TBC năm lớp 11 + Điểm TBC Học kỳ 1 năm lớp 12) / 3
++ Theo phương thức xét tuyển điểm thi tốt nghiệp THPT:
+Điểm hồ sơ
+= (Điểm Môn 1 + Điểm Môn 2 + Điểm
+Môn chính
+x 2) x 3 / 4
+- Điểm hồ sơ của chương trình Quản trị Khách sạn, Thể thao và Du lịch:
+Điểm hồ sơ
+= (Điểm TBC năm
+lớp 10 + Điểm TBC năm lớp 11 + Điểm TBC năm lớp 12) / 3
+2.3.1.2. Xét tuyển theo các phương thức tuyển sinh khác:
+Xét tuyển theo điểm hồ sơ lấy từ cao xuống thấp cho đến hết chỉ tiêu và thí sinh phải đạt vòng phỏng vấn do Trường Quốc tế tổ chức (tối thiểu 5 điểm trên thang điểm 10).

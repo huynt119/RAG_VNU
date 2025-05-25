@@ -1,0 +1,146 @@
+Degrees
+Postdoctoral Researcher at INRIA, France
+Ph.D. from Grenoble Alpes University, France
+M.S. from Texas A&M University, USA
+Eng. from Hanoi University of Science and Technology, Vietnam
+Teaching
+Undergraduate
+Computer Network (English/Vietnamese)
+Analysis and Design of Computer Networks
+Network Devices and Transmission Media
+Network Operating System Lab
+Network Performance Evaluation
+Cloud Computing
+Cloud Computing Application Development
+Advanced Topics in Communications and Computer Networks
+Advanced Topics in Information Technology
+Industrial Internship
+Graduation Internship
+Project
+Graduate
+Network Performance Evaluation
+Network Administration
+Infrastructure for Cloud Computing
+Cloud Computing Application Development
+Research Practice 1
+Research Practice 2
+IoT and Cloud Computing (Paris Saclay Programme)
+Doctoral Courses
+Research Topics on Data Communication and Computer
+NEWS
+In November 2024, the paper "LNLF-BERT: Transformer for Long Document Classification with Multiple Attention Levels" was published in the journal "IEEE Access" (ISSN 2169-3536), a SCIE Q1 journal.
+In August 2024, the paper "High-performance simulation of disease outbreaks in growing-finishing pig herds raised by the precision feeding method" was published in the journal "Computers and Electronics in Agriculture" (ISSN 0168-1699), a SCIE Q1 Top 1% journal.
+In July 2024, I joined a certification course in data analytics using Power BI at CDAC (Centre for Development of Advanced Computing), New Delhi, India, under the ITEC program sponsored by the Government of India.
+In July 2024, the paper on autonomous vehicles (Evaluation of Reinforcement Learning Algorithms Applied to an Autonomous Car Model for Educational Purposes) was presented at the ICCSA 2024 conference (QUALIS rank B1) in Hanoi, Vietnam.
+In May 2024, I received a certificate of merit from the Minister of Education and Training of Vietnam for excellent completion of tasks from the 2021-2022 to 2022-2023 academic years.
+In May 2024, the student research group on autonomous vehicles that I co-directed won first prize at the VNU University of Engineering and Technology level.
+Publications
+Book Chapters
+Le, Nguyen Tuan Thanh and Pham, Manh Linh (2021) Big Data Analytics and Machine Learning for Industry 4.0: An Overview. In: Industry 4.0 Interoperability, Analytics, Security, and Case studies. Big Data for Industry 4.0: Challenges and Applications. CRC Press-Taylor & Francis Group, LLC. ISBN 978-1-003-04885-5. doi:10.1201/9781003048855
+International Journals
+Linh Manh Pham and Hoang Cao The, "LNLF-BERT: Transformer for Long Document Classification with Multiple Attention Levels," in IEEE Access, vol. 12, pp. 165348-165358, 2024, ISSN 2169-3536. doi: 10.1109/ACCESS.2024.3492102
+(SCIE)
+Linh Manh Pham, Duc-Toan Le, High-performance simulation of disease outbreaks in growing-finishing pig herds raised by the precision feeding method. Computers and Electronics in Agriculture. 225, 109335 (2024). ISSN 0168-1699. https://doi.org/10.1016/j.compag.2024.109335
+(SCIE)
+Nguyen, TTL., Pham, TM. & Pham, L.M. Efficient Redundancy Allocation for Reliable Service Function Chains in Edge Computing. J Netw Syst Manage 31, 18 (2023). ISSN 1573-7705. doi:10.1007/s10922-022-09708-x
+(SCIE)
+Pham, L.M., Le, NTT. & Nguyen, XT. Multi-level just-enough elasticity for MQTT brokers of Internet of Things applications. Cluster Computing (2022). doi:10.1007/s10586-022-03636-w
+(SCIE)
+Linh Manh Pham, Truong-Thang Nguyen, Tien-Quang Hoang, "Towards an Elastic Fog-Computing Framework for IoT Big Data Analytics Applications", Wireless Communications and Mobile Computing, vol. 2021, Article ID 3833644, 16 pages, 2021. doi:10.1155/2021/3833644
+(SCIE)
+Parlavantzas, Nikos and Pham, Manh Linh and Morin, Christine and Arnoux, Sandie and
+Beaunée, Gaël and Qi, Luyuan and Gontier, Philippe and Ezanno, Pauline (2020) A Service-based Framework for Building and Executing Epidemic Simulation Applications in the Cloud.
+Concurrency and Computation: Practice and Experience, 32 (5). pp. 1-16.
+doi:10.1002/cpe.5554
+(SCIE)
+Linh Manh Pham, Truong-Thang Nguyen: “Flexible deployment of component-based
+distributed applications on the Cloud and beyond”. KSII Transactions on Internet and
+Information Systems, vol. 13, no. 3, pp. 1141-1163, 2019. doi: 10.3837/tiis.2019.03.002
+(SCIE)
+Linh Manh Pham, Tuan-Minh Pham: “Autonomic fine-grained replication and migration at
+component level on multicloud”. Vietnam J. Computer Science 4(1): 39-49 (2017).
+doi:10.1007/s40595-016-0074-0
+(ESCI)
+Linh Manh Pham, Ahmed El-Rheddane, Didier Donsez, Noël De Palma: “CIRUS: an elastic
+cloud-based framework for Ubilytics”. Annales des Télécommunications 71(3-4): 133-140
+(2016). doi:10.1007/s12243-015-0489-0
+(SCI)
+International Conferences
+Xuan-Truong Nguyen, Linh Manh Pham, Nguyen Quang Thanh, Hoang-Viet Tran, “Improving the Performance of the African Swine Fever Spreading Simulation on the Cloud-based GAMA Platform”, The	11th EAI International Conference on Mobility, IoT and Smart Cities, Da Nang, Vietnam, October 2024. In Press.
+(SCOPUS)
+Xuan-Truong Nguyen, Linh Manh Pham, Quang Hung Bui, “Cloud-based multi-agent simulation of multiple pathogens in pigs raised by the precision feeding system”, The 11th EAI International Conference on Mobility, IoT and Smart Cities, Da Nang, Vietnam, October 2024. In Press.
+(SCOPUS)
+Bui Minh Quang, Le Nhu Hoc, Nguyen Minh Ngoc, Linh Manh Pham, Duong Viet Dung, Le Nguyen Tuan Thanh, Dang Ngoc Thuan, Nguyen Huu Thanh, Nguyen Dang Thai Son, “Evaluation of Reinforcement Learning Algorithms Applied to an Autonomous Car Model for Educational Purposes”, The 24th International Conference on Computational Science and Its Applications (ICCSA 2024), Hanoi, Vietnam, July 2024. doi:10.1007/978-3-031-65343-8_13
+(SCOPUS)
+Hoang-Viet Tran, Minh Quan Nguyen, Thanh Dat Nguyen Dinh, Thi Trang Do, Linh Manh Pham, and Pham Ngoc Hung, “A Non-Test Driver Concolic-Based Unit Testing Method for Java Projects”, The 13th Conference on Information Technology and its Applications (CITA 2024), Da Nang, Vietnam, July 2024.doi:10.1007/978-3-031-74127-2_6
+(SCOPUS)
+Tung Thanh Hoang, Trung Tran, Nguyen Quang Nhat Truong, Linh Manh Pham. “Establish Virtual Computer Labs for Information Technology Students Based on Open-source Platform”, Proc. 12th International Conference on Green and Human Information Technology, pp. 1-6, Ha Noi, Vietnam, Jan 2024.
+Linh Manh Pham, Manh-Dong Tran. “Fine-grained Elasticity for Big Data Stream Processing of IoT Applications”, Proc. IEEE 17th RIVF, pp. 487-492, Ha Noi, Vietnam, Dec 2023. doi:10.1109/RIVF60135.2023.10471874
+(SCOPUS)
+Linh Manh Pham, Xuan-Truong Nguyen. “A Cloud-based Multi-agent Simulation of African Swine Fever in Hanoi Region”, Proc. 8th IEEE/ACIS International Conference on Big Data, Cloud Computing, and Data Science Engineering, pp. 52-57, Ho Chi Minh city, Vietnam, Dec 2023. doi:10.1109/BCD57833.2023.10466296
+(SCOPUS)
+Xuan-Truong Nguyen, Linh Manh Pham, Quang Hung Bui. “Simulation of the Health Monitoring and Disease Warning System on the Pig Herd with a Cloud-based GAMA Platform”, Proc. 8th IEEE/ACIS International Conference on Big Data, Cloud Computing, and Data Science Engineering, pp. 26-31, Ho Chi Minh city, Vietnam, Dec 2023. doi:10.1109/BCD57833.2023.10466335
+(SCOPUS)
+Xuan-Truong Nguyen, Linh Manh Pham, "Cloud-Based Simulation of Precision Feeding System for Pig Health Management", The 13th International Conference on Application of Information Technology in Agriculture Asia-Pacific Region (APFITA 2022), pp. 109-115, Hanoi, Vietnam, 24th-26th November, 2022. ISBN 978-604-9990-32-8. http://fat.uet.vnu.edu.vn/proceeding-of-apfita-wcca-2022-conference
+Linh Manh Pham, Hieu Nguyen-Ba, Hoai Son Nguyen and Huy-Ham Le, "Simulation of precision feeding systems for swine," 2021 13th International Conference on Knowledge and Systems Engineering (KSE), 2021, pp. 1-6, Bangkok, Thailand. doi:10.1109/KSE53942.2021.9648760.
+(SCOPUS)
+Nikos Parlavantzas, Linh Manh Pham, Arnab Sinha, Christine Morin, “Cost-Effective
+Reconfiguration for Multi-Cloud Applications.” pp. 521-528, PDP 2018, Cambridge, UK.
+doi:10.1109/PDP2018.2018.00088
+(SCOPUS)
+Linh Manh Pham, Nikos Parlavantzas, Christine Morin, Sandie Arnoux, Luyuan Qi, Philippe
+Gontier, Pauline Ezanno, “DiFFuSE, a Distributed Framework for Cloud-based Epidemic
+Simulations: a Case Study in Modelling the Spread of Bovine Viral Diarrhea Virus”, Proc. IEEE
+9th International Conference on Cloud Computing Technology and Science (CloudCom), pp.
+304-313. Hong Kong, Dec 2017. doi:10.1109/CloudCom.2017.41
+(SCOPUS)
+Linh Manh Pham, Truong-Thang Nguyen. “AutoBot: A Versatile Platform for Management of
+Legacy Applications in the Cloud”, Proc. ACM 7th SoICT, pp. 403-410, Ho Chi Minh city,
+Vietnam, Dec 2016. doi:10.1145/3011077.3011131
+(SCOPUS)
+Tuan-Minh Pham, Linh Manh Pham. “Load Balancing using Multipath Routing in Network
+Functions Virtualization”, Proc. IEEE 12th RIVF, pp. 85-90, Ha Noi, Vietnam, Nov 2016. doi:
+10.1109/RIVF.2016.7800274
+(SCOPUS)
+Linh Manh Pham, Alain Tchana, Didier Donsez, Noel de Palma, Vincent Zurczak, Pierre-Yves
+Gibello, "Roboconf: A Hybrid Cloud Orchestrator to Deploy Complex Applications", Proc. IEEE
+8th International Conference on Cloud Computing (CLOUD), pp. 365-372, New York, USA, June
+2015. doi:10.1109/CLOUD.2015.56
+(SCOPUS)
+Linh Manh Pham, Tuan-Minh Pham, "Autonomic Fine-grained Migration and Replication of
+Component-based Applications across Multi-Clouds", Proc. IEEE 2nd NAFOSTED-NICS, pp.
+5-10, Ho Chi Minh city, Vietnam, Sept 2015. doi: 10.1109/NICS.2015.7302221
+(SCOPUS)
+Linh Manh Pham, Alain Tchana, Didier Donsez, Vincent Zurczak, Pierre-Yves Gibello, Noel
+de Palma, "An adaptable framework to deploy complex applications onto multi-cloud
+platforms", Proc. IEEE 11th RIVF, pp. 169-174, Can Tho, Vietnam, Jan 2015.
+doi:10.1109/RIVF.2015.7049894
+(SCOPUS)
+Mehrube Mehrubeoglu, Evan Ortlieb, Lifford McLauchlan, Linh Manh Pham, "Capturing
+reading patterns through a real-time smart camera iris tracking system", Proc. SPIE 8437-
+843705, Brussels, Belgium, April 2012. doi:10.1117/12.922875
+(SCOPUS)
+Mehrube Mehrubeoglu, Linh Manh Pham, Nagarjunar Paleti, "Real-time Web-based
+Hyperspectral Data Viewing and Control", Proc. IEEE Applied Imagery Pattern Recognition
+Workshop (AIPR), pp. 1-8, Washington DC, USA, April 2011. doi:10.1109/AIPR.2011.6176372
+(SCOPUS)
+Mehrube Mehrubeoglu, Linh Manh Pham, Hung Thieu Le, Ramchander Muddu, Dongseok
+Ryu, “Real-time eye tracking using a smart camera”, Proc. IEEE Applied Imagery Pattern
+Recognition Workshop (AIPR), pp. 1-7, Washington DC, USA, April 2011.
+doi:10.1109/AIPR.2011.6176373
+(SCOPUS)
+Domestic Journals & Conferences
+Nguyen Tuan Thanh Le, Dat Tran-Anh, Quoc Bao Bui, Linh Manh Pham. "Double Deep Q-Network Algorithm For Solving Traffic Congestion on One-Way Highways", Tạp chí Khoa học kỹ thuật Thuỷ lợi và Môi trường, v. 87, n. , dec. 2023. ISSN 1859-3941. https://tapchivatuyentap.tlu.edu.vn/DesktopModules/cmsview/ViewFile.ashx?id=2865
+Linh Manh Pham, Xuan-Tung Hoang. "An Elasticity Framework for Distributed Message Queuing Telemetry Transport Brokers", VNU Journal of Science: Computer Science and Communication Engineering, [S.l.], v. 37, n. 1, apr. 2021. ISSN 2588-1086. http://jcsce.vnu.edu.vn/index.php/jcsce/article/view/267
+Linh Manh Pham, Tien-Quang Hoang, Xuan-Truong Nguyen. "Elasticity for MQTT Brokers in IoT Applications", Journal of Research and Development on Information and Communication Technology, v. 2020, n. 2, dec. 2020. ISSN 1859-3534.
+Pham Manh Linh, Tran Manh Dong, Nguyen Truong Thang. “Một công cụ đo kiểm giao thức
+MQTT cho những ứng dụng IoT phục vụ cho việc ra quyết định co dãn tài nguyên trên đám
+mây”, Proc. 22nd National Symposium on Information & Communication Technology ("@"
+conference), Thai Binh, Vietnam, Jun 2019.
+Tuan-Minh Pham, Linh Manh Pham. “Cân bằng tải sử dụng định tuyến đa đường trong ảo
+hóa chức năng mạng”, in Vietnamese, Proc. 19th National Symposium on Information &
+Communication Technology (“@” conference), Ha Noi, Vietnam, Oct 2016.
+Linh Manh Pham, “A Big Data Analytics Framework for IoT Applications in the Cloud”, Vietnam
+National University Journal of Computer Science, 31:2, pp. 44-55, 2015.
+http://www.jcsce.vnu.edu.vn/index.php/jcsce/article/view/84
+

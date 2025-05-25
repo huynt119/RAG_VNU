@@ -1,0 +1,81 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-may-tinh-7_.txt
+
+3
+Các
+học phần
+lựa chọn
+bổ trợ
+6/20
+58
+PSY1050
+Tâm lý học đại cương
+General Psychology
+2
+26
+4
+59
+ELT2028
+Chuyên nghiệp trong công nghệ
+Professional in Technology
+2
+30
+60
+MNS1052
+Khoa học quản lý đại cương
+Introduction to Management Science
+2
+20
+10
+61
+THL1057
+Nhà nước và pháp luật đại cương
+State and Law
+2
+30
+62
+INE1150
+Kinh tế vi mô 1
+Micro Economics
+3
+30
+10
+5
+63
+INE1151
+Kinh tế vĩ mô 1
+Macro Economics
+3
+30
+10
+5
+64
+HIS1053
+Lịch sử văn minh thế giới
+History of World Civilization
+3
+42
+3
+65
+HIS1056
+Cơ sở văn hóa Việt Nam
+Fundamentals of Vietnamese Culture
+3
+42
+3
+V.4
+Đồ
+án
+tốt nghiệ
+p
+10
+66
+ELT4068
+Đồ án tốt nghiệp
+Thesis
+10
+150
+Tổng cộng
+155
+Ghi chú:
+Học phần ngoại ngữ thuộc khối kiến thức chung được tính vào tổng số tín chỉ của chương trình đào tạo, nhưng kết quả đánh giá các học phần này không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy
+.

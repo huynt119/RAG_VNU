@@ -1,0 +1,30 @@
+Tuyển sinh ĐHQGHN
+Trang chủ
+Tin tức
+Danh sách ngành
+Thông tin tuyển sinh năm 2022
+Thông tin tuyển sinh năm 2023
+TIN TỨC
+Trắc nghiệm thích ứng – cơ sở của dạy học phân hóa
+Trắc nghiệm thích ứng (TNTU)
+, tiếng Anh gọi là “Adaptive Test” là thuật ngữ để chỉ một phương pháp đánh giá thí sinh (học sinh, sinh viên, …) bằng hình thức kiểm tra trắc nghiệm nhưng đánh giá theo hướng năng lực của thí sinh bằng bộ câu hỏi tương ứng với mức năng lực đó.
+Hệ thống TNTU
+là một hệ thống phần mềm được phát triển trên cơ sở mô hình TNTU để đánh giá thí sinh.
+Quy trình CAT
+Về hoạt động của CAT, có thể hình dung hệ thống TNTU cố gắng bắt chước phương pháp đánh giá của một người giáo viên đối với học sinh. Có nghĩa là, lần đầu tiên hệ thống cung cấp cho thí sinh một câu hỏi vừa đủ khó đối với thí sinh. Nếu thí sinh trả lời câu trả lời một cách chính xác, thì sau đó một câu hỏi khó hơn sẽ được đề nghị và nếu không một câu hỏi có độ khó thấp hơn được đề nghị. Quá trình này nên được lặp đi lặp lại cho đến khi có đủ bằng chứng để xác định trình độ kiến thức của thí sinh. Trong TNTU, quá trình này được thực hiện một cách tự động. Ban đầu có thể tạm thời ước lượng một mức năng lực của thí sinh, sau khi đặt ra một câu hỏi và thí sinh trả lời. Một ước lượng mới về năng lực của thí sinh sẽ được tính toán lại. Với ước tính này, câu hỏi kế tiếp sẽ được chọn một cách chính xác hơn. Ta có thể xem TNTU như là một thuật toán lặp với thông số đầu vào là ước tính ban đầu về mức độ năng lực của thí sinh, thuật toán được bao gồm các bước sau:
+Do vậy, trong mô hình TNTU: thuật toán lựa chọn câu hỏi tiếp theo phù hợp với khả năng hiện tại của thí sinh là khó khăn vì phải được tính toán một cách phức tạp. Ngày nay với sự phát triển của khoa học máy tính thì vấn đề trên đã được giải quyết một cách tốt hơn.
+Tại sao nên sử dụng CAT trong dạy học thích ứng?
+Ưu điểm của CAT
+Hình thức kiểm tra đánh giá này cho phép chúng ta rút ngắn số lượng câu hỏi cho mọi thí sinh nhưng vẫn đảm bảo độ chính xác về  đánh giá năng lực của thí sinh. CAT hoạt động dựa trên lý thuyết ứng đáp câu hỏi (Item  Response Theory – IRT) với ưu điểm vượt trội là ước lượng đúng năng lực với hầu hết tất cả các thí sinh trong khi đó bài kiểm tra cũ chỉ ước lượng đúng năng lực của các thí sinh có năng lực trung bình.
+Khoa Quản trị Chất lượng – Đề tài CAT
+Hiện nay, Khoa QTCL đang trong giai đoạn hoàn thiện nhóm đề tài phát triển ngân hàng đề đánh giá thích ứng, trong thời gian tới hứa hẹn sẽ là công cụ trợ giúp đắc lực cho giáo viên học sinh và các nhà trường. Các bạn học sinh có nhu cầu tìm hiểu, tham gia vào lĩnh vực mới, với triển vọng nghề nghiệp rộng mở có thể đăng kí chương trình
+cử nhân
+Quản trị Chất lượng Giáo dục. Khoa Quản trị Chất lượng
+luôn sẵn sàng đồng hành cùng các ban sinh viên trong con đường học tập và nghiên cứu giáo dục.
+===========================
+Cử nhân quản trị chất lượng giáo dục
+Cơ hội việc làm rộng mở:
+nhà quản trị, chuyên viên công tác tại các trung tâm đảm bảo chất lượng giáo dục, trung tâm kiểm định chất lượng giáo dục, trung tâm khảo thí, phòng đào tạo, phòng quản lý khoa học
+Nhóm ngành GD3 – điểm sàn: 16 điểm
+Điều chỉnh nguyện vọng:
+từ ngày 22-7 đến 17h ngày 29-7 (phương thức trực tuyến) và đến 17h ngày 31-7 (bằng phiếu đăng ký xét tuyển).

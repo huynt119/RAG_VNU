@@ -1,0 +1,139 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_851.txt
+
+Quy mô đào tạo chính quy đến 31/12/2020
+STT
+Trình độ
+Ngành/chuyên ngành đào tạo
+Khối ngành đào tạo
+Tổng cộng
+Khối I
+Khối II
+Khối III
+Khối IV
+Khối V
+Khối VI
+Khối VII
+Liên ngành
+I
+Tiến sĩ
+90
+90
+Khoa học máy tính
+18
+18
+Mạng máy tính và truyền thông dữ liệu
+5
+5
+Kỹ thuật phần mềm
+10
+10
+Hệ thống thông tin
+15
+15
+Cơ kỹ thuật
+8
+8
+Kỹ thuật điện tử
+17
+17
+Kỹ thuật viễn thông
+6
+6
+Vật lý kỹ thuật
+11
+11
+II
+Thạc sĩ
+278
+278
+Khoa học máy tính
+87
+87
+Mạng máy tính và truyền thông dữ liệu
+5
+5
+Kỹ thuật phần mềm
+34
+34
+Hệ thống thông tin
+72
+72
+An toàn thông tin
+18
+18
+Quản lý Hệ thống thông tin
+13
+13
+Cơ kỹ thuật
+6
+6
+Kỹ thuật cơ điện tử
+6
+6
+Kỹ thuật điện tử
+24
+24
+Kỹ thuật viễn thông
+8
+8
+Vật lý kỹ thuật
+5
+5
+III
+Đại học
+Chính quy
+5464
+5464
+Công nghệ thông tin
+1492
+1492
+Công nghệ kỹ thuật cơ - điện tử
+634
+634
+Công nghệ kỹ thuật điện tử – viễn thông
+457
+457
+Khoa học máy tính
+672
+672
+Mạng máy tính và truyền thông dữ liệu
+191
+191
+Hệ thống thông tin
+168
+168
+Kỹ thuật máy tính
+363
+363
+Công nghệ kỹ thuật xây dựng
+257
+257
+Cơ kỹ thuật
+291
+291
+Kỹ thuật điều khiển và tự động hoá
+125
+125
+Vật lý kỹ thuật
+223
+223
+Công nghệ hàng không vũ trụ
+160
+160
+Công nghệ nông nghiệp
+81
+81
+Kỹ thuật Robot
+161
+161
+Kỹ thuật năng lượng
+189
+189
+IV
+Học cùng lúc 2 chương trình
+5
+5
+Ngành công nghệ thông tin
+5
+5
+3.

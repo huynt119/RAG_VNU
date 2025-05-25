@@ -1,0 +1,22 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-may-tinh-6_.txt
+
+Kiến thức chung theo lĩnh vực
+Biết được các kiến thức cơ bản về Vật lý cơ, nhiệt, điện và quang; hiểu được các hiện tượng và quy luật Vật lý và các ứng dụng liên quan trong khoa học kỹ thuật và đời sống; vận dụng kiến thức để học tập và nghiên cứu các Học phần khác của các ngành kỹ thuật và công nghệ;
+Nắm được các kiến thức liên quan đến Giải tích toán học như tính giới hạn,
+tính đạo hàm, tính tích phân của các hàm một biến và hàm nhiều biến;
+Hiểu và vận dụng được các kiến thức liên quan đến Đại số cao cấp như ma trận và các phép biến đổi, giải các hệ phương trình nhiều biến số…
+1.1.3. Kiến thức chung của khối ngành
+Hiểu và vận dụng được các phương pháp phân tích tín hiệu, phân tích và thiết kế hệ thống tuyến tính trong các miền biểu diễn khác nhau;
+Hiểu và vận dụng được các kiến thức liên quan đến cấu trúc dữ liệu và giải thuật;
+Hiểu và vận dụng được các khái niệm cơ bản về số phức và các loại biểu diễn của số phức;
+Hiểu và vận dụng được các khái niệm cơ bản của lý thuyết xác suất. Kiến thức chung của nhóm ngành
+Hiểu và vận dụng được các kiến thức cơ bản về kỹ thuật điện, điện tử tương tự, điện tử số;
+Hiểu và vận dụng được các kiến thức cơ bản về tín hiệu, xử lý tín hiệu số;
+Nắm vững và sử dụng thành thạo một ngôn ngữ lập trình cơ bản, hiểu các khái niệm và viết được chương trình phần mềm theo phương pháp lập trình hướng thủ tục và lập trình hướng đối tượng;
+Hiểu và giải thích được cơ chế hoạt động chung của hệ thống máy tính, các bộ phận, cấu trúc của máy tính;
+Hiểu và vận dụng được các nguyên lý cơ bản hệ điều hành của máy tính. Kiến thức ngành
+Kiến thức rộng: Hiểu và vận dụng thành thạo các kiến thức nền tảng cơ bản của ngành; tạo tiền đề tốt để có thể nắm vững các kiến thức theo các định hướng chuyên sâu của ngành Kỹ thuật Máy tính;
+Kiến thức sâu: Nắm vững và vận dụng thành thạo các kiến thức liên quan đến các định hướng chuyên sâu bao gồm: Kiến trúc máy tính và hệ điều hành, Mạch tích hợp, Hệ thống mạng máy tính và truyền thông, Hệ thống nhúng, Đo lường và điều khiển; Cho phép sinh viên lựa chọn theo một hướng hoặc nhiều định hướng khác nhau, đáp ứng nguyện vọng nghề nghiệp tương lai;
+Kiến thức bổ trợ: Nắm và vận dụng tốt được các kiến thức thuộc các lĩnh vực công nghệ (ngoài ĐTVT), kinh tế, luật, xã hội, nhân văn, v.v. đáp ứng nguyện vọng nghề nghiệp tương lai;
+Kiến thức thực tập: Hiểu, vận dụng thành thạo và sáng tạo các kiến thức thực tập thiết kế các linh kiện điện – điện tử, máy tính, hệ thống mạng máy tính, hệ điều khiển và vi xử lý trong môi trường phòng thí nghiệm và tại các cơ sở doanh nghiệp nghiên cứu và triển khai công nghệ;
+Khóa luận tốt nghiệp: Hiểu, thực hành thành thạo và sáng tạo kiến thức tổng hợp và chuyên sâu về các định hướng đã học. Thể hiện các khả năng xác định vấn đề thực tiễn cần giải quyết, chuyển tải thành bài toán công nghệ, thực hiện thiết kế và giải quyết vấn đề, diễn giải được kết quả, trình bày kết quả.

@@ -1,0 +1,19 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-ky-thuat-dien-tu-truyen-thong-clc-tt23-2_.txt
+
+Kiến thức theo lĩnh vực
+Hiểu và thực hành thành thạo các kiến thức cơ bản về Vật lý cơ, nhiệt, điện và quang; hiểu được các hiện tượng và quy luật Vật lý và các ứng dụng liên quan trong khoa học kỹ thuật và đời sống; vận dụng kiến thức để học tập và nghiên cứu các môn học khác của các ngành kỹ thuật và công nghệ;
+Hiểu và thực hành thành thạo các kiến thức liên quan đến Giải tích như tính giới hạn, tính đạo hàm, tính tích phân của các hàm một biến và hàm nhiều biến;
+Hiểu và thực hành thành thạo các kiến thức liên quan đến Đại số cao cấp như ma trận và các phép biến đổi, giải các hệ phương trình nhiều biến số v.v. Kiến thức theo khối ngành
+Hiểu và thực hành thành thạo được các kiến thức liên quan đến cấu trúc dữ liệu về mảng, danh sách liên kết, hàng đợi, ngăn xếp, cây nhị phân, bảng băm;
+Hiểu và thực hành thành thạo các thuật toán cơ bản liên quan đến sắp xếp, tìm kiếm trên các cấu trúc dữ liệu;
+Hiểu và thực hành thành thạo các khái niệm cơ bản về số phức và các loại biểu diễn của số phức, hàm giải tích, vi phân, các hàm cơ sở phức, các biểu diễn chuỗi của các hàm giải tích, chuỗi Fourier, biến đổi Fourier, biến đổi Laplace;
+Hiểu và thực hành thành thạo các khái niệm cơ bản của lý thuyết xác suất (thí nghiệm ngẫu nhiên, không gian mẫu, sự kiện ngẫu nhiên, xác suất có điều kiện, các sự kiện độc lập, định lý Bayes, định lý xác suất toàn phần);
+Hiểu và thực hành thành thạo sự phân loại và các đặc trưng của tín hiệu và hệ thống, các phương pháp biểu diễn tín hiệu và hệ thống tuyến tính trong miền thời gian, miền tần số và miền biến phức (miền s và miền z);
+Hiểu và thực hành thành thạo các phương pháp phân tích tín hiệu, phân tích và thiết kế hệ thống tuyến tính trong các miền biểu diễn khác nhau. Kiến thức theo nhóm ngành
+Hiểu và thực hành thành thạo các kiến thức cốt lõi của nhóm ngành, bao gồm: các phương pháp tính để xây dựng thuật toán, tối ưu các giải pháp công nghệ, điện, điện tử cơ sở, trường điện từ, xử lý tín hiệu, kiến trúc máy tính, mô hình hóa và mô phỏng sử dụng các phần mềm chuyên dụng cho ĐTVT (Matlab, Simulink, Ansoft, VHDL, v.v.). Kiến thức ngành
+Hiểu và thực hành thành thạo các kiến thức thuộc các định hướng chính trong ĐTVT, bao gồm: Truyền thông, Mạng, Kỹ thuật máy tính, Điều khiển và Tự động hóa, Điện tử y – sinh, Vi điện tử. Sinh viên được lựa chọn, tư vấn theo học một định hướng chính;
+Kiến thức rộng của định hướng: là bắt buộc đối với sinh viên đã đăng ký theo định hướng và là lựa chọn đối với sinh viên đã đăng ký theo những định hướng khác;
+Kiến thức sâu của định hướng: là lựa chọn đối với tất cả các sinh viên, cho phép sinh viên lựa chọn theo một hướng hoặc nhiều định hướng khác nhau, đáp ứng nguyện vọng nghề nghiệp tương lai;
+Kiến thức bổ trợ: các kiến thức thuộc các lĩnh vực công nghệ (ngoài ĐTVT), kinh tế, luật, xã hội, nhân văn, v.v. đáp ứng nguyện vọng nghề nghiệp tương lai;
+Kiến thức thực tập: Hiểu, thực hành thành thạo và sáng tạo các kiến thức thực tập thiết kế các linh kiện và hệ thống truyền thông, mạng truyền thông, điện – điện tử, máy tính, điều khiển, xử lý thông tin trong môi trường phòng thí nghiệm và tại các cơ sở doanh nghiệp nghiên cứu và triển khai công nghệ;
+Khóa luận tốt nghiệp: Hiểu, thực hành thành thạo và sáng tạo kiến thức tổng hợp và chuyên sâu về các định hướng đã học. Thể hiện các khả năng xác định vấn đề thực tiễn cần giải quyết, chuyển tải thành bài toán công nghệ, thực hiện thiết kế và giải quyết vấn đề, diễn giải được kết quả, trình bày kết quả.

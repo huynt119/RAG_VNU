@@ -1,0 +1,21 @@
+Nguồn: uet.vnu.edu.vn_nganh_mang_may_tinh_va_truyen_thong_du_lieu_thi_truong_khat_nhan_luc_co_hoi_viec_lam_rong_mo_.txt
+
+Sinh viên có thể trở thành:
+Front-End Developer (Lập trình viên Front-End):
+Thiết kế đồ họa cho giao diện của các ứng dụng Web; Viết code xây dựng giao diện của các ứng dụng Web; Phối hợp với back-end developer để xây dựng tính năng của ứng dụng. Back-End Developer (Lập trình viên Back-End):
+Xây dựng, phát triển những tính năng của một ứng dụng web thông qua việc sử dụng; Các kiến thức về cơ sở dữ liệu (MySQL, SQLite, PostgreSQL, MongoDB); Các ngôn ngữ lập trình phía server (Python,  PHP, Ruby, NodeJS); Các công nghệ webserver (Apachie, Nginx)…
+Full Stack Web Developer (Nhà phát triển web):
+Thiết kế, xây dựng toàn bộ một ứng dụng web từ frond-end đến back-end
+– Về lĩnh vực Công nghệ không dây thế hệ mới – Next generation wireless technology (4G, 5G)
+Với số lượng người sử dụng thiết bị di động để truy cập internet ngày càng tăng, cùng với yêu cầu về tốc độ trao đổi dữ liệu qua mạng không dây lớn, dẫn đến nhu cầu nhân lực “khổng lồ” trong lĩnh vực công nghệ cao này:
+Kĩ sư mạng vô tuyến:
+Chịu trách nhiệm về khảo sát tại chỗ, lắp đặt, thử nghiệm, vận hành, hỗ trợ kỹ thuật và bảo trì các mạng di động; Triển khai các phần mềm của các mạng không dây di động; Xác định và xử lý các vấn đề kỹ thuật phát sinh; Cung cấp giải pháp kỹ thuật lập kế hoạch và thực hành hỗ trợ mạng…
+Kĩ sư Datacom:
+Thực hiện các dự án, công việc kỹ thuật về Datacom; Tham gia vào thiết kế mảng Datacom; Hỗ trợ kỹ thuật, triển khai dự án, kiểm tra và vận hành, duy trì, bảo dưỡng hệ thống Datacom…
+Kĩ sư quản lý điều hành mạng viễn thông:
+Quản lý, giám sát, vận hành các thiết bị phần mạng lõi, hệ thống dịch vụ truyền dẫn, kết nối các hướng lưu lượng quốc tế và mạng khác. Kĩ sư tối ưu hóa mạng di động:
+Thiết kế, tư vấn, xây dựng các phương án kỹ thuật cho các dịch vụ tối ưu chất lượng mạng thông tin di động 3G, 4G; Triển khai dịch vụ tối ưu mạng vô tuyến cùng với các dự án mở rộng vùng phủ sóng và dung lượng mạng
+Kĩ sư lập trình nhúng:
+Lập trình nhúng cho thiết bị mạng sử dụng ngôn ngữ C; Phát triển thiết bị nhúng dựa trên nền tảng Linux Kenel; Thiết kế, phát triển giao thức mạng ở Layer 2 và Layer 3…
+– Giảng viên, nghiên cứu viên ở các trường đại học, cao đẳng
+Với các sinh viên mong muốn làm việc trong môi trường giáo dục, nghiên cứu thì có thể trở thành chuyên viên hay giảng viên làm việc, giảng dạy tại các trường đại học, cao đẳng, viện nghiên cứu, đào tạo về công nghệ thông tin.

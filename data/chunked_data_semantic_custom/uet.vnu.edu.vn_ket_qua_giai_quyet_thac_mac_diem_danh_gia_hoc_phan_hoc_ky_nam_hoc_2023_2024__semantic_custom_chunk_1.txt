@@ -1,0 +1,131 @@
+Nguồn: uet.vnu.edu.vn_ket_qua_giai_quyet_thac_mac_diem_danh_gia_hoc_phan_hoc_ky_nam_hoc_2023_2024_.txt
+
+Nguyễn Văn Phi
+41
+22028006
+Lê Việt Hoàng
+31/01/2004
+K67CACLC1
+FLF1107 25 (CLC)
+Tiếng Anh B1
+Trường ĐHNN
+42
+22028127
+Nguyễn Hoàng Sơn
+04/07/2004
+K67CACLC1
+FLF1107 26 (CLC)
+Tiếng Anh B1
+Trường ĐHNN
+43
+22028184
+Nguyễn Hữu Đức
+01/01/2004
+K67CACLC1
+FLF1107 25 (CLC)
+Tiếng Anh B1
+Trường ĐHNN
+44
+22028172
+Lê Xuân Hùng
+18/12/2004
+K67CACLC2
+FLF1107 30 (CLC)
+Tiếng Anh B1
+Trường ĐHNN
+45
+22028228
+Trần Duy Tuấn Anh
+11/11/2004
+K67CACLC2
+INT2210 23
+Cấu trúc dữ liệu và giải thuật
+TS. Lê Quang Hiếu
+46
+22028229
+Nguyễn Quang Dũng
+20/11/2004
+K67CACLC3
+INT2210 25
+Cấu trúc dữ liệu và giải thuật
+PGS.TS. Nguyễn Thị Nhật Thanh
+47
+22028007
+Nguyễn Hoàng Dương
+19/01/2004
+K67CACLC4
+INT2044E 22
+Lý thuyết thông tin
+PGS.TS. Nguyễn Phương Thái
+48
+22028038
+Đỗ Quang Minh
+09/06/2004
+K67CACLC4
+FLF1107 26 (CLC)
+Tiếng Anh B1
+Trường ĐHNN
+49
+22028121
+Đồng Quang Duy Hưng
+17/11/2004
+K67CACLC4
+FLF1107 27 (CLC)
+Tiếng Anh B1
+Trường ĐHNN
+50
+22028245
+Trần Văn Sơn
+03/08/2004
+K67CACLC4
+FLF1107 30 (CLC)
+Tiếng Anh B1
+Trường ĐHNN
+51
+22028249
+Nguyễn Văn Nhất
+04/03/2004
+K67CACLC4
+INT2210 25
+Cấu trúc dữ liệu và giải thuật
+PGS.TS. Nguyễn Thị Nhật Thanh
+52
+22028297
+Trần Thu Thủy
+12/01/2004
+K67CACLC4
+INT2210 25
+Cấu trúc dữ liệu và giải thuật
+PGS.TS. Nguyễn Thị Nhật Thanh
+53
+22021176
+Lê Hoàng Vũ
+13/11/2004
+K67CB
+FLF1107 1
+Tiếng Anh B1
+Trường ĐHNN
+54
+22029000
+Nguyễn Chí Nguyên
+24/11/2004
+K67ĐACLC
+ELT2030 21
+Kỹ thuật điện
+PGS.TS. Trần Văn Quảng
+55
+22029058
+Chu Tâm Vũ
+13/10/2004
+K67ĐACLC
+ELT2030 21
+Kỹ thuật điện
+PGS.TS. Trần Văn Quảng
+56
+22029083
+Đặng Ngọc Giáp
+10/01/2004
+K67ĐACLC
+ELT2030 20
+Kỹ thuật điện
+GS.TS.

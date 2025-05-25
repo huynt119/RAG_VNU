@@ -1,0 +1,8 @@
+Nguồn: uet.vnu.edu.vn_khoa_dien_tu_vien_thong_05_doi_xuat_sac_gianh_duoc_giai_thuong_tu_cuoc_thi_iot_challenge_2022_.txt
+
+Kết thúc cuộc thi, Ban Giám khảo đã lựa chọn 5 đội để trao giải,
+cụ thể: Giải nhất trị giá 10.000.000 đồng thuộc về THE WITCHERs – Thiết bị hỗ trợ chăm sóc F0 tại nhà (COVID – CARE); Giải nhì trị giá 5.000.000đ thuộc về đội Five Wolves – Nông nghiệp thông minh; Giải ba trị giá 3.000.000đ thuộc về đội Laborious Foresters – Hệ thống nhà kính thông minh với mục đích trồng nấm; và 02 giải triển vọng mỗi giải trị giá 1.000.000 đồng thuộc về đội NTTTV – Tủ thuốc thông minh và đội Cheems – Lost Band. Giải nhất thuộc về THE WITCHERs – Thiết bị hỗ trợ chăm sóc F0 tại nhà (COVID – CARE) gồm các sinh viên K63K1 Ngô Minh Khánh, Đặng Trung Hiếu, Đinh Tiến Dương, Phạm Minh Hạnh (K62K)
+Giải nhì thuộc về đội Five Wolves – Nông nghiệp thông minh gồm các sinh viên Nghiêm Văn Quang (K64K2), Văn Quốc Dũng (K64K1), Mai Mạnh Huy (K65ĐA1), Nguyễn Kiên (K66K), Nguyễn Đăng Du (K64R)
+Giải ba thuộc về đội Laborious Foresters – Hệ thống nhà kính thông minh với mục đích trồng nấm, gồm các sinh viên K64ĐACLC2 Nguyễn Thành Công, Lê Quốc Việt, Nguyễn Thanh Tùng, Dương Hoàng Vinh, Trần Xuân Trường
+02 giải triển vọng thuộc về đội NTTTV – Tủ thuốc thông minh gồm sinh viên K64R Nguyễn Quang Trường, Phạm Đăng Nguyên, Ngô Sỹ Trung, Nguyễn Thị Phương Thảo, Nguyễn Phúc Vinh và đội Cheems – Lost Band gồm sinh viên K66K Nguyễn Duy Anh, Vũ Đức Lộc, Nguyễn Duy Hùng, Nguyễn Công Anh Tuấn (K64R)
+Ngoài ra, Ban Giám khảo cũng chọn top 20 sinh viên xuất sắc nhất từ các đội thi và trao suất học bổng khóa học Embedded trị giá lên đến 1000 USD/sinh viên từ FPT Software Academy tổ chức.

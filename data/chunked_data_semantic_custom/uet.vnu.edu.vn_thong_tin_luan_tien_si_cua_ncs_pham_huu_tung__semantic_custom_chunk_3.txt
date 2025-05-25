@@ -1,0 +1,15 @@
+Nguồn: uet.vnu.edu.vn_thong_tin_luan_tien_si_cua_ncs_pham_huu_tung_.txt
+
+Hiệu năng của hệ thống được đánh giá dựa trên các biểu thức dạng đóng của các phép đo xác suất dừng bảo mật và xác suất bị nghe lén. Khả năng ứng dụng trong thực tiễn:
+Các kết quả nghiên cứu của luận án là nguồn tài liệu tham khảo cho các nhà nghiên cứu quan tâm đến lĩnh vực đánh giá hiệu năng bảo mật tầng vật lý trong mạng NOMA. Ngoài ra, các kết quả của luận án có thể sử dụng để đánh giá hiệu năng bảo mật của các hệ thống tương tự trong thực tế góp phần giúp các nhà quản lý có định hướng, giải pháp trong việc đề xuất phương án thiết kế mạng NOMA đảm bảo tính an toàn, bảo mật. Những hướng nghiên cứu tiếp theo:
+Tiếp tục nghiên cứu trong lĩnh vực bảo mật lớp vật lý trong mạng NOMA trên các mô hình kênh fading có phân bố khác nhau, đề xuất các giải pháp nâng cao bảo mật tầng vật lý trong mạng NOMA tích hợp với các công nghệ quan trọng trong mạng thế hệ thứ 5G,6G như Massive MIMO, mmWave,…
+14. Các công trình đã công bố có liên quan đến luận án:
+[1] “Secrecy Performance Analysis of Cooperative NOMA Networks With ActiveProtection under
+α
+–
+μ
+Fading”,
+2019 International Conference on Advanced Technologies for Communications (ATC)
+, Hanoi, Vietnam, 2019, pp. [2] “Secrecy Outage Probability and Fairness of Packet Transmission Time in a NOMA System”,
+IEEE Access
+, vol.

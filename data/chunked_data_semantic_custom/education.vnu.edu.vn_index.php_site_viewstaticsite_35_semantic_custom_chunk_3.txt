@@ -1,0 +1,27 @@
+Nguồn: education.vnu.edu.vn_index.php_site_viewstaticsite_35.txt
+
+Bộ môn Công nghệ và giáo dục
+Trên cơ sở kết hợp với các chuyên gia, nhà nghiên cứu, giảng viên có kinh nghiệm của Trường Đại học Công nghệ và Viên Công nghệ thông tin, ĐHQGHN, các đơn vị hoạt động trong lĩnh vực công nghệ giáo dục (EdTech) và các Bộ môn trực thuộc của Khoa, Bộ môn Công nghệ và Giáo dục tập trung nghiên cứu, chuyển giao, và triển khai các học phần đào tạo theo hướng giáo dục trong bối cảnh phát triển công nghệ số. Bộ môn tập trung vào việc nghiên cứu và ứng dụng các công nghệ tiên tiến như trí tuệ nhân tạo, thực tế ảo, trực tuyến hóa, học máy và nhiều công cụ số khác để tạo ra môi trường giáo dục tối ưu cũng như các mô hình giáo dục hiện đại, “phi truyền thống” thúc đẩy sự phát triển cá nhân, học tập cá nhân hóa và học tập suốt đời. Một số hướng ưu tiên phát triển trong nghiên cứu và đào tạo của Bộ môn:
+- Phát triển giải pháp, công cụ giáo dục số
+-  Học máy và Trí tuệ nhân tạo trong giáo dục
+- Thực tế ảo, thực tế tăng cường, thực tế tăng cường hỗn hợp
+-  Quản lí học tập trực tuyến và an toàn trong giáo dục trực tuyến
+- Phát triển năng lực số cho nhà giáo dục
+- Phân tích thị trường Công nghệ Giáo dục
+- Các môi trường thúc đẩy đổi mới sáng tạo và khởi nghiệp giáo dục số
+3.2. Bộ môn Thiết kế và phát triển học liệu số
+Bộ môn Thiết kế và Phát triển học liệu số định hướng nghiên cứu và triển khai đào tạo chuyên gia về học liệu số, tài nguyên giáo dục mở đáp ứng các nhu cầu mới trong giáo dục số hiện nay. Trên cơ sở phát triển các nền tảng đa phương tiện, ứng dụng công nghệ số hiện đại, Bộ môn cung cấp các định hướng tạo ra các tài liệu học tập số hóa tương tác, đa dạng và hiệu quả, giúp tối ưu hóa quá trình học tập và giảng dạy trong thời đại số hóa. Một số hướng ưu tiên phát triển trong nghiên cứu và đào tạo của Bộ môn:
+- Phát triển nội dung, học liệu số đa phương tiện, tích hợp công nghệ AI, Gamification
+- Tạo nội dung eLearning và mLearning, video tương tác
+- Thiết kế UX/UI trong học tập số và phân tích, đánh giá hiệu quả sử dụng học liệu số
+- Phát triển năng lực sản xuất học liệu số thế hệ mới
+3.3. Bộ môn Tin học và quản lý công nghệ trong lớp học
+Bộ môn Tin học và Quản lí công nghệ trong lớp học tập trung vào việc nghiên cứu ứng dụng các công nghệ thông tin, công nghệ số để tối ưu hóa hoạt động quản lí và giảng dạy trong các cơ sở giáo dục, các mô hình quản lí thông minh trong lớp học và nhà trường. Một số hướng ưu tiên phát triển trong nghiên cứu và đào tạo của Bộ môn:
+- Hệ Thống quản lí thông minh trong lớp học và nhà trường (Smart School Management Systems)
+- Phân tích dữ Liệu giáo dục (Educational Data Analysis)
+- Hệ thống thông tin trong giáo dục và trường học (School Information Systems – SIS, Educational Management Information System – EMIS)
+- Hệ thống hỗ trợ học tập trực tuyến
+- Quản lí tài nguyên số nhà trường
+- Tích hợp công nghệ trong dạy học và quản lí
+- An toàn thông tin và bảo mật; đánh giá và phản hồi trực tuyến
+4.

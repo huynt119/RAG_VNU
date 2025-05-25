@@ -1,0 +1,230 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_camnang_151.txt
+
+TRƯỜNG QUỐC TẾ (1.500 chỉ tiêu)
+941
+298
+261
+QHQ
+QHQ01
+Kinh doanh quốc tế
+198
+5
+8
+54
+A00
+A01
+Tiếng Anh
+D01, D03, D06
+Ngoại ngữ
+D96, D97, DD0
+Ngoại ngữ
+QHQ
+QHQ02
+Kế toán, Phân tích và
+Kiểm toán
+15
+7
+44
+3
+9
+A00
+A01
+Tiếng Anh
+D01, D03, D06
+Ngoại ngữ
+D96, D97, DD0
+Ngoại ngữ
+QHQ
+QHQ03
+Hệ thống thông tin quản lý
+90
+26
+24
+A00
+A01
+Tiếng Anh
+D01, D03, D06
+Ngoại ngữ
+D96, D97, DD0
+Ngoại ngữ
+QHQ
+QHQ05
+Phân tích dữ liệu kinh doanh
+67
+22
+2
+1
+A00
+Toán
+A01
+Toán
+D01, D03, D06
+Toán
+D07, D23, D24
+Toán
+QHQ
+QHQ06
+Marketing
+(CTĐT cấp 2 bằng ĐH của ĐHQGHN và trường ĐH HELP - Malaysia)
+61
+20
+19
+A00
+A01
+Tiếng Anh
+D01, D03, D06
+Ngoại ngữ
+D96, D97, DD0
+Ngoại ngữ
+QHQ
+QHQ04
+Tin học và Kỹ thuật máy tính
+7
+4
+20
+16
+A00
+Toán
+A01
+Toán
+D01, D03, D06
+Toán
+D07, D23, D24
+Toán
+QHQ
+QHQ08
+Tự động hóa và Tin học
+53
+30
+17
+A00
+Toán
+A01
+Toán
+D01, D03, D06
+Toán
+D07, D23, D24
+Toán
+QHQ
+QHQ10
+Công nghệ thông tin ứng dụng
+69
+22
+19
+A00
+Toán
+A01
+Toán
+D01, D03, D06
+Toán
+D07, D23, D24
+Toán
+QHQ
+QHQ11
+Công nghệ tài chính và kinh doanh số
+69
+22
+19
+A00
+Toán
+A01
+Toán
+D01, D03, D06
+Toán
+D07, D23, D24
+Toán
+QHQ
+QHQ12
+Kỹ thuật hệ thống công nghiệp và Logistics
+42
+1
+4
+14
+A00
+Toán
+A01
+Toán
+D01, D03, D06
+Toán
+D07, D23, D24
+Toán
+QHQ
+QHQ09
+Ngôn ngữ Anh
+61
+2
+0
+19
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D78
+Tiếng Anh
+D90
+Tiếng Anh
+Điều kiện phụ:
+Điểm môn chính nhân hệ số 2;
+- Đối với các ngành có mã QHQ01, QHQ02, QHQ03, QHQ04, QHQ05, QHQ06, QHQ09 thí sinh phải đạt điểm thi tốt nghiệp THPT (năm 2024) môn Ngoại ngữ (tiếng Anh/tiếng Pháp/tiếng Nhật) tối thiểu 6 điểm (theo thang điểm 10), trừ đối tượng được miễn thi môn này;
+- Đối với các ngành có mã QHQ08, QHQ10, QHQ11, QHQ12, thí sinh phải đạt điểm thi tốt nghiệp THPT (năm 2024) môn Ngoại ngữ (tiếng Anh/tiếng Pháp/tiếng Nhật) tối thiểu 5 điểm (theo thang điểm 10), trừ đối tượng được miễn thi môn này;
+Ngành Marketing
+(CTĐT cấp 2 bằng ĐH của ĐHQGHN và trường ĐH HELP - Malaysia)
+: Trường đang tiến hành các thủ tục gia hạn với đối tác (ĐH Help –
+Malaysia
+)
+11. TRƯỜNG QUẢN TRỊ VÀ KINH DOANH (500 chỉ tiêu)
+300
+50
+150
+QHD
+7900101
+Quản trị Doanh nghiệp và
+Công nghệ
+60
+10
+3
+0
+A01
+D01
+D07
+D08
+QHD
+7900102
+Marketing và Truyền thông
+120
+20
+60
+D01
+D09
+D10
+D96
+QHD
+7900103
+Quản trị Nhân lực và
+Nhân tài
+60
+10
+30
+D01
+D09
+D10
+D96
+QHD
+7900189
+Quản trị và An ninh
+60
+10
+30
+A01
+D01
+D07
+D08
+HSB xét tuyển đối với các thí sinh có kết quả thi THPT
+năm 2024
+môn tiếng Anh đạt t
+ối thiểu
+6
+điểm hoặc có chứng chỉ tiếng Anh IELTS (hoặc tương đương) còn hạn đạt
+tối thiểu 4
+.5
+12.

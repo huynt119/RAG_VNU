@@ -1,0 +1,277 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-hang-khong-vu-tru-3_.txt
+
+Khối kiến thức định hướng chuyên sâu
+27
+V.3.1
+Định hướng chuyên sâu về
+Công nghệ thông tin, Điện tử Hàng không
+27/66
+42
+AER3015
+Nhập môn viễn thám
+Introduction to Remote Sensing
+3
+45
+43
+AER3006
+Nhập môn Hệ thống thông tin địa lý
+Introduction to GIS
+3
+45
+44
+AER3007
+Xử lý ảnh viễn thám
+Digital Image Processing in Remote Sensing
+3
+30
+15
+45
+AER3008
+Phân tích dữ liệu không gian
+Geospatial Data Analysis
+3
+30
+15
+46
+AER3009
+Hiển thị thông tin địa lý ba chiều
+3D GeoVisualization
+3
+30
+15
+47
+AER3010
+Tính toán lớn trên dữ liệu không gian
+Spatial Data Computation
+3
+30
+15
+48
+AER3011
+Cơ sở dữ liệu không gian
+Spatial Database Systems
+3
+30
+15
+49
+AER3012
+Kho dữ liệu không gian
+Spatial Datawarehouse
+3
+30
+15
+50
+AER3013
+Hạ tầng thông tin không gian
+Spatial Data Infrastructure
+3
+45
+51
+AER3014
+Các vấn đề hiện đại trong Viễn thám và GIS
+Advanced topics in Remote Sensing and GIS
+3
+45
+52
+INT2204
+Lập trình hướng đối tượng
+Object oriented programming
+3
+30
+15
+INT1008
+53
+INT3108
+Lập trình nhúng và thời gian thực
+Real-time and Embedded Programming
+3
+30
+15
+INT2215
+54
+AER3017
+Phát triển hệ thống nhúng bảo mật
+Development of Secure Embedded Systems
+3
+45
+55
+ELT3048
+Hệ thống vi xử lý
+Microprocessors
+3
+30
+15
+56
+ELT3057
+Truyền thông số và mã hóa
+Digital Communications and Coding Theory
+3
+45
+57
+ELT3069
+Thiết kế hệ thống máy tính nhúng
+Embedded Computing System Design
+3
+30
+15
+58
+ELT2036
+Kỹ thuật điện từ
+Electromagnetics Engineering
+3
+45
+59
+ELT3060
+Kỹ thuật cao tần
+HF Techniques
+3
+45
+60
+ELT3189
+Kỹ thuật Anten
+Antenna Techniques
+3
+45
+61
+AER3019
+Nguyên lý Rada
+Rada Principles
+3
+45
+62
+AER3020
+Mạng truyền dữ liệu
+Data communication networks
+3
+45
+63
+ELT3098
+Truyền thông vệ tinh
+Satellite Communication
+3
+45
+V.3.2
+Định hướng chuyên sâu về
+Động lực học, Điều khiển và Cơ khí Hàng không
+27/51
+64
+AER3023
+Động lực học bay và điều khiển
+Flight Dynamics and Control
+3
+30
+15
+65
+AER3043
+Chi tiết máy
+Mechanisms and Machine Design
+3
+45
+AER2005
+66
+AER3040
+Thử nghiệm kết cấu thiết bị không gian
+Structure Testing of Aerospace Devices
+3
+30
+15
+67
+AER3024
+Công nghệ chế tạo, CAM và CNC
+CAM and CNC
+3
+30
+15
+AER3043
+68
+AER3025
+Kỹ thuật mô hình và mô phỏng thiết bị bay
+Modeling and simulation of flying equipment
+3
+30
+15
+69
+AER3026
+Kiểm tra và bảo dưỡng máy bay
+Aviation Diagnostics and Maintenance
+3
+30
+15
+70
+AER3037
+Cơ học quỹ đạo bay
+Trajectory Mechanics
+3
+30
+15
+MAT1093
+MAT1042
+71
+AER3027
+Cảm biến, điều khiển vệ tinh và đồ án
+Sensor, Satellite Control and Term Project
+3
+30
+15
+72
+AER3028
+Thiết kế, tích hợp vệ tinh nhỏ và đồ án
+Design and integration of small satellites and term project
+3
+30
+15
+73
+AER3036
+Vật liệu Hàng không
+Aerospace Materials
+3
+45
+74
+AER3029
+Mô phỏng, phân tích và điều khiển hệ thống động lực học
+Modelling, Analysis & Control
+of Dynamical Systems
+3
+30
+15
+75
+EMA3064
+Điều khiển điện thủy khí
+Elec-Hydrolique Control Systems
+3
+45
+76
+AER3042
+Điều khiển tự động bay cho UAV
+Autonomous Flight Control for UAV
+3
+45
+77
+AER3031
+Lab Hệ thống điều khiển
+Control Systems Lab
+3
+10
+35
+78
+AER3032
+Hệ thống Điều khiển nhúng
+Embbeded Control Systems
+3
+30
+15
+79
+AER3034
+Phân tích dữ liệu và nhận dạng hệ thống
+Data analysis and System Identification
+3
+30
+15
+80
+AER3035
+Nguyên lý Định vị và dẫn đường Thiết bị hàng không
+Navigation and Guidance of Aerospace Vehicles Principles
+3
+40
+5
+V.4.

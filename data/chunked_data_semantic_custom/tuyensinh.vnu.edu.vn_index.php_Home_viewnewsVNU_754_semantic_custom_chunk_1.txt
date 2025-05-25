@@ -1,0 +1,185 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_754.txt
+
+Các ngành và tổ hợp xét tuyển theo kết quả thi THPT năm 2020
+TT
+Tên ngành/Chương trình đào tạo
+Mã
+trường
+Mã ngành
+xét tuyển
+Tổ hợp
+xét tuyển theo kết quả thi THPT
+Chỉ tiêu
+Báo chí
+QHX
+QHX01
+A01,C00,D01,D04,D78,D83
+85
+Báo chí * (CTĐT CLC)
+QHX
+QHX40
+A01,C00,D01,D78
+35
+Chính trị học
+QHX
+QHX02
+A01,C00,D01,D04,D78,D83
+55
+Công tác xã hội
+QHX
+QHX03
+A01,C00,D01,D04,D78,D83
+70
+Đông Nam Á học
+QHX
+QHX04
+A01,D01,D04,D78,D83
+40
+Đông phương học
+QHX
+QHX05
+C00,D01,D04,D78,D83
+60
+Hàn Quốc học
+QHX
+QHX26
+A01,C00,D01,D04,D78,D83
+50
+Hán Nôm
+QHX
+QHX06
+C00,D01,D04,D78,D83
+30
+Khoa học quản lý
+QHX
+QHX07
+A01,C00,D01,D04,D78,D83
+80
+Khoa học quản lý * (CTĐT CLC)
+QHX
+QHX41
+A01,C00,D01,D78
+35
+Lịch sử
+QHX
+QHX08
+C00,D01,D04,D78,D83
+70
+Lưu trữ học
+QHX
+QHX09
+A01,C00,D01,D04,D78,D83
+50
+Ngôn ngữ học
+QHX
+QHX10
+C00,D01,D04,D78,D83
+70
+Nhân học
+QHX
+QHX11
+A01,C00,D01,D04,D78,D83
+50
+Nhật Bản học
+QHX
+QHX12
+A01,D01,D06,D78
+50
+Quan hệ công chúng
+QHX
+QHX13
+C00,D01,D04,D78,D83
+70
+Quản lý thông tin
+QHX
+QHX14
+A01,C00,D01,D04,D78,D83
+55
+Quản lý thông tin * (CTĐT CLC)
+QHX
+QHX42
+A01,C00,D01,D78
+35
+Quản trị dịch vụ du lịch và lữ hành
+QHX
+QHX15
+A01,D01,D78
+90
+Quản trị khách sạn
+QHX
+QHX16
+A01,D01,D78
+75
+Quản trị văn phòng
+QHX
+QHX17
+A01,C00,D01,D04,D78,D83
+75
+Quốc tế học
+QHX
+QHX18
+A01,C00,D01,D04,D78,D83
+80
+Quốc tế học* (CTĐT CLC)
+QHX
+QHX43
+A01,C00,D01,D78
+30
+Tâm lý học
+QHX
+QHX19
+A01,C00,D01,D04,D78,D83
+100
+Thông tin - Thư viện
+QHX
+QHX20
+A01,C00,D01,D04,D78,D83
+50
+Tôn giáo học
+QHX
+QHX21
+A01,C00,D01,D04,D78,D83
+50
+Triết học
+QHX
+QHX22
+A01,C00,D01,D04,D78,D83
+50
+Văn hóa học
+QHX
+QHX27
+C00,D01,D04,D78,D83
+50
+Văn học
+QHX
+QHX23
+C00,D01,D04,D78,D83
+75
+Việt Nam học
+QHX
+QHX24
+C00,D01,D04,D78,D83
+70
+Xã hội học
+QHX
+QHX25
+A01,C00,D01,D04,D78,D83
+65
+Ghi chú
+:
+- (*) Các chương trình đào tạo chất lượng cao (Báo chí - QHX40, Khoa học quản lý - QHX41, Quản lý thông tin - QHX42, Quốc tế học - QHX43):
+Thí sinh phải đảm bảo điều kiện môn Ngoại ngữ (tiếng Anh) của kì thi THPT quốc gia năm 2020 đạt tối thiểu điểm 4.0 trở lên (theo thang điểm 10) hoặc có các chứng chỉ ngoại ngữ quốc tế tương đương theo quy định của Bộ GD-ĐT và ĐHQGHN. - Môn thi/bài thi các tổ hợp xét tuyển:
+A01
+- Toán, Vật Lý, Tiếng Anh;
+C00
+- Ngữ văn, Lịch sử, Địa lí;
+D01
+- Toán học, Ngữ văn, Tiếng Anh;
+D04
+- Toán học, Ngữ văn, Tiếng Trung;
+D06
+- Toán học, Ngữ văn, Tiếng Nhật;
+D78
+- Ngữ văn, KHXH, Tiếng Anh;
+D83
+- Ngữ văn, KHXH, Tiếng Trung.

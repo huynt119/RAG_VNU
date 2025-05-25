@@ -1,0 +1,7 @@
+Nguồn: uet.vnu.edu.vn_event_e_magazine_thong_danh_gia_quan_ly_rui_ro_va_ho_tro_xu_ly_su_co_toan_thong_tin_trong_chinh_phu_dien_tu_theo_chuan_viet_nam_va_quoc.txt
+
+Mặc dù dịch Covid-19 kéo dài làm cản trở quá trình thử nghiệm sản phẩm, nhưng PGS.TS. Nguyễn Ngọc Hóa và nhóm nghiên cứu khoa Công nghệ thông tin (Trường Đại học Công nghệ, ĐHQGHN) vẫn hoàn thành đề tài “Nghiên cứu, xây dựng hệ thống đánh giá, quản lý
+[E-magazine] Hệ thống đánh giá, quản lý rủi ro và hỗ trợ xử lý sự cố an toàn thông tin trong Chính phủ điện tử theo chuẩn Việt Nam và quốc tế
+Bắt đầu
+End
+Mặc dù dịch Covid-19 kéo dài làm cản trở quá trình thử nghiệm sản phẩm, nhưng PGS.TS. Nguyễn Ngọc Hóa và nhóm nghiên cứu khoa Công nghệ thông tin (Trường Đại học Công nghệ, ĐHQGHN) vẫn hoàn thành đề tài “Nghiên cứu, xây dựng hệ thống đánh giá, quản lý rủi ro và hỗ trợ xử lý sự cố an toàn thông tin trong Chính phủ điện tử”, với hai giải pháp UET.SRA và UET.SIR phục vụ công tác đảm bảo an toàn thông tin trong Chính phủ điện tử. Việc đảm bảo an toàn thông tin (ATTT) cho các hệ thống trong Chính phủ điện tử (CPĐT) là một trong những bài toán lớn, luôn được Chính phủ, các bộ/ngành quan tâm hiện nay. Từ đó, đặt ra vấn đề cần phải có công cụ, hệ thống hỗ trợ cho công tác đánh giá, quản lý rủi ro và xử lý sự cố ATTT trong CPĐT.

@@ -1,0 +1,139 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-khoa-hoc-va-ky-thuat-du-lieu-nganh-khoa-hoc-du-lieu-3_.txt
+
+Định hướng chuyên sâu về Kỹ thuật phân tích dữ liệu
+40
+AIT3111
+Phân tích chuỗi thời gian và Dự báo
+Time Series Analysis and Forcasting
+3
+45
+105
+AIT2101
+KTNCS, TC
+41
+AIT3112
+Phân tích rủi ro
+Methods of Risk Analysis
+3
+45
+105
+AIT2101
+KTNCS, TC
+42
+AIT3113
+Mô phỏng và mô hình hoá
+Simulation and modeling
+3
+45
+105
+AIT2101
+KTNCS, TC
+43
+AIT3114
+Thiết kế thí nghiệm
+Experiment Design
+3
+45
+105
+MAT1101
+KTNCS, TC
+44
+AIT3115
+Trí tuệ nhân tạo tạo sinh
+Generative AI
+3
+45
+105
+AIT3001
+KTNCS, TC
+V.2.2. Định hướng chuyên sâu về Dữ liệu kinh doanh
+45
+AIT3121
+Thống kê kinh tế và kinh tế lượng
+Economic Statistics and Econometrics
+3
+45
+105
+AIT2101
+KTNCS, TC
+46
+AIT3122
+Kinh doanh số
+Digital Business
+3
+45
+105
+AIT2101
+KTNCS, TC
+47
+AIT3123
+Kiến trúc doanh nghiệp
+Enterprise Architecture
+3
+45
+105
+AIT2101
+KTNCS, TC
+48
+INT2045
+Quản lý dự án hệ thống thông tin
+Information system project management
+4
+60
+140
+KTNCS, TC
+V.2.3. Định hướng chuyên sâu về Dữ liệu liên ngành
+49
+AIT3131
+Nhân văn số
+Digital Humanities
+3
+45
+105
+AIT2101
+KTNCS, TC
+50
+AIT3012
+Tính toán khoa học thần kinh và ứng dụng
+Computational Neuroscience and Applications
+3
+45
+105
+AIT2004
+KTNCS, TC
+51
+AIT3132
+Khoa học xã hội định lượng
+Quantitative Social Sciences
+3
+45
+105
+AIT2101
+KTNCS, TC
+52
+AIT3133
+Khoa học dữ liệu trong các ngành kỹ thuật
+Data Science for Engineering disciplines
+3
+45
+105
+AIT2101
+KTNCS, TC
+53
+AIT3134
+Phân tích thông tin địa lý
+Geographic Information Analytics
+3
+45
+105
+AIT2101
+KTNCS, TC
+54
+AGT3560
+Khoa học dữ liệu cho Khoa học sự sống
+Data Science for Life Sciences
+3
+45
+105
+KTNCS, TC
+V.3.

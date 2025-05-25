@@ -1,0 +1,28 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_851.txt
+
+Tổ hợp xét tuyển:
+a) Các chương trình đào tạo chuẩn
+Tổ hợp các môn thi THPT năm 2021:
+-    Toán, Lý, Hóa (A00);
+-    Toán, Anh, Lý (A01);
+-    Riêng đối với ngành Công nghệ nông nghiệp xét tuyển thêm tổ hợp Toán, Hóa, Sinh (B00) và Toán, Lý, Sinh (A02);
+b) Các chương trình đào tạo chất lượng cao
+Tổ hợp các môn thi THPT năm 2021:
+-    Toán, Lý, Hóa (Toán, Lý hệ số 2) (A00);
+-    Toán, Anh, Lý (Toán, Anh hệ số 2) (A01);
+1.7.2. Cách tính điểm xét tuyển:
+a) Căn cứ Quy chế tuyển sinh đại học hệ chính quy hiện hành, Trường Đại học Công nghệ, ĐHQGHN áp dụng cách tính Điểm xét tuyển (gọi tắt là ĐX) từ kết quả thi ba môn của tổ hợp xét tuyển theo kết quả thi tốt nghiệp THPT năm 2021, điểm ưu tiên đối tượng, khu vực của thí sinh như sau:
+Các chương trình đào tạo chuẩn
+ĐX = (Môn1 + Môn2 + Môn3) + Điểm ƯT (ĐT, KV)
+(ĐX được làm tròn đến hai chữ số thập phân)
+Các chương trình đào tạo chất lượng cao
+ĐX = (Môn chính1 x 2 + Môn chính2 x 2 + Môn3) x 3/5 + Điểm ƯT (ĐT, KV)
+(ĐX được làm tròn đến hai chữ số thập phân)
+b) Cách tính điểm xét tuyển theo kết quả thi ĐGNL học sinh THPT do ĐHQGHN tổ chức năm 2021
+ĐX = Điểm hợp phần 1 x 2 + Điểm hợp phần 2 + Điểm hợp phần 3
+Trong đó: Điểm hợp phần 1 (Tư duy định lượng), Điểm hợp phần 2 (Tư duy định tính), Điểm hợp phần 3 (Khoa học). c) Cách tính điểm xét tuyển theo chứng chỉ IELTS/TOEFL iBT
+Các chương trình đào tạo chuẩn
+ĐX = Điểm Tiếng Anh đã quy đổi + Điểm Toán + Điểm Lý
+Các chương trình đào tạo chất lượng cao
+ĐX = (Điểm Tiếng Anh đã quy đổi x 2 + Điểm Toán x 2 + Điểm Lý) x 3/5
+Điểm chuẩn trúng tuyển vào các nhóm ngành tuyển sinh năm 2021 của Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội sẽ được công bố theo thang điểm 30.

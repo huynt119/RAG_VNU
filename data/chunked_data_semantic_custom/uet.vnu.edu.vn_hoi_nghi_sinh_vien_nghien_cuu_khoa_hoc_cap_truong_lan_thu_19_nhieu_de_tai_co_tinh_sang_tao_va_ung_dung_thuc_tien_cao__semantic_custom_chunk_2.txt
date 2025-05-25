@@ -1,0 +1,13 @@
+Nguồn: uet.vnu.edu.vn_hoi_nghi_sinh_vien_nghien_cuu_khoa_hoc_cap_truong_lan_thu_19_nhieu_de_tai_co_tinh_sang_tao_va_ung_dung_thuc_tien_cao_.txt
+
+Võ Đình Hiếu – Phó Chủ nhiệm khoa Công nghệ Thông tin trao giải Ba cấp Trường cho các công trình đạt giải
+Công ty Cổ phần tư vấn công nghệ, thiết bị và kiểm định xây dựng – CONINCO trao thưởng cho đề tài: “Xây dựng mô hình học máy dự đoán sự phát triển vết nứt bề mặt trong kết cấu bê tông thông qua góc mở tại đỉnh vết nứt”
+Công ty Meiko Automation trao thưởng cho đề tài: “Nghiên cứu thiết kế thử nghiệm xe tự hành cỡ nhỏ”
+Viện Hàng không vũ trụ Viettel trao giải thưởng cho 03 đề tài: “Chip vi lỏng tập trung làm giàu protein dựa trên công nghệ MEMS”, “Tối ưu hóa tham số MPC trong bài toán theo dõi quỹ đạo sử dụng máy bay không người lái” và “Chip vi lỏng tập trung làm giàu protein dựa trên công nghệ MEMS”
+Công ty Korea IT Cooperation Center – Hanoi trao giải thưởng cho đề tài: “Ensembling Novel Adaptive Loss Functions in Parallel for Face-based Authentication”
+Công ty Korea IT Cooperation Center – Hanoi trao giải thưởng cho đề tài: “Retrieving legal document and extracting answer with BERT-based model”
+Công ty Daizo Tec trao giải thưởng cho đề tài: “Đánh giá sự làm việc của dầm thép có bụng khoét lỗ”
+Công ty TNHH Agile Tech trao giải thưởng cho đề tài: “Nghiên cứu và xây dựng mô hình tạo khóa học cá nhân hóa theo phong cách học tập”
+Công ty Cổ phần giải pháp Công nghệ Việt Nam trao giải thưởng cho đề tài: “Nghiên cứu thiết kế thử nghiệm xe tự hành cỡ nhỏ”
+Công ty Nashtech trao giải thưởng cho 04 đề tài: “Phương pháp tối ưu CNF Encoding cho bài toán Numberlink” , “Cải tiến hiệu năng cho quá trình kiểm thử tự động các dự án C/C++”, “Tự động sinh mô tả cho các thay đổi trong mã nguồn” và “Phát hiện tấn công trong các giao dịch Blockchain sử dụng học máy”
+GS.TS.

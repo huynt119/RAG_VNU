@@ -1,0 +1,10 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-nang-luong-6_.txt
+
+1.1.2  Kiến thức theo lĩnh vực
+Biết được các kiến thức cơ bản về vật lý cơ, nhiệt, điện và quang; hiểu được các hiện tượng và quy luật vật lý và các ứng dụng liên quan trong khoa học kỹ thuật và đời sống; vận dụng kiến thức để học tập và nghiên cứu các học phần khác của các ngành kỹ thuật và công nghệ;
+Nắm được các kiến thức liên quan đến giải tích toán học như tính giới hạn,
+tính đạo hàm, tính tích phân của các hàm một biến và hàm nhiều biến;
+Hiểu và vận dụng được các kiến thức liên quan đến đại số cao cấp như ma trận và các phép biến đổi, giải các hệ phương trình nhiều biến số…
+1.1.3  Kiến thức theo khối ngành
+Biết được các kiến thức cơ sở về phương pháp tính toán số trong kỹ thuật, hiểu và vận dụng để tính toán hoặc giải số các bài toán trong khoa học kỹ thuật bằng máy tính;
+Biết được các kiến thức cơ bản về xác suất và thống kê ứng dụng như các quy luật và dạng phân bố xác suất. Hiểu và tìm được các đại lượng đặc trưng của biến ngẫu nhiên và ý nghĩa trong thực tế.

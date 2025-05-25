@@ -1,0 +1,106 @@
+Th6
+01
+Đưa nghiên cứu “Hệ thống thị giác máy để nâng cao độ tin cậy của Robot gắp và đặt linh kiện tự động” triển khai vào doanh nghiệp sản xuất
+Nhóm sinh viên Khoa Điện tử viễn thông (Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội) với đề tài “Nghiên cứu và phát triển hệ thống thị giác máy để nâng cao độ tin cậy của Robot gắp và đặt linh kiện tự động trong công nghiệp”, đạt giải Nhất tại Hội […]
+|
+Sản phẩm Khoa học công nghệ
+.
+Tin Nghiên Cứu
+.
+Tin Tổng Hợp
+Chi tiết
+Th5
+04
+Kích thích tăng trưởng cây rau mầm bằng hệ thống chiếu sáng thông minh
+Với niềm đam mê trong nông nghiệp và mong muốn đem hệ thống chiếu sáng cây trồng đến với mỗi hộ gia đình, TS. Bùi Đình Tú (Phó Chủ nhiệm Khoa Vật lý kỹ thuật và Công nghệ nano – Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội) và ThS. Nguyễn […]
+|
+Bản tin KHCN & HTPT
+.
+Sản phẩm Khoa học công nghệ
+.
+Tin Nghiên Cứu
+.
+Tin Tổng Hợp
+Chi tiết
+Th4
+17
+VNU-UET chuyển giao cho FSOFT-GAM giải pháp kiểm thử tự động cho các dự án C/C++
+Công cụ UT Automation testing là một sản phẩm trong các hoạt động nghiên cứu và chuyển giao (R&D) điển hình được phát triển bởi sự hợp tác giữa Phòng thí nghiệm Đảm bảo chất lượng phần mềm (Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội) và FPT Global Automotive […]
+|
+Sản phẩm Khoa học công nghệ
+.
+Tin Nghiên Cứu
+.
+Tin Tổng Hợp
+Chi tiết
+Th2
+05
+Nghiên cứu sự tiến hóa và lây lan của dịch bệnh bằng cải tiến phương pháp UFBoot
+Theo thống kê từ Google Scholar, công trình “UFBoot2: Improving the Ultrafast Bootstrap Approximation” (tiếng Việt, UFBoot2: Cải tiến phương pháp UFBoot xây dựng cây bootstrap tiến hóa) do nhóm nghiên cứu Khoa Công nghệ thông tin (Trường ĐH Công nghệ, ĐHQGHN) thực hiện, đã đạt hơn 2.000 trích dẫn trên tạp chí quốc […]
+|
+Sản phẩm Khoa học công nghệ
+.
+Tin Tổng Hợp
+Chi tiết
+Th1
+20
+Sản phẩm “Áo hạ nhiệt, chống nóng cho nhân viên y tế phòng, chống dịch Covid-19” là 1 trong 10 sự kiện khoa học và công nghệ nổi bật năm 2021
+Ngày 20/01/2022, tại Trường Đại học Công nghệ (Đại học Quốc gia Hà Nội), PGS.TS. Mai Anh Tuấn – giảng viên Khoa Điện tử viễn thông, Trưởng nhóm nghiên cứu sản phẩm “Áo hạ nhiệt, chống nóng cho nhân viên y tế phòng, chống dịch Covid-19”, được Câu lạc bộ Nhà báo Khoa học […]
+|
+Sản phẩm Khoa học công nghệ
+.
+Tin KHCN
+.
+Tin Nghiên Cứu
+.
+Tin Tổng Hợp
+Chi tiết
+Th1
+05
+Công trình “UFBoot2: improving the ultrafast bootstrap approximation” được trao tặng Giải thưởng ĐHQGHN về Khoa học và Công nghệ năm 2021
+Ngày 29/12/2021, Giám đốc ĐHQGHN đã ký ban hành Quyết định số 4373/QĐ-ĐHQGHN về việc tặng Giải thưởng ĐHQGHN về Khoa học và Công nghệ năm 2021 cho 04 công trình khoa học với tổng kinh phí 200 triệu đồng. Trong đó, công trình “UFBoot2: improving the ultrafast bootstrap approximation” của PGS.TS Lê Sỹ Vinh, TS. […]
+|
+Sản phẩm Khoa học công nghệ
+.
+Tin Nghiên Cứu
+.
+Tin Tổng Hợp
+Chi tiết
+Th12
+27
+“UFBoot2: improving the ultrafast bootstrap approximation” được đề cử Giải thưởng ĐHQGHN về Khoa học và Công nghệ năm 2021
+Ngày 23/12/2021, tại Nhà Điều hành Đại học Quốc gia Hà Nội (ĐHQGHN) đã diễn ra phiên họp trực tiếp kết hợp trực tuyến của Hội đồng xét chọn Giải thưởng ĐHQGHN về Khoa học và Công nghệ năm 2021. Đây là Giải thưởng ĐHQGHN nhằm khích lệ, tôn vinh những công trình hoặc […]
+|
+Bản tin KHCN & HTPT
+.
+Sản phẩm Khoa học công nghệ
+.
+Tin KHCN
+.
+Tin Nghiên Cứu
+.
+Tin Tổng Hợp
+Chi tiết
+Th11
+25
+Báo cáo “An Effective Framework of Private Ethereum Blockchain Networks for Smart Grid” đạt giải Best Student Paper tại hội nghị quốc tế 2021
+Báo cáo “An Effective Framework of Private Ethereum Blockchain Networks for Smart Grid” (tiếng Việt: “Mô hình mạng chuỗi khối Ethereum riêng tư và hiệu quả sử dụng cho lưới điện thông minh”) gồm nhóm tác giả Viện Tiên tiến về Kỹ thuật và Công nghệ (Trường Đại học Công nghệ – Đại học Quốc […]
+|
+Sản phẩm Khoa học công nghệ
+.
+Tin Nghiên Cứu
+.
+Tin Tổng Hợp
+Chi tiết
+Trang 2 của 13
+«
+1
+2
+3
+4
+5
+...
+10
+...
+»
+Trang cuối »

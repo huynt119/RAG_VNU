@@ -1,0 +1,114 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_338.txt
+
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ, ĐHQGHN
+Nhóm ngành (CN1): Công nghệ thông tin
+1
+QHI
+CN1
+Công nghệ thông tin
+A00
+23.75
+A01
+23.75
+D07
+23.75
+2
+QHI
+Công nghệ thông tin định hướng thị trường Nhật Bản
+3
+QHI
+Hệ thống thông tin
+4
+QHI
+Mạng máy tính và truyền thông dữ liệu
+Nhóm ngành (CN2): Máy tính và Robot
+1
+QHI
+CN2
+Kỹ thuật Robot
+A00
+21
+A01
+21
+D07
+21
+2
+QHI
+Kỹ thuật máy tính
+Nhóm ngành (CN3): Vật lí kĩ thuật
+1
+QHI
+CN3
+Kỹ thuật năng lượng
+A00
+18.75
+A01
+18.75
+D07
+18.75
+2
+QHI
+Vật lí kỹ thuật
+1
+QHI
+CN4
+Cơ kỹ thuật
+A00
+20.5
+A01
+20.5
+D07
+20.5
+2
+QHI
+CN5
+Công nghệ kỹ thuật Xây dựng
+A00
+18
+A01
+18
+D07
+18
+3
+QHI
+CN6
+Công nghệ kỹ thuật cơ điện tử
+A00
+22
+A01
+22
+D07
+22
+4
+QHI
+CN7
+Công nghệ Hàng không vũ trụ
+A00
+19
+A01
+19
+D07
+19
+5
+QHI
+CN8
+Khoa học Máy tính
+(CTĐT CLC TT23)
+A00
+22
+A01
+22
+D07
+22
+6
+QHI
+CN9
+Công nghệ kỹ thuật điện tử - viễn thông
+(CTĐT CLC TT23)
+A00
+20
+A01
+20
+D07
+20
+2.

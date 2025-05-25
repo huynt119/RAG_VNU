@@ -1,0 +1,116 @@
+Personal website
+[Last updated: Aug. 2018]
+Hoang Nam Nhat, Prof.
+Laboratory of Low Dimensional Systems, Department of Magnetic Nanomaterials and Devices
+Faculty of Engineering Physics and Nanotechnology
+VNU-University of Engineering and Technology
+E-Mail:
+nhathn@vnu.edu.vn
+Website:
+http://uet.vnu.edu.vn/~nhathn
+Tel.: +84-43-754 9570
+Fax: +84-43-754 7460
+Address: Building E4, p203, 144 Xuan Thuy, Cau Giay, Hanoi, VN
+Education
+Dipl. Eng. (1986) Slovak Technical University, Czechoslovakia
+PhD. (1993) Slovak Technical University, Slovakia
+Positions
+1999-2006: Lecturer, Faculty of Physics, VNU-HUS
+2006-present: Senior lecturer, VNU
+2009: Vice-Director, Center for Materials Science, VNU-HUS
+2010-2011: Director, Department of Research and International Relations, VNU-UET
+2012-present: Faculty of Engineering Physics and Nanotechnology, VNU-UET
+2012-2014: VNU Council for physics
+2013-2015: NAFOSTED Council for physics
+2014-present: Faculty of Engineering Physics Council
+Main researches
+Low dimensional and nanoscale solid state materials
+Computational materials science
+Projects
+Copper oxide based spin chain systems (Asia Research Center Grant 2009-2011)
+Nanofluids and Application (National Foundation for Science and Technology Development - NAFOSTED 2009-2012)
+Nanoparticles in coating technology (Vietnam National University Hanoi Key Project Grant QGTD 09.04 2009-2011)
+Quantum surface effects in low dimensional systems (NAFOSTED 2015-2017)
+Efects of ion-implantation on structure and properties of nanostructure materials (NAFOSTED 2017-2019)
+Group members
+PhD students (ended):
+Pham The Tan, 2008-2011, Hung Yen College of Pedagogy
+Bui Hong Van, 2009-2012, VNU-University of Science
+Nguyen Duc Tho, 2011-2015, VNU-University of Science
+Nguyen Thuy Trang, 2011-2015, VNU-University of Science
+Pham Duc Huyen Yen, 2012-2016, VNU-University of Engineering and Technology
+Nguyen Khac Thuan, 2012-2016, Academy for Air-defense and Air-force
+PhD students (current):
+Vuong Van Hiep, 2015-2019, VNU-University of Science
+Collaborators:
+Huynh Dang Chinh, Prof., 2008-present, Inst. of Chem. Technol., Hanoi University of Science and Technology
+Nguyen Trong Tinh, Prof., 2014- present, VAST-Inst. of Applied Phys. and Sci. Instrum.
+Nguyen The Nghia, Prof., 2017-present, VNU-HUS Accelerator Center, Hanoi
+Do Thi Kim Anh, Prof., 2015- present, Dept. of Low Temperature Physics, VNU-HUS
+Publication
+Seminars:
+"Copper based spin chain systems and their behaviours at nanoscale",
+Institute of Physics, Goethe University Frankfurt (am Main) on 14 Dec 2009
+; (
+PDF1
+,
+PDF2
+,
+PDF3
+)
+"Nanofluidic systems of diluted magnetic semiconductors", Institute of Physics I, George August University Goettingen on 15 Dec 2009 (
+PDF1
+,
+PDF2
+)
+"Gold hydride by ion implantation: history, observations and advancements", Department of Electronic and Physical Systems, Waseda University on 12 June 2018 (
+AuH-Waseda-2018.pdf
+,
+AuH-Waseda-2018.ppt
+)
+Some recent papers:
+2018 PhysB 532 (2018) 115-118 (VVHiep)
+2018 Mat Trans 59(7) (2018) 1068-1070 (VVHiep)
+2017 JElectMat 46 (2017) 3808 (NTTrang)
+2016 JLUMIN 178 (2016) 134–138
+2016 JAP 120(14)142120 (VVHiep)
+2016 IEEE Magn. Lett. 7(6) (2016) 1401104 (TDThanh)
+2016 Electrochimica Acta 190 (2016) 215–220 (NDTho)
+2015 Mat Trans 56(9) 1383 (NKThuan)
+2015 Mat Trans 56(9) 1335 (DTKA)
+Special issues:
+1st International Symposium on Frontiers in Materials Science
+fms2013.uet.vnu.edu.vn/
+IEEE Transactions on Magnetics Volume 50, Issue 6 , June 2014
+2nd IS FMS 2015 Wasesa University, Tokyo, Japan
+http://www.cms.sci.waseda.ac.jp/fms2015/
+J. Appl. Phys.20, 142001 (2016)
+AIP Conference Proceedings Volume 1763, Aug 26, 2016.
+ISBN: 978-0-7354-1421-1
+https://aip.scitation.org/toc/apc/1763/1?size=all&expanded=1763
+3rd IS FMS2016 Hanoi University of Education, Hanoi, Vietnam
+http://phys.hnue.edu.vn/fms2016/
+Physica B Volume 532, Pages 1-230 (1 March 2018)
+https://www.sciencedirect.com/journal/physica-b-condensed-matter/vol/532/suppl/C
+4th IS FMS2017 Greifswald University, Greifswald, Germany
+http://uet.vnu.edu.vn/~nhathn/fms2017/
+Materials Transactions Volume 59 Issue 7 (2018) 1013
+https://www.jstage.jst.go.jp/browse/matertrans/59/7/_contents/-char/en
+NANOMATA 2014, VNU-Hanoi University of Engineering and Technology, Hanoi, Vietnam
+http://uet.vnu.edu.vn/~nhathn/nanomata2014/
+Materials Transactions Volume 56 Issue 9 (2015) 1135
+https://www.jstage.jst.go.jp/article/matertrans/56/9/56_MPR2015904/_article/-char/en
+Teaching:
+2008-2011: History of Physics (2 credits) Every Tue 14:00 Me Tri Campus GD6
+2008-2014: Introduction to Rietveld Analysis of Compounds (2 credits)
+2001-Present:
+Electromagnetism (3 credits) Every Fri 14:00 G3B
+Mechanics (3 credits), G2, 144 Xuan Thuy, Cau Giay
+2013-Present:
+Electronic structure of Nanomaterials (2 credits)
+Electronic structure modeling methods (2 credits)
+Mathematical methods in physics (3 credits) Xuan Thuy Campus
+Statistical physics (3 credits) Xuan Thuy Campus
+Books:
+Co hoc dai cuong (General Mechanics), nxb Giao duc 2005.
+Phuong phap toan ly (Math. methods in physics), to be available 2019

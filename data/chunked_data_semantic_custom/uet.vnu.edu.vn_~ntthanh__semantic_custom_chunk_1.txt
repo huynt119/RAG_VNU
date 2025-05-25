@@ -1,0 +1,38 @@
+Nguồn: uet.vnu.edu.vn_~ntthanh_.txt
+
+Publications
+2022
+Thanh-Huyen Pham, Van-Tuan Phan, Thi-Ngan Pham, Thi-Hong Vuong, Tri-Thanh Nguyen & Quang-Thuy Ha
+A multi-label classification framework using the covering based decision table
+ACIIDS 2022: Intelligent Information and Database Systems
+2021
+Minh-Tien Nguyen, Tri-Thanh Nguyen, Asanobu Kitamoto, Van-Hau Nguyen
+Exploiting Social Networks as a Live Mass Media Channel During Disasters for Reactions
+International Journal on Artificial Intelligence Tools @World Scientific Publishing Company
+Thanh-Huyen Pham,Thi-Ngan Pham, Thuan Ho, Thi-Hong Vuong, Tri-Thanh Nguyen, Quang-Thuy Ha
+Solving Reduction Problems in Cover Lattice Based Decision Tables
+ACIIDS 2021: Recent Challenges in Intelligent Information and Database Systems pp 55-64
+2020
+Hong-Nhung Bui, Trong-Sinh Vu, Hien-Hanh Nguyen, Tri-Thanh Nguyen, and Quang-Thuy Ha
+Exploiting CBOW and LSTM Models to Generate Trace Representation for Process Mining
+12th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2020), (ISI conference)
+2019
+Ngoc-Vu Nguyen, Thi-Lan Nguyen, Cam-Van Nguyen Thi, Mai-Vu Tran, Tri-Thanh Nguyen, and Quang-Thuy Ha
+Improving Named Entity Recognition in Vietnamese Texts by a Character-level Deep Lifelong Learning Model
+Journal of Computer Science, World Scientific Publishing Company, Vol. 489-491 (2019)
+Thi-Ngan Pham, Quang-Thuy Ha, Minh-Chau Nguyen, and Tri-Thanh Nguyen
+A probability-based close domain metric in lifelong learning for multi-label classification
+The 6th International Conference on Computer Science, Applied Mathematics and Applications (ICCSAMA 2019), LNAI, Springer
+Thi-Hong Vuong, Thanh-Huyen Pham, Tri-Thanh Nguyen, and Quang-Thuy Ha
+An Adversarial Learning and Canonical Correlation Analysis based Cross-Modal Retrieval Model
+11th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2019), (ISI conference) (pp 153-164)
+2018
+Nguyễn Thanh Thủy - Hà Quang Thụy - Phan Xuân Hiếu - Nguyễn Trí Thành
+Trí tuệ nhân tạo trong thời đại số: Bối cảnh thế giới và liên hệ với Việt Nam
+Tạp chí công thương
+Hong-Nhung BUI, Thi-Cham NGUYEN, Quang-Thuy HA,  Tri-Thanh Nguyen
+A new trace clustering algorithm based on context in process mining
+International Joint Conference on Rough Sets 2018, Springer’s LNAI series, (ISI conference), pp. 644-657 (best paper candidate)
+Quang-Thuy Ha, Thi-Ngan Pham, Van-Quang Nguyen, Minh-Chau Nguyen, Thanh-Huyen Pham, Tri-Thanh Nguyen
+A new text semi-supervised multi-label learning model based on using the label-feature relations
+10th International Conference on Computational Collective Intelligence (ICCCI 2018), (ISI conference), pp.

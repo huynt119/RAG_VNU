@@ -1,0 +1,82 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewpage_80.txt
+
+Thống kê các phòng thực hành, phòng thí nghiệm và các trang thiết bị
+TT
+Tên
+Các trang thiết bị chính
+1
+03 phòng thí nghiệm
+Thiết bị thực nghiệm được trang bị hiện đại
+2
+01 phòng
+học máy tính
+Máy tính đồng bộ, hiện đại
+1.3. Thống kê phòng học
+TT
+Loại phòng
+Tổng số
+Tổng diện tích sàn xây dựng (m
+2
+)
+Hội trường, giảng đường, phòng học các loại, phòng đa năng, phòng làm việc của giáo sư, phó giáo sư, giảng viên cơ hữu
+34
+1954
+1.1
+Hội trường, phòng học lớn trên 200 chỗ
+1
+650
+1.2
+Phòng học từ 100 - 200 chỗ
+0
+0
+1.3
+Phòng học từ 50 - 100 chỗ
+2
+100
+1.4
+Số phòng học dưới 50 chỗ
+14
+531
+1.5
+Số phòng học đa phương tiện
+09
+270
+1.6
+Phòng làm việc của giáo sư, phó giáo sư, giảng viên cơ hữu
+08
+400
+Thư viện, trung tâm học liệu
+04
+7114
+Trung tâm nghiên cứu, phòng thí nghiệm, thực nghiệm, cơ sở thực hành, thực tập, luyện tập
+03
+314
+Tổng cộng
+41
+/
+1.4. Thống kê về học liệu (giáo trình, học liệu, tài liệu, sách tham khảo...sách, tạp chí, kể cả ebook, cơ sở dữ liệu điện tử) trong thư viện
+TT
+Nội dung
+Tổng số
+1
+Số phòng đọc
+05
+2
+Số chỗ ngồi đọc
+1360
+3
+Số máy tính của thư viện
+270
+4
+Số lượng đầu sách, tạp chí, kể cả e-book, cơ sở dữ liệu điện tử
+- Sách: 125.000 tên với gần 450.000 bản
+- Kết quả nghiên cứu: 2000 đề tài
+- Luận văn, luận án: 28.000 tên
+- Tài liệu số: 50.000
+tên với gần 3 triệu trang
+- Cơ sở dữ liệu: Science Direct, Nature, SpingerLink, Emerald, ACM, IG Publising
+5
+Số thư viện điện tử liên kết ngoài trường
+42
+thư viện liên kết
+III.

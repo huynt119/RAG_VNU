@@ -1,0 +1,20 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-thong-thong-tin-chat-luong-cao-theo-thong-tu-23-2_.txt
+
+Kiến thức toán học
+–         Nắm được các kiến thức cơ bản của Giải tích toán học (tính giới hạn, tính đạo hàm, tính tích phân của các hàm một biến và hàm nhiều biến, v.v. ), lô-gic hệ thống các kiến thức Giải tích toán học và biết được các chủ đề của Máy tính và CNTT (nói chung) và HTTT (nói riêng) sử dụng các kiến thức Giải tích toán học;
+–         Nắm được các kiến thức cơ bản của Đại số cao cấp (ma trận và các phép biến đổi, giải các hệ phương trình nhiều biến số, và các kiến thức đại số tuyến tính khác), lô-gic hệ thống kiến thức Đại số cao cấp và biết được các chủ đề của Máy tính và CNTT (nói chung) và HTTT (nói riêng) sử dụng các kiến thức Đại số cao cấp. Kiến thức tin học
+–         Giải thích được các kiến thức cơ bản về thông tin;
+–         Sử dụng được công cụ xử lý thông tin thông dụng (hệ điều hành, các phần mềm hỗ trợ công tác văn phòng và khai thác Internet,…);
+–         Có khả năng phân tích, đánh giá và lập trình một ngôn ngữ lập trình;
+–         Có khả năng phân tích, đánh giá phương pháp lập trình hướng thủ tục và lập trình hướng đối tượng; phân biệt được ưu và nhược điểm của hai phương pháp lập trình;
+–         Hiểu các kiến thức cơ bản về nguyên lý hoạt động của hệ thống phần cứng, phần mềm, tối ưu hóa hệ thống kết hợp giữa phần cứng và phần mềm. 1.3
+Kiến thức theo khối ngành
+–         Vận dụng được các kiến thức liên quan đến cấu trúc dữ liệu về mảng, danh sách liên kết, hàng đợi, ngăn xếp, cây nhị phân, bảng băm;
+–         Vận dụng được các thuật toán cơ bản liên quan đến sắp xếp, tìm kiếm và các thuật toán khác trên các cấu trúc dữ liệu;
+–         Vận dụng được các khái niệm cơ bản của lý thuyết xác suất;
+–         Vận dụng được các phương pháp phân tích tín hiệu, phân tích và thiết kế hệ thống tuyến tính trong các miền biểu diễn khác nhau. 1.4
+Kiến thức theo nhóm ngành
+–         Nền tảng về CNTT: Cơ bản về lập trình, Thuật toán và độ phức tạp, Kiến trúc và tổ chức máy tính, Hệ điều hành, Tính toán dựa trên mạng, Ngôn ngữ lập trình, Đồ họa và tính toán trực quan, hệ thống thông minh;
+–         Xu hướng mới trong CNTT: Các công nghệ mới nổi trong CNTT, Thách thức đối với sự phát triển CNTT: Tính hiệu quả của CNTT, vai trò chiến lược của CNTT (đặc biệt là HTTT) trong tổ chức. 1.5
+Kiến thức ngành
+–         Quản lý HTTT và tính lãnh đạo: Xác định và thiết kế các cơ hội để cải tiến tổ chức dựa trên CNTT.

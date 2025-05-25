@@ -1,0 +1,225 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_752.txt
+
+T
+RƯỜNG ĐẠI HỌC NGOẠI  NGỮ
+(1.450 chỉ tiêu)
+Chỉ tiêu các ngành sư phạm – dự kiến)
+1.070
+380
+QHF
+7140231
+Sư phạm tiếng Anh
+135
+40
+D01
+Tiếng
+Anh
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220201
+CLC
+Ngôn ngữ Anh
+(CTĐT CLC)
+260
+90
+D01
+Tiếng
+Anh
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220202
+Ngôn ngữ Nga
+65
+10
+D01
+Tiếng
+Anh
+D02
+Tiếng
+Nga
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220203
+CLC
+Ngôn ngữ Pháp
+(CTĐT CLC)
+80
+20
+D01
+Tiếng
+Anh
+D03
+Tiếng
+Pháp
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7140234
+Sư phạm tiếng Trung
+15
+10
+D01
+Tiếng
+Anh
+D04
+Tiếng
+Trung
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220204
+CLC
+Ngôn ngữ Trung Quốc (CTĐT CLC)
+125
+50
+D01
+Tiếng
+Anh
+D04
+Tiếng
+Trung
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7140235
+Sư phạm tiếng Đức
+15
+10
+D01
+Tiếng
+Anh
+D05
+Tiếng
+Đức
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220205
+CLC
+Ngôn ngữ Đức
+(CTĐT CLC)
+80
+20
+D01
+Tiếng
+Anh
+D05
+Tiếng
+Đức
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7140236
+Sư phạm tiếng Nhật
+15
+10
+D01
+Tiếng
+Anh
+D06
+Tiếng
+Nhật
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220209
+CLC
+Ngôn ngữ Nhật
+(CTĐT CLC)
+125
+50
+D01
+Tiếng
+Anh
+D06
+Tiếng
+Nhật
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7140237
+Sư phạm tiếng Hàn Quốc
+15
+10
+D01
+Tiếng
+Anh
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220210
+CLC
+Ngôn ngữ Hàn Quốc (CTĐT CLC)
+125
+50
+D01
+Tiếng
+Anh
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220211
+Ngôn ngữ Ả Rập
+15
+10
+D01
+Tiếng
+Anh
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+5.

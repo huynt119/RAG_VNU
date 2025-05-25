@@ -1,0 +1,464 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnganh_240.txt
+
+Thời gian đào tạo
+4 năm
+Hình thức đào tạo
+Chính quy
+Nội dung chương trình
+Tổng số tín chỉ phải tích lũy: 120 tín chỉ Việt Nam, trong đó:
+Khối kiến thức chung: 24 tín chỉ
+Khối kiến thức theo lĩnh vực: 18 tín chỉ
+Khối kiến thức theo khối ngành: 18 tín chỉ
+Khối kiến thức theo nhóm ngành: 21 tín chỉ
+Khối kiến thức ngành: 39 tín chỉ
+Khung chương trình đào tạo
+STT
+Mã học phần
+Tên học phần
+Số tín chỉ
+Số giờ học tập
+Mã học phần tiên quyết
+Lý thuyết
+Thực hành
+Tự học
+I
+Khối kiến thức chung
+(chưa tính Giáo dục thể chất, Giáo dục Quốc phòng-An ninh, Kỹ năng bổ trợ)
+24
+1
+PHI1006
+Triết học Mác – Lênin
+Marxist-Leninist Philosophy
+3
+39
+12
+99
+2
+PEC1008
+Kinh tế chính trị Mác – Lênin
+Marxist-Leninist Political Economy
+2
+27
+6
+67
+PH1006
+3
+PHI1002
+Chủ nghĩa xã hội khoa học
+Scientific Socialism
+2
+27
+6
+67
+PH1006
+4
+HIS1001
+Lịch sử Đảng Cộng sản Việt Nam
+History of the Communist Party of Vietnam
+2
+27
+6
+67
+5
+POL1001
+Tư tưởng Hồ Chí Minh
+Ho Chi Minh's Ideology
+2
+27
+6
+67
+6
+THL1057
+Nhà nước và pháp luật đại cương
+Fundamentals of Government and Law
+2
+27
+6
+67
+7
+IFI1001
+Tin học cơ sở
+Fundamentals of Computing
+3
+30
+30
+90
+8
+FLF1107
+Tiếng Anh B1
+English B1
+5
+30
+90
+130
+9
+IFI1003
+Tiếng Pháp A1
+French A1
+3
+18
+54
+78
+10
+Giáo dục thể chất
+Physical Education
+4
+11
+Giáo dục quốc phòng – an ninh
+National Defense Education
+8
+12
+IFI1002
+Kỹ năng bổ trợ
+Supporting Skills
+3
+II
+Khối kiến thức theo lĩnh vực
+18
+II.1
+Các học phần bắt buộc
+12
+13
+IFI2002
+Kinh tế vi mô
+Microconomics
+3
+36
+18
+96
+14
+IFI2003
+Tâm lý học
+Psychology
+3
+36
+18
+96
+15
+IFI2007
+Tư duy thiết kế và đổi mới
+Design Thinking and Innovation
+3
+36
+18
+96
+16
+IFI2031
+Lý thuyết thông tin và truyền thông
+Theory of Information and Communication
+3
+36
+18
+96
+II.2
+Các học phần tự chọn
+6/12
+17
+IFI2010
+Tài chính doanh nghiệp
+Corporate Finance
+3
+36
+18
+96
+IFI2002
+18
+IFI2005
+Văn hóa số
+Digital Culture
+3
+36
+18
+96
+19
+IFI2006
+Xã hội học
+Sociology
+3
+36
+18
+96
+20
+IFI2014
+Kinh tế số
+Digital Economics
+3
+36
+18
+96
+IFI2002
+III
+Khối kiến thức theo khối ngành
+18
+III.1
+Các học phần bắt buộc
+12
+21
+IFI2012
+Marketing căn bản
+Marketing Principles
+3
+36
+18
+96
+IFI2002
+22
+IFI2032
+Các công nghệ truyền thông số
+Digital Communication Technologies
+3
+36
+18
+96
+23
+IFI2018
+Nghiên cứu và phân tích dữ liệu trong kinh doanh số
+Research methods and data analysis in digital business
+3
+36
+18
+96
+24
+IFI2033
+Truyền thông đại chúng và xã hội
+Mass Communications and Society
+3
+36
+18
+96
+IFI2031
+III.2
+Các học phần tự chọn
+6/12
+25
+IFI2034
+Pháp luật về truyền thông và marketing số
+Law on Digital Communication and marketing
+3
+36
+18
+96
+26
+IFI2035
+Đạo đức trong truyền thông
+Communication Ethics
+3
+36
+18
+96
+27
+IFI2036
+Truyền thông trực tuyến và tương tác
+Online and Interactive
+Communication
+3
+36
+18
+96
+IFI2031
+28
+IFI2037
+Ngôn ngữ ký hiệu
+Sign languages
+3
+36
+18
+96
+IV
+Khối kiến thức theo nhóm ngành
+21
+IV.1
+Các học phần bắt buộc
+15
+29
+IFI3002
+Marketing số
+Digital Marketing
+3
+36
+18
+96
+IFI2002
+30
+IFI2039
+Truyền thông số
+Digital Communication
+3
+36
+18
+96
+IFI2031
+31
+IFI2040
+Truyền thông doanh nghiệp
+Corporate Communications
+3
+36
+18
+96
+IFI2031
+32
+IFI3006
+AI tạo sinh cho kinh doanh số
+Generative AI for Digital Business
+3
+36
+18
+96
+IFI1001
+33
+IFI2041
+Truyền thông hỗn hợp
+Communications Mix
+3
+36
+18
+96
+IFI2031
+IV.2
+Các học phần tự chọn
+6/12
+34
+IFI2042
+Truyền thông liên văn hóa
+Intercultural Communication
+3
+36
+18
+96
+IFI2031
+35
+IFI2022
+Khởi nghiệp trong môi trường số
+Entrepreneurship in the digital environment
+3
+36
+18
+96
+IFI2002;
+IFI2038
+36
+IFI2043
+Xử lý khủng hoảng truyền thông
+Crisis Communication
+Management
+3
+36
+18
+96
+37
+IFI2011
+Lập trình Python cho kinh doanh số
+Python programming for Digital Business
+3
+36
+18
+96
+IFI1001
+V
+Khối kiến thức ngành
+39
+V.1
+Kiến thức chuyên sâu
+27
+38
+IFI3011
+Dự án truyền thông và marketing số
+Digital Communication and Marketing Project
+3
+9
+72
+69
+IFI2038;
+IFI2039
+39
+IFI3012
+Kể chuyện với công nghệ số
+Digital Storytelling
+3
+30
+30
+90
+40
+IFI3013
+Đa phương tiện và thiết kế đồ họa
+Multimedia and Graphic Design
+3
+30
+30
+90
+41
+IFI3014
+Tổ chức sự kiện
+Event Management
+3
+30
+30
+90
+42
+IFI3015
+Tổ chức sản xuất sản phẩm truyền thông số
+Digital Media Production
+3
+30
+30
+90
+43
+IFI3016
+Chiến lược thương hiệu trong thời kỳ số
+Brand Strategy in the Digital Age
+3
+30
+30
+90
+IFI2039
+44
+IFI3017
+Sáng tạo và quản trị nội dung số
+Content Creation and Management
+3
+30
+30
+90
+IFI2003
+45
+IFI3018
+Quan hệ công chúng và quảng cáo số
+Public Relations and Digital Advertising
+3
+30
+30
+90
+46
+IFI2016
+Hành vi khách hàng
+Consumer Behavior
+3
+30
+30
+90
+IFI2003;
+IFI2012
+V.2
+Thực tập, khóa luận
+12
+47
+IFI4002
+Thực tập
+Internship
+4
+0
+200
+0
+48
+IFI4051
+Khóa luận tốt nghiệp
+Bachelor Dissertation
+8
+0
+0
+400
+Tổng
+120
+Quy mô tuyển sinh
+Chỉ tiêu tuyển sinh năm 2024: 100 sinh viên.

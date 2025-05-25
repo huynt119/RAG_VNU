@@ -1,0 +1,67 @@
+Đề án tuyển sinh Đại học năm 2024
+Điểm chuẩn ĐHCQ năm 2023 của các trường thành viên, trường, khoa trực thuộc ĐHQGHN
+Hướng dẫn đăng ký nội trú KTX ngoại ngữ và KTX Mễ Trì
+Đề án tuyển sinh trình độ đại học năm 2023 - ĐHQGHN
+Muốn phát triển AI cần nuôi dưỡng được niềm đam mê
+Trí tuệ nhân tạo xưa và mồi lửa thiên, địa, nhân
+AI của thế hệ xưa
+Nếu như bạn có cơ hội tiếp xúc với máy tính từ những năm 1990, có lẽ AI chỉ được hiểu như là những đối thủ trong trò chơi điện tử, với những phương thức lập trình vô cùng đơn giản và nhàm chán, nhưng lại là một phần trò cười trong trò chơi đó. Giả dụ như phiên bản Mario trong trò chơi điện tử 4 nút (Nintendo Entertainment System – N.E.S), những con rùa xanh và những con quái vật nâu chỉ biết đi qua đi lại để cố tỏ ra nguy hiểm. Đó chính là bộ mặt điển hình của AI thời điểm đó.
+Thế rồi những phim “bom tấn” Hollywood cố tô vẽ một ước mơ, một khát khao cháy bỏng của con người là biến những trò cười trong trò chơi điện tử kia thành những cỗ máy khổng lồ, siêu thông minh, và có phần đáng sợ như trong Ma Trận (Matrix), Kẻ Hủy Diệt (The Terminator). Khi đó, máy tính biết suy nghĩ độc lập, đưa ra quyết định, trợ giúp hoặc trở thành kẻ thù của con người.
+Bộ phim khắc họa AI thông minh và hủy diệt.
+Trước đây người ta chỉ có thể sử dụng trí tưởng tượng để khắc họa nên những cỗ máy như thế, nhưng nay không thể nói rằng những gì trên phim ảnh là hoàn toàn tưởng tượng được nữa. Những cỗ máy hiện thời đang trở nên vô cùng thông minh một cách đáng kinh ngạc.
+Vậy điều gì đã khiến AI trở nên tiến bộ vượt bậc trong thập kỷ qua để tiến hóa từ những con rùa xanh thành những sản phẩm “Powered by AI” với giá trị hàng trăm triệu đô la Mỹ?
+Trước khi trả lời câu hỏi đó, hãy nhìn vào một số định nghĩa. AI là một cụm từ mang hàm ý rất rộng, nói đến những cỗ máy hay thuật toán thông minh có thể xử lý các tình huống một cách nhịp nhàng tùy vào hoàn cảnh, chứ không còn là một chương trình được định sẵn để rồi mắc các sai lầm ngớ ngẩn.
+Máy học (Machine Learning) là một định nghĩa nhỏ hơn nằm bên trong AI, nói về các thuật toán làm cho máy tính có thể cải thiện được độ chính xác của các công việc theo số lượng dữ liệu đầu vào. Và Học sâu (Deep Learning) là một định nghĩa nhỏ hơn nữa, nằm bên trong Máy học, nói đến một loại thuật toán cụ thể là mạng nơron nhân tạo, một cấu trúc tính toán được phát minh lấy cảm hứng từ cấu trúc não bộ con người.
+Sẽ không ngoa khi nói rằng, Máy học là linh hồn của AI, và Học sâu đã đem lại thành công, sự chú ý, cũng như tiềm năng vô tận đến cho Máy học. Sự bùng nổ của các thuật toán Học sâu gần đây đến từ sự cải tiến về phần cứng của máy móc, khi các vi xử lý đồ họa (GPU) giúp tăng tốc tính toán cho các mạng nơron nhân tạo lên gấp hàng ngàn lần so với một lõi vi xử lý trung tâm (CPU). Ngoài ra, một nguyên nhân không thể thiếu đó là nguyên liệu cho các thuật toán Học sâu hoạt động chính là lượng dữ liệu chúng ta tạo ra trong những năm gần đây đã vượt xa kỳ vọng, với 90% tổng lượng dữ liệu là chỉ mới được tạo ra trong vỏn vẹn hai năm gần đây.
+Thiên thời (dữ liệu lớn), địa lợi (sức mạnh tính toán cao), và nhân hòa (các tài năng trong lĩnh vực AI) chính là mồi lửa tạo nên cuộc cách mạng khiến cho các phát minh AI đang dần trở nên vô cùng quan trọng và len lỏi vào cuộc sống của con người, cũng giống như dòng điện mà Benjamin Franklin đã tìm ra vào ba thế kỷ trước đây. Vậy thì cuộc sống chúng ta sẽ thay đổi ra sao khi đồng hành cùng với AI?
+Xử lý ngôn ngữ tự nhiên (Natural Language Processing)
+AI đã và đang đọc hàng triệu, hàng tỉ văn bản mỗi ngày, tổng hợp và thậm chí là tóm tắt lại những kiến thức trong mớ tài liệu khổng lồ mà không một cá thể loài người nào có thể làm được. AI giúp con người trả lời câu hỏi sau khi đọc các kiến thức đó, đưa ra gợi ý, hoàn thành câu viết, và có khi là viết hộ luôn con người. Gần đây, những nhà nghiên cứu của viện Open AI, nơi mà tỉ phú Elon Musk đầu tư mạnh, đã đưa ra một mô hình AI có khả năng tạo ra văn bản với độ “thật” đến đáng sợ, khiến cho họ quyết định không xuất bản toàn bộ thuật toán vì lo sợ nguy cơ bị lạm dụng. Điều này khiến cho cả thế giới khoa học giật mình vì nó quan trọng đến mức tổ chức Open AI đã phải đi ngược lại với chữ “Open” (Mở) của họ.
+Thị giác máy tính (computer vision)
+Và thị giác máy tính (computer vision) là ngành được hưởng lợi nhiều nhất trong cuộc cách mạng AI. Hình ảnh là thứ con người tự hào đem lại rất nhiều thông tin mà nay đã được máy tính học và dần dần thắng thế. Từ những ứng dụng bảo mật như nhận dạng khuôn mặt, đến các thuật toán tìm ra những hình ảnh, thước phim nhạy cảm, các công ty công nghệ lớn như Apple, Facebook, hay Google đều coi
+AI là trái tim trong các sản phẩm công nghệ
+của họ.
+Đơn giản rằng, nếu thiếu đi AI, các sản phẩm công nghệ của họ không thể nào phát triển (scale) đến hàng tỉ người dùng được. Và tuyệt vời thay, đến các ngành như y tế cũng đã ứng dụng công nghệ AI vào việc giúp các bác sĩ chẩn đoán các bệnh như lao, ung thư, khối u một cách chính xác hơn ngày xưa rất nhiều.
+Từ Mỹ đến Nhật
+Mỹ là đầu tàu của cả thế giới về lĩnh vực AI bởi vì Mỹ là cái nôi của Internet. Thành công của các công ty có công nghệ AI bậc nhất thế giới như Facebook, Google, hay Amazon đến từ lượng dữ liệu khổng lồ họ có được khi là một công ty Internet. Đây là điểm mấu chốt để thành công, bên cạnh những sự đầu tư khổng lồ về cơ sở hạ tầng tính toán và nhân tài trong lĩnh vực này.
+Vậy đâu là cánh cửa cho các công ty khác, các đất nước khác muốn phát triển AI và cạnh tranh với các ông lớn này?
+Làm việc tại Nhật Bản trong những năm qua cho tôi thấy cách người Nhật tạo ra lợi thế cạnh tranh của họ. Khó có đất nước nào tạo được nhiều dữ liệu về quá trình sản xuất tiên tiến và cơ sở hạ tầng thông minh như Nhật Bản. Họ lấy đó làm tiền đề để thúc đẩy ngành AI cho nước Nhật và cạnh tranh với những việc mà Facebook, hay Google không thể nào động đến họ được. Khi nghiên cứu ở Nhật, tôi đã phát minh ra thuật toán AI có thể tự động hóa quy trình lấy và xử lý nước trong một nhà máy lọc nước vô cùng hiện đại với các cảm ứng được lắp đặt ở khắp nơi.
+Và đến Việt Nam
+Nhìn về Việt Nam, đâu là cơ hội cho chúng ta trở thành một nước cạnh tranh về AI trên bản đồ thế giới. Giống như phân tích ở trên, ba yếu tố quan trọng đó là thiên thời (dữ liệu lớn), địa lợi (sức mạnh tính toán cao), và nhân hòa (các tài năng trong lĩnh vực AI) cần phải được cân nhắc để tạo nên tính khác biệt với các nước trên thế giới.
+Thứ nhất, thiên thời – dữ liệu của người Việt.
+Việt Nam có số lượng người sử dụng điện thoại thông minh rất cao (lên đến 72% tỷ lệ thâm nhập theo báo cáo của Appota), một phương tiện để thu thập cũng như sản sinh ra dữ liệu rất lớn. Ngoài ra, những bộ dữ liệu “độc quyền” của người Việt có thể kể đến ngôn ngữ, văn bản, hình ảnh trong nước, hay các ngành nghề rất Việt Nam.
+Việt Nam cần có một cơ sở dữ liệu của riêng mình, và tốt nhất là được mở ra cho các nhà nghiên cứu về AI có thể truy cập và sử dụng một cách an toàn. Nếu chúng ta không làm được điều này ở cấp độ nhà nước, thì chỉ còn trông đợi vào các doanh nghiệp tư nhân đua nhau thu thập dữ liệu và tạo ra thế mạnh cho riêng họ. Nhưng liệu các ông chủ tư nhân có đủ thoải mái để kết hợp với nhau, chia sẻ tài nguyên với nhau, để cùng cạnh tranh với thế giới hay không?
+Thứ hai, địa lợi – cơ sở hạ tầng tính toán
+Một trong các điều kiện tiên quyết để bứt phá trong ngành AI đó là sức mạnh tính toán. Các trường đại học thành công trong nghiên cứu về AI đều có cơ sở hạ tầng tính toán lớn, đủ sức để đưa ra kết quả của một thí nghiệm có quy mô lớn trong… vài ngày. Việc liên tục có được những kết quả thí nghiệm thúc đẩy vòng lặp quá trình tìm hiểu, sửa lỗi, nâng cấp diễn ra nhanh hơn.
+Ở Việt Nam, ngoài một số công ty lớn về công nghệ đang nỗ lực đầu tư cơ sở hạ tầng tính toán (tuy nhiên không rõ có phải để dành cho nghiên cứu hay cho việc làm sản phẩm), thì cơ sở hạ tầng tính toán ở các trường đại học ở Việt Nam gần như không có sức cạnh tranh.
+Cuối dùng, nhân hòa – tài năng trong lĩnh vực AI
+Nhìn vào thành công của người Việt trên thế giới, có lẽ không quá tự kiêu khi nói rằng người Việt rất phù hợp với làm AI.
+Chúng ta có những người dẫn đầu thế giới trong ngành và có những người có tầm ảnh hướng lớn trong ngành. Tuy nhiên, nên nhớ rằng họ đều được đào tạo bài bản ở môi trường giáo dục nâng cao (đại học và sau đại học) tại các nước phát triển. Đồng thời, chúng ta có một chương trình toán cơ bản (bậc dưới đại học) khá tốt.
+Vậy vì đâu chúng ta lại vẫn thiếu nhân lực cao cấp trong ngành đến như vậy? Theo tác giả, từ bậc đại học trở lên, còn quá ít những người có niềm đam mê với nghiên cứu cơ bản về toán, về ngành khoa học máy tính, và về AI nói riêng. Có phải chúng ta chưa nuôi dưỡng được niềm đam mê đó? Bản thân tác giả, cũng bắt đầu làm việc với các học sinh cấp 3 về ngành AI để nuôi dưỡng những tài năng và đam mê cho AI Việt sau này. Nếu như không ai quan tâm, chúng ta không thể có nguồn lực dồi dào, chất lượng cho những dự án tham vọng về AI của đất nước sau này.
+(Tác giả
+xphongvn@yahoo.com
+)
+Thông tin tuyển sinh các ngành của Trường Đại học Công nghệ:
+https://www.facebook.com/TVTS.UET.VNU/photos/pcb.2928068173895261/2928060487229363/?type=3&theater
+Facebook Chat
+Widget by CAIT
+Liên kết
+Trường Đại học Khoa học Tự nhiên
+Trường Đại học  Khoa học Xã hội và Nhân văn
+Trường Đại học Ngoại ngữ
+Trường Đại học Công nghệ
+Trường Đại học Giáo dục
+Trường Đại học Luật
+Trường Đại học Y Dược
+Trường Đại học Việt Nhật
+Trường Quốc tế
+Trường Quản trị và Kinh doanh
+Trường Đại học Kinh tế
+Trường Khoa học liên ngành và Nghệ thuật
+Khoa Quốc tế Pháp ngữ
+Địa chỉ
+144 Xuân Thủy, Cầu Giấy, Hà Nội
+Khu đô thị ĐHQGHN tại Hòa Lạc
+024 37547 670
+tsvnu@vnu.edu.vn
+Copyright by Đại học Quốc gia Hà Nội
+×

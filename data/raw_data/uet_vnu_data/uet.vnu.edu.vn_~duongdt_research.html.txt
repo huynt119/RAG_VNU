@@ -1,0 +1,20 @@
+Dr. Dinh Trieu Duong
+Research
+Signal Processing for Multimedia Communications
+Development of High Performance Multimedia Image
+Video Codecs for Real-time Image
+Video Transmission over Wire/Wireless Networks
+Summary of Researches:
+The system process and transmit multimedia data to make the work process and transmit large volumes of data over communication networks in real time. Some examples of such systems: TV system over IP (IPTV), video conferencing system (video conference), etc. Requirements for this system is the ability to perform in real-time to adapt to various conditions of transmission and processing equipment, with a guarantee of quality information. To meet these requirements, should have been structured algorithms as well as effective treatment for related problems such as pre-processing and post-processing, encoding and decoding data, error recovery , etc.
+Multimedia Processings
+Another direction in the framework of this research focused on the development of real-time processing structure for the problem of pre-processing and post-processing (noise reduction, blur reduction, video and image interpolation, etc.), code chemical (compression) and decoding multimedia data, mainly photos and videos, creating 3D video processing, etc.
+Another direction of research in the field of multimedia data processing developing new and efficient algorithms for modern image and video compression standard: JPEG2000, H.264, H.264 +, SVC. Currently has many specialized codecs used for your photos and video according to the prescribed international standards. These standards are in addition to regular and effective service to the demands of reality, so every day is not constantly being upgraded and require adding new algorithms and more effective. With the aim of developing more new algorithm, contributed to the new image and video compression standard developed in the coming time. The following describes some of the processing algorithms to enhance image quality.
+Multimedia Communications
+User studies of multimedia communication processing combined floors in the seven-layer model, improve service quality meets the requirements in communication networks: wired and wireless: Specifically combination of floors processor separation of layers such as the Application layer with the lower floors: Transport layer, Link layer, the Physical layer to increase the adaptability channels, fault tolerance and ensure the confidentiality of information, etc. for streaming audio / video stream transmission on the channel. It is also important to us to deploy the flavor, especially when we live in the era of modern mobile 3G/4G information systems with high requirements of QoS and multimedia data.
+Copyright © 2013 Dr. Dinh Trieu Duong
+VNU University of Engineering and Technology
+Home
+Research
+Publications
+Lectures
+Contact

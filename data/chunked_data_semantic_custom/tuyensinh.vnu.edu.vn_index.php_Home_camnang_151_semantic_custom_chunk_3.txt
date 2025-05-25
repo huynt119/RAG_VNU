@@ -1,0 +1,83 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_camnang_151.txt
+
+Bảng tổ hợp môn xét tuyển đại học năm 2024 của ĐHQGHN
+(Phương thức sử dụng
+kết quả thi tốt nghiệp THPT - mã 100)
+A00:
+Toán, Vật lí, Hoá học
+D14: Ngữ văn, Lịch sử, Tiếng Anh
+A01: Toán, Vật lí, Tiếng Anh
+D15: Ngữ văn, Địa lý, Tiếng Anh
+A02: Toán, Vật lí, Sinh học
+D19:
+Toán,
+Địa lý
+, Tiếng Pháp
+B00:
+Toán, Hoá học, Sinh học
+D23: Toán, Hóa học, Tiếng Nhật
+B08:
+Toán, Sinh học
+, Tiếng Anh
+D24:
+Toán, Hóa học, Tiếng Pháp
+C00:
+Ngữ văn, Lịch sử, Địa lý
+D28: Toán, Vật lí, Tiếng Nhật
+C01:
+Ngữ văn, Toán, Vật lí
+D29: Toán, Vật lí, Tiếng Pháp
+D01: Toán, Ngữ văn, Tiếng Anh
+D33:
+Toán, Sinh học, Tiếng Nhật
+D02: Toán, Ngữ văn, Tiếng Nga
+D39:
+Toán,
+Lịch sử
+, Tiếng Pháp
+D03: Toán, Ngữ văn, Tiếng Pháp
+D63:
+Ngữ văn, Lịch sử, Tiếng Nhật
+D04: Toán, Ngữ văn, Tiếng Trung
+D78: Ngữ văn, Khoa học xã hội, Tiếng Anh
+D05: Toán, Ngữ văn, Tiếng Đức
+D81: Ngữ văn, Khoa học xã hội, Tiếng Nhật
+D06: Toán, Ngữ văn, Tiếng Nhật
+D82: Ngữ văn, Khoa học xã hội, Tiếng Pháp
+D07: Toán, Hóa học, Tiếng Anh
+D90: Toán, K
+HTN
+, Tiếng Anh
+D08: Toán, Sinh học, Tiếng Anh
+D96: Toán, K
+HXH
+, Tiếng Anh
+D09:
+Toán, Lịch sử, Tiếng Anh
+D97: Toán, K
+HXH
+, Tiếng Pháp
+D10:
+Toán, Địa lý, Tiếng Anh
+DD0: Toán, K
+HXH
+, Tiếng Nhật
+H01: Toán, Ngữ văn, Vẽ
+DD2: Toán, Ngữ văn, Tiếng Hàn
+H04: Toán, Tiếng Anh, Vẽ năng khiếu
+H08: Ngữ văn, Lịch sử, Vẽ mỹ thuật
+H05: Ngữ văn, K
+HXH
+, Vẽ năng khiếu
+V03: Toán, Hóa học, Vẽ mỹ thuật
+H06: Ngữ Văn, Tiếng Anh, Vẽ mỹ thuật
+V10: Toán, Tiếng Pháp, Vẽ mỹ thuật
+V00: Toán, Vật lí, Vẽ hình họa mỹ thuật
+V01: Toán, Ngữ văn, Vẽ hình họa mỹ thuật
+V11: Toán, Tiếng Trung, Vẽ mỹ thuật
+V02: Toán, Tiếng Anh, Vẽ hình họa mỹ thuật
+*Lưu ý: Các bài thi/môn thi Vẽ do
+Trường
+Khoa học liên ngành
+và Nghệ thuật
+tổ chức.

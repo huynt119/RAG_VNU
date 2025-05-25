@@ -1,0 +1,11 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-ky-thuat-dien-tu-truyen-thong-clc-tt23-2_.txt
+
+Kiến thức về tin học
+Nhớ và giải thích được các kiến thức cơ bản về thông tin;
+Sử dụng được công cụ xử lý thông tin thông dụng (hệ điều hành, các phần mềm hỗ trợ công tác văn phòng và khai thác Internet …);
+Có khả năng phân tích, đánh giá và lập trình một ngôn ngữ lập trình bậc cao (hiểu các cấu trúc điều khiển, các kiểu dữ liệu có cấu trúc, hàm/chương trình con, biến cục bộ/biến toàn cục, vào ra dữ liệu tệp, các bước để xây dựng chương trình hoàn chỉnh);
+Có khả năng phân tích, đánh giá phương pháp lập trình hướng thủ tục và lập trình hướng đối tượng; phân biệt được ưu và nhược điểm của hai phương pháp lập trình. Kiến thức về ngoại ngữ
+Hiểu được các văn bản dài với phạm vi rộng và nhận biết được hàm ý;
+Diễn đạt trôi chảy và tức thì mà không phải khó khăn lắm tìm từ ngữ diễn đạt;
+Sử dụng ngôn ngữ linh hoạt và hiệu quả phục vụ các mục đích xã hội, học thuật và chuyên môn. Viết rõ ràng, chặt chẽ, chi tiết về các chủ đề phức tạp, thể hiện được khả năng sử dụng tốt bố cục văn bản, từ ngữ nối câu và các công cụ liên kết từ ngữ;
+Năng lực ngoại ngữ đạt bậc 4/6 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam (hoặc tương đương).

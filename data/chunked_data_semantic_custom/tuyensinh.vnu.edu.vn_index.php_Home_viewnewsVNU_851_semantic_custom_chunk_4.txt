@@ -1,0 +1,254 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_851.txt
+
+Chỉ tiêu tuyển sinh (xét tuyển theo nhóm ngành)
+a)    Thông tin danh mục ngành được phép đào tạo
+TT
+Tên ngành/chương trình đào tạo
+Mã ngành
+Số quyết định, ngày tháng năm ban hành
+Cơ quan có thẩm quyền cho phép
+Năm bắt đầu đào tạo
+Ghi chú
+Công nghệ thông tin
+7480201
+3537/ĐT ngày 18/09/2007
+Đại học Quốc gia Hà Nội
+2007
+Công nghệ thông tin định hướng thị trường Nhật Bản
+7480201NB
+3537/ĐT ngày 18/09/2007
+Đại học Quốc gia Hà Nội
+2007
+CTĐT Công nghệ thông tin định hướng thị trường Nhật Bản được bắt đầu đào tạo năm 2017 theo Quyết định số 629/QĐ-ĐHQGHN ngày 28/02/2017 của ĐHQGHN
+Kỹ thuật máy tính
+7480106
+324/QĐ-ĐHQGHN ngày 09/02/2017
+Đại học Quốc gia Hà Nội
+2017
+Kỹ thuật Robot*
+7520217
+880/QĐ-ĐHQGHN ngày 19/3/2018
+Đại học Quốc gia Hà Nội
+2018
+Kỹ thuật năng lượng*
+7520406
+659/QĐ-ĐHQGHN ngày 16/3/2016
+Đại học Quốc gia Hà Nội
+2016
+Vật lý kỹ thuật
+7520401
+3537/ĐT ngày 18/09/2007
+Đại học Quốc gia Hà Nội
+2007
+Cơ kỹ thuật
+7520101
+3537/ĐT ngày 18/09/2007
+Đại học Quốc gia Hà Nội
+2007
+Công nghệ kỹ thuật xây dựng
+7510103
+731/QĐ-ĐHQGHN ngày 07/3/2017
+Đại học Quốc gia Hà Nội
+2017
+Công nghệ Hàng không vũ trụ*
+7519001
+4715/QĐ-ĐHQGHN ngày 08/12/2017
+Đại học Quốc gia Hà Nội
+2018
+Kỹ thuật điều khiển và tự động hóa
+7520216
+1820/QĐ-ĐHQGHN ngày 11/06/2019
+Đại học Quốc gia Hà Nội
+2019
+Công nghệ nông nghiệp*
+7519002
+1875/QĐ-ĐHQGHN ngày 14/6/2019
+Đại học Quốc gia Hà Nội
+2019
+Công nghệ kỹ thuật cơ điện tử
+7510203
+26/ĐT ngày 03/01/2007
+Đại học Quốc gia Hà Nội
+2007
+CTĐT Công nghệ kỹ thuật Cơ điện tử chất lượng cao đáp ứng Thông tư 23 được bắt đầu đào tạo năm 2019 theo Quyết định số 1586/QĐ-ĐHQGHN ngày 24/5/2019 của ĐHQGHN
+Khoa học Máy tính
+7480101
+4315/QĐ-KHTC ngày 25/07/2008
+Đại học Quốc gia Hà Nội
+2008
+CTĐT Khoa học máy tính chất lượng cao đáp ứng Thông tư 23 được bắt đầu đào tạo năm 2016 theo Quyết định số 68/QĐ-ĐHQGHN ngày 15/01/2016 của ĐHQGHN
+Hệ thống thông tin
+7480104
+1883/QĐ-ĐT ngày 27/05/2009
+Đại học Quốc gia Hà Nội
+2009
+CTĐT Hệ thống thông tin chất lượng cao đáp ứng Thông tư 23 được bắt đầu đào tạo năm 2019 theo Quyết định số 1587/QĐ-ĐHQGHN ngày 24/5/2019 của ĐHQGHN
+Mạng máy tính và truyền thông dữ liệu
+7480102
+4256/QĐ-ĐT ngày 14/12/2012
+Đại học Quốc gia Hà Nội
+2013
+CTĐT Mạng máy tính và truyền thông dữ liệu chất lượng cao đáp ứng Thông tư 23 được bắt đầu đào tạo năm 2020 theo Quyết định số 1024/QĐ-ĐHQGHN ngày 06/4/2020 của ĐHQGHN
+Công nghệ kỹ thuật điện tử - viễn thông
+7510302
+4311/QĐ-KHTC ngày 25/07/2008
+Đại học Quốc gia Hà Nội
+2008
+CTĐT Công nghệ kỹ thuật điện tử - viễn thông chất lượng cao đáp ứng Thông tư 23 được bắt đầu đào tạo năm 2016 theo Quyết định số 69/QĐ-ĐHQGHN ngày 15/01/2016 của ĐHQGHN
+b)   Chỉ tiêu tuyển sinh
+TT
+Mã trường
+Mã xét tuyển
+Tên nhóm ngành
+Tên ngành/chương trình đào tạo
+Bằng tốt
+nghiệp
+Thời gian đào tạo
+Chỉ tiêu nhóm ngành
+Chỉ tiêu
+Tổ hợp
+xét tuyển
+Theo KQ thi THPT
+Theo phương thức khác
+I
+CÁC CHƯƠNG TRÌNH ĐÀO TẠO CHUẨN
+1
+QHI
+CN1
+Công nghệ thông tin
+Công nghệ thông tin
+Cử nhân
+4 năm
+250
+125
+125
+- Toán, Lý, Hóa (
+A00)
+- Toán, Anh, Lý
+(A01)
+Công nghệ thông tin định hướng thị trường Nhật Bản
+Cử nhân
+4 năm
+2
+QHI
+CN2
+Máy tính và Robot
+Kỹ thuật máy tính
+Kỹ sư
+4,5 năm
+140
+70
+70
+Kỹ thuật Robot*
+Kỹ sư
+4,5 năm
+3
+QHI
+CN3
+Vật lý kỹ thuật
+Kỹ thuật năng lượng*
+Kỹ sư
+4,5 năm
+120
+60
+60
+Vật lý kỹ thuật
+Cử nhân
+4 năm
+4
+QHI
+CN4
+Cơ kỹ thuật
+Kỹ sư
+4,5 năm
+80
+40
+40
+5
+QHI
+CN5
+Công nghệ kỹ thuật xây dựng
+Kỹ sư
+4,5 năm
+100
+50
+50
+6
+QHI
+CN7
+Công nghệ Hàng không vũ trụ*
+Kỹ sư
+4,5 năm
+60
+30
+30
+7
+QHI
+CN11
+Kỹ thuật điều khiển và tự động hóa
+Kỹ sư
+4,5 năm
+60
+30
+30
+8
+QHI
+CN10
+Công nghệ nông nghiệp*
+Kỹ sư
+4,5 năm
+60
+30
+30
+- Toán, Lý, Hóa (
+A00)
+Toán, Anh, Lý
+(A01)
+- Toán, Lý, Sinh
+(A02)
+Toán, Hóa, Sinh
+(B00)
+II
+CÁC CHƯƠNG TRÌNH ĐÀO TẠO CHẤT LƯỢNG CAO
+9
+QHI
+CN6
+Công nghệ kỹ thuật cơ điện tử
+Cử nhân CLC
+4 năm
+150
+75
+75
+Toán, Lý, Hóa (Toán, Lý hệ số 2)
+(A00)
+Toán, Anh, Lý (Toán, Anh hệ số 2)
+(A01)
+10
+QHI
+CN8
+Công nghệ thông tin
+(CLC)
+Khoa học Máy tính
+Cử nhân CLC
+4 năm
+330
+165
+165
+Hệ thống thông tin
+Cử
+nhân CLC
+4 năm
+Mạng máy tính và truyền thông dữ liệu
+Kỹ sư CLC
+4,5 năm
+11
+QHI
+CN9
+Công nghệ kỹ thuật điện tử - viễn thông
+Cử nhân CLC
+4 năm
+150
+75
+75
+(-) * Chương trình đào tạo thí điểm (in nghiêng)
+(-) ** CTĐT thu học phí tương ứng với chất lượng đào tạo.

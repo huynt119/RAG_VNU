@@ -1,0 +1,13 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-phan-mem_.txt
+
+Mục tiêu của chương trình đào tạo
+a. Mục tiêu chung
+Đào tạo nhân lực ở trình độ thạc sĩ có chất lượng cao, có hiểu biết chuyên sâu về Công nghệ phần mềm;
+Mở rộng các hiểu biết về lĩnh vực Máy tính và Công nghệ thông tin;
+Nâng cao khả năng nghiên cứu về Công nghệ phần mềm. b. Mục tiêu cụ thể
+i. Về kiến thức
+:
+Nâng cao các kiến thức về các phương pháp phát triển phần mềm, các chuẩn và qui trình làm phần mềm, các kiến thức thực tiễn về phát triển phần mềm. Về kỹ năng:
+Tăng cường kỹ năng phân tích, thiết kế các Hệ thống phần mềm, kỹ năng quản trị dự án phát triển phần mềm, kỹ năng lập trình, thành thạo một số công cụ phát triển phần mềm thông dụng. Về năng lực:
+Sau khi tốt nghiệp, các Thạc sĩ Công nghệ Thông tin (CNTT) chuyên ngành Kỹ thuật Phần mềm có hiểu biết một cách cơ bản và cập nhật về lĩnh vực phát triển phần mềm; có năng lực thực hành cao trong phát triển phần mềm; có khả năng quản lý các dự án phát triển phần mềm; có năng lực trong việc đảm bảo chất lượng cho các sản phẩm phần mềm; có năng lực nghiên cứu các vấn đề liên quan về công nghệ phần mềm. Về nghiên cứu:
+Học viên có khả năng tiếp tục nghiên cứu theo các hướng: tiến trình phát triển phần mềm (mô hình tiến trình, tiến trình phát triển phần mềm hướng thành phần, hướng đối tượng, hướng hình thức hóa); các vấn đề sử dụng lại trong phát triển phần mềm; tự động hóa trong phát triển phần mềm; quản lý dự án phần mềm (độ đo và ước lượng phần mềm, đảm bảo chất lượng phần mềm, phân tích rủi ro, lập lịch, quản lý cấu hình, v.v. ), kiến trúc phần mềm, tái kỹ nghệ phần mềm; phát triển hệ thống thời gian thực, hệ thống nhúng; tương tác người máy và thiết kế giao diện, v.v.

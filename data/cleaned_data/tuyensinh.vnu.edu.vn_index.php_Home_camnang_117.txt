@@ -1,0 +1,1852 @@
+Đề án tuyển sinh Đại học năm 2024
+Điểm chuẩn ĐHCQ năm 2023 của các trường thành viên, trường, khoa trực thuộc ĐHQGHN
+Hướng dẫn đăng ký nội trú KTX ngoại ngữ và KTX Mễ Trì
+Đề án tuyển sinh trình độ đại học năm 2023 - ĐHQGHN
+Đề án tuyển sinh Đại học Quốc gia Hà Nội 2021
+QHT
+QHT17
+Hải dương học
+27
+3
+A00
+A01
+B00
+D07
+QHT
+QHT92
+Tài nguyên và môi trường nước*
+27
+3
+A00
+A01
+B00
+D07
+QHT
+QHT18
+Địa chất học
+27
+3
+A00
+A01
+B00
+D07
+QHT
+QHT20
+Quản lý tài nguyên và môi trường
+45
+5
+A00
+A01
+B00
+D07
+QHT
+QHT97
+Công nghệ quan trắc và giám sát tài nguyên môi trường*
+28
+2
+A00
+A01
+B00
+D07
+3.
+TRƯỜNG ĐH KHOA HỌC XÃ HỘI VÀ NHÂN VĂN
+(1.
+6
+50 chỉ tiêu)
+1.375
+275
+QHX
+QHX01
+Báo chí
+55
+15
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX40
+Báo chí **
+(CTĐT CLC)
+30
+5
+A01
+C00
+D01
+D78
+QHX
+QHX02
+Chính trị học
+40
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX03
+Công tác xã hội
+50
+10
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX04
+Đông Nam Á học
+33
+7
+A01
+D01
+D78
+QHX
+QHX05
+Đông phương học
+50
+10
+C00
+D01, D04
+D78, D83
+QHX
+QHX26
+Hàn Quốc học
+40
+10
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX06
+Hán Nôm
+25
+5
+C00
+D01, D04
+D78, D83
+QHX
+QHX07
+Khoa học quản lý
+50
+15
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX41
+Khoa học quản lý**
+(CTĐT CLC)
+30
+5
+A01
+C00
+D01
+D78
+QHX
+QHX08
+Lịch sử
+45
+10
+C00
+D01, D04
+D78, D83
+QHX
+QHX09
+Lưu trữ học
+40
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX10
+Ngôn ngữ học
+45
+10
+C00
+D01, D04
+D78, D83
+QHX
+QHX11
+Nhân học
+40
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX12
+Nhật Bản học
+40
+10
+D01, D06
+D78
+QHX
+QHX13
+Quan hệ công chúng
+55
+10
+C00
+D01, D04
+D78, D83
+QHX
+QHX14
+Quản lý thông tin
+42
+8
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX42
+Quản lý thông tin **
+(CTĐT CLC)
+30
+5
+A01
+C00
+D01
+D78
+QHX
+QHX15
+Quản trị dịch vụ du lịch và lữ hành
+60
+15
+A01
+D01
+D78
+QHX
+QHX16
+Quản trị khách sạn
+55
+15
+A01
+D01
+D78
+QHX
+QHX17
+Quản trị văn phòng
+60
+10
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX18
+Quốc tế học
+55
+15
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX43
+Quốc tế học**
+(CTĐT CLC)
+30
+5
+A01
+C00
+D01
+D78
+QHX
+QHX19
+Tâm lý học
+65
+15
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX20
+Thông tin - Thư viện
+40
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX21
+Tôn giáo học
+40
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX22
+Triết học
+40
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX27
+Văn hóa học
+40
+5
+C00
+D01, D04
+D78, D83
+QHX
+QHX23
+Văn học
+55
+10
+C00
+D01, D04
+D78, D83
+QHX
+QHX24
+Việt Nam học
+50
+10
+C00
+D01, D04
+D78, D83
+QHX
+QHX25
+Xã hội học
+45
+10
+A01
+C00
+D01, D04
+D78, D83
+4.
+T
+RƯỜNG ĐẠI HỌC NGOẠI  NGỮ
+(1.
+60
+0 chỉ tiêu)
+(Chỉ tiêu các ngành sư phạm chỉ là chỉ tiêu dự kiến)
+1.
+12
+0
+4
+80
+QHF
+7140231
+Sư phạm tiếng Anh
+130
+45
+D01
+Tiếng
+Anh
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7140234
+Sư phạm tiếng Trung
+15
+10
+D01
+Tiếng
+Anh
+D04
+Tiếng
+Trung
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7140236
+Sư phạm tiếng Nhật
+15
+10
+D01
+Tiếng
+Anh
+D06
+Tiếng
+Nhật
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7140237
+Sư phạm tiếng Hàn Quốc
+15
+10
+D01
+Tiếng
+Anh
+DD2
+Tiếng
+Hàn
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220201
+Ngôn ngữ Anh
+(CTĐT CLC)
+310
+140
+D01
+Tiếng
+Anh
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220203
+Ngôn ngữ Pháp
+(CTĐT CLC)
+70
+30
+D01
+Tiếng
+Anh
+D03
+Tiếng
+Pháp
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220204
+Ngôn ngữ Trung Quốc
+(CTĐT CLC)
+140
+60
+D01
+Tiếng
+Anh
+D04
+Tiếng
+Trung
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220205
+Ngôn ngữ Đức
+(CTĐT CLC)
+70
+30
+D01
+Tiếng
+Anh
+D05
+Tiếng
+Đức
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220209
+Ngôn ngữ Nhật
+(CTĐT CLC)
+140
+60
+D01
+Tiếng
+Anh
+D06
+Tiếng
+Nhật
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220210
+Ngôn ngữ Hàn Quốc
+(CTĐT CLC)
+140
+60
+D01
+Tiếng
+Anh
+DD2
+Tiếng
+Hàn
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220202
+Ngôn ngữ Nga
+50
+20
+D01
+Tiếng
+Anh
+D02
+Tiếng
+Nga
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+QHF
+7220211
+Ngôn ngữ Ả Rập
+25
+5
+D01
+Tiếng
+Anh
+D78
+Tiếng
+Anh
+D90
+Tiếng
+Anh
+5. T
+RƯỜNG ĐẠI HỌC KINH TẾ ( 1
+.3
+00 chỉ tiêu)
+1.050
+150
+5.
+1
+QHE
+QHE40
+Quản trị kinh doanh
+(CTĐT CLC)
+170
+40
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D09
+Tiếng
+Anh
+D10
+Tiếng Anh
+5.
+2
+QHE
+QHE41
+Tài chính Ngân hàng
+(CTĐT CLC)
+150
+20
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D09
+Tiếng
+Anh
+D10
+Tiếng Anh
+5.
+3
+QHE
+QHE42
+Kế toán
+(CTĐT CLC)
+160
+10
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D09
+Tiếng
+Anh
+D10
+Tiếng Anh
+5.
+4
+QHE
+QHE43
+Kinh tế quốc tế
+(CTĐT CLC)
+210
+60
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D09
+Tiếng
+Anh
+D10
+Tiếng Anh
+5.
+5
+QHE
+QHE44
+Kinh tế
+(CTĐT CLC)
+200
+10
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D09
+Tiếng
+Anh
+D10
+Tiếng Anh
+5.
+6
+QHE
+QHE45
+Kinh tế phát triển**
+(CTĐT CLC)
+160
+10
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D09
+Tiếng
+Anh
+D10
+Tiếng Anh
+5.6
+QHE
+QHE50
+Quản trị kinh doanh
+(CTĐT dành cho các tài năng thể thao)
+100 chỉ tiêu
+(
+Xét tuyển dựa trên đánh giá hồ sơ thí sinh là thành viên đội tuyển quốc gia tham gia thi đấu các giải quốc tế chính thức, vận động viên cấp 1, kiện tướng, vận động viên).
+Thông tin chi tiết:
+http://tuyensinhdaihoc.ueb.edu.vn/ueb-tuyen-sinh dai-hoc-2018-DHKT-tuyen-sinh-dai-hoc-chinh-quy-nganh-Quan-tri-kinh-doanh-danh-cho-cac-tai-nang-the-thao-nam-2021-5210.html
+6. TRƯỜNG ĐẠI HỌC GIÁO DỤC
+(
+1.0
+00 chỉ tiêu)
+(Chỉ tiêu các ngành sư phạm chỉ là chỉ tiêu dự kiến)
+900
+100
+Nhóm ngành: Sư phạm Toán và Khoa học tự nhiên
+270
+30
+6.1
+QHS
+GD1
+Sư phạm Toán
+270
+30
+A00
+A01
+B00
+D01
+Sư phạm Vật lý
+Sư phạm Hóa học
+Sư phạm Sinh học
+Sư phạm Khoa học
+t
+ự nhiên
+D90
+Nhóm ngành: Sư phạm Ngữ văn, Lịch sử và Địa lý
+195
+25
+C00
+D01
+D14
+D15
+6.2
+QHS
+GD2
+Sư phạm Ngữ Văn
+195
+25
+Sư phạm Lịch sử
+Sư phạm Lịch sử và Địa lý
+Nhóm ngành: Khoa học giáo dục (230 chỉ tiêu)
+210
+20
+6.3
+QHS
+GD3
+Quản trị trường học
+210
+20
+A00
+B00
+D01
+C00
+Quản trị Công nghệ giáo dục
+Quản trị chất lượng giáo dục
+Tham vấn học đường
+Khoa học giáo dục
+6.4
+QHS
+GD4
+Giáo dục Tiểu học
+135
+15
+A00
+B00
+D01
+C00
+6.5
+QHS
+GD5
+Giáo dục
+Mầm non
+90
+10
+A00
+B00
+D01
+C00
+7.
+T
+RƯỜNG ĐẠI HỌC VIỆT NHẬT
+(
+10
+0 chỉ tiêu)
+40
+60
+7.1
+VJU
+7310613
+Nhật Bản học
+20
+30
+A01,
+D28
+D01,
+D06
+D14,
+D63
+D78,
+D81
+7.2
+VJU
+7480204
+Khoa học và Kỹ thuật máy tính
+20
+30
+A00
+A01
+8. TRƯỜNG ĐẠI HỌC
+Y DƯỢC
+(
+5
+00 chỉ tiêu)
+35
+0
+1
+5
+0
+QHY
+7720101
+Y khoa
+105
+4
+5
+B00
+QHY
+7720201
+Dược học
+105
+4
+5
+A00
+QHY
+7720501
+Răng - Hàm - Mặt
+(CTĐT CLC)
+35
+15
+B00;
+tiếng Anh điều kiện (điểm thi THPT năm 202
+1
+>=4)
+QHY
+7720301
+Điều dưỡng
+35
+15
+B00
+QHY
+7720601
+Kỹ thuật xét nghiệm y hoc
+35
+15
+B00
+QHY
+7720602
+Kỹ thuật hình ảnh y học
+35
+15
+B00
+9
+.
+K
+HOA LUẬT
+(7
+00
+chỉ tiêu)
+5
+60
+140
+QHL
+7380101
+Luật
+312
+78
+C00
+A00
+D01,
+D03
+D78,
+D82
+QHL
+7380101
+(CLC)
+Luật
+(CTĐT CLC)
+48
+12
+A01
+D01
+D07
+D78
+QHL
+7380110
+Luật kinh doanh
+1
+52
+38
+A00
+A01
+D01,
+D03
+D
+90
+,
+D
+91
+QHL
+7380109
+Luật thương mại quốc tế
+4
+8
+12
+A00
+A01
+D01
+D78,
+D82
+10. K
+HOA QUỐC TẾ
+(850 chỉ tiêu)
+595
+255
+QHQ
+QHQ01
+Kinh doanh quốc tế
+154
+66
+A00
+A01
+Ngoại ngữ
+D01,
+D03,
+D06
+Ngoại
+ngữ
+D96,
+D97,
+DD0
+Ngoại ngữ
+QHQ
+QHQ02
+Kế toán, Phân tích và Kiểm toán
+105
+45
+A00
+A01
+Ngoại ngữ
+D01,
+D03,
+D06
+Ngoại
+ngữ
+D96,
+D97,
+DD0
+Ngoại ngữ
+QHQ
+QHQ03
+Hệ thống thông tin
+quản lý
+70
+30
+A00
+A01
+Ngoại ngữ
+D01,
+D03,
+D06
+Ngoại
+ngữ
+D96,
+D97, DD0
+Ngoại ngữ
+QHQ
+QHQ04
+Tin học và kĩ thuật máy tính
+(
+CTĐT LKQT do ĐHQGHN cấp bằng)
+5
+6
+24
+A00
+Toán
+A01
+Toán
+D01, D03,
+D06
+Toán
+D07, D23, D24
+Toán
+QHQ
+QHQ05
+Phân tích dữ liệu
+kinh doanh
+70
+30
+A00
+Toán
+A01
+Toán
+D01,
+D03,
+D06
+Toán
+D07,
+D23,
+D24
+Toán
+QHQ
+QHQ06
+Marketing
+(CTĐT cấp 2 bằng ĐH của ĐHQGHN và trường ĐH HELP - Malaysia)
+42
+18
+A00
+A01
+Ngoại ngữ
+D01, D03,
+D06
+Ngoại
+ngữ
+D96, D97, DD0
+Ngoại ngữ
+QHQ
+QHQ07
+Quản lý
+(CTĐT cấp 2 bằng ĐH của ĐHQGHN và trường ĐH Keuka – Hoa Kỳ)
+28
+12
+A00
+A01
+Ngoại ngữ
+D01, D03,
+D06
+Ngoại
+ngữ
+D96, D97, DD0
+Ngoại ngữ
+QHQ
+QHQ08
+Kỹ sư Tự động hóa và
+Tin học
+35
+15
+A00
+Toán
+A01
+Toán
+D01, D03,
+D06
+Toán
+D07, D23, D24
+Toán
+QHQ
+QHQ09
+Ngôn ngữ Anh**
+35
+15
+A00
+A01
+Tiếng Anh
+D01, D03,
+D06
+Ngoại
+ngữ
+D96, D97, DD0
+Ngoại ngữ
+Đối với tất cả các tổ hợp xét tuyển, thí sinh phải đạt điểm thi tốt nghiệp THPT năm 2021 môn Ngoại ngữ tối
+thiểu 5 điểm
+(theo thang điểm 10), trừ đối tượng được miễn thi
+môn này
+11.
+KHOA QUẢN TRỊ VÀ KINH DOANH
+(
+360
+chỉ tiêu)
+280
+8
+0
+QHD
+7900101
+Quản trị Doanh nghiệp và Công nghệ
+70
+20
+A0
+1
+D
+01
+D0
+7
+D08
+QHD
+7900102
+Marketing và Truyền thông
+70
+20
+D
+01
+D
+09
+D
+10
+D
+96
+QHD
+7900103
+Quản trị Nhân lực và
+Nhân tài
+70
+20
+D
+01
+D
+09
+D
+10
+D
+96
+QHD
+7900189
+Quản trị và An ninh
+70
+20
+A0
+1
+D
+01
+D0
+7
+D08
+Đối với tất cả các tổ hợp xét tuyển, thí sinh phải đạt kết quả thi THPT năm 2021 môn tiếng Anh đạt tối thiểu 5 điểm (theo thang điểm 10) hoặc có chứng chỉ tiếng Anh quốc tế tương đương
+12.
+KHOA
+CÁC KHOA HỌC LIÊN NGÀNH
+(
+180
+chỉ tiêu)
+150
+30
+12.1
+QHK
+7349001
+Quản trị thương hiệu
+100
+20
+A00
+A01
+C00
+D01,
+D03,
+D04
+12.2
+QHK
+7349002
+Quản trị tài nguyên di sản
+50
+10
+A01
+C00
+D01,
+D03,
+D04
+D78,
+D82,
+D83
+TỔNG CHỈ TIÊU CỦA ĐHQGHN:
+11.
+3
+5
+0 chỉ tiêu
+8.545
+2.705
+và 100 chỉ tiêu cho CTĐT Quản trị kinh doanh dành cho các tài năng thể thao
+Ghi chú
+:
+(*) Các chương trình đào tạo thí điểm.
+(**) CTĐT CLC thu học phí tương ứng với chất lượng đào tạo. Thí sinh tham khảo mức học phí và điều kiện phụ về điểm môn ngoại ngữ của từng CTĐT quy định chi tiết trong đề án thành phần của trường đại học thành viên, khoa trực thuộc ĐHQGHN
+(
+kết quả
+môn N
+goại ngữ
+tại
+k
+ỳ
+thi
+tốt nghiệp THPT
+năm 20
+21
+hoặc sử dụng các chứng chỉ ngoại ngữ quốc tế
+tương đương
+theo quy định tại Quy chế thi và Đề án tuyển sinh của đơn vị).
+(***) Các ngành đào tạo xét tuyển theo chỉ tiêu từng tổ hợp (ngành Luật – hệ chuẩn của Khoa Luật và tất cả các ngành/CTĐT của Trường ĐHKHXHNV thông tin chi tiết xem tại đề án thành phần của Trường/Khoa.
+(
+) CTĐT liên kết quốc tế do ĐHQGHN cấp bằng và/hoặc đồng cấp bằng.
+Một số lưu ý khác:
+Các CTĐT có mã Nhóm ngành: CN1, CN2, CN3, CN8 của Trường Đ
+H
+C
+N
+và
+các nhóm
+GD1, GD2, GD3 của Trường Đ
+H
+G
+D
+: Thí sinh trúng tuyển vào nhóm ngành được phân vào ngành đào tạo sau khi
+vào
+học
+trong năm thứ nhất
+(đối với sinh viên trường ĐHCN) và s
+au 2 học kỳ chính của năm thứ nhất
+(đối với sinh viên trường ĐHGD).
+- Tiêu chí phụ xét tuyển của từng CTĐT (nếu có) được quy định tại các đề án thành phần của trường đại học thành viên, khoa trực thuộc ĐHQGHN.
+- Chỉ tiêu đối với các ngành sư phạm (đào tạo giáo viên) của Trường ĐHGD, ĐHNN là dự kiến; ĐHQGHN sẽ cập nhật ngay sau khi có thông báo chỉ tiêu từ Bộ GDĐT.
+Bảng tổ hợp môn xét tuyển đại học năm 2021 của ĐHQGHN
+A00:
+Toán, Vật lí, Hoá học
+D14: Ngữ văn, Lịch sử, Tiếng Anh
+A01: Toán, Vật lí, Tiếng Anh
+D15: Ngữ văn, Địa lý, Tiếng Anh
+A02: Toán, Vật lí, Sinh học
+D23: Toán, Hóa học, Tiếng Nhật
+B00:
+Toán, Hoá học, Sinh học
+D24: Toán, Hóa học, Tiếng Pháp
+C00:
+Ngữ văn, Lịch sử, Địa lý
+D28: Toán, Vật lí, Tiếng Nhật
+C01:
+Ngữ văn, Toán, Vật lý
+D63: Ngữ văn, Lịch sử, Tiếng Nhật
+D01: Toán, Ngữ văn, Tiếng Anh
+D78: Ngữ văn, Khoa học xã hội, Tiếng Anh
+D02: Toán, Ngữ văn, Tiếng Nga
+D81: Ngữ văn, Khoa học xã hội, Tiếng Nhật
+D03: Toán, Ngữ văn, Tiếng Pháp
+D82: Ngữ văn, Khoa học xã hội, Tiếng Pháp
+D04: Toán, Ngữ văn, Tiếng Trung
+D83: Ngữ văn, Khoa học xã hội ,Tiếng Trung
+D05: Toán, Ngữ văn, Tiếng Đức
+D90: Toán, Khoa học Tự nhiên, Tiếng Anh
+D06: Toán, Ngữ văn, Tiếng Nhật
+D91: Toán, Khoa học Tự nhiên, Tiếng Pháp
+D07: Toán, Hóa học, Tiếng Anh
+D96: Toán, Khoa học Xã hội, Tiếng Anh
+D08: Toán, Sinh học, Tiếng Anh
+D97: Toán, Khoa học Xã hội, Tiếng Pháp
+D09:
+Toán, Lịch sử, Tiếng Anh
+DD0: Toán, Khoa học Xã hội, Tiếng Nhật
+D10:
+Toán, Địa lý, Tiếng Anh
+DD0: Toán, Ngữ văn, Tiếng Hàn
+1
+.5. Ngưỡng đảm bảo chất lượng đầu vào, điều kiện nhận
+đăng ký xét tuyển
+a)
+Căn cứ vào kết quả kỳ thi tốt nghiệp THPT năm 2021, ĐHQGHN quy định n
+gưỡng đảm bảo chất lượng đầu vào
+tương ứng
+đối với thí sinh sử dụng kết quả thi
+tốt nghiệp
+THPT
+năm 2021 để xét tuyển
+.
+b)
+Ngưỡng đảm bảo chất lượng đầu vào đối với thí sinh sử dụng
+kết quả thi
+ĐGNL học sinh THPT
+do ĐH
+QGHN tổ chức năm 2021 đạt tối thiểu 80/150 điểm trở lên
+.
+c)
+Ngưỡng đảm bảo chất lượng đầu vào đối với thí sinh sử dụng chứng chỉ A-Level tổ hợp kết quả 3 môn thi theo các khối thi quy định của ngành đào tạo tương ứng đảm bảo mức điểm mỗi môn thi đạt từ 60/100 điểm trở lên (tương ứng điểm C, PUM range ≥ 60).
+d) Ngưỡng đảm bảo chất lượng đầu vào đối với thí sinh sử dụng kết quả k
+ỳ
+thi SAT là 1100/1600
+.
+Mã đăng ký của ĐHQGHN với tổ chức thi SAT (The College Board) là
+7853-Vietnam National University-Hanoi
+(thí sinh phải khai báo mã đăng ký trên khi đăng ký thi SAT).
+e
+)
+Ngưỡng đảm bảo chất lượng đầu vào đối với thí sinh sử dụng
+kết quả kỳ thi chuẩn hóa ACT (American College Testing) đạt điểm từ 22/36.
+f)
+Ngưỡng đảm bảo chất lượng đầu vào đối với thí sinh có c
+hứng chỉ tiếng Anh IELTS từ 5.5 trở lên hoặc các chứng chỉ tiếng Anh quốc tế tương đương hoặc một chứng chỉ ngoại ngữ quốc tế khác
+(quy định tại Phụ lục đính kèm)
+và có tổng điểm 2 môn còn lại trong tổ hợp xét tuyển đạt tối thiểu 12 điểm
+(trong đó bắt buộc có môn Toán hoặc môn Văn).
+Lưu ý: Các chứng chỉ quốc tế
+phải còn hạn sử dụng tính đến ngày ĐKXT (thời hạn sử dụng 02 năm kể từ ngày dự thi).
+Thí sinh tham khảo hướng dẫn chi tiết tại Cổng thông tin tuyển sinh của ĐHQGHN theo địa chỉ
+http://tuyensinh.vnu.edu.vn
+1.6. Các thông tin cần thiết khác để thí sinh ĐKXT vào các ngành của trường
+(mã trường, mã ngành
+/mã xét tuyển,
+tổ hợp xét tuyển và quy định chênh lệch điểm xét tuyển giữa các tổ hợp; các điều kiện phụ sử dụng trong xét tuyển...)
+T
+hông tin chi tiết xem tại:
+www.tuyensinh.vnu.edu.vn
+1
+.7. Tổ chức tuyển sinh
+1.7.1.
+Thời gian xét tuyển
+a) Thời gian xét tuyển đợt 1
+Đối với thí sinh đăng ký xét tuyển thẳng (XTT), ưu tiên xét tuyển (XTT) và xét tuyển theo kết quả kì thi tốt nghiệp THPT năm 2021: Thực hiện theo Hướng dẫn tuyển sinh của Bộ GDĐT và Hướng dẫn tuyển sinh đại học chính quy năm 2021 của ĐHQGHN, chi tiết tại Đề án tuyển sinh của các đơn vị thuộc ĐHQGHN;
+Đối với thí sinh sử dụng phương thức xét tuyển khác (ĐGNL, IELTS, SAT, ACT, A-Level): Các đơn vị nhận hồ sơ ĐKXT của thí sinh trước ngày 20/7/2021
+,
+tổ chức xét tuyển trước ngày 31/7/2021 và thông báo kết quả cho thí sinh trước ngày 01/8/2021
+(thời gian, cách thức nhận hồ sơ, nguyên tắc xét tuyển, tiêu chí phụ được công bố tại Đề án thành phần của mỗi đơn vị)
+;
+Đối với thí sinh ĐKXT hồ sơ năng lực (học bạ + phỏng vấn + điểm thi tốt nghiệp THPT năm 2021 hoặc bằng tú tài quốc tế): Theo lịch của HĐTS (được công bố trong Đề án tuyển sinh của trường/khoa có sử dụng phương thức này (Trường ĐH Việt Nhật, Khoa Quốc tế - ĐHQGHN).
+b)
+Thời gian xét tuyển
+đợt bổ sung (nếu có)
+Ngay sau khi kết thúc xét tuyển đợt 1, ĐHQGHN sẽ xem xét việc xét tuyển bổ sung
+(nếu còn chỉ tiêu).
+Thông tin cụ thể sẽ được thông báo trên trang thông tin điện tử của các đơn vị đào tạo và Cổng thông tin tuyển sinh của ĐHQGHN.
+1.7.2. Hình thức nhận đăng ký xét tuyển
+a) Đối với thí sinh sử dụng kết quả thi tốt nghiệp THPT năm 2021
+- Thí sinh được ĐKXT không giới hạn số nguyện vọng, số trường/khoa trực thuộc và phải sắp xếp nguyện vọng theo thứ tự ưu tiên từ cao xuống thấp (nguyện vọng 1 là nguyện vọng cao nhất). C
+ác HĐTS căn cứ vào kết quả thi để xét tuyển bình đẳng tất cả các nguyện vọng của thí sinh đăng ký.
+Thí sinh chỉ trúng tuyển vào một nguyện vọng ưu tiên cao nhất trong danh sách các nguyện vọng đã đăng ký;
+- Điểm xét tuyển là tổng điểm các bài thi/môn thi theo thang điểm 10 đối với từng bài thi/môn thi của từng tổ hợp xét tuyển và cộng với điểm ưu tiên đối tượng, khu vực theo Điều 7 của Quy chế tuyển sinh,
+được
+làm tròn đến hai chữ số thập phân
+;
+Trường hợp các thí sinh bằng điểm xét tuyển ở cuối danh sách thì xét trúng tuyển theo các điều kiện phụ do mỗi đơn vị quy định và công khai trong đề án tuyển sinh năm 2021, nếu vẫn vượt chỉ tiêu thì ưu tiên thí sinh có nguyện vọng ưu tiên cao hơn
+;
+- Thí sinh trúng tuyển phải xác nhận nhập học trực tuyến trong thời hạn quy định. Quá thời hạn quy định, thí sinh không xác nhận nhập học được xem như từ chối nhập học và HĐTS được xét tuyển thí sinh khác trong đợt xét tuyển bổ sung.
+b) Đối với thí sinh đáp ứng điều kiện tại Mục 1.5 b-f của Đề án này
+- Thí sinh được ĐKXT không giới hạn số nguyện vọng, số trường/khoa trực thuộc và phải sắp xếp nguyện vọng theo thứ tự ưu tiên từ cao xuống thấp (nguyện vọng 1 là nguyện vọng cao nhất). C
+ác HĐTS căn cứ vào kết quả thi để xét tuyển bình đẳng tất cả các nguyện vọng của thí sinh đăng ký.
+Thí sinh chỉ trúng tuyển vào một nguyện vọng ưu tiên cao nhất trong danh sách các nguyện vọng đã đăng ký;
+Trường hợp các thí sinh bằng điểm xét tuyển ở cuối danh sách thì xét trúng tuyển theo các điều kiện phụ do mỗi đơn vị quy định và công khai trong đề án tuyển sinh năm 2021, nếu vẫn vượt chỉ tiêu thì ưu tiên thí sinh có nguyện vọng ưu tiên cao hơn.
+Thí sinh trúng tuyển phải xác nhận nhập học trực tuyến trong thời hạn quy định. Quá thời hạn quy định, thí sinh không xác nhận nhập học được xem như từ chối nhập học và HĐTS được xét tuyển thí sinh khác trong đợt xét tuyển bổ sung.
+1.7.3. Tổ chức xét tuyển
+a. Đối với thí sinh sử dụng kết quả thi tốt nghiệp THPT năm 202
+1
+(i) Thí sinh nộp phiếu ĐKXT, hồ sơ đăng ký dự thi tốt nghiệp THPT, lệ phí ĐKXT theo quy định của Bộ GDĐT. Trong các đợt xét tuyển bổ sung, thí sinh thực hiện ĐKXT và nộp lệ phí theo quy định
+của các Trường/Khoa
+.
+(ii) Sau khi có kết quả thi tốt nghiệp THPT, thí sinh được điều chỉnh nguyện vọng ĐKXT trong thời hạn quy định
+(từ ngày 7/8 đến 17h00 ngày 17/8/2021)
+theo Hướng dẫn của Bộ GDĐT và Hướng dẫn của ĐHQGHN;
+(iii) Thí sinh x
+ác
+nhận
+nhập học vào đơn vị đào tạo của ĐHQGHN bằng hình thức trực tuyến tại địa chỉ:
+tuyensinh.vnu.edu.vn
+trong khoảng thời gian từ
+8h00
+ngày 2
+5
+/
+8
+/2021 đến trước 17h00 ngày 0
+1
+/
+9
+/202
+1
+đồng thời gửi Giấy chứng nhận kết quả thi
+(bản chính)
+tới trường/khoa bằng thư chuyển phát nhanh hoặc nộp trực tiếp khi nhập học.
+- Đăng nhập vào địa chỉ
+tuyensinh.vnu.edu.vn
+mục “
+Xác nhận nhập học
+vào
+ĐHQGHN
+” hoặc đường dẫn qua các website các đơn vị đào tạo.
+- Nhập
+MÃ ĐĂNG KÝ XÉT TUYỂN
+(ghi trên Giấy chứng nhận kết quả thi tốt nghiệp THPT năm 202
+1
+) để
+XÁC NHẬN
+nhập học vào ĐHQGHN. Mã
+ĐKXT
+chỉ được sử dụng duy nhất
+01 lần
+. Thí sinh đã sử dụng mã ĐKXT vào ĐHQGHN sẽ không được phép rút/hủy hồ sơ hay xác nhận vào bất kỳ trường đại học
+,
+cơ sở giáo dục nào khác trên cả nước trong các đợt xét tuyển năm 202
+1
+.
+- Thí sinh hoàn thiện các thông tin cá nhân: Số chứng minh nhân dân/căn cước công dân, điện thoại,
+email,
+địa chỉ liên hệ trên tài khoản xác nhận trực tuyến và làm theo các hướng dẫn khác
+(
+ĐHQGHN
+sẽ có Hướng dẫn chi tiết
+các bước
+Xác nhận nhập học
+trực tuyến
+).
+- Thí sinh đăng nhập tài khoản sau khi hoàn thành xác nhận trực tuyến tại địa chỉ:
+tuyensinh.vnu.edu.vn
+,
+mục "
+Kết quả xét tuyển và Nhập học
+” để kiểm tra thông tin.
+Sau khi hoàn thành việc xác nhận nhập học trực tuyến, thí sinh gửi bản chính Giấy chứng nhận kết quả thi đến HĐTS bằng thư chuyển phát nhanh hoặc nộp trực tiếp khi đến nhập học.
+(iv)
+Thí sinh chịu trách nhiệm
+về tính xác thực của các thông tin cá nhân, kết quả thi, nguyện vọng ĐKXT và xác nhập nhập học. Các HĐTS có quyền từ chối tiếp nhận hoặc buộc thôi học nếu thí sinh không đảm bảo các điều kiện trúng tuyển khi đối chiếu thông tin ĐKXT và dữ liệu đăng ký dự thi với hồ sơ gốc.
+b. Tổ chức xét tuyển đợt 1
+(i)
+Kết thúc thời gian đăng ký dự thi, các đơn vị đào tạo tham khảo thông tin
+, dữ liệu thí sinh ĐKXT
+trên Cổng thông tin tuyển sinh của
+Bộ GDĐT
+và sử dụng phần mềm tuyển sinh của ĐHQGHN để chuẩn bị phương án xét tuyển phù hợp;
+(ii) Hết thời hạn thí sinh được điều chỉnh nguyện vọng ĐKXT, các đơn vị khai thác thông tin trên Cổng thông tin tuyển sinh
+c
+ủa Bộ GDĐT, thực hiện các phương án xét tuyển trên phần mềm của Bộ GDĐT để dự kiến điểm trúng tuyển, dự kiến danh sách thí sinh trúng tuyển vào trường/khoa trong thời gian
+quy định
+;
+(iii) Các đơn vị nhập danh sách thí sinh trúng tuyển dự kiến lên Cổng thông tin tuyển sinh
+c
+ủa Bộ
+GDĐT
+trong thời gian quy định để hệ thống tự động loại bỏ những nguyện vọng thấp của thí sinh được dự kiến trúng tuyển nhiều nguyện vọng theo quy định;
+(iv) Các đơn vị điều chỉnh điểm trúng tuyển phù hợp với chỉ tiêu trong thời hạn quy định; quyết định điểm trúng tuyển và danh sách thí sinh trúng tuyển chính thức, công bố kết quả trúng tuyển trên Cổng thông tin tuyển sinh của ĐHQGHN (
+tuyensinh.vnu.edu.vn)
+cũng như trang thông tin điện tử của
+đơn vị
+và trên các phương tiện thông tin đại chúng khác
+trước 17h00 ngày 2
+3
+/
+8
+/202
+1
+;
+(v) Các trường/khoa tổng hợp kết quả thí sinh
+Xác nhận nhập học
+, cập nhật lên
+Cổng thông tin tuyển sinh
+c
+ủa Bộ GDĐT, Cổng thông tin tuyển sinh của ĐHQGHN
+và quyết định dừng xét tuyển hay tiếp tục xét tuyển bổ sung;
+(vi) HĐTS bố trí cán bộ hỗ trợ thí sinh xác nhận nhập học trực tuyến và nhận, cập nhật Giấy chứng nhận kết quả thi của thí sinh vào phần mềm Xác nhận nhập học.
+c.
+Xét tuyển các đối tượng quy định tại
+Mục 1.5b-
+f
+của Đề án này
+(i)
+Thí sinh sử dụng
+kết quả thi ĐGNL học sinh THPT do ĐHQGHN tổ chức,
+chứng chỉ A-Level, kết quả kỳ thi SAT, ACT, chứng chỉ IELTS hoặc tương tương
+(theo quy định tại Phụ lục 1 Đề án này)
+tải Phiếu ĐKXT theo mẫu tại
+Cổng thông tin
+tuyển sinh
+của ĐHQGHN hoặc trang thông tin điện tử của đơn vị.
+(ii) Thí sinh hoàn thiện phiếu ĐKXT, gửi trực tiếp hoặc thư chuyển phát nhanh tới HĐTS trước ngày 20/
+7
+/202
+1
+.
+(iii) HĐTS công bố kết quả xét tuyển và danh sách trúng tuyển trên website của đơn vị trước ngày
+0
+1/8/202
+1
+.
+(iv) Thí sinh kiểm tra danh sách trúng tuyển tại Cổng thông tin tuyển sinh của ĐHQGHN
+hoặc trang thông tin điện tử của đơn vị.
+Thí sinh trúng tuyển gửi bản sao hợp lệ bằng tốt nghiệp THPT hoặc tương đương về HĐTS các đơn vị trong khoảng thời gian
+quy định
+để
+Xác nhận nhập học
+(thời gian XNNH do HĐTS quy định)
+.
+d.
+Xét tuyển bổ sung(nếu có)
+(i) Xét tuyển bổ sung có thể được thực hiện một lần hay nhiều lần;
+(ii) Căn cứ chỉ tiêu tuyển sinh của trường/khoa và số thí sinh trúng tuyển đã xác nhận nhập học tại đơn vị sau khi xét tuyển đợt 1 (kể cả số thí sinh được xét tuyển thẳng, ưu tiên xét tuyển
+, xét tuyển theo các phương thức khác
+và số học sinh dự bị của trường/khoa; học sinh các trường dự bị đại học được
+Bộ GDĐT
+giao, các đối tượng tuyển sinh từ nguồn khác…), HĐTS xem xét, quyết định
+việc
+xét tuyển bổ sung ngay sau khi kết thúc xét tuyển đợt 1
+;
+(iii) Các đơn vị thông báo điều kiện xét tuyển bổ sung
+(điểm nhận hồ sơ xét tuyển bổ sung không thấp hơn điểm trúng tuyển đợt 1)
+; công bố lịch xét tuyển bổ sung trên Cổng thông tin tuyển sinh của ĐHQGHN và trang thông tin điện tử của đơn vị;
+(iv) Thí sinh chưa trúng tuyển hay đã trúng tuyển nhưng chưa xác nhận nhập học vào bất cứ trường đại học nào có thể thực hiện ĐKXT bổ sung trực tuyến hoặc theo phương thức khác do HĐTS quy định;
+(v) Kết thúc mỗi đợt xét tuyển, HĐTS công bố trên trang thông tin điện tử của trường/khoa và trên phương tiện thông tin đại chúng về điểm trúng tuyển, danh sách thí sinh trúng tuyển;
+(vi) HĐTS cập nhật danh sách thí sinh xác
+nhận nhập học lên Cổng thông tin tuyển sinh của Bộ GDĐT và của ĐHQGHN sau khi kết thúc mỗi đợt xét tuyển.
+1
+.8. Chính sách ưu tiên
+trong tuyển sinh
+1.8.1. Chính sách ưu tiên theo đối tượng, theo khu vực, các đối tượng được xét tuyển thẳng và ưu tiên xét tuyển thực hiện theo Quy chế và Hướng dẫn công tác tuyển sinh hiện hành của Bộ GDĐT.
+1.8.2. H
+ọc sinh THPT
+hệ
+chuyên thuộc ĐHQGHN được xét tuyển thẳng và xét tuyển vào bậc đại học tại ĐHQGHN phải tốt nghiệp THPT, có hạnh kiểm 3 năm học THPT đạt loại Tốt và đáp ứng một trong các tiêu chí sau:
+a) Là thành viên chính thức đội tuyển dự kỳ thi Olympic hoặc các cuộc thi sáng tạo, triển lãm khoa học kỹ thuật khu vực, quốc tế;
+b) Đạt giải chính thức trong kỳ thi chọn học sinh giỏi bậc THPT cấp ĐHQGHN;
+c) Đạt giải chính thức trong kỳ thi Olympic chuyên Khoa học
+t
+ự nhiên bậc THPT;
+d) Là thành viên chính thức của đội tuyển tham dự kỳ thi chọn học sinh giỏi quốc gia hoặc các cuộc thi sáng tạo khoa học kỹ thuật quốc gia;
+e)
+Có điểm trung bình chung học tập
+từng kỳ
+trong 5 học kỳ (năm lớp 10, 11 và học kỳ 1 năm lớp 12) đạt từ 8,0 trở lên và
+điểm
+trung bình chung học tập
+của 3 môn thuộc tổ hợp xét tuyển
+từng kỳ
+trong 5 học kỳ (năm lớp 10, 11 và học kỳ 1 năm lớp 12) đạt từ 8,0 trở lên
+và
+có kết quả thi tốt nghiệp THPT
+đạt ngưỡng đảm bảo chất lượng đầu vào của ngành
+(mức điểm xét tuyển cụ thể và các tiêu chí phụ do
+HĐTS
+quy định);
+Học sinh đạt một trong các tiêu chí quy định tại điểm a, b, c, d Mục 1.8.2
+trong các năm học ở bậc THPT được bảo lưu kết quả khi xét tuyển thẳng và xét tuyển vào bậc đại học tại ĐHQGHN.
+1.8.3.
+Học sinh hệ chuyên các trường THPT chuyên cấp tỉnh, thành phố trực thuộc trung ương
+(không phải là 2 trường THPT chuyên của ĐHQGHN)
+được đăng ký xét tuyển thẳng và xét tuyển vào bậc đại học ở các đơn vị đào tạo của ĐHQGHN nếu đáp ứng các yêu cầu như đối với học sinh THPT chuyên thuộc ĐHQGHN được quy định tại
+Mục
+1.8
+.2
+và phải là học sinh thuộc trường THPT chuyên có tên trong danh sách các trường được đơn vị dành chỉ tiêu xét tuyển thẳng và xét tuyển.
+1.8.4. Học sinh hệ không chuyên của các trường THPT thuộc ĐHQGHN được
+ưu tiên
+xét tuyển và xét tuyển vào bậc đại học tại ĐHQGHN phải tốt nghiệp THPT và có hạnh kiểm 3 năm học THPT đạt loại Tốt và đáp ứng một trong các tiêu chí sau:
+a) Đạt giải chính thức trong các kỳ thi Olympic hoặc các cuộc thi sáng tạo,
+triển lãm khoa học kỹ thuật khu vực, quốc tế;
+b) Đạt giải chính thức trong kỳ thi chọn học sinh giỏi bậc THPT cấp ĐHQGHN;
+c) Đạt giải chính thức trong kỳ thi Olympic chuyên KHTN bậc THPT;
+d) Có điểm trung bình chung học tập từng kỳ trong 5 học kỳ (năm lớp 10,
+11 và học kỳ 1 năm lớp 12) đạt từ 8,0 trở lên và điểm trung bình chung học tập
+của 3 môn thuộc tổ hợp xét tuyển từng kỳ trong 5 học kỳ (năm lớp 10, 11 và học kỳ 1 năm lớp 12) đạt từ 8,5 trở lên.
+Các thí sinh diện ưu tiên xét tuyển phải có kết quả thi tốt nghiệp THPT đạt
+ngưỡng đảm bảo chất lượng đầu vào của ngành/nhóm ngành/CTĐT trong năm
+tuyển sinh (mức điểm xét tuyển cụ thể và các tiêu chí phụ do HĐTS đơn vị quy định)
+.
+1.8.5. Học sinh các trường THPT trên toàn quốc được xét tuyển thẳng và xét tuyển vào bậc đại học tại ĐHQGHN phải tốt nghiệp THPT và có hạnh kiểm 3 năm học THPT đạt loại Tốt và đáp ứng một trong các tiêu chí sau:
+a) Là thành viên tham gia cuộc thi tháng của chương trình
+“Đường lên đỉnh Olympia”
+do Đài truyền hình Việt Nam tổ chức hàng năm và có điểm trung bình chung học tập 5 học kỳ (năm lớp 10, 11 và học kỳ 1 năm lớp 12) đạt từ 8,0 trở lên;
+b) Đạt giải Nhất, Nhì, Ba trong kỳ thi học sinh giỏi cấp tỉnh/thành phố trực   thuộc trung ương có môn đạt giải thuộc tổ hợp xét tuyển hoặc môn đạt giải phù hợp với ngành đào tạo và điểm trung bình chung học tập
+từng kỳ trong
+5 học kỳ (năm lớp 10, 11 và học kỳ 1 năm lớp 12) đạt từ 8,0 trở lên.
+HĐTS đ
+ơn vị quy định cụ thể các tiêu chí xét tuyển dựa trên kết quả học tập, thứ tự ưu tiên xét tuyển thẳng kết quả cuộc thi, giải thưởng thí sinh đạt được và các tiêu chí phụ khác (nếu có).
+1.8.6. Thí sinh không dùng quyền xét tuyển thẳng được ưu tiên xét tuyển nếu đạt ngưỡng đảm bảo chất lượng đầu vào của ngành
+/nhóm ngành/ CTĐT
+trong năm tuyển sinh.
+1.8.7. Các đơn vị quy định cụ thể về xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh, bao gồm: ngành/nhóm ngành/chương trình đào tạo, thí sinh được xét tuyển thẳng, ưu tiên xét tuyển tương ứng với loại giải và môn thi của thí sinh đoạt giải hoặc môn chuyên của thí sinh (các đơn vị có thể bổ sung thêm các ngành đúng, ngành gần đối với từng môn thi học sinh giỏi quốc gia hoặc môn chuyên phù hợp với yêu cầu đầu vào của ngành đào tạo), chỉ tiêu cho từng ngành/nhóm ngành/chương trình đào tạo, quy trình xét tuyển được công bố công khai trên trang thông tin của đơn vị, của ĐHQGHN và các phương tiện thông tin đại chúng.
+1.8.8.
+Đơn vị đào tạo nhận hồ sơ xét tuyển thẳng, ưu tiên xét tuyển trước ngày 10/6/2021 và xét tuyển theo phương thức khác trước ngày 20/7/2021
+(cách thức nhận hồ sơ do HĐTS đơn vị quy định);
+Tổ chức xét tuyển thẳng, ưu tiên xét tuyển theo các tiêu chí đã công bố trong đề án tuyển sinh của đơn vị và thông báo kết quả xét tuyển trước 17h00 ngày 28/7/2021; tổ chức xét tuyển theo phương thức khác và công bố kết quả trước ngày 01/8/2021;
+Các HĐTS báo cáo Ban Chỉ đạo tuyển sinh (qua Ban Đào tạo) kết quả xét tuyển trước khi công bố kết quả. Sau khi có ý kiến của Ban Chỉ đạo tuyển sinh, đơn vị
+cập nhật danh sách thí sinh trúng tuyển vào cơ sở dữ liệu tuyển sinh của Bộ
+GDĐT, đồng thời thông báo kết quả tới các Sở GDĐT và thí sinh.
+1.9. Lệ phí xét tuyển:
+Theo quy định của Bộ GDĐT
+và Hướng dẫn tuyển sinh đại học chính quy năm 2021 của ĐHQGHN
+.
+1.10.
+Học phí dự kiến với sinh viên và lộ trình tăng học phí tối đa cho từng năm
+Học phí dự kiến với sinh viên chính quy các CTĐT chuẩn: từ
+10
+– 1
+5
+triệu đồng/năm/sinh viên và từ 30-
+137.5
+triệu đồng/năm/sinh viên đối với các CTĐT
+CLC, CTĐT theo
+đặc thù
+đơn vị
+theo Đề án được phê duyệt của ĐHQGHN.
+Chi tiết xem tại: http://tuyensinh.vnu.edu.vn/
+Lộ trình tăng học phí tối đa cho từng năm:
+Theo Nghị định số 86/2015/NĐ-CP ngày 02/10/2015 của Thủ tướng chính phủ
+quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập
+và các quy định hiện hành của Nhà nước.
+Các
+nội dung
+khác
+Địa chỉ trang thông tin điện tử của ĐHQGHN:
+http://vnu.edu.vn
+hoặc Cổng thông tin tuyển sinh của ĐHQGHN:
+http://tuyensinh.vnu.edu.vn
+Điện thoại: 024.375 47 670 (máy lẻ 527)
+Thông tin
+trực
+hỗ trợ để giải đáp thắc mắc
+: C
+hi tiết xem tại đề án thành phần của các trường thành viên/Khoa trực thuộc ĐHQGHN.
+1.12. Tình hình việc làm
+Chi tiết tại Đề án thành phần của các trường thành viên, khoa trực thuộc.
+2. Tuyển sinh vừa làm vừa học trình độ đại học năm 2021
+2.1. Đối tượng tuyển sinh
+Thí sinh đã tốt nghiệp chương trình THPT của Việt Nam (theo hình thức giáo dục chính quy hoặc giáo dục thường xuyên) hoặc đã tốt nghiệp trình độ trung cấp (trong đó, người tốt nghiệp trình độ trung cấp nhưng chưa có bằng tốt nghiệp THPT phải học và thi đạt yêu cầu đủ khối lượng kiến thức văn hóa THPT theo quy định của Luật Giáo dục và các văn bản hướng dẫn thi hành) hoặc đã tốt nghiệp chương trình THPT của nước ngoài (đã được nước sở tại cho phép thực hiện, đạt trình độ tương đương trình độ THPT của Việt Nam) ở nước ngoài hoặc ở Việt Nam (sau đây gọi chung là tốt nghiệp THPT).
+- Có đủ sức khoẻ để học tập theo quy định hiện hành. Đối với người khuyết tật được cấp có thẩm quyền công nhận bị dị dạng, dị tật, suy giảm khả năng tự lực trong sinh hoạt và học tập thì hiệu trưởng các trường xem xét, quyết định cho dự tuyển vào các ngành học phù hợp với tình trạng sức khoẻ.
+2.2. Phạm vi tuyển sinh
+:
+tuyển sinh trên cả nước.
+2.3. Phương thức tuyển sinh
+Thi tuyển, xét tuyển hoặc kết hợp thi tuyển và xét tuyển theo Quy chế tuyển sinh trình độ đại học hiện hành (Thông tư 09/2020/TT-BGDĐT). Thông tin chi tiết được nêu tại Đề án thành phần của các Trường thành viên/Khoa trực thuộc
+2.4. Chỉ tiêu tuyển sinh
+Chỉ tiêu tuyển sinh VLVH năm 2021 của ĐHQGHN: 1.000 (chỉ tiêu)
+2.5. Ngưỡng đảm bảo chất lượng đầu vào, điều kiện nhận hồ sơ ĐKXT
+Theo quy định của ĐHQGHN và Quy chế tuyển sinh của Bộ GDĐT.
+2.6. Các thông tin cần thiết khác để thí sinh ĐKXT vào các ngành
+2.7. Tổ chức tuyển sinh
+(
+Thời gian; hình thức nhận hồ sơ ĐKXT/thi tuyển; các điều kiện xét tuyển/thi tuyển, tổ hợp môn thi/bài thi đối với từng ngành đào tạo,..)
+2.7.1. Hình thức nhận hồ sơ đăng ký két tuyển
+Thí sinh nộp hồ sơ tại các HĐTS các Trường thành viên/Khoa trực thuộc;
+2.7.2. Thời gian nhận hồ sơ và thi tuyển/xét tuyển:
+Theo thông báo tuyển sinh trên trang thông tin điện tử của các trường thành viên/khoa trực thuộc
+(Phụ lục 3)
+2.8. Chính sách ưu tiên
+2.8.1. Chính sách ưu tiên theo đối tượng và chính sách ưu tiên theo khu vực
+Chính sách ưu tiên theo đối tượng, chính sách ưu tiên theo khu vực theo Quy chế tuyển sinh hiện hành của Bộ GDĐT.
+Trang tiếp theo
+Facebook Chat
+Widget by CAIT
+Liên kết
+Trường Đại học Khoa học Tự nhiên
+Trường Đại học  Khoa học Xã hội và Nhân văn
+Trường Đại học Ngoại ngữ
+Trường Đại học Công nghệ
+Trường Đại học Giáo dục
+Trường Đại học Luật
+Trường Đại học Y Dược
+Trường Đại học Việt Nhật
+Trường Quốc tế
+Trường Quản trị và Kinh doanh
+Trường Đại học Kinh tế
+Trường Khoa học liên ngành và Nghệ thuật
+Khoa Quốc tế Pháp ngữ
+Địa chỉ
+144 Xuân Thủy, Cầu Giấy, Hà Nội
+Khu đô thị ĐHQGHN tại Hòa Lạc
+024 37547 670
+tsvnu@vnu.edu.vn
+Copyright by Đại học Quốc gia Hà Nội
+×
+Đăng ký tài khoản
+Đăng ký
+Đăng nhập
+1.Họ tên:
+3.CMND/CCCD:
+Email:
+Nhập lại Email:
+5.Hộ khẩu thường trú:
+2.Ngày sinh:
+4.Điện thoại:
+6.Dân tộc:
+Mật khẩu:
+Nhập lại mật khẩu
+Lớp 10:
+Tỉnh/TP:
+Nước ngoài
+Thành phố Hà Nội
+Thành phố Hồ Chí Minh
+Thành phố Hải Phòng
+Thành phố Đà Nẵng
+Tỉnh Hà Giang
+Tỉnh Cao Bằng
+Tỉnh Lai Châu
+Tỉnh Lào Cai
+Tỉnh Tuyên Quang
+Tỉnh Lạng Sơn
+Tỉnh Bắc Kạn
+Tỉnh Thái Nguyên
+Tỉnh Yên Bái
+Tỉnh Sơn La
+Tỉnh Phú Thọ
+Tỉnh Vĩnh Phúc
+Tỉnh Quảng Ninh
+Tỉnh Bắc Giang
+Tỉnh Bắc Ninh
+Tỉnh Hải Dương
+Tỉnh Hưng Yên
+Tỉnh Hòa Bình
+Tỉnh Hà Nam
+Tỉnh Nam Định
+Tỉnh Thái Bình
+Tỉnh Ninh Bình
+Tỉnh Thanh Hóa
+Tỉnh Nghệ An
+Tỉnh Hà Tĩnh
+Tỉnh Quảng Bình
+Tỉnh Quảng Trị
+Tỉnh Thừa Thiên -Huế
+Tỉnh Quảng Nam
+Tỉnh Quảng Ngãi
+Tỉnh Kon Tum
+Tỉnh Bình Định
+Tỉnh Gia Lai
+Tỉnh Phú Yên
+Tỉnh Đắk Lắk
+Tỉnh Khánh Hòa
+Tỉnh Lâm Đồng
+Tỉnh Bình Phước
+Tỉnh Bình Dương
+Tỉnh Ninh Thuận
+Tỉnh Tây Ninh
+Tỉnh Bình Thuận
+Tỉnh Đồng Nai
+Tỉnh Long An
+Tỉnh Đồng Tháp
+Tỉnh An Giang
+Tỉnh Bà Rịa-Vũng Tàu
+Tỉnh Tiền Giang
+Tỉnh Kiên Giang
+Thành Phố Cần Thơ
+Tỉnh Bến Tre
+Tỉnh Vĩnh Long
+Tỉnh Trà Vinh
+Tỉnh Sóc Trăng
+Tỉnh Bạc Liêu
+Tỉnh Cà Mau
+Tỉnh Điện Biên
+Tỉnh Đăk Nông
+Tỉnh Hậu Giang
+Trường THPT:
+Học lực:
+Trung bình
+Khá
+Giỏi
+Loại khác/Chưa biết
+Lớp 11:
+Tỉnh/TP:
+Nước ngoài
+Thành phố Hà Nội
+Thành phố Hồ Chí Minh
+Thành phố Hải Phòng
+Thành phố Đà Nẵng
+Tỉnh Hà Giang
+Tỉnh Cao Bằng
+Tỉnh Lai Châu
+Tỉnh Lào Cai
+Tỉnh Tuyên Quang
+Tỉnh Lạng Sơn
+Tỉnh Bắc Kạn
+Tỉnh Thái Nguyên
+Tỉnh Yên Bái
+Tỉnh Sơn La
+Tỉnh Phú Thọ
+Tỉnh Vĩnh Phúc
+Tỉnh Quảng Ninh
+Tỉnh Bắc Giang
+Tỉnh Bắc Ninh
+Tỉnh Hải Dương
+Tỉnh Hưng Yên
+Tỉnh Hòa Bình
+Tỉnh Hà Nam
+Tỉnh Nam Định
+Tỉnh Thái Bình
+Tỉnh Ninh Bình
+Tỉnh Thanh Hóa
+Tỉnh Nghệ An
+Tỉnh Hà Tĩnh
+Tỉnh Quảng Bình
+Tỉnh Quảng Trị
+Tỉnh Thừa Thiên -Huế
+Tỉnh Quảng Nam
+Tỉnh Quảng Ngãi
+Tỉnh Kon Tum
+Tỉnh Bình Định
+Tỉnh Gia Lai
+Tỉnh Phú Yên
+Tỉnh Đắk Lắk
+Tỉnh Khánh Hòa
+Tỉnh Lâm Đồng
+Tỉnh Bình Phước
+Tỉnh Bình Dương
+Tỉnh Ninh Thuận
+Tỉnh Tây Ninh
+Tỉnh Bình Thuận
+Tỉnh Đồng Nai
+Tỉnh Long An
+Tỉnh Đồng Tháp
+Tỉnh An Giang
+Tỉnh Bà Rịa-Vũng Tàu
+Tỉnh Tiền Giang
+Tỉnh Kiên Giang
+Thành Phố Cần Thơ
+Tỉnh Bến Tre
+Tỉnh Vĩnh Long
+Tỉnh Trà Vinh
+Tỉnh Sóc Trăng
+Tỉnh Bạc Liêu
+Tỉnh Cà Mau
+Tỉnh Điện Biên
+Tỉnh Đăk Nông
+Tỉnh Hậu Giang
+Trường THPT:
+Học lực:
+Trung bình
+Khá
+Giỏi
+Loại khác/Chưa biết
+Lớp 12:
+Tỉnh/TP:
+Nước ngoài
+Thành phố Hà Nội
+Thành phố Hồ Chí Minh
+Thành phố Hải Phòng
+Thành phố Đà Nẵng
+Tỉnh Hà Giang
+Tỉnh Cao Bằng
+Tỉnh Lai Châu
+Tỉnh Lào Cai
+Tỉnh Tuyên Quang
+Tỉnh Lạng Sơn
+Tỉnh Bắc Kạn
+Tỉnh Thái Nguyên
+Tỉnh Yên Bái
+Tỉnh Sơn La
+Tỉnh Phú Thọ
+Tỉnh Vĩnh Phúc
+Tỉnh Quảng Ninh
+Tỉnh Bắc Giang
+Tỉnh Bắc Ninh
+Tỉnh Hải Dương
+Tỉnh Hưng Yên
+Tỉnh Hòa Bình
+Tỉnh Hà Nam
+Tỉnh Nam Định
+Tỉnh Thái Bình
+Tỉnh Ninh Bình
+Tỉnh Thanh Hóa
+Tỉnh Nghệ An
+Tỉnh Hà Tĩnh
+Tỉnh Quảng Bình
+Tỉnh Quảng Trị
+Tỉnh Thừa Thiên -Huế
+Tỉnh Quảng Nam
+Tỉnh Quảng Ngãi
+Tỉnh Kon Tum
+Tỉnh Bình Định
+Tỉnh Gia Lai
+Tỉnh Phú Yên
+Tỉnh Đắk Lắk
+Tỉnh Khánh Hòa
+Tỉnh Lâm Đồng
+Tỉnh Bình Phước
+Tỉnh Bình Dương
+Tỉnh Ninh Thuận
+Tỉnh Tây Ninh
+Tỉnh Bình Thuận
+Tỉnh Đồng Nai
+Tỉnh Long An
+Tỉnh Đồng Tháp
+Tỉnh An Giang
+Tỉnh Bà Rịa-Vũng Tàu
+Tỉnh Tiền Giang
+Tỉnh Kiên Giang
+Thành Phố Cần Thơ
+Tỉnh Bến Tre
+Tỉnh Vĩnh Long
+Tỉnh Trà Vinh
+Tỉnh Sóc Trăng
+Tỉnh Bạc Liêu
+Tỉnh Cà Mau
+Tỉnh Điện Biên
+Tỉnh Đăk Nông
+Tỉnh Hậu Giang
+Trường THPT:
+Học lực:
+Trung bình
+Khá
+Giỏi
+Loại khác/Chưa biết
+8.Năm tốt nghiệp:
+Mã bảo vệ:
+Lấy mã bảo vệ khác
+Số CMND/CCCD:
+Mật khẩu:
+Đăng nhập
+Đóng

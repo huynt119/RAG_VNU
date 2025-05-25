@@ -1,0 +1,119 @@
+Nguồn: education.vnu.edu.vn_index.php_WebControl_viewpage_297.txt
+
+Khối kiến thức
+theo nhóm ngành
+06
+9
+TMT3021
+Cơ sở tiếng Việt 2
+Vietnamese 2
+3
+3
+0
+10
+5
+10
+TMT3024
+Cơ sở Toán học 2
+Mathematics 2
+3
+3
+0
+10
+5
+V
+. Khối kiến thức ngành
+30
+11
+TMT2080
+Phương pháp dạy học Tiếng Việt ở tiểu học 1
+Methodology of Teaching Vietnamese at Elementary School 1
+3
+3
+0
+10
+5
+12
+TMT3034
+Phương pháp dạy học Tiếng Việt ở tiểu học 2
+Methodology of Teaching Vietnamese at Elementary School 2
+3
+3
+0
+10
+5
+TMT2080
+13
+TMT2093
+Phát triển năng lực dạy học tiếng Việt ở tiểu học
+Developing Vietnamese Teaching competency at Elementary School
+3
+30
+5
+5
+14
+TMT2081
+Phương pháp dạy học Toán ở tiểu học 1
+Methodology of Teaching Vietnamese at Elementary School 1
+3
+3
+0
+10
+5
+15
+TMT3035
+Phương pháp dạy học Toán ở tiểu học 2
+Methodology of Teaching Vietnamese at Elementary School 2
+3
+3
+0
+10
+5
+TMT2081
+16
+TMT3040
+Phát triển năng lực dạy học Toán ở tiểu học
+Developing Mathematics Teaching competency at Elementary School
+3
+30
+5
+5
+17
+TMT2084
+Phương pháp dạy học Tự nhiên
+và
+Xã hội ở tiểu học 2
+Methodology of Teaching Social and Natural Science at Elementary School 1
+3
+3
+0
+10
+5
+18
+TMT3042
+Dạy học Khoa học ở tiểu học theo tiếp cận giáo dục STEM
+Teaching Natural Sciences according to STEM education approache
+3
+2
+0
+5
+5
+19
+TMT2086
+Phương pháp dạy học Đạo đức ở tiểu học
+Methodology of Teaching Ethic at Elementary School
+3
+3
+0
+10
+5
+20
+TMT2082
+Phương pháp đánh giá học sinh Tiểu học
+Methodology Elementary student assement
+3
+30
+1
+0
+5
+VI.

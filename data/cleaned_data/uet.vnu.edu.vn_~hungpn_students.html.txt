@@ -1,0 +1,47 @@
+Home
+Research
+Students
+Publications
+Associate  Professor
+PHẠM NGỌC HÙNG
+Vice Dean of
+Faculty of Information Technology,
+University of Engineering and Technology,
+Vietnam National University, Hanoi
+Building E3, 144 Xuan Thuy, Cau Giay
+hungpn "at" vnu-mail
++84 243 754 9359
+Doctoral Candidates
+2021
+Phạm Thị Tố Nga
+Một số phương pháp đảm bảo tính công bằng cho các hệ thống học máy trong lĩnh vực giáo dục
+2019
+Nguyễn Đức Anh
+Một số phương pháp đảm bảo tính chắc chắn (robustness) cho các hệ thống học máy
+2017
+Trần Nguyên Hương
+Cải tiến một số phương pháp sinh dữ liệu kiểm thử tự động từ mã nguồn
+2016
+Lê Bá Cường
+Các phương pháp phân tích sự ảnh hưởng giữa các thành phần mã nguồn
+2015
+Trần Hoàng Việt
+Kiểm chứng dựa trên phương pháp giả định – đảm bảo cho phần mềm dựa trên thành phần
+2011 -
+2018
+Lê Chí Luận
+Đặc tả và kiểm chứng từng phần cho phần mềm dựa trên biểu đồ tuần tự
+Master Students
+2019
+Nguyễn Thị Khánh Chi
+Nghiên cứu phương pháp sinh dữ liệu kiểm thử từ mã nguồn và ứng dụng xây dựng hệ thống chấm bài tập lập trình
+2018
+Nguyễn Thị Thu Hà
+Nghiên cứu một số giải pháp kiểm thử giao diện tự động sử dụng Ranorex
+Nguyễn Thị Hồng Vân
+Phương pháp phân tích sự ảnh hưởng của các thành phần và ứng dụng cho kiểm thử hồi quy trong các dự án Java EE
+Lê Quang Hoan
+Kiến trúc phần mềm chịu tải cao dựa trên nền tảng điện toán đám mây Microsoft Azure (hướng dẫn phụ)
+Nguyễn Tuấn Anh
+Tối ưu việc lựa chọn số lượng đầu vào khi áp dụng mạng nơron nhân tạo trong bài toán dự đoán điểm đích của một chuyến taxi
+View all students

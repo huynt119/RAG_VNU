@@ -1,0 +1,13 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-nang-luong-6_.txt
+
+Về kiến thức và năng lực chuyên môn
+1.1. Về kiến thức
+Sinh viên tốt nghiệp chương trình đào tạo có kiến thức lý thuyết chuyên sâu trong lĩnh vực đào tạo; nắm vững kỹ thuật và có kiến thức thực tế để có thể giải quyết các công việc phức tạp; tích lũy được kiến thức nền tảng về các nguyên lý cơ bản, các quy luật tự nhiên và xã hội trong lĩnh vực được đào tạo để phát triển kiến thức mới và có thể tiếp tục học tập ở trình độ cao hơn; có kiến thức quản lý, điều hành, kiến thức pháp luật và bảo vệ môi trường liên quan đến lĩnh vực được đào tạo; và có kiến thức cụ thể và năng lực chuyên môn như sau:
+1.1.1  Khối kiến thức chung
+Kiến thức về lý luận chính trị
+Hiểu được hệ thống tri thức khoa học những nguyên lý cơ bản của Chủ nghĩa Mác – Lênin;
+Hiểu được những kiến thức cơ bản, có tính hệ thống về tư tưởng, đạo đức, giá trị văn hóa Hồ Chí Minh, những nội dung cơ bản của Đường lối cách mạng của Đảng Cộng sản Việt Nam, chủ yếu là đường lối trong thời kỳ đổi mới trên một số lĩnh vực cơ bản của đời sống xã hội. Kiến thức về tin học
+Nhớ và giải thích được các kiến thức cơ bản về thông tin;
+Sử dụng được công cụ xử lý thông tin thông dụng (hệ điều hành, các phần mềm hỗ trợ công tác văn phòng và khai thác Internet, …);
+Có khả năng phân tích, đánh giá và lập trình một ngôn ngữ lập trình bậc cao (hiểu các cấu trúc điều khiển, các kiểu dữ liệu có cấu trúc, hàm/chương trình con, biến cục bộ/biến toàn cục, vào ra dữ liệu tệp, các bước để xây dựng chương trình hoàn chỉnh);
+Có khả năng phân tích, đánh giá phương pháp lập trình hướng thủ tục và lập trình hướng đối tượng; phân biệt được ưu và nhược điểm của hai phương pháp lập trình.

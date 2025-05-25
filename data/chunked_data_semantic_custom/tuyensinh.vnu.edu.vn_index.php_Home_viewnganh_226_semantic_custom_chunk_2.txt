@@ -1,0 +1,104 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnganh_226.txt
+
+Xét tuyển theo kết quả kỳ thi tốt nghiệp THPT năm 2022
+TT
+Ngành đào tạo
+Mã xét tuyển
+Tổ hợp
+xét tuyển 1
+Tổ hợp
+xét tuyển 2
+Tổ hợp
+xét tuyển 3
+Tổ hợp
+xét tuyển  4
+Tổ hợp
+Môn chính
+Tổ hợp
+Môn chính
+Tổ hợp
+Môn chính
+Tổ hợp
+Môn chính
+1
+Kinh doanh quốc tế
+QHQ01
+A00
+A01
+Tiếng Anh
+D01
+D03
+D06
+Ngoại ngữ
+D96
+D97
+DD0
+Ngoại ngữ
+2
+Kế toán, Phân tích và Kiểm toán
+QHQ02
+3
+Hệ thống thông tin quản lý
+QHQ03
+4
+Marketing
+QHQ06
+5
+Quản lý
+QHQ07
+6
+Tin học và Kỹ thuật máy tính
+QHQ04
+A00
+Toán
+A01
+Toán
+D01
+D03
+D06
+Toán
+D07D23D24
+Toán
+7
+Phân tích dữ liệu kinh doanh
+QHQ05
+8
+Tự động hóa và Tin học
+QHQ08
+9
+Công nghệ thông tin ứng dụng
+QHQ10
+10
+Công nghệ tài chính và kinh doanh số
+QHQ11
+11
+Kỹ thuật hệ thống công nghiệp và Logistics
+QHQ12
+12
+Ngôn ngữ Anh (chuyên sâu Kinh doanh - CNTT)
+QHQ09
+A01
+Tiếng Anh
+D01
+Tiếng Anh
+D78
+Tiếng Anh
+D90
+Tiếng Anh
+Điều kiện phụ:
+thí sinh phải đạt điểm thi tốt nghiệp THPT năm 2022 môn Ngoại ngữ (tiếng Anh/Pháp/Nhật) tối thiểu 6 điểm trên thang điểm 10 (trừ đối tượng được miễn thi môn này). Bảng tổ hợp xét tuyển theo kết quả kỳ thi tốt nghiệp THPT năm 2022 cho từng ngành
+Điểm xét tuyển là tổng điểm các bài thi/môn thi của tổ hợp xét tuyển theo thang điểm 30 (trong đó điểm môn chính (nếu có) nhân hệ số 2) cộng với điểm ưu tiên khu vực, đối tượng theo quy định tại Điều 7 của Thông tư số 08/2022/TT-BGDĐT ngày 06/06/2022 của Bộ GD-ĐT về việc ban hành Quy chế tuyển sinh trình độ đại học và theo nguyên tắc xét từ cao xuống thấp cho đến hết chỉ tiêu phân bổ từng ngành. Mã tổ hợp xét tuyển vào Trường Quốc tế - ĐHQGHN năm 2022
+A00: Toán, Vật lí, Hoá học
+D24: Toán, Hóa học, Tiếng Pháp
+A01: Toán, Vật lí, Tiếng Anh
+D78: Văn, Khoa học Xã hội, Tiếng Anh
+D01: Toán, Văn, Tiếng Anh
+D90: Toán, Khoa học Tự nhiên, Tiếng Anh
+D03: Toán, Văn, Tiếng Pháp
+D96: Toán, Khoa học Xã hội, Tiếng Anh
+D06: Toán, Văn, Tiếng Nhật
+D97: Toán, Khoa học Xã hội, Tiếng Pháp
+D07: Toán, Hóa học, Tiếng Anh
+DD0: Toán, Khoa học Xã hội, Tiếng Nhật
+D23: Toán, Hóa học, Tiếng Nhật
+2.3.2.

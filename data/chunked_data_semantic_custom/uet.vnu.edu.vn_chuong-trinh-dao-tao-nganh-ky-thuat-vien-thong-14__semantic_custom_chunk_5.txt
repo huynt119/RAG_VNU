@@ -1,0 +1,66 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-vien-thong-14_.txt
+
+Tóm tắt yêu cầu chương trình đào tạo
+Đối với NCS chưa có bằng thạc sĩ:
+Người học phải hoàn thành các môn học của chương trình đào tạo thạc sĩ và các nội dung của chương trình đào tạo tiến sĩ. Tổng số tín chỉ phải tích luỹ:
+139 tín chỉ
+, trong đó:
+Phần 1: Khối kiến thức bổ sung:
+42
+tín chỉ
+– Khối kiến thức chung (bắt buộc): 03 tín chỉ
+– Khối kiến thức cơ sở và chuyên ngành: 39 tín chỉ
++ Các học phần bắt buộc: 18 tín chỉ
++ Các học phần tự chọn: 21/54 tín chỉ
+Phần 2: Các học phần, chuyên đề tiến sĩ và tiểu luận tổng quan:
+17
+tín chỉ
+– Các học phần tiến sĩ:                                         09 tín chỉ
++ Các học phần bắt buộc: 07 tín chỉ
++ Các học phần tự chọn: 02/04 tín chỉ
+– Các chuyên đề tiến sĩ: 06 tín chỉ
+– Tiểu luận tổng quan: 02 tín chỉ
+Phần 3: Nghiên cứu khoa học (không tính số tín chỉ nhưng là yêu cầu bắt buộc trong chương trình đào tạo)
+Phần 4: Tham gia sinh hoạt chuyên môn, công tác trợ giảng và hỗ trợ đào tạo (là yêu cầu bắt buộc với nghiên cứu sinh nhưng không tính số tín chỉ trong chương trình đào tạo). Phần 4: Luận án tiến sĩ:
+80
+tín chỉ
+Đối với NCS có bằng thạc sĩ chuyên ngành gần
+Tổng số tín chỉ phải tích luỹ:
+106 tín chỉ
+, trong đó:
+Phần 1: Các học phần bổ sung kiến thức:
+9/33
+tín chỉ
++ Bắt buộc:                                                          0 tín chỉ
++ Tự chọn:
+9/33
+tín chỉ
+Phần 2: Các học phần, chuyên đề tiến sĩ và tiểu luận tổng quan:
+17
+tín chỉ
+– Các học phần tiến sĩ:                                         09 tín chỉ
++ Các học phần bắt buộc: 06 tín chỉ
++ Các học phần tự chọn: 02/04 tín chỉ
+– Các chuyên đề tiến sĩ: 06 tín chỉ
+– Tiểu luận tổng quan: 02 tín chỉ
+Phần 3: Nghiên cứu khoa học (không tính số tín chỉ nhưng là yêu cầu bắt buộc trong chương trình đào tạo)
+Phần 4: Tham gia sinh hoạt chuyên môn, công tác trợ giảng và hỗ trợ đào tạo (là yêu cầu bắt buộc với nghiên cứu sinh nhưng không tính số tín chỉ trong chương trình đào tạo). Phần 5: Luận án tiến sĩ:
+80
+tín chỉ
+Đối với NCS có bằng thạc sĩ chuyên ngành đúng hoặc phù hợp:
+Tổng số tín chỉ phải tích luỹ:
+97 tín chỉ
+, trong đó:
+Phần 1: Các học phần, chuyên đề tiến sĩ và tiểu luận tổng quan:
+17
+tín chỉ
+– Các học phần tiến sĩ:                                         09 tín chỉ
++ Các học phần bắt buộc: 07 tín chỉ
++ Các học phần tự chọn: 02/04 tín chỉ
+– Các chuyên đề tiến sĩ: 06 tín chỉ
+– Tiểu luận tổng quan: 02 tín chỉ
+Phần 2: Nghiên cứu khoa học (không tính số tín chỉ nhưng là yêu cầu bắt buộc trong chương trình đào tạo). Phần 3: Tham gia sinh hoạt chuyên môn, công tác trợ giảng và hỗ trợ đào tạo (là yêu cầu bắt buộc với nghiên cứu sinh nhưng không tính số tín chỉ trong chương trình đào tạo)
+Phần 4: Luận án tiến sĩ:
+80
+tín chỉ
+2.

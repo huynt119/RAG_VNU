@@ -1,0 +1,91 @@
+Nguồn: uet.vnu.edu.vn_huong_dan_thi_sinh_dang_ky_xet_tuyen_nam_2017_danh_cho_thi_sinh_su_dung_ket_qua_thi_danh_gia_nang_luc_va_level_mau_1_.txt
+
+Ngành và chỉ tiêu xét tuyển
+Ngành học
+Bằng tốt
+nghiệp
+Thời gian
+đào tạo
+Chỉ tiêu dự kiến
+Các chương trình đào tạo chuẩn trình độ đại học
+45
+Nhóm ngành Công nghệ thông tin và Công nghệ kỹ thuật điện, điện tử và viễn thông
+24
+Khoa học máy tính
+52480101
+Cử nhân
+4 năm
+2
+Công nghệ thông tin
+52480201
+Cử nhân
+4 năm
+9
+Công nghệ thông tin định hướng thị trường Nhật Bản
+52480201NB
+Cử nhân
+4 năm
+2
+Hệ thống thông tin
+52480104
+Cử nhân
+4 năm
+3
+Truyền thông và mạng máy tính
+52480102
+Kỹ sư
+4,5 năm
+3
+Công nghệ kỹ thuật điện tử, truyền thông
+52510302
+Cử nhân
+4 năm
+3
+Kỹ thuật máy tính
+52520214
+Kỹ sư
+4,5 năm
+2
+Nhóm ngành Vật lí kĩ thuật
+6
+Kỹ thuật năng lượng
+QHITD1
+Kỹ sư
+4,5 năm
+3
+Vật lý kỹ thuật
+52520401
+Cử nhân
+4 năm
+3
+Nhóm ngành Công nghê kỹ thuật Cơ điện tử và Cơ kỹ thuật
+15
+Cơ kỹ thuật
+52520101
+Kỹ sư
+4,5 năm
+5
+Công nghệ kỹ thuật cơ điện tử
+52510203
+Cử nhân
+4 năm
+5
+Công nghệ kỹ thuật xây dựng – giao thông
+QHITD2
+Kỹ sư
+4,5 năm
+5
+Các chương trình đào tạo chất lượng cao trình độ đại học đáp ứng thông tư 23 của Bộ GD&ĐT
+10
+Khoa học Máy tính (CLC)
+D480101CLC
+Cử nhân CLC
+4 năm
+5
+Công nghệ kỹ thuật điện tử, truyền thông(CLC)
+D510302CLC
+Cử nhân CLC
+4 năm
+5
+3
+.

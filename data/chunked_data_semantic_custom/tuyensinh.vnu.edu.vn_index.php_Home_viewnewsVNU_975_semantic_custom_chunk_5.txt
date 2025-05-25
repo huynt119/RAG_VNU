@@ -1,0 +1,188 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_975.txt
+
+K
+HOA LUẬT
+QHL
+7380101
+Luật
+(*)
+A00
+25.15
+24.6500 99
+C00
+27.75
+27.0000 98
+D01
+26.1
+26.1000 97
+D03
+25.5
+25.5000 95
+D78
+26.55
+26.3000 96
+D82
+24.55
+24.5500 99
+QHL
+7380101
+(CLC)
+Luật
+(CTĐT CLC)
+A01
+25.85
+D01
+25.85
+D07
+25.85
+D78
+25.85
+QHL
+7380110
+Luật kinh doanh
+A00
+26.05
+A01
+26.05
+D01,
+D03
+26.05
+D
+90
+,
+D
+91
+26.05
+QHL
+7380109
+Luật thương mại quốc tế
+A00
+26.5
+A01
+26.5
+D01
+26.5
+D78,
+D82
+26.5
+10. K
+HOA QUỐC TẾ
+QHQ
+QHQ01
+Kinh doanh quốc tế
+(CTĐT CLC)
+A00
+26.2
+A01
+26.2
+D01, D03,
+D06
+26.2
+D96, D97, DD0
+26.2
+QHQ
+QHQ02
+Kế toán, Phân tích và Kiểm toán
+(CTĐT CLC)
+A00
+25.5
+A01
+25.5
+D01, D03,
+D06
+25.5
+D96, D97, DD0
+25.5
+QHQ
+QHQ03
+Hệ thống thông tin
+quản lý (CTĐT CLC)
+A00
+24.8
+A01
+24.8
+D01, D03,
+D06
+24.8
+D96, D97, DD0
+24.8
+QHQ
+QHQ04
+Tin học và kĩ thuật máy tính
+((
+CTĐT LKQT do ĐHQGHN cấp bằng)
+A00
+24
+A01
+24
+D01, D03,
+D06
+24
+D07, D23, D24
+24
+QHQ
+QHQ05
+Phân tích dữ liệu
+kinh doanh (CTĐT CLC)
+A00
+25
+A01
+25
+D01, D03,
+D06
+25
+D07, D23, D24
+25
+QHQ
+QHQ08
+Tự động hóa và Tin học
+(
+CTĐT CLC)
+A00
+22
+A01
+22
+D01, D03,
+D06
+22
+D07, D23, D24
+22
+QHQ
+QHQ09
+Ngôn ngữ Anh (chuyên sâu Kinh doanh và CNTT - CTĐT CLC)
+A00
+25
+A01
+25
+D01, D03,
+D06
+25
+D96, D97, DD0
+25
+QHQ
+QHQ06
+Marketing
+(CTĐT cấp 2 bằng ĐH của ĐHQGHN và trường ĐH HELP - Malaysia)
+A00
+25.3
+A01
+25.3
+D01, D03,
+D06
+25.3
+D96, D97, DD0
+25.3
+QHQ
+QHQ07
+Quản lý
+(CTĐT cấp 2 bằng ĐH của ĐHQGHN và trường ĐH Keuka – Hoa Kỳ)
+A00
+23.5
+A01
+23.5
+D01, D03,
+D06
+23.5
+D96, D97, DD0
+23.5
+11.

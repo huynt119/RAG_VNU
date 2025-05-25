@@ -1,0 +1,598 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewpage_138.txt
+
+Chỉ tiêu theo ngành, theo từng phương thức xét tuyển trình độ đào tạo đại học
+TT
+Mã tuyển sinh
+Tên ngành/chương trình đào tạo
+Mã phương thức xét tuyển
+Tên phương thức xét tuyển
+%
+Chỉ tiêu (dự kiến)
+Chỉ tiêu (dự kiến)
+Tổ hợp xét tuyển 1
+Tổ hợp xét tuyển 2
+Tổ hợp xét tuyển 3
+Tổ hợp xét tuyển 4
+Tổ hợp môn
+Môn chính
+Tổ hợp môn
+Môn chính
+Tổ hợp môn
+Môn chính
+Tổ hợp môn
+Môn chính
+(1)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+(12)
+(13)
+(14)
+(15)
+I
+CÁC CHƯƠNG TRÌNH ĐÀO TẠO CHUẨN
+980
+CN1
+Công nghệ thông tin
+301
+XTT theo QĐ của Bộ
+25%
+30
+303
+XTT theo QĐ của ĐHQGHN
+501
+ƯTXT
+25%
+30
+408
+Alevel, ACT, SAT
+5%
+6
+409
+Kết hợp IELTS
+5%
+6
+401
+ĐGNL
+20%
+24
+100
+THPT
+20%
+24
+A00
+A01
+D01
+Toán,Anh
+CN16
+Công nghệ thông tin định hướng thị trường Nhật Bản
+301
+XTT theo QĐ của Bộ
+10%
+6
+303
+XTT theo QĐ của ĐHQGHN
+501
+ƯTXT
+30%
+18
+408
+Alevel, ACT, SAT
+5%
+3
+409
+Kết hợp IELTS
+5%
+3
+401
+ĐGNL
+20%
+12
+100
+THPT
+30%
+18
+A00
+A01
+D01
+Toán,Anh
+CN2
+Kỹ thuật máy tính
+301
+XTT theo QĐ của Bộ
+10%
+8
+303
+XTT theo QĐ của ĐHQGHN
+501
+ƯTXT
+30%
+24
+408
+Alevel, ACT, SAT
+5%
+4
+409
+Kết hợp IELTS
+5%
+4
+401
+ĐGNL
+25%
+20
+100
+THPT
+25%
+20
+A00
+A01
+D01
+Toán,Anh
+CN17
+Kỹ thuật Robot
+301
+XTT theo QĐ của Bộ
+5%
+3
+303
+XTT theo QĐ của ĐHQGHN
+501
+ƯTXT
+20%
+12
+408
+Alevel, ACT, SAT
+5%
+3
+409
+Kết hợp IELTS
+10%
+6
+401
+ĐGNL
+25%
+15
+100
+THPT
+35%
+21
+A00
+A01
+D01
+Toán,Anh
+CN3
+Vật lý kỹ thuật
+301
+XTT theo QĐ của Bộ
+5%
+3
+303
+XTT theo QĐ của ĐHQGHN
+501
+ƯTXT
+5%
+3
+408
+Alevel, ACT, SAT
+5%
+3
+409
+Kết hợp IELTS
+5%
+3
+401
+ĐGNL
+25%
+15
+100
+THPT
+55%
+33
+A00
+A01
+D01
+Toán,Anh
+CN4
+Cơ kỹ thuật
+301
+XTT theo QĐ của Bộ
+5%
+4
+303
+XTT theo QĐ của ĐHQGHN
+501
+ƯTXT
+5%
+4
+408
+Alevel, ACT, SAT
+5%
+4
+409
+Kết hợp IELTS
+5%
+4
+401
+ĐGNL
+30%
+24
+100
+THPT
+50%
+40
+A00
+A01
+D01
+Toán,Anh
+CN5
+Công nghệ kỹ thuật xây dựng
+301
+XTT theo QĐ của Bộ
+5%
+5
+303
+XTT theo QĐ của ĐHQGHN
+501
+ƯTXT
+5%
+5
+408
+Alevel, ACT, SAT
+5%
+5
+409
+Kết hợp IELTS
+5%
+5
+401
+ĐGNL
+30%
+30
+100
+THPT
+50%
+50
+A00
+A01
+D01
+Toán,Anh
+CN7
+Công nghệ Hàng không vũ trụ*
+301
+XTT theo QĐ của Bộ
+5%
+3
+303
+XTT theo QĐ của ĐHQGHN
+501
+ƯTXT
+5%
+3
+408
+Alevel, ACT, SAT
+5%
+3
+409
+Kết hợp IELTS
+5%
+3
+401
+ĐGNL
+30%
+18
+100
+THPT
+50%
+30
+A00
+A01
+D01
+Toán,Anh
+CN10
+Công nghệ nông nghiệp*
+301
+XTT theo QĐ của Bộ
+5%
+3
+303
+XTT theo QĐ của ĐHQGHN
+501
+ƯTXT
+5%
+3
+408
+Alevel, ACT, SAT
+5%
+3
+409
+Kết hợp IELTS
+5%
+3
+401
+ĐGNL
+30%
+18
+100
+THPT
+50%
+30
+A00
+A01
+A02
+B00
+CN11
+Kỹ thuật điều khiển và tự động hóa
+301
+XTT theo QĐ của Bộ
+15%
+9
+303
+XTT theo QĐ của ĐHQGHN
+501
+ƯTXT
+25%
+15
+408
+Alevel, ACT, SAT
+5%
+3
+409
+Kết hợp IELTS
+5%
+3
+401
+ĐGNL
+25%
+15
+100
+THPT
+25%
+15
+A00
+A01
+D01
+Toán,Anh
+CN12
+Trí tuệ nhân tạo
+301
+XTT theo QĐ của Bộ
+15%
+27
+303
+XTT theo QĐ của ĐHQGHN
+501
+ƯTXT
+25%
+45
+408
+Alevel, ACT, SAT
+5%
+9
+409
+Kết hợp IELTS
+5%
+9
+401
+ĐGNL
+25%
+45
+100
+THPT
+25%
+45
+A00
+A01
+D01
+Toán,Anh
+CN13
+Kỹ thuật năng lượng*
+301
+XTT theo QĐ của Bộ
+5%
+3
+303
+XTT theo QĐ của ĐHQGHN
+501
+ƯTXT
+5%
+3
+408
+Alevel, ACT, SAT
+5%
+3
+409
+Kết hợp IELTS
+5%
+3
+401
+ĐGNL
+30%
+18
+100
+THPT
+50%
+30
+A00
+A01
+D01
+Toán,Anh
+II
+CÁC CHƯƠNG TRÌNH ĐÀO TẠO CHẤT LƯỢNG CAO
+700
+CN6
+Công nghệ kỹ thuật cơ điện tử
+301
+XTT theo QĐ của Bộ
+5%
+8
+303
+XTT theo QĐ của ĐHQGHN
+501
+ƯTXT
+10%
+15
+408
+Alevel, ACT, SAT
+5%
+7
+409
+Kết hợp IELTS
+10%
+15
+401
+ĐGNL
+25%
+38
+100
+THPT
+45%
+67
+A00
+Toán,Lý
+A01
+Toán,Anh
+D01
+Toán,Anh
+CN8
+Khoa học Máy tính
+301
+XTT theo QĐ của Bộ
+15%
+42
+303
+XTT theo QĐ của ĐHQGHN
+501
+ƯTXT
+20%
+56
+408
+Alevel, ACT, SAT
+5%
+14
+409
+Kết hợp IELTS
+10%
+28
+401
+ĐGNL
+25%
+70
+100
+THPT
+25%
+70
+A00
+Toán,Lý
+A01
+Toán,Anh
+D01
+Toán,Anh
+CN14
+Hệ thống thông tin
+301
+XTT theo QĐ của Bộ
+5%
+3
+303
+XTT theo QĐ của ĐHQGHN
+501
+ƯTXT
+15%
+9
+408
+Alevel, ACT, SAT
+5%
+3
+409
+Kết hợp IELTS
+10%
+6
+401
+ĐGNL
+25%
+15
+100
+THPT
+40%
+24
+A00
+Toán,Lý
+A01
+Toán,Anh
+D01
+Toán,Anh
+CN15
+Mạng máy tính và truyền thông dữ liệu
+301
+XTT theo QĐ của Bộ
+5%
+3
+303
+XTT theo QĐ của ĐHQGHN
+501
+ƯTXT
+15%
+9
+408
+Alevel, ACT, SAT
+5%
+3
+409
+Kết hợp IELTS
+10%
+6
+401
+ĐGNL
+25%
+15
+100
+THPT
+40%
+24
+A00
+Toán,Lý
+A01
+Toán,Anh
+D01
+Toán,Anh
+CN9
+Công nghệ kỹ thuật điện tử - viễn thông
+301
+XTT theo QĐ của Bộ
+5%
+8
+303
+XTT theo QĐ của ĐHQGHN
+501
+ƯTXT
+10%
+15
+408
+Alevel, ACT, SAT
+5%
+7
+409
+Kết hợp IELTS
+10%
+15
+401
+ĐGNL
+25%
+38
+100
+THPT
+45%
+67
+A00
+Toán,Lý
+A01
+Toán,Anh
+D01
+Toán,Anh
+(-) * Chương trình đào tạo thí điểm (in nghiêng).

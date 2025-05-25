@@ -1,0 +1,121 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_975.txt
+
+1
+QHE
+QHE40
+Quản trị kinh doanh
+(CTĐT CLC)
+A01
+36.2
+D01
+36.2
+D09
+36.2
+D10
+36.2
+Toán 8.2
+NV1-NV5
+5. 2
+QHE
+QHE41
+Tài chính Ngân hàng
+(CTĐT CLC)
+A01
+35.75
+D01
+35.75
+D09
+35.75
+D10
+35.75
+Toán 8.6
+NV1-NV3
+5. 3
+QHE
+QHE42
+Kế toán
+(CTĐT CLC)
+A01
+35.55
+D01
+35.55
+D09
+35.55
+D10
+35.55
+Toán 8.2
+NV1-NV3
+5. 4
+QHE
+QHE43
+Kinh tế quốc tế
+(CTĐT CLC)
+A01
+36.53
+D01
+36.53
+D09
+36.53
+D10
+36.53
+Toán 8
+NV1
+5. 5
+QHE
+QHE44
+Kinh tế
+(CTĐT CLC)
+A01
+35.83
+D01
+35.83
+D09
+35.83
+D10
+35.83
+Toán 8.2
+NV1-NV2
+5. 6
+QHE
+QHE45
+Kinh tế phát triển
+(CTĐT CLC)
+A01
+35.57
+D01
+35.57
+D09
+35.57
+D10
+35.57
+Toán 8.6
+NV1-NV4
+5.7
+QHE
+QHE80
+Quản trị kinh doanh
+(LKQT do ĐH Troy Hoa Kỳ cấp bằng)
+A01
+34.85
+D01
+34.85
+D07
+34.85
+D08
+34.85
+Từ NV1 đến NV12
+5.8
+QHE
+QHE89
+Quản trị kinh doanh
+(LKQT do ĐH St. Francis, Hoa Kỳ cấp bằng)
+A01
+32.65
+D01
+32.65
+D07
+32.65
+D08
+32.65
+Từ NV 1 đến NV7
+6.

@@ -1,0 +1,294 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_368.txt
+
+Thông tin về ngành/chương trình đào tạo, chỉ tiêu, tổ hợp xét tuyển
+TT
+Mã trường
+Mã
+xét tuyển
+Tên ngành/CTĐT
+Chỉ tiêu
+(
+Dự kiến
+)
+Tổ hợp môn xét tuyển 1
+Tổ hợp môn xét tuyển 2
+Tổ hợp môn xét tuyển 3
+Tổ hợp môn xét tuyển 4
+Theo KQ
+thi THPT
+QG
+Theo phương thức khác
+Mã tổ hợp môn
+Môn
+chính
+Mã tổ hợp môn
+Môn
+chính
+Mã tổ hợp môn
+Môn
+chính
+Mã tổ hợp môn
+Môn
+chính
+QHT
+QHT01
+Toán học
+47
+3
+A00
+A01
+D07
+D08
+QHT
+QHT02
+Toán tin
+49
+1
+A00
+A01
+D07
+D08
+QHT
+QHT90
+Máy tính và khoa học thông tin*
+48
+2
+A00
+A01
+D07
+D08
+QHT
+QHT40
+Máy tính và khoa học thông tin**
+80
+A00
+A01
+D07
+D08
+QHT
+QHT03
+Vật lí học
+95
+5
+A00
+A01
+B00
+C01
+QHT
+QHT04
+Khoa học vật liệu
+50
+A00
+A01
+B00
+C01
+QHT
+QHT05
+Công nghệ kỹ thuật hạt nhân
+30
+A00
+A01
+B00
+C01
+QHT
+QHT06
+Hoá học
+67
+3
+A00
+B00
+D07
+QHT
+QHT41
+Hoá học**
+50
+A00
+B00
+D07
+QHT
+QHT07
+Công nghệ kỹ thuật hoá học
+49
+1
+A00
+B00
+D07
+QHT
+QHT42
+Công nghệ kỹ thuật hoá học**
+40
+A00
+B00
+D07
+QHT
+QHT43
+Hoá dược**
+79
+1
+A00
+B00
+D07
+QHT
+QHT08
+Sinh học
+76
+4
+A00
+A02
+B00
+D08
+QHT
+QHT09
+Công nghệ sinh học
+76
+4
+A00
+A02
+B00
+D08
+QHT
+QHT44
+Công nghệ sinh học**
+80
+A00
+A02
+B00
+D08
+QHT
+QHT10
+Địa lí tự nhiên
+38
+2
+A00
+A01
+B00
+D10
+QHT
+QHT91
+Khoa học thông tin địa không gian*
+40
+A00
+A01
+B00
+D10
+QHT
+QHT12
+Quản lý đất đai
+70
+A00
+A01
+B00
+D10
+QHT
+QHT13
+Khoa học môi trường
+68
+2
+A00
+A01
+B00
+D07
+QHT
+QHT45
+Khoa học môi trường**
+40
+A00
+A01
+B00
+D07
+QHT
+QHT14
+Khoa học đất
+30
+A00
+A01
+B00
+D07
+QHT
+QHT15
+Công nghệ kỹ thuật môi trường
+50
+A00
+A01
+B00
+D07
+QHT
+QHT46
+Công nghệ kỹ thuật môi trường**
+40
+A00
+A01
+B00
+D07
+QHT
+QHT16
+Khí tượng và khí hậu học
+40
+A00
+A01
+B00
+D07
+QHT
+QHT17
+Hải dương học
+30
+A00
+A01
+B00
+D07
+QHT
+QHT92
+Tài nguyên và môi trường nước*
+40
+A00
+A01
+B00
+D07
+QHT
+QHT18
+Địa chất học
+30
+A00
+A01
+B00
+D07
+QHT
+QHT19
+Kỹ thuật địa chất
+30
+A00
+A01
+B00
+D07
+QHT
+QHT20
+Quản lý tài nguyên và môi trường
+48
+2
+A00
+A01
+B00
+D07
+Tổng: 1.540 chỉ tiêu
+1.510
+30
+Mã tổ hợp xét tuyển vào Trường ĐHKHTN, năm 201
+9
+A00:
+Toán, Vật lý, Hóa học
+B00:
+Toán, Hóa học, Sinh học
+D08:
+Toán, Sinh học, Tiếng Anh
+A01
+: Toán, Vật lý, Tiếng Anh
+C01:
+Ngữ văn, Toán, Vật lý
+D10:
+Toán, Địa lý, Tiếng Anh
+A02:
+Toán, Vật lý, Sinh học
+D07:
+Toán, Hóa học, Tiếng Anh
+Ghi chú:
+* Chương trình đào tạo thí điểm.

@@ -1,0 +1,8 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-ky-thuat-co-dien-tu-6_.txt
+
+Kiến thức chung
+PLO1: Diễn giải (2) được kiến thức cơ bản về khoa học xã hội, về khoa học chính trị và pháp luật; về văn hóa, xã hội và nhân văn; về rèn luyện thể chất và quốc phòng. Kiến thức theo lĩnh vực
+PLO2: Vận dụng (3) được kiến thức cơ bản của Toán học, khoa học cơ bản, và CNTT để giải quyết các bài toán liên quan đến lĩnh vực kỹ thuật. Kiến thức theo khối ngành
+PLO3: Sử dụng (3) các kiến thức cơ bản của ngành để nhận định (2) và phân tích (4) các bài toán liên quan đến lĩnh vực kỹ thuật cơ điện tử. Kiến thức theo nhóm ngành
+PLO4: Vận dụng (3) kiến thức cơ sở của nhóm ngành, đặc biệt là kiến thức kỹ thuật cơ điện tử vào các bài toán liên quan vào các tình huống thực tế. Kiến thức ngành
+PLO5: Sử dụng (3) các kiến thức chuyên sâu để xác định (4) và đề xuất (6) giải pháp, lựa chọn các phương pháp thích hợp để nghiên cứu và giải quyết các vấn đề thực tế nhằm mục đích cải thiện hiệu năng của các hệ thống cơ điện tử. PLO6: Phân tích (4) các vấn đề về kỹ thuật cơ điện tử và tiến hành (6) các thử nghiệm để đưa ra các đánh giá (5) và kết luận. PLO7: Vận dụng (4) tư duy phản biện và sáng tạo trong nghiên cứu và phát triển để xây dựng giải pháp giải pháp giải quyết vấn đề cho các bài toán trong lĩnh vực kỹ thuật cơ điện tử.

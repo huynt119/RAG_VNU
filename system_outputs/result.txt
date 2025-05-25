@@ -1,0 +1,1557 @@
+
+--- Câu hỏi 1 ---
+Câu hỏi: Sinh viên có thể tìm kiếm thông tin tư vấn tuyển sinh của Trường Đại học Công nghệ (UET) bằng cách nào?
+Đáp án tham chiếu: Có thể liên hệ trực tuyến qua số điện thoại 0334924224.
+Đáp án mô hình:    Sinh viên có thể tìm kiếm thông tin tư vấn tuyển sinh của Trường Đại học Công nghệ (UET) tại Nhà E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội. Điện thoại: 024 3754 7865; Fax: 024 3754 7460, truy cập website http://uet.vnu.edu.vn hoặc gửi email đến tuyensinhDHCN@vnu.edu.vn.
+EM: 0, F1: 0.14, Recall: 0.36
+
+--- Câu hỏi 2 ---
+Câu hỏi: Quỹ VinIF hỗ trợ các dự án nghiên cứu khoa học dựa trên những nguyên tắc cơ bản nào?
+Đáp án tham chiếu: Quỹ VinIF hoạt động dựa trên nguyên tắc phi lợi nhuận và hỗ trợ các tổ chức, cá nhân thực hiện nghiên cứu khoa học, công nghệ và đổi mới sáng tạo.
+Đáp án mô hình:    Quỹ VinIF hỗ trợ các dự án nghiên cứu khoa học công nghệ của các viện nghiên cứu, trường đại học và các nhà khoa học Việt Nam có phương pháp tiếp cận và công nghệ hiện đại, kết quả xuất sắc và có tầm ảnh hưởng quốc tế.
+EM: 0, F1: 0.35, Recall: 0.44
+
+--- Câu hỏi 3 ---
+Câu hỏi: Những tiêu chí nào được Quỹ VinIF đặt ra cho các dự án để được nhận tài trợ?
+Đáp án tham chiếu: Các tiêu chí bao gồm: có bài báo công bố trên tạp chí quốc tế hoặc các tổ chức nghiên cứu có uy tín xếp hạng Q1 hoặc tương đương; sản phẩm, dịch vụ, giải pháp mang lại lợi ích thiết thực cho cộng đồng; chấp nhận đơn đăng ký sở hữu trí tuệ; đào tạo thạc sĩ và hỗ trợ đào tạo tiến sĩ trong nước. Ngoài ra, chủ nhiệm dự án phải là nhà khoa học có bằng tiến sĩ, đã có kinh nghiệm và thành tựu.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.02, Recall: 0.01
+
+--- Câu hỏi 4 ---
+Câu hỏi: Giải thưởng "Nhà giáo tiêu biểu ĐHQGHN" được trao cho những cá nhân nào và dựa trên những tiêu chí nào?
+Đáp án tham chiếu: Giải thưởng "Nhà giáo tiêu biểu ĐHQGHN" được trao cho các nhà giáo có thành tích xuất sắc trong giảng dạy và nghiên cứu khoa học, có đóng góp đối với ĐHQGHN và có những ảnh hưởng tích cực đến sự phát triển sự nghiệp giáo dục nước nhà.
+Đáp án mô hình:    Giải thưởng "Nhà giáo ĐHQGHN của năm" được trao cho các nhà giáo có thành tích xuất sắc trong hoạt động dạy học, nghiên cứu khoa học, có đóng góp sáng kiến và nỗ lực góp phần nâng cao chất lượng đào tạo, thúc đẩy việc thực hiện vai trò tiên phong và nòng cột của ĐHQGHN trong đổi mới giáo dục đại học Việt Nam và phát triển kinh tế- xã hội của đất nước.
+EM: 0, F1: 0.53, Recall: 0.67
+
+--- Câu hỏi 5 ---
+Câu hỏi: GS.TSKH Nguyễn Đình Đức có những đóng góp nổi bật nào trong lĩnh vực khoa học và giáo dục?
+Đáp án tham chiếu: GS.TSKH Nguyễn Đình Đức là chuyên gia đầu ngành trong lĩnh vực Vật liệu – Kết cấu tiên tiến và Composite, đã công bố hơn 300 bài báo, báo cáo khoa học (gần 200 bài trên các tạp chí quốc tế ISI), tác giả của 2 bằng phát minh sáng chế, thành viên Hội đồng biên tập quốc tế của 10 tạp chí ISI, từng là giáo sư nghiên cứu và thỉnh giảng tại nhiều trường đại học danh tiếng trên thế giới, và liên tục được Tạp chí PLoS Biology xếp hạng trong top 10.000 nhà khoa học có chỉ số trích dẫn ảnh hưởng nhất thế giới.
+Đáp án mô hình:    GS.TSKH Nguyễn Đình Đức là chuyên gia hàng đầu về vật liệu và kết cấu tiên tiến, đóng góp vào việc định danh nền khoa học công nghệ Việt Nam trên bản đồ KHCN thế giới. Ông đã công bố hơn 300 bài báo, công trình khoa học và là thành viên hội đồng quốc tế của 10 tạp chí quốc tế ISI có uy tín. Ông cũng là người khởi xướng và thành lập một số ngành học tại các trường đại học, đồng thời có công lao thúc đẩy phát triển quy mô và cơ cấu các ngành kỹ thuật công nghệ ở ĐHQGHN. GS.TSKH Nguyễn Đình Đức còn là người truyền lửa, dẫn đường cho các thế hệ kế cận, đóng góp bền bỉ cho sự phát triển của nền khoa học và giáo dục Việt Nam.
+EM: 0, F1: 0.47, Recall: 0.54
+
+--- Câu hỏi 6 ---
+Câu hỏi: TS. Ma Thị Châu đã có những nghiên cứu và phát triển những ứng dụng công nghệ thông tin nào?
+Đáp án tham chiếu: TS. Ma Thị Châu nghiên cứu và phát triển các ứng dụng đồ họa 3 chiều và hoạt cảnh, ứng dụng công nghệ thông tin trong việc bảo tồn và phát huy các giá trị văn hóa dân tộc, và nghiên cứu và phát triển các ứng dụng internet vạn vật dành cho người khuyết tật, bao gồm các hệ thống mô phỏng các vở diễn nghệ thuật truyền thống, trình diễn rối nước 3D, mô phỏng campus Đại học Quốc gia Hà Nội, quần thể Văn Miếu Quốc Tử Giám và hệ thống điều khiển thiết bị điện tử từ xa hỗ trợ cho những người bị hạn chế chức năng vận động.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.05, Recall: 0.03
+
+--- Câu hỏi 7 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) thuộc Đại học Quốc gia Hà Nội (VNU) có định hướng phát triển như thế nào trong tương lai?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) định hướng phát triển "Trở thành một trường đại học kỹ thuật công nghệ hàng đầu trong nước, nằm trong nhóm các trường đại học tiên tiến ở Châu Á; một trung tâm xuất sắc, đi đầu trong đào tạo tài năng, nghiên cứu khoa học và chuyển giao công nghệ".
+Đáp án mô hình:    Trường Đại học Công nghệ – Đại học Quốc gia Hà Nội (UET) đã trở thành nơi khởi nguồn của những ý tưởng đổi mới, nơi ươm mầm tài năng và phát triển các nghiên cứu có tầm ảnh hưởng lớn đến cộng đồng và xã hội trong suốt 20 năm qua.
+EM: 0, F1: 0.35, Recall: 0.33
+
+--- Câu hỏi 8 ---
+Câu hỏi: Phần thưởng Nữ sinh viên tiêu biểu trong lĩnh vực khoa học và công nghệ được tổ chức bởi những tổ chức nào và nhằm mục đích gì?
+Đáp án tham chiếu: Phần thưởng Nữ sinh viên tiêu biểu trong lĩnh vực khoa học và công nghệ do Trung ương Đoàn TNCS Hồ Chí Minh và Bộ Khoa học và Công nghệ phối hợp tổ chức từ năm 1999. Mục đích của giải thưởng là tuyên dương, động viên các nữ sinh viên có thành tích học tập, nghiên cứu xuất sắc trong lĩnh vực khoa học công nghệ thuộc các ngành đào tạo Công nghệ thông tin, điện, điện tử và cơ khí, góp phần đào tạo nguồn cán bộ khoa học công nghệ nữ trẻ, phục vụ sự nghiệp công nghiệp hóa, hiện đại hóa đất nước.
+Đáp án mô hình:    Phần thưởng Nữ sinh viên tiêu biểu trong lĩnh vực khoa học và công nghệ do Trung ương Đoàn TNCS Hồ Chí Minh, Bộ Khoa học và Công nghệ phối hợp tổ chức từ năm 1999 nhằm tuyên dương, động viên các nữ sinh viên có thành tích học tập, nghiên cứu xuất sắc trong lĩnh vực khoa học công nghệ thuộc các ngành đào tạo Công nghệ thông tin, điện, điện tử và cơ khí, góp phần đào tạo nguồn cán bộ khoa học công nghệ nữ trẻ, phục vụ sự nghiệp công nghiệp hóa, hiện đại hóa đất nước.
+EM: 0, F1: 0.96, Recall: 0.93
+
+--- Câu hỏi 9 ---
+Câu hỏi: Những tiêu chí nào được xét đến khi lựa chọn Nữ sinh viên tiêu biểu trong lĩnh vực khoa học và công nghệ?
+Đáp án tham chiếu: Tiêu chí để lựa chọn Nữ sinh viên tiêu biểu trong lĩnh vực khoa học và công nghệ bao gồm thành tích học tập và nghiên cứu khoa học xuất sắc.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.05, Recall: 0.03
+
+--- Câu hỏi 10 ---
+Câu hỏi: Tính đến năm 2018, thành phố Hà Nội đã tổ chức bao nhiêu lần lễ tuyên dương thủ khoa tốt nghiệp xuất sắc?
+Đáp án tham chiếu: Đây là năm thứ 16 liên tiếp thành phố Hà Nội tổ chức tuyên dương các thủ khoa xuất sắc.
+Đáp án mô hình:    Đây là năm thứ 16 liên tiếp thành phố Hà Nội tổ chức tuyên dương các thủ khoa xuất sắc tốt nghiệp các trường đại học, học viên trên địa bàn tính đến thời điểm được đề cập trong tài liệu. Vì vậy, tính đến năm 2018, thành phố Hà Nội đã tổ chức 16 lần lễ tuyên dương.
+EM: 0, F1: 0.51, Recall: 1.00
+
+--- Câu hỏi 11 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) đã có bao nhiêu thủ khoa được vinh danh trong buổi lễ tuyên dương năm 2018 của Đại học Quốc gia Hà Nội (VNU)?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) có 02 thủ khoa tốt nghiệp được vinh danh trong tổng số 12 thủ khoa của Đại học Quốc gia Hà Nội (VNU).
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.10, Recall: 0.07
+
+--- Câu hỏi 12 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) đã có bao nhiêu thủ khoa được vinh danh trong buổi lễ tuyên dương năm 2018 của Đại học Quốc gia Hà Nội (VNU)?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) có 02 thủ khoa tốt nghiệp được vinh danh trong tổng số 12 thủ khoa của Đại học Quốc gia Hà Nội (VNU).
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.10, Recall: 0.07
+
+--- Câu hỏi 13 ---
+Câu hỏi: Giải thưởng “Nghiên cứu khoa học sinh viên cấp ĐHQGHN” năm 2020 do tổ chức nào trao tặng?
+Đáp án tham chiếu: Giải thưởng “Nghiên cứu khoa học sinh viên cấp ĐHQGHN” năm 2020 được trao tặng bởi Giám đốc Đại học Quốc gia Hà Nội (ĐHQGHN).
+Đáp án mô hình:    Giải thưởng “Nghiên cứu khoa học sinh viên cấp ĐHQGHN” năm 2020 do Giám đốc Đại học Quốc gia Hà Nội (ĐHQGHN) trao tặng.
+EM: 0, F1: 0.94, Recall: 0.92
+
+--- Câu hỏi 14 ---
+Câu hỏi: Học bổng Nguyễn Trường Tộ dành cho sinh viên ĐHQGHN có những tiêu chí nào?
+Đáp án tham chiếu: Học bổng Nguyễn Trường Tộ dành cho các sinh viên nghèo vượt khó vươn lên trong học tập của ĐHQGHN.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.06, Recall: 0.05
+
+--- Câu hỏi 15 ---
+Câu hỏi: Ngoài việc hỗ trợ tài chính, học bổng Nguyễn Trường Tộ mang lại ý nghĩa gì cho sinh viên UET và VNU?
+Đáp án tham chiếu: Học bổng Nguyễn Trường Tộ là sự trợ giúp cần thiết, kịp thời, là những món quà ý nghĩa cả về vật chất và tinh thần, mang giá trị nhân văn sâu sắc của cộng đồng, xã hội.
+Đáp án mô hình:    Học bổng Nguyễn Trường Tộ mang lại giá trị nhân văn và ý nghĩa thực tiễn cho sinh viên VNU thông qua việc hỗ trợ sinh viên có ý chí vượt khó và tích cực tham gia các hoạt động cộng đồng. Đối với sinh viên có hoàn cảnh khó khăn, học bổng này là nguồn trợ giúp ý nghĩa trên con đường tiếp thu và truyền bá tri thức.
+EM: 0, F1: 0.33, Recall: 0.47
+
+--- Câu hỏi 16 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) đã được công nhận đạt tiêu chuẩn kiểm định chất lượng trường đại học theo tiêu chuẩn của cơ quan nào?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) đã được công nhận đạt tiêu chuẩn kiểm định chất lượng trường đại học theo Bộ tiêu chuẩn kiểm định đơn vị đào tạo của Bộ Giáo dục và Đào tạo.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.04, Recall: 0.03
+
+--- Câu hỏi 17 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) có những phòng thí nghiệm trọng điểm cấp Đại học Quốc gia Hà Nội (ĐHQGHN) nào?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) có 02 phòng thí nghiệm trọng điểm cấp ĐHQGHN: PTN trọng điểm Micro&Nanô và PTN trọng điểm Hệ thống tích hợp thông minh.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.10, Recall: 0.07
+
+--- Câu hỏi 18 ---
+Câu hỏi: Trong năm 2016, Trường Đại học Công nghệ (UET) đã chuyển đổi các chương trình đào tạo thạc sĩ theo hướng nào?
+Đáp án tham chiếu: Trong năm 2016, Trường Đại học Công nghệ (UET) đã chuyển đổi 12 chương trình đào tạo thạc sĩ theo quy chế mới theo hướng tăng cường hàm lượng chuyên môn và kỹ năng nghề nghiệp đáp ứng nhu cầu xã hội.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.04, Recall: 0.02
+
+--- Câu hỏi 19 ---
+Câu hỏi: Chương trình Viettel Research Excellence Scholarship (VRES) năm 2024 hướng đến mục tiêu gì?
+Đáp án tham chiếu: Chương trình VRES năm 2024 nhằm thúc đẩy phát triển nguồn nhân lực chất lượng cao cho đất nước, đặc biệt là nhân sự trong lĩnh vực công nghệ số.
+Đáp án mô hình:    Viettel mong muốn tạo cơ hội cho các học viên tài năng có điều kiện học tập, nghiên cứu tốt, giúp hoàn thiện năng lực bản thân và có thể ứng dụng công nghệ tham gia giải quyết các vấn đề thực tiễn cho xã hội.
+EM: 0, F1: 0.11, Recall: 0.13
+
+--- Câu hỏi 20 ---
+Câu hỏi: Sinh viên nhận học bổng Tài năng Samsung – STP từ Trường Đại học Công nghệ có những cơ hội nào ngoài nhận tiền mặt?
+Đáp án tham chiếu: Ngoài việc nhận được hơn 73 triệu VND tiền mặt/ suất, sinh viên còn được thực tập chuyên sâu trong 3 tháng vào học kỳ cuối với sự hướng dẫn của các kỹ sư tại Tập đoàn Samsung, có lộ trình ngắn nhất để trở thành kỹ sư lập trình của Samsung Hanoi R&D Campus, và có cơ hội trở thành nhân viên chính thức của Samsung R&D.
+Đáp án mô hình:    Ngoài tiền mặt hơn 73 triệu VND, sinh viên nhận học bổng Tài năng Samsung – STP từ Trường Đại học Công nghệ còn có cơ hội thực tập chuyên sâu trong 3 tháng vào học kỳ cuối với sự hướng dẫn của các kỹ sư tại Tập đoàn Samsung, có lộ trình ngắn nhất để trở thành kỹ sư lập trình của Samsung Hanoi R&D Campus tại Starlake Tây Hồ Tây, và có thể trở thành nhân viên chính thức của Samsung R&D lớn nhất Đông Nam Á sau khi tốt nghiệp.
+EM: 0, F1: 0.80, Recall: 0.94
+
+--- Câu hỏi 21 ---
+Câu hỏi: Những bậc đào tạo nào đã được trao bằng tốt nghiệp trong đợt 2 năm 2019 của Trường Đại học Công nghệ (UET)?
+Đáp án tham chiếu: Trong đợt 2 năm 2019, Trường Đại học Công nghệ (UET) đã trao bằng tốt nghiệp cho các bậc đào tạo: tiến sĩ, thạc sĩ, cử nhân và kỹ sư.
+Đáp án mô hình:    Trong đợt 2 năm 2019, Trường Đại học Công nghệ đã trao bằng tốt nghiệp cho tân cử nhân, kỹ sư, tân thạc sĩ và tân tiến sĩ.
+EM: 0, F1: 0.86, Recall: 0.83
+
+--- Câu hỏi 22 ---
+Câu hỏi: Trong năm 2024, Trường Đại học Công nghệ đã thực hiện những thay đổi nào trong cơ cấu tổ chức?
+Đáp án tham chiếu: Trường Đại học Công nghệ đã thực hiện tái cấu trúc tổ chức bộ máy (giai đoạn 1) bằng cách: Sáp nhập 5 đơn vị nghiên cứu vào các đơn vị đào tạo, sáp nhập 2 đơn vị chức năng, chuyển đổi Trung tâm Máy tính thành Trung tâm Đại học số, và sáp nhập 3 bộ môn. Sau tái cấu trúc, trường còn 8 đơn vị đào tạo và 8 đơn vị chức năng.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 23 ---
+Câu hỏi: Những yếu tố nào đã giúp Trường Đại học Công nghệ đạt được bước đột phá trong công tác tuyển sinh năm 2024?
+Đáp án tham chiếu: Bước đột phá trong công tác tuyển sinh năm 2024 của Trường Đại học Công nghệ được thúc đẩy bởi các chương trình đào tạo chất lượng cao, môi trường học tập năng động, sáng tạo và tỷ lệ sinh viên có việc làm sau một năm tốt nghiệp cao (hơn 95%).
+Đáp án mô hình:    Năm 2024, Trường Đại học Công nghệ đánh dấu bước đột phá trong công tác tuyển sinh, với hơn 3.000 sinh viên trúng tuyển, tăng 61% so với năm 2023. Điểm trúng tuyển của các chương trình đào tạo ở mức cao, nằm trong top đầu các trường đại học công nghệ – kỹ thuật của cả nước.
+EM: 0, F1: 0.51, Recall: 0.54
+
+--- Câu hỏi 24 ---
+Câu hỏi: ĐHQGHN đã có quyết định nào liên quan đến việc hỗ trợ học bổng cho nghiên cứu sinh và thực tập sinh sau tiến sĩ?
+Đáp án tham chiếu: Vào ngày 19/11/2021, Giám đốc ĐHQGHN đã ký Quyết định số 3688/QĐ-ĐHQGHN ban hành Quy định về việc hỗ trợ học bổng cho các nghiên cứu sinh và các thực tập sinh sau tiến sỹ ở ĐHQGHN.
+Đáp án mô hình:    ĐHQGHN có triển khai học bổng cho nghiên cứu sinh và thực tập sinh sau tiến sĩ nhằm thu hút, khuyến khích người học có thành tích, năng lực nghiên cứu tham gia các chương trình đào tạo tiến sĩ, thực tập sau tiến sĩ.
+EM: 0, F1: 0.34, Recall: 0.38
+
+--- Câu hỏi 25 ---
+Câu hỏi: Quỹ Đổi mới Sáng tạo Vingroup (VinIF) xét duyệt học bổng dựa trên những tiêu chí nào?
+Đáp án tham chiếu: Hội đồng xét học bổng của VinIF xét dựa trên các tiêu chí về kế hoạch học tập, hướng nghiên cứu cụ thể và có ý nghĩa, ưu tiên các ứng viên đã có những giải thưởng, thành tích nghiên cứu khoa học công nghệ trong vòng 2 năm trước khi nộp hồ sơ.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.03, Recall: 0.02
+
+--- Câu hỏi 26 ---
+Câu hỏi: Giá trị học bổng mà Quỹ VinIF trao cho học viên cao học và nghiên cứu sinh của Trường Đại học Công nghệ (ĐHQGHN) năm 2020 là bao nhiêu?
+Đáp án tham chiếu: Học viên cao học nhận học bổng trị giá 120 triệu đồng/HV và nghiên cứu sinh nhận học bổng trị giá 150 triệu đồng/NCS.
+Đáp án mô hình:    Năm 2020, Quỹ VinIF trao học bổng trị giá 120 triệu đồng/học viên cao học cho 11 học viên và 150 triệu đồng/nghiên cứu sinh cho 03 nghiên cứu sinh của Trường Đại học Công nghệ (ĐHQGHN).
+EM: 0, F1: 0.56, Recall: 0.71
+
+--- Câu hỏi 27 ---
+Câu hỏi: Những thí sinh nào phải trải qua môn thi cơ bản và cơ sở khi dự tuyển đào tạo trình độ tiến sĩ tại UET?
+Đáp án tham chiếu: Các thí sinh dự tuyển theo chế độ của người chưa có bằng thạc sĩ phải thi môn thi cơ bản và môn thi cơ sở.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 28 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) có vai trò gì trong việc tuyển chọn và bồi dưỡng học sinh giỏi Tin học quốc gia?
+Đáp án tham chiếu: Trường ĐH Công nghệ đóng vai trò quan trọng trong việc tổ chức thi chọn đội tuyển quốc gia dự thi Olympic Tin học khu vực và quốc tế, cũng như tổ chức tập huấn cho các thí sinh được tuyển chọn.
+Đáp án mô hình:    Trường Đại học Công nghệ (Đại học Quốc gia Hà Nội) phối hợp với Cục Quản lý chất lượng, Bộ Giáo dục và Đào tạo tổ chức kỳ thi tuyển chọn đội tuyển Olympic Tin học quốc tế năm 2020.
+EM: 0, F1: 0.44, Recall: 0.43
+
+--- Câu hỏi 29 ---
+Câu hỏi: Kỳ thi Olympic Tin học châu Á Thái Bình Dương (APIO) có ý nghĩa như thế nào đối với Trường Đại học Công nghệ (UET) và Việt Nam nói chung?
+Đáp án tham chiếu: APIO được xem là sân chơi trí tuệ tầm cỡ châu Á, thể hiện vị thế, uy tín của Việt Nam trong khu vực, đồng thời là cơ hội để UET khẳng định cam kết chất lượng đào tạo, uy tín học thuật và tạo điều kiện tốt nhất cho các thí sinh ôn luyện.
+Đáp án mô hình:    Olympic Tin học châu Á Thái Bình Dương (APIO) góp phần đưa lĩnh vực công nghệ thông tin của Việt Nam nói chung và Trường ĐH Công nghệ nói riêng ghi dấu ấn trên trường quốc tế.
+EM: 0, F1: 0.20, Recall: 0.16
+
+--- Câu hỏi 30 ---
+Câu hỏi: Hồ sơ dự tuyển vào vị trí nhân viên bảo vệ tại Trường Đại học Công nghệ (ĐHCN) cần những giấy tờ gì?
+Đáp án tham chiếu: Hồ sơ dự tuyển vị trí nhân viên bảo vệ cần có: Đơn xin việc, Sơ yếu lý lịch có xác nhận của chính quyền địa phương (trong vòng 6 tháng), Bản sao giấy khai sinh, Bản sao công chứng các văn bằng chứng chỉ có liên quan, Bản sao CMTND/căn cước công dân, Giấy khám sức khoẻ của cơ quan y tế có thẩm quyền (trong vòng 6 tháng), và 02 ảnh 4×6 (chụp trong vòng 1 năm trở lại đây).
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.02, Recall: 0.01
+
+--- Câu hỏi 31 ---
+Câu hỏi: Lý do chính nào dẫn đến việc Đại học Quốc gia Hà Nội (VNU) quyết định cho sinh viên nghỉ học vào đầu năm 2020?
+Đáp án tham chiếu: Dịch bệnh viêm đường hô hấp cấp do chủng mới của virus Corona (COVID-19).
+Đáp án mô hình:    Sinh viên trong toàn bộ ĐHQGHN được nghỉ học đến hết tháng 2/2020 do dịch bệnh viêm đường hô hấp cấp do chủng mới của virut Corona.
+EM: 0, F1: 0.59, Recall: 0.86
+
+--- Câu hỏi 32 ---
+Câu hỏi: Theo thông báo, thời hạn cuối cùng để nộp hồ sơ xin miễn giảm học phí và hỗ trợ chi phí học tập học kỳ II năm học 2019-2020 tại các trường thuộc Đại học Quốc gia Hà Nội (VNU) là khi nào?
+Đáp án tham chiếu: Ngày 05/03/2020.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 33 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) được thành lập dựa trên cơ sở nào?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) được thành lập năm 2004 trên cơ sở phát triển khoa Công nghệ và Trung tâm Hợp tác Đào tạo và Bồi dưỡng Cơ học thuộc ĐHQGHN.
+Đáp án mô hình:    Trường Đại học Công nghệ được thành lập trên cơ sở Khoa Công nghệ và Trung tâm Hợp tác Đào tạo và Bồi dưỡng Cơ học thuộc Đại học Quốc gia Hà Nội.
+EM: 0, F1: 0.82, Recall: 0.82
+
+--- Câu hỏi 34 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) có quy chế riêng về tổ chức và hoạt động không, và văn bản đó được ban hành như thế nào?
+Đáp án tham chiếu: Có, Trường Đại học Công nghệ có Quy chế về Tổ chức và hoạt động, ban hành theo Quyết định số 520/QĐ-ĐHCN, ngày 19/7/2016 của Hiệu trưởng Trường Đại học Công nghệ.
+Đáp án mô hình:    Trường Đại học Công nghệ có quy chế tạm thời về tổ chức và hoạt động. Văn bản này được ban hành theo Nghị quyết số 985/NQ-HĐT ngày 08 tháng 11 năm 2022 của Hội đồng trường Trường Đại học Công nghệ.
+EM: 0, F1: 0.70, Recall: 0.81
+
+--- Câu hỏi 35 ---
+Câu hỏi: NCS Nguyễn Văn Tú được công nhận là nghiên cứu sinh của Trường Đại học Công nghệ (UET) theo quyết định nào?
+Đáp án tham chiếu: NCS Nguyễn Văn Tú được công nhận là nghiên cứu sinh theo Quyết định số 642/QĐ-CTSV ngày 15/09/2014 của Hiệu trưởng Trường Đại học Công nghệ.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.05, Recall: 0.04
+
+--- Câu hỏi 36 ---
+Câu hỏi: Ai là cán bộ hướng dẫn chính luận án tiến sĩ của NCS Nguyễn Văn Tú và họ thuộc đơn vị nào của Đại học Quốc gia Hà Nội (VNU)?
+Đáp án tham chiếu: Cán bộ hướng dẫn chính là PGS.TS. Nguyễn Hà Nam, thuộc Viện Công nghệ Thông tin, ĐHQGHN.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.13, Recall: 0.12
+
+--- Câu hỏi 37 ---
+Câu hỏi: Hội nghị sinh viên nghiên cứu khoa học Trường Đại học Công nghệ được tổ chức thường niên với mục đích gì?
+Đáp án tham chiếu: Hội nghị là cơ hội để sinh viên công bố ý tưởng, giải pháp và kết quả nghiên cứu ban đầu thông qua việc trưng bày poster, thuyết trình và video ngắn giới thiệu về công trình.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.04, Recall: 0.03
+
+--- Câu hỏi 38 ---
+Câu hỏi: Để tham gia Hội nghị sinh viên nghiên cứu khoa học cấp trường của Trường Đại học Công nghệ, các công trình nghiên cứu của sinh viên phải trải qua những vòng thẩm định nào?
+Đáp án tham chiếu: Các công trình nghiên cứu phải trải qua vòng thẩm định cấp Khoa, Viện và Bộ môn.
+Đáp án mô hình:    Để tham gia Hội nghị sinh viên nghiên cứu khoa học cấp trường của Trường Đại học Công nghệ, các công trình nghiên cứu của sinh viên phải trải qua vòng thẩm định ở cấp đơn vị, sau đó các đơn vị sẽ gửi hồ sơ dự thi cấp trường.
+EM: 0, F1: 0.39, Recall: 0.76
+
+--- Câu hỏi 39 ---
+Câu hỏi: Hội nghị sinh viên nghiên cứu khoa học Trường Đại học Công nghệ năm 2022 diễn ra ở đâu?
+Đáp án tham chiếu: Hội nghị diễn ra tại Hội trường Sunwah, ĐHQGHN.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 40 ---
+Câu hỏi: Chương trình học bổng EVN-VNU trao cho sinh viên những ngành nào?
+Đáp án tham chiếu: Chương trình học bổng EVN-VNU trao cho sinh viên các ngành: tin học, toán tin, công nghệ thông tin, năng lượng, tự động hóa, nhiệt, điện tử viễn thông.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.10, Recall: 0.07
+
+--- Câu hỏi 41 ---
+Câu hỏi: Loại học bổng nào đã được ĐHQGHN trao tặng trong năm học 2021-2022?
+Đáp án tham chiếu: Học bổng Mitsubishi.
+Đáp án mô hình:    Năm học 2021-2022, ĐHQGHN trao hơn 600 suất học bổng ngoài ngân sách. Ngoài ra còn có học bổng khuyến khích học tập theo quy định của Nhà nước.
+EM: 0, F1: 0.12, Recall: 0.67
+
+--- Câu hỏi 42 ---
+Câu hỏi: Những sinh viên nhận học bổng Mitsubishi năm học 2021-2022 đang theo học những ngành nào tại ĐHQGHN?
+Đáp án tham chiếu: Các ngành Hệ thống thông tin, Công nghệ thông tin và Khoa học máy tính.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.14, Recall: 0.13
+
+--- Câu hỏi 43 ---
+Câu hỏi: Những yêu cầu cơ bản nào được đặt ra cho ứng viên ứng tuyển vị trí kỹ sư tại Trại thực nghiệm Công nghệ Nông nghiệp của Trường Đại học Công nghệ (UET)?
+Đáp án tham chiếu: Ứng viên cần tốt nghiệp đại học các ngành sinh học, nông nghiệp hoặc tương đương, có kỹ năng hoạt động trong lĩnh vực cần tuyển, trung thực, cẩn thận, có trách nhiệm, vui vẻ, nhiệt tình, hợp tác tốt, có nguyện vọng gắn bó lâu dài với công việc, ngoại hình cân đối, sức khỏe tốt và không quá 30 tuổi.
+Đáp án mô hình:    Để ứng tuyển vị trí kỹ sư Phát triển UAV (Unmanned aerial vehicle – Thiết bị bay không người lái), drone tại Trại thực nghiệm Công nghệ Nông nghiệp của Trường Đại học Công nghệ (UET), ứng viên cần đáp ứng các yêu cầu sau:
+
+**Yêu cầu chung:**
+
+*   Có tư duy logic và kỹ năng giải quyết vấn đề, hoạt động theo nhóm.
+*   Kỹ năng quản lý thời gian và khả năng ưu tiên công việc tốt, tính chủ động cao trong công việc.
+*   Tiếng Anh: Đọc hiểu sử dụng thành thạo các tài liệu Tiếng Anh.
+
+**Yêu cầu cụ thể theo chuyên môn:**
+
+*   **Cơ khí:**
+    *   Tốt nghiệp chuyên ngành cơ khí các trường kỹ thuật như ĐH Bách Khoa, ĐH Công Nghiệp HN. Ưu tiên tốt nghiệp chuyên ngành cơ khí kỹ thuật hàng không.
+    *   Sử dụng thành thạo các phần mềm thiết kế cơ khí như Solidworks, NX, Catia.
+    *   Ưu tiên có kinh nghiệm làm việc trong dự án thực tế về Drone.
+*   **Điện tử:**
+    *   Tốt nghiệp chuyên ngành điện tử, tự động hóa, khoa học máy tính hoặc các ngành liên quan tại các trường kỹ thuật như ĐH Bách Khoa, ĐH Công Nghiệp HN.
+    *   Có kinh nghiệm lập trình trên nền Linux hoặc Embedded.
+    *   Ưu tiên ứng viên có kinh nghiệm trong lập trình, xử lý dữ liệu drone/UAV.
+    *   Ưu tiên ứng viên có kinh nghiệm thiết kế mạch, sử dụng các ngôn ngữ lập trình linh hoạt.
+    *   Biết sử dụng các công cụ quản lý code như Git, SVN.
+EM: 0, F1: 0.18, Recall: 0.47
+
+--- Câu hỏi 44 ---
+Câu hỏi: Trong năm 2022, ĐHQGHN dự kiến tuyển sinh bao nhiêu chỉ tiêu và có bao nhiêu ngành/chương trình đào tạo mới?
+Đáp án tham chiếu: ĐHQGHN dự kiến có 13.150 chỉ tiêu tuyển sinh cho 143 ngành/chương trình đào tạo, trong đó có 08 ngành mới.
+Đáp án mô hình:    Năm 2022, ĐHQGHN dự kiến có 13.150 chỉ tiêu tuyển sinh cho 143 ngành/chương trình đào tạo, trong đó có 08 ngành mới.
+EM: 0, F1: 0.95, Recall: 1.00
+
+--- Câu hỏi 45 ---
+Câu hỏi: Đại diện của Samsung đã có những hoạt động hợp tác nào với Trường Đại học Công nghệ liên quan đến lĩnh vực cấu trúc dữ liệu và thuật toán?
+Đáp án tham chiếu: Samsung hiện đang mở nhiều lớp học tại các trường đại học Việt Nam và Trường Đại học Công nghệ là một trong những đơn vị có hợp tác chặt chẽ với Tập đoàn trong lĩnh vực cấu trúc dữ liệu và thuật toán.
+Đáp án mô hình:    Trong giai đoạn hợp tác đầu tiên từ năm 2014-2016, Samsung và Trường Đại học Công nghệ đã triển khai các chương trình đào tạo liên quan đến thuật toán. Ngoài ra, sinh viên còn được tài trợ 100% học phí khóa Thuật toán và ứng dụng.
+EM: 0, F1: 0.33, Recall: 0.34
+
+--- Câu hỏi 46 ---
+Câu hỏi: Mục tiêu của tỉnh Gyeongbuk trong việc hợp tác với Trường Đại học Công nghệ và các trường đại học khác ở Việt Nam là gì?
+Đáp án tham chiếu: Tỉnh Gyeongbuk sẽ tiếp tục đẩy mạnh các dự án hợp tác giao lưu liên quan đến công nghệ giữa hai nước và hỗ trợ trong lĩnh vực đào tạo và phát hiện nhân tài công nghệ đối với Trường ĐH Công nghệ nói riêng và các trường đại học tại Việt Nam nói chung.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.06, Recall: 0.04
+
+--- Câu hỏi 47 ---
+Câu hỏi: ĐHQGHN có những loại chương trình đào tạo nào theo quy chế mới nhất ban hành năm 2022?
+Đáp án tham chiếu: Theo quy chế mới nhất ban hành năm 2022, các chương trình đào tạo của ĐHQGHN được quy lại gọn gàng gồm: Chương trình đào tạo tài năng, Chương trình chất lượng cao (bao gồm các chương trình tiên tiến, chuẩn quốc tế – đào tạo theo nội dung, chương trình của các đại học danh tiếng trên thế giới) và các chương trình chuẩn.
+Đáp án mô hình:    Các chương trình đào tạo của ĐHQGHN theo quy chế mới nhất ban hành năm 2022 gồm: chương trình đào tạo tài năng, chương trình chất lượng cao (bao gồm các chương trình tiên tiến, chuẩn quốc tế) và các chương trình chuẩn.
+EM: 0, F1: 0.80, Recall: 0.66
+
+--- Câu hỏi 48 ---
+Câu hỏi: Mục đích của việc Lazada đồng hành cùng các trường đại học thuộc ĐHQGHN trong việc phát triển nguồn nhân lực thế hệ số tương lai là gì?
+Đáp án tham chiếu: Mục đích của việc Lazada đồng hành cùng các trường đại học thuộc ĐHQGHN là tạo điều kiện thuận lợi cho giảng viên và sinh viên cải tiến chương trình đào tạo, tăng cường kỹ năng thực hành, cơ hội thực tập và làm việc.
+Đáp án mô hình:    Lazada đồng hành cùng các trường đại học thuộc ĐHQGHN trong việc phát triển nguồn nhân lực thế hệ số tương lai.
+EM: 0, F1: 0.33, Recall: 0.24
+
+--- Câu hỏi 49 ---
+Câu hỏi: Hội nghị sinh viên nghiên cứu khoa học của Trường Đại học Công nghệ (UET) được tổ chức với mục đích gì?
+Đáp án tham chiếu: Hội nghị sinh viên nghiên cứu khoa học cấp Trường là cơ hội để sinh viên công bố ý tưởng, giải pháp và kết quả ban đầu thông qua việc trưng bày poster, thuyết trình và video ngắn giới thiệu về công trình.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.07, Recall: 0.05
+
+--- Câu hỏi 50 ---
+Câu hỏi: Hội nghị sinh viên nghiên cứu khoa học Trường Đại học Công nghệ (UET) diễn ra ở cấp Khoa, Viện có bao nhiêu công trình tham dự vào năm 2023?
+Đáp án tham chiếu: Năm 2023, có 102 công trình tham dự Hội nghị sinh viên nghiên cứu khoa học cấp Khoa, Viện.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.06, Recall: 0.05
+
+--- Câu hỏi 51 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) trực thuộc tổ chức nào?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) trực thuộc Đại học Quốc gia Hà Nội (ĐHQGHN).
+Đáp án mô hình:    Trường Đại học Công nghệ trực thuộc Đại học Quốc gia Hà Nội.
+EM: 0, F1: 0.93, Recall: 0.87
+
+--- Câu hỏi 52 ---
+Câu hỏi: Trường Đại học Công nghệ (VNU-UET) đã hỗ trợ sinh viên Đỗ Mạnh Tuấn như thế nào trong quá trình học tập?
+Đáp án tham chiếu: Trường Đại học Công nghệ (VNU-UET) đã tạo môi trường năng động, nhiều chương trình kết nối, kích thích tư duy sáng tạo cho sinh viên, giúp Đỗ Mạnh Tuấn tự tin và định hướng nghề nghiệp. Các thầy cô Khoa Cơ học kỹ thuật và tự động hóa đã đồng hành, hỗ trợ Tuấn. Ngoài ra, việc tham gia các hoạt động ngoại khóa, các cuộc thi, các chương trình tình nguyện cũng giúp Tuấn phát triển toàn diện.
+Đáp án mô hình:    UET đã giúp Đỗ Mạnh Tuấn dần trở nên tự tin, có những lựa chọn và định hướng cụ thể sau năm đầu tiên học tập. Trường đã tạo môi trường năng động, nhiều chương trình kết nối, kích thích tư duy sáng tạo cho sinh viên.
+EM: 0, F1: 0.50, Recall: 0.40
+
+--- Câu hỏi 53 ---
+Câu hỏi: Đỗ Mạnh Tuấn đã rút ra những kinh nghiệm gì về học tập và nghiên cứu khoa học tại Trường Đại học Công nghệ (VNU-UET)?
+Đáp án tham chiếu: Đỗ Mạnh Tuấn rút ra kinh nghiệm về việc xác định hướng nghiên cứu, dồn thời gian và tâm huyết phát triển sản phẩm từ bài toán đặt ra, và trình bày bài báo khoa học. Về học tập, sinh viên cần chủ động lắng nghe giảng bài, phát biểu ý kiến, học hỏi kinh nghiệm từ các anh chị khóa trên, tự đánh giá và lên kế hoạch ôn tập hợp lý.
+Đáp án mô hình:    Đỗ Mạnh Tuấn rút ra được những kinh nghiệm sau:
+
+*   Xác định được hướng nghiên cứu muốn theo đuổi.
+*   Dồn thời gian và tâm huyết vào việc phát triển sản phẩm từ bài toán đặt ra.
+*   Kỹ năng làm việc nhóm rất quan trọng và cần thiết để thực hiện dự án lớn.
+*   Tham gia các hoạt động đoàn thể, tình nguyện để "xả stress", tìm kiếm cảm hứng và học hỏi.
+*   Phát triển tư duy, kỹ năng giao tiếp và thích ứng môi trường nhanh hơn.
+EM: 0, F1: 0.45, Recall: 0.49
+
+--- Câu hỏi 54 ---
+Câu hỏi: Chủ đề của cuộc thi IAI Hackathon 2023 là gì và các đội chơi cần thực hiện những gì liên quan đến chủ đề này?
+Đáp án tham chiếu: Chủ đề của cuộc thi là "Gamify Education" (Game hóa giáo dục). Các đội chơi sẽ xây dựng sản phẩm hướng đến mục tiêu nâng cao giáo dục, cải thiện phương pháp dạy và học, phát triển những phần mềm ứng dụng mới đem lại trải nghiệm và phổ cập kiến thức một cách thú vị, sinh động.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 55 ---
+Câu hỏi: Sinh viên và học sinh nào được phép tham gia cuộc thi IAI Hackathon 2023 do Trường Đại học Công nghệ - ĐHQGHN tổ chức?
+Đáp án tham chiếu: Sinh viên năm nhất, năm hai và học sinh THPT trên địa bàn thành phố Hà Nội đam mê công nghệ thông tin có thể đăng ký tham gia theo nhóm từ 3 – 5 thành viên.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.08, Recall: 0.05
+
+--- Câu hỏi 56 ---
+Câu hỏi: Chương trình đào tạo ngành Trí tuệ nhân tạo tại Trường ĐHCN, ĐHQGHN hướng đến việc trang bị cho sinh viên những năng lực cốt lõi nào?
+Đáp án tham chiếu: Chương trình đào tạo ngành Trí tuệ nhân tạo tại Trường ĐHCN, ĐHQGHN hướng đến việc trang bị cho sinh viên năng lực phát triển các hệ thống TTNT và phân tích dữ liệu tiên tiến, khả năng làm việc trong các doanh nghiệp lớn ở Việt Nam cũng như các nước trong khu vực, đáp ứng nhu cầu của xã hội về nhân lực chất lượng cao trong lĩnh vực Trí tuệ nhân tạo và Khoa học dữ liệu.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.04, Recall: 0.03
+
+--- Câu hỏi 57 ---
+Câu hỏi: Thời gian đào tạo và danh hiệu tốt nghiệp của chương trình đào tạo ngành Trí tuệ nhân tạo tại Trường ĐHCN, ĐHQGHN là gì?
+Đáp án tham chiếu: Thời gian đào tạo của chương trình là 4 năm và danh hiệu tốt nghiệp là Cử nhân ngành Trí tuệ nhân tạo.
+Đáp án mô hình:    Thời gian đào tạo của chương trình Trí tuệ nhân tạo là 4 năm và danh hiệu tốt nghiệp là Cử nhân.
+EM: 0, F1: 0.98, Recall: 0.96
+
+--- Câu hỏi 58 ---
+Câu hỏi: Chương trình Học Bổng Future VPBanker 2024 dành cho sinh viên của những chuyên ngành nào tại Trường Đại học Công nghệ (UET)?
+Đáp án tham chiếu: Chương trình Học Bổng Future VPBanker 2024 dành cho sinh viên năm thứ 3, 4 thuộc các chuyên ngành liên quan tới Kinh tế, Tài chính, Ngân hàng, Công nghệ thông tin và Khoa học dữ liệu.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.16, Recall: 0.11
+
+--- Câu hỏi 59 ---
+Câu hỏi: Chương trình Học Bổng Future VPBanker 2024 có những loại học bổng nào và trị giá của mỗi loại là bao nhiêu?
+Đáp án tham chiếu: Chương trình Học Bổng Future VPBanker 2024 có hai loại học bổng: Học Bổng Xuất Sắc trị giá 20 triệu đồng/suất và Học Bổng Tiềm Năng trị giá 15 triệu đồng/suất.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 60 ---
+Câu hỏi: Để tham gia chương trình Học Bổng Future VPBanker 2024, sinh viên cần đáp ứng điều kiện nào liên quan đến các học bổng khác?
+Đáp án tham chiếu: Để tham gia chương trình Học Bổng Future VPBanker 2024, sinh viên cần đáp ứng điều kiện là chưa nhận học bổng nào khác trong năm học 2024-2025.
+Đáp án mô hình:    Tại thời điểm đăng ký học bổng, sinh viên chưa được nhận học bổng ngoài ngân sách nào trong năm học 2023-2024 hoặc không nộp đơn xin học bổng khác.
+EM: 0, F1: 0.45, Recall: 0.46
+
+--- Câu hỏi 61 ---
+Câu hỏi: Thông báo về danh sách sinh viên tiến trình tích cực năm 2024 do đơn vị nào phát hành?
+Đáp án tham chiếu: Viện Trí tuệ nhân tạo.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 62 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) có những khoa nào trực thuộc?
+Đáp án tham chiếu: Khoa Công nghệ thông tin, Khoa Điện tử Viễn thông, Khoa Vật lý kỹ thuật & Công nghệ Nano, Khoa Cơ học kỹ thuật & Tự động hoá, Khoa Công nghệ Nông nghiệp, Khoa Công nghệ Xây dựng – Giao thông.
+Đáp án mô hình:    Tôi tìm thấy thông tin về Khoa Vật lý Kỹ thuật và Công nghệ Nano thuộc Trường Đại học Công nghệ (UET).
+EM: 0, F1: 0.43, Recall: 0.33
+
+--- Câu hỏi 63 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) có những viện nghiên cứu nào trực thuộc?
+Đáp án tham chiếu: Viện Công nghệ Hàng không Vũ trụ, Viện Tiên tiến về Kỹ thuật và Công nghệ, Viện Trí tuệ nhân tạo.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.06, Recall: 0.05
+
+--- Câu hỏi 64 ---
+Câu hỏi: Mục đích chính của việc tổ chức Hội thảo khoa học dành cho nghiên cứu sinh tại Trường Đại học Công nghệ (UET) là gì?
+Đáp án tham chiếu: Hội thảo được tổ chức với mục đích xây dựng môi trường học thuật tích cực, cởi mở để nghiên cứu sinh có thể chia sẻ, trao đổi kinh nghiệm và các vấn đề khoa học trong quá trình nghiên cứu nhằm góp phần nâng cao chất lượng đào tạo, nghiên cứu, phát triển mô hình đại học nghiên cứu tiên tiến. Bên cạnh đó, Hội thảo cũng là nơi giao lưu, gặp gỡ và trao đổi hợp tác giữa các nhà khoa học của nhà trường với các doanh nghiệp khoa học công nghệ.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.04, Recall: 0.02
+
+--- Câu hỏi 65 ---
+Câu hỏi: Khoa Vật lý Kỹ thuật & Công nghệ Nano (VLKT&CNNN) thuộc Trường Đại học Công nghệ (UET) hợp tác với những đơn vị nghiên cứu trong nước nào?
+Đáp án tham chiếu: Khoa Vật lý Kỹ thuật & Công nghệ Nano (VLKT&CNNN) có mô hình liên kết trường đại học – viện nghiên cứu với Viện Khoa học Vật liệu, Viện Vật lý, Viện Công nghệ Sinh học, Viện Hóa học (thuộc Viện Khoa học và Công nghệ Việt Nam).
+Đáp án mô hình:    Khoa VLKT&CNNN hợp tác với Viện Khoa học Vật liệu, Viện Vật lý, Viện Công nghệ Sinh học, Viện Hóa học (thuộc Viện Khoa học và Công nghệ Việt Nam).
+EM: 0, F1: 0.73, Recall: 0.60
+
+--- Câu hỏi 66 ---
+Câu hỏi: Khoa Vật lý Kỹ thuật & Công nghệ Nano (VLKT&CNNN) được thành lập trên cơ sở nào?
+Đáp án tham chiếu: Khoa Vật lý Kỹ thuật & Công nghệ Nano (VLKT&CNNN) được thành lập trên cơ sở Bộ môn Vật lý kỹ thuật và Quang tử của Khoa Công nghệ (nay là Trường Đại học Công nghệ) thuộc ĐHQGHN.
+Đáp án mô hình:    Khoa Vật lý Kỹ thuật & Công nghệ Nano (VLKT&CNNN) được thành lập ngày 09/09/2004 theo Quyết định số 556/QĐ-TCCB của Giám đốc Đại học Quốc gia Hà Nội (ĐHQGHN), trên cơ sở Bộ môn Vật lý kỹ thuật và Quang tử của Khoa Công nghệ (nay là Trường Đại học Công nghệ) thuộc ĐHQGHN.
+EM: 0, F1: 0.81, Recall: 1.00
+
+--- Câu hỏi 67 ---
+Câu hỏi: Sự kiện "UET Job Fair" có vai trò gì đối với sinh viên Trường Đại học Công nghệ (UET) và các trường đại học khác trên địa bàn Hà Nội?
+Đáp án tham chiếu: "UET Job Fair" là cầu nối giữa nhà tuyển dụng và sinh viên, giúp sinh viên định hướng nghề nghiệp sớm, tạo cơ hội việc làm và thực tập, đồng thời cung cấp thông tin hữu ích về tuyển dụng.
+Đáp án mô hình:    "UET Job Fair" tạo điều kiện cho sinh viên sắp ra trường và người lao động có cơ hội tiếp cận trực tiếp với các doanh nghiệp, nhà tuyển dụng, đồng thời định hướng nghề nghiệp trong tương lai. Ngoài ra, sự kiện này còn hỗ trợ các cơ quan, tổ chức, doanh nghiệp quảng bá thương hiệu tới các bạn trẻ.
+EM: 0, F1: 0.35, Recall: 0.45
+
+--- Câu hỏi 68 ---
+Câu hỏi: Quy mô tuyển sinh của Trường Đại học Công nghệ (UET) trong năm 2023 là bao nhiêu và trường có mở rộng đào tạo những lĩnh vực nào?
+Đáp án tham chiếu: Năm 2023, Trường Đại học Công nghệ (UET) có quy mô tuyển sinh lên đến 1.850 sinh viên và mở rộng đào tạo một số lĩnh vực như Trí tuệ nhân tạo, Công nghệ Hàng không vũ trụ, Công nghệ xây dựng – giao thông, Công nghệ nông nghiệp.
+Đáp án mô hình:    Trong năm 2023, Trường Đại học Công nghệ đã chào đón hơn 1.800 tân sinh viên. Trường đã ký kết hợp tác với Công ty TNHH LG Display Hải Phòng (LGDVH) và LGDVH tài trợ kinh phí mở chuyên ngành Công nghệ màn hình tiên tiến thuộc chương trình đào tạo ngành Công nghệ kỹ thuật Cơ điện tử.
+EM: 0, F1: 0.33, Recall: 0.37
+
+--- Câu hỏi 69 ---
+Câu hỏi: Hội thảo quốc tế về ô nhiễm không khí ở châu Á được tổ chức với mục đích gì?
+Đáp án tham chiếu: Hội thảo nhằm đánh giá, so sánh các phương pháp ước tính GHG và SLCP từ nhiều nguồn, hiểu hơn về tác động của chúng tới biến đổi khí hậu và sức khỏe con người, tìm hiểu về tiềm năng của viễn thám bằng vệ tinh trong việc định lượng các chất thải gây ô nhiễm, sol khí và các đợt ô nhiễm, đánh giá, so sánh các phương pháp mô hình hóa đặc tính của phát thải và tăng cường các hoạt động trao đổi, đào tạo thông qua hợp tác hiệu quả.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.06, Recall: 0.03
+
+--- Câu hỏi 70 ---
+Câu hỏi: Những đối tượng nào đã tham gia vào hội thảo quốc tế về ô nhiễm không khí ở châu Á?
+Đáp án tham chiếu: Hội thảo thu hút sự tham gia của các nhà khoa học và nghiên cứu trong nước, quốc tế thuộc các lĩnh vực liên quan, bao gồm các nhà khoa học đến từ các tổ chức, cơ quan quốc tế liên kết qua Chương trình Sáng kiến các Nhà Khoa học Nam và Đông Nam Á (SARI), Mạng lưới Thông tin Quan trắc Toàn cầu về Rừng và Thay đổi Sử dụng đất khu vực Nam/Đông Nam Á (GOFC-GOLD), Viện Nghiên cứu Môi trường Quốc gia Nhật Bản (NIES), cộng đồng ASEAN, NASA và các cơ quan trực thuộc NASA, cùng các nhà khoa học trong nước thuộc các lĩnh vực viễn thám, môi trường và y tế, sức khỏe.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.05, Recall: 0.03
+
+--- Câu hỏi 71 ---
+Câu hỏi: Trường Đại học Công nghệ (VNU-UET) trở thành một trường đại học thành viên của Đại học Quốc gia Hà Nội (VNU) vào năm nào?
+Đáp án tham chiếu: Trường Đại học Công nghệ (VNU-UET) trở thành một trường đại học thành viên của Đại học Quốc gia Hà Nội (VNU) vào ngày 25 tháng 5 năm 2004.
+Đáp án mô hình:    Trường Đại học Công nghệ trở thành một trường đại học thành viên của Đại học Quốc gia Hà Nội vào năm 2004.
+EM: 0, F1: 0.88, Recall: 0.79
+
+--- Câu hỏi 72 ---
+Câu hỏi: Mục tiêu phát triển của Trường Đại học Công nghệ (VNU-UET) trong tương lai là gì?
+Đáp án tham chiếu: Trường Đại học Công nghệ (VNU-UET) đặt mục tiêu phát triển một môi trường giáo dục đại học tiêu chuẩn cao, bao gồm giáo dục và đào tạo chất lượng, nghiên cứu tích cực, hợp tác và trao đổi hiệu quả, quản trị đại học hiện đại và một môi trường làm việc và sinh sống giàu tính nhân văn, hướng tới tiêu chuẩn quốc tế trong giáo dục đại học và trở thành trường đại học hàng đầu về kỹ thuật và công nghệ tại Việt Nam và trong khu vực.
+Đáp án mô hình:    Mục tiêu của Chiến lược phát triển Trường Đại học Công nghệ đến năm 2030, tầm nhìn 2045 là duy trì vị thế một trường đại học nghiên cứu và đổi mới sáng tạo hàng đầu trong lĩnh vực khoa học và ứng dụng công nghệ của Việt Nam, đạt các tiêu chí của đại học nghiên cứu tiên tiến của Châu Á, trong đó có một số lĩnh vực, ngành và chuyên ngành đạt chuẩn mực trình độ quốc tế, nằm trong bảng xếp hạng 200-300 thế giới vào năm 2035.
+EM: 0, F1: 0.40, Recall: 0.40
+
+--- Câu hỏi 73 ---
+Câu hỏi: Đại học Quốc gia Hà Nội (VNU) đóng vai trò như thế nào đối với Trường Đại học Công nghệ (UET)?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) là một trường đại học thành viên của Đại học Quốc gia Hà Nội (VNU).
+Đáp án mô hình:    Trường Đại học Công nghệ là một trường đại học thành viên của Đại học Quốc gia Hà Nội. Trường Đại học Công nghệ tham gia đóng góp tích cực vào sự phát triển của Đại học Quốc gia Hà Nội.
+EM: 0, F1: 0.61, Recall: 0.90
+
+--- Câu hỏi 74 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) kỷ niệm bao nhiêu năm thành lập vào năm 2019?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) kỷ niệm 15 năm thành lập vào năm 2019 (25/05/2004 – 25/05/2019).
+Đáp án mô hình:    Năm 2019, Trường Đại học Công nghệ (UET) kỷ niệm 15 năm thành lập và 20 năm ngày truyền thống.
+EM: 0, F1: 0.74, Recall: 0.78
+
+--- Câu hỏi 75 ---
+Câu hỏi: Sự kiện nào đã diễn ra cùng với lễ kỷ niệm 15 năm thành lập Trường Đại học Công nghệ (UET) và chào mừng Ngày Nhà giáo Việt Nam năm 2019?
+Đáp án tham chiếu: Cùng với lễ kỷ niệm 15 năm thành lập và chào mừng Ngày Nhà giáo Việt Nam, Trường Đại học Công nghệ (UET) còn kỷ niệm 20 năm truyền thống (18/10/1999 – 18/10/2019).
+Đáp án mô hình:    Ngày hội Sáng tạo công nghệ – Innovation Day 2019 và Ngày hội truyền thống đã diễn ra cùng với lễ kỷ niệm 15 năm thành lập, 20 năm truyền thống và chào mừng Ngày Nhà giáo Việt Nam năm 2019. Ngoài ra, còn có Hội diễn văn nghệ.
+EM: 0, F1: 0.61, Recall: 0.76
+
+--- Câu hỏi 76 ---
+Câu hỏi: Hội thảo quốc tế Việt Nam học lần thứ 5, năm 2016 có sự tham gia của bao nhiêu người?
+Đáp án tham chiếu: Hơn 2000 người, trong đó có gần 1000 nhà Việt Nam học đến từ 36 quốc gia và vùng lãnh thổ.
+Đáp án mô hình:    Hội thảo quốc tế Việt Nam học lần thứ 5, năm 2016 có sự tham gia của hơn 2000 người, trong đó có gần 1000 nhà Việt Nam học đến từ 36 quốc gia và vùng lãnh thổ.
+EM: 0, F1: 0.71, Recall: 1.00
+
+--- Câu hỏi 77 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) thuộc Đại học Quốc gia Hà Nội (ĐHQGHN) đã chủ trì tiểu ban nào trong Hội thảo quốc tế Việt Nam học lần thứ 5, năm 2016?
+Đáp án tham chiếu: Tiểu ban 4: Chuyển giao tri thức và công nghệ.
+Đáp án mô hình:    Trường Đại học Công nghệ (UET) thuộc Đại học Quốc gia Hà Nội (ĐHQGHN) đã chủ trì Tiểu ban 4: Chuyển giao tri thức và công nghệ trong Hội thảo quốc tế Việt Nam học lần thứ 5, năm 2016.
+EM: 0, F1: 0.40, Recall: 1.00
+
+--- Câu hỏi 78 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) có hợp tác quốc tế trong lĩnh vực đào tạo Kỹ thuật Robot với trường đại học nào?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) hợp tác với Trường Đại học Công nghệ Chiba, Nhật Bản trong chương trình đào tạo Kỹ thuật Robot.
+Đáp án mô hình:    Trường Đại học Công nghệ (UET) hợp tác quốc tế trong lĩnh vực đào tạo Kỹ thuật Robot với trường Đại học Công nghệ Chiba, Nhật Bản.
+EM: 0, F1: 0.88, Recall: 0.92
+
+--- Câu hỏi 79 ---
+Câu hỏi: Loại hình đào tạo nào được Trường Đại học Công nghệ (UET) trao bằng tốt nghiệp trong năm học 2018-2019?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) trao bằng cho các tân cử nhân, kỹ sư, thạc sĩ và tiến sĩ trong năm học 2018-2019.
+Đáp án mô hình:    Trường Đại học Công nghệ đã trao bằng tốt nghiệp cho sinh viên, học viên cao học và nghiên cứu sinh trong năm học 2018-2019.
+EM: 0, F1: 0.53, Recall: 0.54
+
+--- Câu hỏi 80 ---
+Câu hỏi: Ngoài việc trao bằng tốt nghiệp, Trường Đại học Công nghệ (UET) còn khen thưởng cho những đối tượng nào tại Lễ bế giảng năm học 2018-2019?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) còn khen thưởng cho các tân thủ khoa tốt nghiệp, các tân cử nhân đạt giải trong các kỳ thi Olympic toàn quốc và quốc tế, và các học viên cao học, nghiên cứu sinh đạt thành tích xuất sắc trong học tập.
+Đáp án mô hình:    Tại Lễ bế giảng năm học 2018-2019, Trường Đại học Công nghệ (UET) còn khen thưởng cho các tân thủ khoa tốt nghiệp, các tân cử nhân đạt giải trong các kỳ thi Olympic toàn quốc và quốc tế, và những học viên cao học và nghiên cứu sinh đạt những thành tích xuất sắc trong học tập.
+EM: 0, F1: 0.90, Recall: 0.98
+
+--- Câu hỏi 81 ---
+Câu hỏi: Lễ bế giảng và trao bằng tốt nghiệp năm học 2018-2019 của Trường Đại học Công nghệ (UET) diễn ra ở đâu?
+Đáp án tham chiếu: Lễ bế giảng và trao bằng tốt nghiệp năm học 2018-2019 của Trường Đại học Công nghệ (UET) diễn ra tại hội trường Nguyễn Văn Đạo.
+Đáp án mô hình:    Lễ bế giảng và trao bằng tốt nghiệp năm học 2018-2019 của Trường Đại học Công nghệ (UET) được tổ chức tại hội trường Nguyễn Văn Đạo.
+EM: 0, F1: 0.91, Recall: 0.92
+
+--- Câu hỏi 82 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) có những chương trình đào tạo nào được trao bằng tốt nghiệp trong năm học 2019-2020?
+Đáp án tham chiếu: Các chương trình đào tạo được trao bằng tốt nghiệp năm học 2019-2020 bao gồm: Khoa học máy tính, Công nghệ kỹ thuật điện tử- truyền thông, Hệ thống thông tin, Công nghệ thông tin, Vật lý kỹ thuật, Công nghệ kỹ thuật Cơ điện tử ở các bậc cử nhân, thạc sĩ và tiến sĩ.
+Đáp án mô hình:    Trong năm học 2019-2020, Trường Đại học Công nghệ (UET) đã trao bằng tốt nghiệp cho sinh viên, học viên cao học và nghiên cứu sinh các ngành: Khoa học máy tính, Công nghệ kỹ thuật điện tử- truyền thông, Hệ thống thông tin, Công nghệ thông tin, Vật lý kỹ thuật, Công nghệ kỹ thuật Cơ điện tử.
+EM: 0, F1: 0.70, Recall: 0.71
+
+--- Câu hỏi 83 ---
+Câu hỏi: Bên cạnh bằng tốt nghiệp, các thủ khoa của các ngành thuộc UET còn được nhận những phần thưởng nào khác trong buổi lễ bế giảng năm học 2019-2020?
+Đáp án tham chiếu: Các thủ khoa của các ngành thuộc UET còn được nhận Bằng khen của Giám đốc ĐHQGHN và kỷ niệm chương.
+Đáp án mô hình:    Bên cạnh bằng tốt nghiệp, các thủ khoa của các ngành thuộc UET còn được nhận Bằng khen của Giám đốc ĐHQGHN và kỷ niệm chương trong buổi lễ bế giảng năm học 2019-2020.
+EM: 0, F1: 0.76, Recall: 1.00
+
+--- Câu hỏi 84 ---
+Câu hỏi: Viện Công nghệ Hàng không Vũ trụ trực thuộc những đơn vị nào?
+Đáp án tham chiếu: Viện Công nghệ Hàng không Vũ trụ trực thuộc Trường Đại học Công nghệ (ĐHCN) - Đại học Quốc gia Hà Nội (ĐHQGHN) và đồng thời là đơn vị phối thuộc của Tập đoàn Viettel.
+Đáp án mô hình:    Viện Công nghệ Hàng không Vũ trụ là đơn vị thuộc Trường ĐHCN, ĐHQGHN.
+EM: 0, F1: 0.58, Recall: 0.41
+
+--- Câu hỏi 85 ---
+Câu hỏi: UET Connect 2018 là sự kiện gì?
+Đáp án tham chiếu: UET Connect 2018 là Ngày hội kết nối Công nghệ do Trường Đại học Công nghệ (ĐHCN) tổ chức.
+Đáp án mô hình:    UET Connect 2018 là Ngày hội kết nối Công nghệ do Trường Đại học Công nghệ tổ chức.
+EM: 0, F1: 0.97, Recall: 0.95
+
+--- Câu hỏi 86 ---
+Câu hỏi: Trong năm học 2017-2018, Đoàn thanh niên và Hội sinh viên Trường ĐHCN đã đạt được những thành tích gì?
+Đáp án tham chiếu: Đoàn thanh niên và Hội sinh viên Trường ĐHCN được khen thưởng là đơn vị xuất sắc dẫn đầu công tác đoàn, phong trào thanh niên và nhận Bằng khen vì những thành tích hoạt động xuất sắc.
+Đáp án mô hình:    Đoàn thanh niên và Hội sinh viên Trường ĐHCN được khen thưởng là đơn vị xuất sắc dẫn đầu công tác đoàn, phong trào thanh niên và nhận Bằng khen vì những thành tích hoạt động xuất sắc.
+EM: 1, F1: 1.00, Recall: 1.00
+
+--- Câu hỏi 87 ---
+Câu hỏi: Mục đích chính của việc xuất bản Báo cáo thường niên 2017 của Trường Đại học Công nghệ (UET) là gì?
+Đáp án tham chiếu: Mục đích chính là công bố kết quả hoạt động khoa học – công nghệ của Trường Đại học Công nghệ trong năm 2016.
+Đáp án mô hình:    Báo cáo thường niên 2017 là ấn phẩm công bố kết quả hoạt động khoa học – công nghệ của Trường Đại học Công nghệ năm 2016.
+EM: 0, F1: 0.78, Recall: 0.83
+
+--- Câu hỏi 88 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) thuộc hệ thống trường nào?
+Đáp án tham chiếu: Đại học Quốc gia Hà Nội (VNU).
+Đáp án mô hình:    Trường Đại học Công nghệ (UET) thuộc hệ thống Đại học Quốc gia Hà Nội.
+EM: 0, F1: 0.55, Recall: 0.86
+
+--- Câu hỏi 89 ---
+Câu hỏi: Mục tiêu chính của việc thành lập nhóm nghiên cứu K63AE tại Viện Hàng không Vũ trụ UET là gì?
+Đáp án tham chiếu: Mục tiêu chính của việc thành lập nhóm nghiên cứu K63AE là để các sinh viên làm quen và cọ xát với các trang thiết bị mới của Viện Hàng không Vũ trụ.
+Đáp án mô hình:    Mục đích chính của việc thành lập nhóm nghiên cứu K63AE là để các sinh viên có đam mê nghiên cứu, đặc biệt là về máy bay không người lái, được làm quen và cọ xát với các trang thiết bị mới của Viện Hàng không Vũ trụ.
+EM: 0, F1: 0.79, Recall: 0.97
+
+--- Câu hỏi 90 ---
+Câu hỏi: Đâu là một số lợi ích tiềm năng khi triển khai thực tiễn đề tài nghiên cứu về Drone mang vật phẩm của UET tại Việt Nam?
+Đáp án tham chiếu: Việc triển khai thực tiễn đề tài này có thể mang lại những lợi ích sau: giảm thời gian giao hàng, hạn chế ùn tắc giao thông, tiết kiệm chi phí, giảm phụ thuộc vào yếu tố con người và giảm ô nhiễm môi trường. Quan trọng hơn, Việt Nam có thể làm chủ công nghệ và xây dựng nền tảng phát triển các công nghệ khác.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.07, Recall: 0.04
+
+--- Câu hỏi 91 ---
+Câu hỏi: Hệ thống giám sát, nuôi giống cá tôm được thiết kế bởi nhóm nghiên cứu của Trường Đại học Công nghệ (UET) thuộc Đại học Quốc gia Hà Nội (VNU) có những chức năng chính nào?
+Đáp án tham chiếu: Hệ thống này có chức năng chính là đo tự động một số thông số trong môi trường nước (độ pH, độ đục, nhiệt độ, COD). Khi thông số vượt ngưỡng cho phép, hệ thống tự động cảnh báo tại chỗ và qua điện thoại di động cho chủ trang trại, đồng thời tự động đóng ngắt các thiết bị chấp hành (mái che tự động, máy bơm nước).
+Đáp án mô hình:    Hệ thống giám sát, nuôi giống cá tôm do nhóm nghiên cứu của Trường Đại học Công nghệ (UET) thiết kế, chế tạo giúp người dân ở tỉnh Thái Bình giữ vững sản lượng, chất lượng trong việc nuôi giống cá, tôm.
+EM: 0, F1: 0.09, Recall: 0.07
+
+--- Câu hỏi 92 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) được xếp hạng trong những lĩnh vực nào theo Bảng xếp hạng QS by Subject 2025?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) có 4 lĩnh vực tiếp tục được xếp hạng trong Bảng xếp hạng QS by Subject 2025.
+Đáp án mô hình:    Trường Đại học Công nghệ (UET) được xếp hạng trong các lĩnh vực sau: Khoa học máy tính và hệ thống thông tin; Cơ kỹ thuật, hàng không và chế tạo; Kỹ thuật điện và điện tử; Vật lý và thiên văn học.
+EM: 0, F1: 0.36, Recall: 0.52
+
+--- Câu hỏi 93 ---
+Câu hỏi: Để được tư vấn tuyển sinh trực tuyến vào Trường Đại học Công nghệ (UET), thí sinh có thể liên hệ bằng số điện thoại nào?
+Đáp án tham chiếu: Số điện thoại tư vấn tuyển sinh trực tuyến của Trường Đại học Công nghệ (UET) là 0334924224.
+Đáp án mô hình:    Để được tư vấn tuyển sinh trực tuyến vào Trường Đại học Công nghệ (UET), thí sinh có thể liên hệ bằng số điện thoại 024 3754 7865 hoặc 0334 924 224.
+EM: 0, F1: 0.60, Recall: 0.83
+
+--- Câu hỏi 94 ---
+Câu hỏi: Trang web `eprints.uet.vnu.edu.vn` có chức năng gì?
+Đáp án tham chiếu: Trang web `eprints.uet.vnu.edu.vn` có chức năng lưu trữ và chia sẻ các công trình nghiên cứu khoa học của Trường Đại học Công nghệ (UET), thuộc Đại học Quốc gia Hà Nội (VNU).
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 95 ---
+Câu hỏi: Trong năm 2017, các công trình NCKH của sinh viên ĐHQGHN được xét giải thưởng dựa trên những nhóm lĩnh vực chuyên môn nào?
+Đáp án tham chiếu: Các công trình NCKH của sinh viên ĐHQGHN được xét giải thưởng dựa trên 4 nhóm lĩnh vực chuyên môn: Khoa học Xã hội và Nhân văn, Khoa học Tự nhiên – Y dược, Khoa học Kỹ thuật – Công nghệ và Khoa học liên ngành.
+Đáp án mô hình:    Các công trình NCKH của sinh viên ĐHQGHN năm 2017 được xét giải thưởng dựa trên 4 nhóm lĩnh vực chuyên môn: Khoa học Xã hội và Nhân văn, Khoa học Tự nhiên – Y dược, Khoa học Kỹ thuật – Công nghệ, và Khoa học liên ngành.
+EM: 0, F1: 0.98, Recall: 1.00
+
+--- Câu hỏi 96 ---
+Câu hỏi: GS.VS Nguyễn Văn Hiệu đảm nhận chức vụ Hiệu trưởng đầu tiên của trường đại học nào thuộc Đại học Quốc gia Hà Nội (VNU)?
+Đáp án tham chiếu: GS.VS Nguyễn Văn Hiệu là Hiệu trưởng đầu tiên của Trường Đại học Công nghệ (UET) thuộc Đại học Quốc gia Hà Nội.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 97 ---
+Câu hỏi: Trước khi trở thành Hiệu trưởng đầu tiên của Trường Đại học Công nghệ (UET), GS.VS Nguyễn Văn Hiệu đã từng đảm nhiệm chức vụ nào tại Đại học Quốc gia Hà Nội (VNU)?
+Đáp án tham chiếu: Trước khi trở thành Hiệu trưởng đầu tiên của Trường Đại học Công nghệ (UET), GS.VS Nguyễn Văn Hiệu đã từng đảm nhiệm chức vụ Chủ nhiệm Khoa Công nghệ thuộc Đại học Quốc gia Hà Nội.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 98 ---
+Câu hỏi: Đội ngũ sáng lập website NhaTroSinhVien.Vn đến từ khoa nào của Trường Đại học Công nghệ (ĐHCN)?
+Đáp án tham chiếu: Đội ngũ sáng lập website NhaTroSinhVien.Vn đến từ khoa Công nghệ thông tin của Trường Đại học Công nghệ (ĐHCN).
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.12, Recall: 0.10
+
+--- Câu hỏi 99 ---
+Câu hỏi: Website NhaTroSinhVien.Vn sử dụng những công nghệ gì để xây dựng và vận hành?
+Đáp án tham chiếu: Website NhaTroSinhVien.Vn sử dụng dữ liệu bản đồ từ Google Maps, ngôn ngữ PHP, và các công nghệ NoSQL, Quad.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.06, Recall: 0.05
+
+--- Câu hỏi 100 ---
+Câu hỏi: Chương trình Sakura Exchange Program in Science hướng đến đối tượng nào và nhằm mục đích gì?
+Đáp án tham chiếu: Chương trình Sakura Exchange Program in Science hướng đến thanh niên ưu tú châu Á và nhằm mục đích thúc đẩy hoạt động trao đổi cán bộ, sinh viên giữa các cơ quan giáo dục, các công ty Nhật Bản và các trường THCS, Cao đẳng, Đại học tại Việt Nam; nâng cao sự quan tâm của thanh niên châu Á đối với những kỹ thuật công nghệ khoa học đầu ngành tại các trường đại học, cơ sở nghiên cứu, và công ty tư nhân Nhật Bản.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 101 ---
+Câu hỏi: Theo bảng xếp hạng THE WUR 2023, những tiêu chí nào mà ĐHQGHN đã có sự gia tăng điểm xếp hạng so với năm 2022?
+Đáp án tham chiếu: ĐHQGHN đã gia tăng điểm xếp hạng ở 2 nhóm tiêu chí là Trích dẫn và Thu nhập từ khoa học công nghệ.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 102 ---
+Câu hỏi: Theo bảng xếp hạng THE WUR 2023, ĐHQGHN dẫn đầu trong các cơ sở giáo dục đại học ở Việt Nam về tiêu chí nào?
+Đáp án tham chiếu: ĐHQGHN dẫn đầu trong 6 cơ sở giáo dục đại học ở Việt Nam về tiêu chí Chất lượng giảng dạy.
+Đáp án mô hình:    ĐHQGHN tiếp tục duy trì vị thế ở tiêu chí giảng dạy.
+EM: 0, F1: 0.36, Recall: 0.29
+
+--- Câu hỏi 103 ---
+Câu hỏi: Những tiêu chí nào được sử dụng trong Bảng xếp hạng QS WUR by Subject để đánh giá và xếp hạng các trường đại học?
+Đáp án tham chiếu: Bảng xếp hạng QS WUR by Subject được xây dựng dựa trên 5 tiêu chí, bao gồm: Uy tín học thuật (Academic Reputation), Uy tín tuyển dụng (Employer Reputation), Tỉ lệ trích dẫn trung bình trên một bài báo (Citations per paper), Chỉ số H-index đo lường năng suất và mức độ tác động của các công bố khoa học của đội ngũ giảng viên và Mạng lưới nghiên cứu quốc tế (International Research Network).
+Đáp án mô hình:    Bảng xếp hạng QS WUR by Subject 2025 được xây dựng dựa trên 5 tiêu chí: Uy tín học thuật, Uy tín tuyển dụng, Tỉ lệ trích dẫn trung bình trên một công bố khoa học, Chỉ số H-index đo lường năng suất và mức độ tác động của các công bố khoa học của đội ngũ giảng viên, và Mạng lưới nghiên cứu quốc tế.
+EM: 0, F1: 0.87, Recall: 0.81
+
+--- Câu hỏi 104 ---
+Câu hỏi: Những tiêu chí nào được sử dụng để xây dựng bảng xếp hạng QS WUR by Subject 2025?
+Đáp án tham chiếu: Bảng xếp hạng QS WUR by Subject 2025 được xây dựng dựa trên 5 tiêu chí, bao gồm: Uy tín học thuật (Academic Reputation), Uy tín tuyển dụng (Employer Reputation), Tỉ lệ trích dẫn trung bình trên một công bố khoa học (Citations per paper), Chỉ số H-index đo lường năng suất và mức độ tác động của các công bố khoa học của đội ngũ giảng viên, và Mạng lưới nghiên cứu quốc tế (International Research Network).
+Đáp án mô hình:    Bảng xếp hạng QS WUR by Subject 2025 được xây dựng dựa trên 5 tiêu chí: Uy tín học thuật, Uy tín tuyển dụng, Tỉ lệ trích dẫn trung bình trên một công bố khoa học, Chỉ số H-index và Mạng lưới nghiên cứu quốc tế.
+EM: 0, F1: 0.74, Recall: 0.59
+
+--- Câu hỏi 105 ---
+Câu hỏi: Trong bảng xếp hạng QS WUR by Subject 2025, lĩnh vực nào của Trường Đại học Công nghệ (UET) có sự gia tăng vị trí xếp hạng so với kỳ trước?
+Đáp án tham chiếu: Trong bảng xếp hạng QS WUR by Subject 2025, hai lĩnh vực của Trường Đại học Công nghệ (UET) có sự gia tăng vị trí xếp hạng so với kỳ trước và được xếp hạng trong nhóm 400 – 500 là Cơ kỹ thuật, hàng không và chế tạo (Engineering – Mechanical, Aeronautical & Manufacture); Kỹ thuật điện và điện tử (Engineering – Electrical & Electronic).
+Đáp án mô hình:    Hai lĩnh vực của Trường Đại học Công nghệ có sự gia tăng vị trí xếp hạng so với kỳ trước là Cơ kỹ thuật, hàng không và chế tạo; Kỹ thuật điện và điện tử.
+EM: 0, F1: 0.72, Recall: 0.56
+
+--- Câu hỏi 106 ---
+Câu hỏi: Dự án Vmap đóng vai trò gì trong một đề án lớn hơn của Chính phủ Việt Nam?
+Đáp án tham chiếu: Vmap là một trong những nội dung quan trọng của Đề án “Phát triển Hệ tri thức Việt số hóa” được phê duyệt theo Quyết định của Thủ tướng Chính phủ.
+Đáp án mô hình:    Vmap là một trong những nội dung quan trọng của Đề án “Phát triển Hệ tri thức Việt số hóa”.
+EM: 0, F1: 0.78, Recall: 0.65
+
+--- Câu hỏi 107 ---
+Câu hỏi: Nhóm sinh viên thành lập website nhatrosinhvien.vn đến từ khoa nào của Trường Đại học Công nghệ (ĐHCN) - ĐHQGHN?
+Đáp án tham chiếu: Nhóm sinh viên thành lập website nhatrosinhvien.vn đến từ khoa Công nghệ thông tin của Trường Đại học Công nghệ (ĐHCN) - ĐHQGHN.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.11, Recall: 0.09
+
+--- Câu hỏi 108 ---
+Câu hỏi: Website nhatrosinhvien.vn sử dụng nguồn dữ liệu bản đồ từ đâu?
+Đáp án tham chiếu: Website nhatrosinhvien.vn sử dụng dữ liệu bản đồ được cung cấp từ Google.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.31, Recall: 0.31
+
+--- Câu hỏi 109 ---
+Câu hỏi: Nhóm sinh viên tạo ra website nhatrosinhvien.vn đến từ khoa nào của Trường Đại học Công nghệ (ĐHCN) - Đại học Quốc gia Hà Nội (ĐHQGHN)?
+Đáp án tham chiếu: Nhóm sinh viên đến từ khoa Công nghệ thông tin của Trường Đại học Công nghệ (ĐHCN).
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.13, Recall: 0.12
+
+--- Câu hỏi 110 ---
+Câu hỏi: Dự án website nhatrosinhvien.vn giải quyết những vấn đề gì cho sinh viên và người thuê nhà trọ?
+Đáp án tham chiếu: Dự án website nhatrosinhvien.vn giải quyết các vấn đề như: thiếu cầu nối hiệu quả giữa người thuê và chủ nhà trọ, tình trạng nhà trọ tốt bị bỏ trống, người thuê mất nhiều thời gian tìm nhà, và các tệ nạn như lừa đảo, cò mồi.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.03, Recall: 0.02
+
+--- Câu hỏi 111 ---
+Câu hỏi: Nhóm sinh viên UET dự định phát triển website nhatrosinhvien.vn theo hướng nào trong tương lai?
+Đáp án tham chiếu: Nhóm dự định xây dựng dự án sử dụng các công nghệ tiên tiến, phát triển hệ thống quản lý tích hợp, thao tác trên nhiều thiết bị và tìm kiếm nguồn thu để website có thể tự phát triển bền vững nhưng vẫn miễn phí với sinh viên.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.03, Recall: 0.02
+
+--- Câu hỏi 112 ---
+Câu hỏi: Bản tin "Hợp tác phát triển ĐHQGHN tháng 3 năm 2022" đề cập đến những loại hình hoạt động nào?
+Đáp án tham chiếu: Bản tin này đề cập đến các hoạt động hợp tác phát triển và các vấn đề liên quan đến khoa học công nghệ (KHCN).
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.11, Recall: 0.08
+
+--- Câu hỏi 113 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) có những lĩnh vực hợp tác tiềm năng nào với Viện Hàng không Moscow (MAI)?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) và Viện Hàng không Moscow (MAI) có những lĩnh vực hợp tác tiềm năng như trao đổi chuyên gia, mở chương trình đào tạo với mô hình hợp tác hiệu quả để nâng cao chất lượng đào tạo trong lĩnh vực hàng không vũ trụ.
+Đáp án mô hình:    Cơ hội học tập tại Học viện Hàng không Moskva (MAI) - Nơi đào tạo các chuyên gia hàng đầu thế giới trong lĩnh vực.
+EM: 0, F1: 0.35, Recall: 0.25
+
+--- Câu hỏi 114 ---
+Câu hỏi: Trường Đại học Nicolaus Copernicus (Ba Lan) có những chương trình trao đổi sinh viên nào?
+Đáp án tham chiếu: Trường Đại học Nicolaus Copernicus có các chương trình trao đổi sinh viên về quốc tế (chương trình Erasmus+) và quốc gia (chương trình the MOST).
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 115 ---
+Câu hỏi: Vmap có những tính năng cơ bản nào, và nó hướng đến sự khác biệt như thế nào so với các ứng dụng bản đồ khác?
+Đáp án tham chiếu: Vmap có các tính năng cơ bản như tìm kiếm địa chỉ và chỉ đường. Điểm khác biệt là Vmap hướng đến việc hiển thị lớp bản đồ riêng của các lĩnh vực trong cuộc sống và hiển thị địa chỉ chi tiết đến từng số nhà, dù ở thành thị hay miền núi, vùng sâu, vùng xa.
+Đáp án mô hình:    Vmap có các tính năng cơ bản như tìm kiếm địa chỉ, chỉ đường. Nó hướng đến sự khác biệt bằng cách trở nên hữu ích nhất cho người dùng.
+EM: 0, F1: 0.41, Recall: 0.31
+
+--- Câu hỏi 116 ---
+Câu hỏi: Đề án "Phát triển Hệ tri thức Việt số hoá" được khởi động với mục tiêu gì?
+Đáp án tham chiếu: Đề án "Phát triển Hệ tri thức Việt số hoá" được khởi động với mục tiêu xây dựng một nền tảng hạ tầng dữ liệu và tri thức trong các lĩnh vực liên quan trực tiếp đến đời sống của người dân như giáo dục, y tế, chăm sóc sức khỏe, nông nghiệp, văn hóa, nhằm tạo điều kiện cho học tập, làm chủ tri thức, nghiên cứu và phát triển các ứng dụng công nghệ thông tin trên nền tảng AI và BigData phục vụ cho cộng đồng và xã hội.
+Đáp án mô hình:    Đề án “Hệ tri thức Việt số hóa” là cơ hội để ĐHQGHN đưa nguồn tri thức đã và đang sở hữu của mình cùng với nguồn tri thức đang có trong đội ngũ gần 2.500 nhà khoa học và 35.000 sinh viên phát triển mạnh và xâm nhập sâu rộng vào cộng đồng xã hội.
+EM: 0, F1: 0.31, Recall: 0.25
+
+--- Câu hỏi 117 ---
+Câu hỏi: Vào năm 2025, ĐHQGHN dự kiến tuyển sinh bao nhiêu chỉ tiêu đại học chính quy?
+Đáp án tham chiếu: Năm 2025, ĐHQGHN dự kiến tuyển sinh hơn 20.000 chỉ tiêu đại học chính quy.
+Đáp án mô hình:    Năm 2025, ĐHQGHN tuyển sinh hơn 20.000 chỉ tiêu đại học chính quy.
+EM: 0, F1: 0.93, Recall: 0.87
+
+--- Câu hỏi 118 ---
+Câu hỏi: Đại học Quốc gia Hà Nội (VNU) có những trường đại học thành viên nào?
+Đáp án tham chiếu: Đại học Quốc gia Hà Nội có các trường đại học thành viên sau: Trường Đại học Khoa học Tự nhiên, Trường Đại học Khoa học Xã hội & Nhân văn, Trường Đại học Ngoại ngữ, Trường Đại học Công nghệ, Trường Đại học Kinh tế, Trường Đại học Giáo dục, Trường Đại học Việt Nhật, Trường Đại học Y Dược, Trường Đại học Luật.
+Đáp án mô hình:    Đại học Quốc gia Hà Nội có các trường đại học thành viên sau: Trường Đại học Khoa học Tự nhiên, Trường Đại học Khoa học Xã hội và Nhân văn, Trường Đại học Ngoại ngữ, Trường Đại học Công nghệ, Trường Đại học Kinh tế, Trường Đại học Giáo dục, Trường Đại học Việt - Nhật, Trường Đại học Y Dược, Trường Đại học Luật.
+EM: 0, F1: 0.99, Recall: 1.00
+
+--- Câu hỏi 119 ---
+Câu hỏi: Đại học Quốc gia Hà Nội (VNU) có những hình thức đào tạo nào?
+Đáp án tham chiếu: Đại học Quốc gia Hà Nội (VNU) có các hình thức đào tạo sau: Chương trình đào tạo bậc đại học, Chương trình đào tạo thạc sĩ, Chương trình đào tạo tiến sĩ, Đào tạo liên kết, Đào tạo hệ THCS và THPT.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 120 ---
+Câu hỏi: Ngoài các trường đại học thành viên, ĐHQGHN còn có những đơn vị trực thuộc nào khác?
+Đáp án tham chiếu: Ngoài các trường đại học thành viên, ĐHQGHN còn có các trường trực thuộc, các đơn vị nghiên cứu khoa học, các trung tâm đào tạo trực thuộc, các đơn vị dịch vụ và hỗ trợ, và các đơn vị thực hiện nhiệm vụ đặc biệt.
+Đáp án mô hình:    Ngoài các trường đại học thành viên, ĐHQGHN còn có các trường trực thuộc, các đơn vị nghiên cứu khoa học, các trung tâm đào tạo trực thuộc, các đơn vị dịch vụ và hỗ trợ, và các đơn vị thực hiện nhiệm vụ đặc biệt.
+EM: 1, F1: 1.00, Recall: 1.00
+
+--- Câu hỏi 121 ---
+Câu hỏi: ĐHQGHN có những hình thức hợp tác quốc tế nào?
+Đáp án tham chiếu: ĐHQGHN có các chương trình hợp tác quốc tế như trao đổi & học bổng, hợp tác nghiên cứu và hội nghị - hội thảo.
+Đáp án mô hình:    Hoạt động hợp tác quốc tế của ĐHQGHN đa dạng về hình thức, với nhiều chương trình hợp tác đào tạo và nghiên cứu hiệu quả. Cụ thể bao gồm hợp tác nghiên cứu khoa học và chuyển giao công nghệ, liên kết đào tạo quốc tế chương trình đại học và sau đại học, tổ chức hội thảo khoa học quốc tế, trao đổi sinh viên, giảng viên và cán bộ.
+EM: 0, F1: 0.36, Recall: 0.74
+
+--- Câu hỏi 122 ---
+Câu hỏi: ĐHQGHN xếp hạng như thế nào trên thế giới và ở Châu Á theo đánh giá của QS?
+Đáp án tham chiếu: ĐHQGHN được QS xếp hạng là đại học hàng đầu Việt Nam, nằm trong top 200 trường hàng đầu Châu Á và top 1.000 đại học hàng đầu thế giới.
+Đáp án mô hình:    ĐHQGHN được xếp hạng 325 thế giới theo QS World University Rankings: Sustainability 2025. Theo THE AUR 2023, ĐHQGHN xếp hạng trong nhóm 351-400 châu Á.
+EM: 0, F1: 0.36, Recall: 0.33
+
+--- Câu hỏi 123 ---
+Câu hỏi: Đoàn Thanh niên của Trường Đại học Công nghệ (UET) trực thuộc tổ chức Đoàn nào của Đại học Quốc gia Hà Nội (VNU)?
+Đáp án tham chiếu: Đoàn Thanh niên của Trường Đại học Công nghệ là một trong 26 cơ sở Đoàn trực thuộc Đoàn Thanh niên Cộng sản Hồ Chí Minh Đại học Quốc gia Hà Nội.
+Đáp án mô hình:    Đoàn Thanh niên của Trường Đại học Công nghệ (UET) trực thuộc Đoàn Thanh niên Đại học Quốc gia Hà Nội.
+EM: 0, F1: 0.75, Recall: 0.62
+
+--- Câu hỏi 124 ---
+Câu hỏi: ĐHQGHN tuyển sinh các bậc đào tạo nào?
+Đáp án tham chiếu: Theo thông tin trong văn bản, ĐHQGHN tuyển sinh các chương trình đào tạo bậc đại học, thạc sĩ và tiến sĩ.
+Đáp án mô hình:    ĐHQGHN tuyển sinh các bậc đào tạo: Đại học, Thạc sĩ, Tiến sĩ.
+EM: 0, F1: 0.74, Recall: 0.59
+
+--- Câu hỏi 125 ---
+Câu hỏi: Phòng Đào tạo của Trường Đại học Công nghệ (UET) có những chức năng chính nào?
+Đáp án tham chiếu: Phòng Đào tạo của Trường Đại học Công nghệ (UET) có các chức năng chính sau:
+Đáp án mô hình:    Phòng Đào tạo là đơn vị tham mưu, giúp việc cho Hiệu trưởng tổ chức, quản lý công tác tuyển sinh, tổ chức đào tạo đại học và sau đại học trong nước.
+EM: 0, F1: 0.33, Recall: 0.50
+
+--- Câu hỏi 126 ---
+Câu hỏi: Tại Trường Đại học Công nghệ (UET), các khóa học nào được giảng dạy bằng tiếng Anh?
+Đáp án tham chiếu: Các khóa học bậc đại học "Network modeling and simulation" (học kỳ mùa thu) và "Computer Communications Networks I" (học kỳ mùa xuân) được giảng dạy bằng tiếng Anh.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.05, Recall: 0.03
+
+--- Câu hỏi 127 ---
+Câu hỏi: Giáo sư Nguyễn Việt Hà công tác tại khoa nào của Trường Đại học Công nghệ?
+Đáp án tham chiếu: Giáo sư Nguyễn Việt Hà công tác tại Khoa Công nghệ Thông tin của Trường Đại học Công nghệ.
+Đáp án mô hình:    Giáo sư Nguyễn Việt Hà là Bí thư Đảng ủy, Hiệu trưởng Trường Đại học Công nghệ.
+EM: 0, F1: 0.56, Recall: 0.53
+
+--- Câu hỏi 128 ---
+Câu hỏi: Thông tin liên hệ của Khoa Điện tử Viễn thông, Trường Đại học Công nghệ (UET) có thể tìm thấy ở đâu?
+Đáp án tham chiếu: Thông tin liên hệ của Khoa Điện tử Viễn thông, Trường Đại học Công nghệ (UET) có thể tìm thấy trên trang web của giảng viên hoặc trên trang web chính thức của trường UET.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.17, Recall: 0.11
+
+--- Câu hỏi 129 ---
+Câu hỏi: GS.TS Nguyễn Đình Đức hiện giữ những chức vụ gì tại Trường Đại học Công nghệ (UET)?
+Đáp án tham chiếu: GS.TS Nguyễn Đình Đức là Chủ tịch Hội đồng Trường Đại học Công nghệ (UET) và Chủ nhiệm khoa Công nghệ xây dựng – giao thông.
+Đáp án mô hình:    GS.TS Nguyễn Đình Đức hiện là Chủ tịch Hội đồng Trường Đại học Công nghệ (ĐHQGHN) và Chủ tịch Câu Lạc Bộ mạng lưới đảm bảo chất lượng giáo dục đại học Việt Nam.
+EM: 0, F1: 0.53, Recall: 0.62
+
+--- Câu hỏi 130 ---
+Câu hỏi: GS.TS Chử Đức Trình có vai trò gì tại Đại học Quốc gia Hà Nội?
+Đáp án tham chiếu: GS.TS Chử Đức Trình là Hiệu trưởng Trường Đại học Công nghệ (UET), trực thuộc Đại học Quốc gia Hà Nội (VNU).
+Đáp án mô hình:    GS.TS Chử Đức Trình là Hiệu trưởng Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội.
+EM: 0, F1: 0.90, Recall: 0.82
+
+--- Câu hỏi 131 ---
+Câu hỏi: Sinh viên tốt nghiệp ngành Vật lý Kỹ thuật tại Trường Đại học Công nghệ (UET) có thể đảm nhận những loại vị trí công việc nào?
+Đáp án tham chiếu: Cử nhân tốt nghiệp ngành Vật lý Kỹ thuật có thể đảm nhận nhiều vị trí công việc về kỹ thuật, quản lý, chuyển giao và ứng dụng công nghệ mới tại các tập đoàn công nghiệp, công ty công nghệ, viện nghiên cứu, trường đại học hoặc chuyển tiếp đào tạo bậc sau đại học ở trong nước và nước ngoài về lĩnh vực liên quan. Ngoài ra, có thể đảm nhận các vị trí việc làm trong lĩnh vực công nghiệp điện tử/bán dẫn, khoa học vật liệu, công nghệ y-sinh, công nghệ môi trường, công nghệ sản xuất và lưu trữ năng lượng, cùng nhiều lĩnh vực khác.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.03, Recall: 0.02
+
+--- Câu hỏi 132 ---
+Câu hỏi: Trong năm 2025, ĐHQGHN dự kiến tuyển sinh bao nhiêu chỉ tiêu cho bậc đại học, thạc sĩ và tiến sĩ?
+Đáp án tham chiếu: ĐHQGHN dự kiến tuyển sinh hơn 20.000 chỉ tiêu đại học chính quy, hơn 3.600 chỉ tiêu đào tạo thạc sĩ và hơn 500 chỉ tiêu đào tạo tiến sĩ trong năm 2025.
+Đáp án mô hình:    Năm 2025, ĐHQGHN dự kiến tuyển sinh hơn 20.000 chỉ tiêu đại học chính quy, hơn 3.600 chỉ tiêu đào tạo thạc sĩ và hơn 500 chỉ tiêu đào tạo tiến sĩ.
+EM: 0, F1: 0.98, Recall: 0.97
+
+--- Câu hỏi 133 ---
+Câu hỏi: Theo bảng xếp hạng QS World University Rankings, ĐHQGHN có những lĩnh vực nào được xếp hạng?
+Đáp án tham chiếu: Theo bảng xếp hạng QS World University Rankings, ĐHQGHN có 5 lĩnh vực được xếp hạng: Khoa học máy tính và hệ thống thông tin, Cơ kỹ thuật, hàng không và chế tạo, Toán học, Vật lý và thiên văn học, Kinh doanh và Nghiên cứu quản lý.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.13, Recall: 0.08
+
+--- Câu hỏi 134 ---
+Câu hỏi: Đại học Quốc gia Hà Nội (VNU) có những hình thức khen thưởng nào dành cho sinh viên có thành tích trong nghiên cứu khoa học?
+Đáp án tham chiếu: VNU có giải thưởng khoa học sinh viên cấp ĐHQGHN.
+Đáp án mô hình:    Đại học Quốc gia Hà Nội có "Giải thưởng khoa học sinh viên".
+EM: 0, F1: 0.61, Recall: 0.70
+
+--- Câu hỏi 135 ---
+Câu hỏi: Để tổ chức hội nghị, hội thảo quốc tế tại Đại học Quốc gia Hà Nội (VNU), cần thực hiện những thủ tục gì?
+Đáp án tham chiếu: Cần thực hiện thủ tục đăng ký tổ chức Hội nghị, Hội thảo quốc tế, bao gồm việc nộp mẫu đề án xin tổ chức hội thảo và báo cáo kết quả hội nghị, hội thảo quốc tế.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 136 ---
+Câu hỏi: Sinh viên ĐHQGHN có thể tìm kiếm những loại học bổng nào?
+Đáp án tham chiếu: Sinh viên ĐHQGHN có thể tìm kiếm các học bổng trong nước (thường niên và không thường niên) và học bổng ngoài nước. Ví dụ: học bổng Acer Việt Nam, học bổng Dầu khí Việt Nam, học bổng Minh Đức, học bổng K-T, học bổng Báo Dân trí - Bà Nguyễn Thị Thoa, học bổng Doanh nghiệp tư nhân Nam Úc,...
+Đáp án mô hình:    Sinh viên ĐHQGHN có thể tìm kiếm các loại học bổng như học bổng khuyến khích học tập theo quy định của Nhà nước, học bổng ngoài ngân sách do các tổ chức, doanh nghiệp trong và ngoài nước tài trợ, học bổng Hàn Quốc, học bổng Nguyễn Trường Tộ, học bổng của Quỹ Đổi mới Sáng tạo Vingroup (VinIF), học bổng Cho Nam Chul, học bổng Vừ A Dính, học bổng Vingroup, học bổng Pony Chung, học bổng ADF và học bổng Vallet.
+EM: 0, F1: 0.48, Recall: 0.57
+
+--- Câu hỏi 137 ---
+Câu hỏi: Hội Sinh viên Đại học Quốc gia Hà Nội có bao nhiêu cơ sở Hội trực thuộc?
+Đáp án tham chiếu: Hội Sinh viên Đại học Quốc gia Hà Nội có 6 cơ sở Hội trực thuộc.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 138 ---
+Câu hỏi: Năm 2016, Trường Đại học Quốc gia Hà Nội (VNU) đã có những sự kiện nổi bật nào liên quan đến hợp tác quốc tế?
+Đáp án tham chiếu: Một trong những sự kiện nổi bật là cuộc gặp gỡ với Giáo sư Karl Theisen đến từ Đại học Arizona State, Hoa Kỳ.
+Đáp án mô hình:    Trong năm 2016, Trường Đại học Ngoại ngữ – Đại học Quốc gia Hà Nội (ĐHNN-ĐHQGHN) đã có những hoạt động hợp tác quốc tế nổi bật sau:
+
+*   Đoàn công tác của Trường ĐHNN đã làm việc tại Đại học Leipzig và Đại học Greifswald, CHLB Đức (từ 05-11/11/2016).
+*   Trường ĐHNN tiếp đón Tổng Thư ký Tổ chức Quốc tế Pháp ngữ (OIF) (12/10/2016).
+*   Trường ĐHNN giới thiệu các chương trình hợp tác về Đào tạo và Khoa học Công nghệ (10/10/2016).
+*   Trường ĐHNN làm việc với Học viện Cảnh sát Nhân dân (06/10/2016).
+*   Trường ĐHNN hợp tác đào tạo và bồi dưỡng giáo viên với National Geographic Learning (10/10/2016).
+*   Trường ĐHNN hợp tác với trường Đại học Ngoại ngữ HanKuk (02/06/2016).
+*   Trường ĐHNN tổ chức thành công hội thảo về dịch thuật tiếng Đức (14-17/11/2016).
+EM: 0, F1: 0.11, Recall: 0.38
+
+--- Câu hỏi 139 ---
+Câu hỏi: Sứ mạng chính của Trường Đại học Công nghệ (UET) khi mới thành lập là gì?
+Đáp án tham chiếu: Sứ mạng chính của Trường Đại học Công nghệ (UET) khi mới thành lập là đào tạo nhân lực, nhân tài cho đất nước.
+Đáp án mô hình:    Đào tạo nguồn nhân lực trình độ đại học, sau đại học và bồi dưỡng nhân tài thuộc lĩnh vực khoa học, công nghệ; Nghiên cứu và triển khai ứng dụng khoa học, công nghệ đáp ứng nhu cầu phát triển kinh tế – xã hội.
+EM: 0, F1: 0.29, Recall: 0.42
+
+--- Câu hỏi 140 ---
+Câu hỏi: Những tuyến xe buýt nào có điểm dừng gần Trường Đại học Công nghệ (UET) và Đại học Quốc gia Hà Nội?
+Đáp án tham chiếu: Các tuyến xe buýt có điểm dừng gần cổng trường bao gồm các tuyến số 16, 20A, 20B, 26, 32 và 34.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 141 ---
+Câu hỏi: Giải thưởng ĐHQGHN về Khoa học và Công nghệ được tổ chức định kỳ bao lâu một lần?
+Đáp án tham chiếu: Giải thưởng ĐHQGHN về Khoa học và Công nghệ được tổ chức 3 năm/1 lần.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.07, Recall: 0.07
+
+--- Câu hỏi 142 ---
+Câu hỏi: Thời gian tối đa để sinh viên hoàn thành cả hai chương trình đào tạo (học cùng lúc) tại ĐHQGHN là bao lâu?
+Đáp án tham chiếu: Thời gian kết thúc cả hai chương trình đào tạo tối đa là 6 năm học.
+Đáp án mô hình:    Thời gian kết thúc cả hai chương trình đào tạo tối đa là 6 năm học.
+EM: 1, F1: 1.00, Recall: 1.00
+
+--- Câu hỏi 143 ---
+Câu hỏi: Mục tiêu hàng đầu của Trường Đại học Công nghệ (UET) ngay từ khi thành lập là gì?
+Đáp án tham chiếu: Mục tiêu hàng đầu của Trường Đại học Công nghệ (UET) ngay từ những ngày thành lập là bồi dưỡng nhân tài, đào tạo nguồn nhân lực chất lượng cao.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.05, Recall: 0.03
+
+--- Câu hỏi 144 ---
+Câu hỏi: Chương trình đào tạo ngành Kỹ thuật Robot tại Trường Đại học Công nghệ (UET) bao gồm những lĩnh vực kiến thức liên ngành nào?
+Đáp án tham chiếu: Chương trình đào tạo ngành Kỹ thuật Robot là sự kết hợp giữa các ngành cơ khí chính xác, tự động hóa, Kỹ thuật điện, điện tử, và trí tuệ nhân tạo.
+Đáp án mô hình:    Chương trình đào tạo ngành Kỹ thuật Robot tại Trường Đại học Công nghệ (UET) trang bị cho người học các kiến thức liên ngành liên quan tới các lĩnh vực: Khoa học máy tính, Điện tử, Điều khiển tự động, Cơ khí.
+EM: 0, F1: 0.43, Recall: 0.50
+
+--- Câu hỏi 145 ---
+Câu hỏi: Bà Lê Thị Phương Thoa đảm nhiệm vị trí nào tại Trường Đại học Công nghệ (ĐHCN)?
+Đáp án tham chiếu: ThS. Lê Thị Phương Thoa là Phó Trưởng phòng Đào tạo.
+Đáp án mô hình:    Bà Lê Thị Phương Thoa là Phó Trưởng phòng Đào tạo, đồng thời là Bí thư Chi bộ.
+EM: 0, F1: 0.69, Recall: 0.91
+
+--- Câu hỏi 146 ---
+Câu hỏi: Sinh viên cần đáp ứng điều kiện học tập nào để được xét miễn giảm học phí tại Đại học Công nghệ (UET)?
+Đáp án tham chiếu: Sinh viên cần có kết quả học tập từ khá trở lên để được xét miễn giảm học phí.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.06, Recall: 0.05
+
+--- Câu hỏi 147 ---
+Câu hỏi: Học bổng Khuyến khích học tập (KKHT) cho sinh viên Trường Đại học Công nghệ (UET) được chi trả thông qua hình thức nào?
+Đáp án tham chiếu: Học bổng KKHT được thanh toán chuyển khoản vào tài khoản BIDV của sinh viên, tài khoản này do Trường ĐH Công nghệ cấp từ đầu khóa học.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.20, Recall: 0.14
+
+--- Câu hỏi 148 ---
+Câu hỏi: Sau khi sinh viên nộp bổ sung học phí sau khi đã bị cấm thi, bao lâu sau sinh viên mới được phép tham dự thi các môn học tiếp theo?
+Đáp án tham chiếu: Sau khi Phòng CTSV cập nhật dữ liệu sinh viên nộp bổ sung cho Bộ phận khảo thí, sinh viên mới được phép tham dự thi các môn học tiếp theo sau 24 tiếng.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.09, Recall: 0.06
+
+--- Câu hỏi 149 ---
+Câu hỏi: Hậu quả của việc không nộp học phí đúng hạn tại Trường Đại học Công nghệ (UET), Đại học Quốc gia Hà Nội (VNU) là gì?
+Đáp án tham chiếu: Sinh viên không nộp học phí đúng hạn có thể bị cấm thi các môn học tiếp theo trong học kỳ và không được đăng ký môn học hoặc không công nhận kết quả đăng ký môn học ở học kỳ tiếp theo.
+Đáp án mô hình:    Hậu quả của việc không nộp học phí đúng hạn tại Trường Đại học Công nghệ (UET), Đại học Quốc gia Hà Nội (VNU) là:
+
+*   Bị cấm thi tất cả các học phần của học kì phụ (hoặc học kỳ tương ứng).
+*   Không được đăng ký môn học trong học kỳ tiếp theo, không được đăng ký học kỳ phụ, bổ sung.
+*   Bị xem xét buộc thôi học nếu không nộp học phí từ hai học kỳ trở lên.
+*   Bị hạ một bậc điểm rèn luyện trong học kỳ tương ứng (đối với học phí GDQP-AN).
+EM: 0, F1: 0.45, Recall: 0.72
+
+--- Câu hỏi 150 ---
+Câu hỏi: Quy trình xét duyệt học bổng tại Trường Đại học Công nghệ (UET) diễn ra như thế nào?
+Đáp án tham chiếu: Quy trình bao gồm các bước sau: Đại học Quốc gia Hà Nội (VNU) thông báo về chương trình học bổng, Trường Đại học Công nghệ (UET) tiến hành xét chọn hồ sơ sinh viên, và Hội đồng Thi đua Khen thưởng – Kỷ luật sinh viên có vai trò trong quá trình này. Sau đó, trường giới thiệu các sinh viên được chọn cho chương trình học bổng.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.10, Recall: 0.06
+
+--- Câu hỏi 151 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) thuộc Đại học Quốc gia Hà Nội (VNU) có thế mạnh đào tạo và nghiên cứu ở những lĩnh vực nào?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) thuộc VNU có thế mạnh đào tạo và nghiên cứu trong các lĩnh vực công nghệ thông tin, điện tử viễn thông, cơ điện tử, và các ngành kỹ thuật công nghệ tiên tiến khác.
+Đáp án mô hình:    Trường Đại học Công nghệ (UET) thuộc Đại học Quốc gia Hà Nội (VNU) có thế mạnh về khoa học công nghệ cùng các lĩnh vực đào tạo về Công nghiệp bán dẫn, Trí tuệ nhân tạo, Đổi mới sáng tạo và khởi nghiệp.
+EM: 0, F1: 0.47, Recall: 0.49
+
+--- Câu hỏi 152 ---
+Câu hỏi: Về mặt tuyển sinh, Đại học Quốc gia Hà Nội (VNU) có các phương thức xét tuyển chính nào?
+Đáp án tham chiếu: Đại học Quốc gia Hà Nội (VNU) sử dụng nhiều phương thức xét tuyển, bao gồm xét tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo, xét tuyển dựa trên kết quả kỳ thi tốt nghiệp THPT, xét tuyển dựa trên kết quả các kỳ thi đánh giá năng lực do VNU tổ chức, và xét tuyển kết hợp.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 153 ---
+Câu hỏi: Ngoài học bổng khuyến khích học tập, sinh viên Đại học Công nghệ (UET) có thể nhận những loại học bổng ngân sách nhà nước nào khác?
+Đáp án tham chiếu: Sinh viên Đại học Công nghệ (UET) còn có thể nhận học bổng trợ cấp xã hội và học bổng hỗ trợ chi phí học tập từ ngân sách nhà nước.
+Đáp án mô hình:    Ngoài học bổng khuyến khích học tập, sinh viên UET có thể được miễn giảm học phí, hỗ trợ chi phí học tập và trợ cấp xã hội theo quy định hiện hành.
+EM: 0, F1: 0.62, Recall: 0.65
+
+--- Câu hỏi 154 ---
+Câu hỏi: Sinh viên Trường Đại học Công nghệ (UET) có thể liên hệ với bộ phận nào để giải quyết các thắc mắc liên quan đến học phí?
+Đáp án tham chiếu: Sinh viên có thể liên hệ trực tiếp tại Phòng Thu Học phí, Tầng 1 nhà E3 của Trường Đại học Công nghệ (UET).
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 155 ---
+Câu hỏi: Tiến trình đào tạo tích cực dành cho sinh viên K67 ngành Trí tuệ nhân tạo bắt đầu vào thời điểm nào?
+Đáp án tham chiếu: Tiến trình đào tạo tích cực dành cho sinh viên K67 ngành Trí tuệ nhân tạo bắt đầu từ học kỳ II năm học 2022-2023.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 156 ---
+Câu hỏi: Thí sinh tốt nghiệp hệ đào tạo nào của UET - VNU thì được xét tuyển thẳng vào chương trình sau đại học?
+Đáp án tham chiếu: Theo danh sách, tất cả các thí sinh được tuyển thẳng đều tốt nghiệp hệ Chính quy.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.07, Recall: 0.06
+
+--- Câu hỏi 157 ---
+Câu hỏi: Phòng ban nào của Trường Đại học Công nghệ (UET) chịu trách nhiệm tiếp nhận và xử lý các thông tin điều chỉnh từ sinh viên?
+Đáp án tham chiếu: Phòng Công tác Sinh viên của Trường Đại học Công nghệ (UET) chịu trách nhiệm tiếp nhận và hướng dẫn sinh viên làm thủ tục xác thực và điều chỉnh thông tin cá nhân.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.09, Recall: 0.06
+
+--- Câu hỏi 158 ---
+Câu hỏi: Thí sinh có thể tìm kiếm thông tin tuyển sinh sau đại học của Trường Đại học Công nghệ (UET) ở đâu?
+Đáp án tham chiếu: Thí sinh có thể tìm thông tin tuyển sinh sau đại học của Trường Đại học Công nghệ (UET) trên website chính thức của trường (uet.vnu.edu.vn) mục "Tuyển sinh" và trang Facebook "tuyensinh.saudaihoc.dhcn".
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.13, Recall: 0.09
+
+--- Câu hỏi 159 ---
+Câu hỏi: Đơn vị nào của ĐHQGHN chịu trách nhiệm xây dựng và giám sát thực hiện Khung năng lực giảng dạy của giảng viên?
+Đáp án tham chiếu: Trung tâm Hỗ trợ giảng dạy thuộc ĐHQGHN chịu trách nhiệm xây dựng và giám sát thực hiện Khung năng lực giảng dạy của giảng viên.
+Đáp án mô hình:    Trung tâm Hỗ trợ giảng dạy được giao nhiệm vụ xây dựng và giám sát thực hiện Khung năng lực giảng dạy của giảng viên tại ĐHQGHN.
+EM: 0, F1: 0.87, Recall: 0.88
+
+--- Câu hỏi 160 ---
+Câu hỏi: Trường Đại học Công nghệ (ĐHCN) sử dụng những phương thức xét tuyển nào để tuyển sinh đại học chính quy?
+Đáp án tham chiếu: Dựa trên đoạn văn, Trường Đại học Công nghệ (ĐHCN) sử dụng kết quả thi THPT năm 2018 để xét tuyển vào các nhóm ngành/ngành của trường.
+Đáp án mô hình:    Trường Đại học Công nghệ xét tuyển thẳng, ưu tiên xét tuyển, xét tuyển bằng các chứng chỉ quốc tế và xét tuyển theo kết quả thi đánh giá năng lực vào đại học chính quy. Trường còn dành trên 50% tổng chỉ tiêu để xét tuyển theo kết quả thi THPT.
+Năm 2020, trường xét tuyển thẳng, ưu tiên xét tuyển theo quy định của Bộ Giáo dục và Đào tạo (GDĐT) và Quy định đặc thù, Hướng dẫn tuyển sinh của ĐHQGHN; xét tuyển kết quả thi tốt nghiệp THPT theo tổ hợp các môn thi tương ứng; xét tuyển theo các chứng chỉ quốc tế (SAT, A-Level, ACT, IELTS/TOEFL iBT kết hợp điểm thi tốt nghiệp THPT).
+Năm 2021, trường giữ ổn định như năm 2020, bổ sung thêm phương thức xét tuyển kết quả thi đánh giá năng lực (ĐGNL) do ĐHQGHN tổ chức.
+EM: 0, F1: 0.21, Recall: 0.67
+
+--- Câu hỏi 161 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) có những chương trình đào tạo nào liên quan đến lĩnh vực bán dẫn và vi mạch?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) có đầy đủ chương trình đào tạo định hướng bán dẫn và vi mạch từ bậc đại học, thạc sĩ đến tiến sĩ.
+Đáp án mô hình:    Trường Đại học Công nghệ (UET) có các chương trình đào tạo như:
+
+*   Công nghệ Kỹ thuật Điện tử – Viễn thông.
+*   Kỹ thuật máy tính.
+*   Vật lý kỹ thuật.
+*   Kỹ thuật năng lượng.
+*   Cơ kỹ thuật.
+*   Công nghệ Kỹ thuật Cơ điện tử.
+
+Ngoài ra, trường còn có chương trình VNU-Samsung Tech Track (V-STT) đào tạo trình độ thạc sĩ trong lĩnh vực bán dẫn và vi mạch.
+EM: 0, F1: 0.37, Recall: 0.62
+
+--- Câu hỏi 162 ---
+Câu hỏi: Theo bảng xếp hạng QS năm 2023, những lĩnh vực nào của Trường Đại học Công nghệ (UET) được xếp hạng?
+Đáp án tham chiếu: Năm 2023, 4 lĩnh vực mũi nhọn của Trường Đại học Công nghệ (UET) được xếp hạng QS là: Khoa học máy tính và Hệ thống thông tin, Cơ kỹ thuật, hàng không và chế tạo, Kỹ thuật điện và điện tử, Vật lý và thiên văn học.
+Đáp án mô hình:    Theo bảng xếp hạng QS năm 2023, 4/6 lĩnh vực của Trường Đại học Công nghệ (UET) tiếp tục được xếp hạng, cụ thể:
+
+- Nhóm lĩnh vực Kỹ thuật và Công nghệ (Engineering & Technology)
++ Lĩnh vực Khoa học máy tính và Hệ thống thông tin (Computer Science & Information Systems)
++ Lĩnh vực Cơ kỹ thuật, hàng không và chế tạo (Engineering – Mechanical, Aeronautical & Manufacture)
++ Lĩnh vực Kỹ thuật điện và điện tử (Engineering – Electrical & Electronic)
+- Nhóm lĩnh vực khoa học tự nhiên (Naturak Sciences):
++ Lĩnh vực Vật lý và thiên văn học (Physics & Astronomy)
+EM: 0, F1: 0.62, Recall: 0.92
+
+--- Câu hỏi 163 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) dự kiến tổ chức bao nhiêu đợt tuyển sinh sau đại học trong năm 2020 sau khi có điều chỉnh?
+Đáp án tham chiếu: Sau khi điều chỉnh, Trường Đại học Công nghệ (UET) quyết định chỉ tuyển sinh một đợt sau đại học vào năm 2020.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 164 ---
+Câu hỏi: Sinh viên thuộc Đại học Công nghệ (UET) có thể kiểm tra kết quả đăng ký học của mình ở đâu?
+Đáp án tham chiếu: Sinh viên có thể kiểm tra kết quả đăng ký học của mình tại địa chỉ http://112.137.129.87/qldt/ hoặc http://dangkyhoc.vnu.edu.vn/dang-nhap.
+Đáp án mô hình:    Sinh viên có thể kiểm tra kết quả đăng ký học chính thức của mình tại địa chỉ http://112.137.129.87/qldt/ hoặc http://dangkyhoc.vnu.edu.vn/dang-nhap.
+EM: 0, F1: 0.95, Recall: 1.00
+
+--- Câu hỏi 165 ---
+Câu hỏi: Sinh viên có thể liên hệ với Phòng Đào tạo (P.ĐT) của Đại học Công nghệ (UET) qua những kênh nào để được hỗ trợ?
+Đáp án tham chiếu: Sinh viên có thể liên hệ với Phòng Đào tạo qua các kênh sau: SĐT 0243 202 6858, email daotao_dhcn@vnu.edu.vn, hoặc qua phần mềm tiếp người học tại https://hotro.uet.vnu.edu.vn/ (Tài khoản đăng nhập là email VNU).
+Đáp án mô hình:    Sinh viên có thể liên hệ với Phòng Đào tạo (P.ĐT) của Đại học Công nghệ (UET) qua:
+
+*   Địa chỉ: Phòng 106-E3, 144 Xuân Thuỷ, Cầu Giấy, Hà Nội
+*   Điện thoại: 02437547865/ Hotline: 0334924224
+*   Email: tuyensinhdhcn@vnu.edu.vn
+EM: 0, F1: 0.36, Recall: 0.36
+
+--- Câu hỏi 166 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) và Đại học Quốc gia Hà Nội (VNU) có chính sách nào khuyến khích công bố quốc tế cho nghiên cứu sinh?
+Đáp án tham chiếu: Đại học Quốc gia Hà Nội (VNU) và Trường Đại học Công nghệ (UET) quan tâm đến việc công bố quốc tế của nghiên cứu sinh bằng cách tạo điều kiện cho họ hợp tác với các nhà khoa học quốc tế, tổ chức các buổi seminar với diễn giả là các nhà khoa học nước ngoài, và khuyến khích giảng viên liên kết với các trường đại học quốc tế để hỗ trợ nghiên cứu sinh. Việc công bố quốc tế được xem là điều bắt buộc trong quá trình học tập của nghiên cứu sinh.
+Đáp án mô hình:    Trường Đại học Công nghệ (UET) miễn học phí và cấp sinh hoạt phí cho người học thạc sĩ, tiến sĩ.
+EM: 0, F1: 0.19, Recall: 0.11
+
+--- Câu hỏi 167 ---
+Câu hỏi: Ngoài việc học tập, sinh viên tại Trường Đại học Công nghệ (ĐHCN) có những hoạt động ngoại khóa nào?
+Đáp án tham chiếu: Trường ĐHCN có rất nhiều câu lạc bộ dành cho sinh viên. Tham gia các câu lạc bộ giúp sinh viên làm quen với bạn bè, học hỏi kinh nghiệm từ các anh chị khóa trước và phát triển các kỹ năng mềm.
+Đáp án mô hình:    Ngoài việc học tập, sinh viên tại UET còn rèn luyện các kỹ năng mềm, khám phá bản thân, kết nối bạn bè thông qua các hoạt động ngoại khóa sôi nổi với hàng chục Câu lạc bộ như: CLB Thuyết trình; CLB Tiếng Anh trường ĐHCN; CLB Sinh viên vận động hiến máu trường ĐHCN – Đội Người Việt trẻ; CLB Nghệ thuật; CLB Truyền thông trường ĐHCN. Sinh viên còn được tham gia các cuộc thi trí tuệ quy mô lớn ở trong và ngoài trường để trau dồi kinh nghiệm; cơ hội nhận các loại học bổng đa dạng.
+EM: 0, F1: 0.36, Recall: 0.60
+
+--- Câu hỏi 168 ---
+Câu hỏi: Đoàn Thanh niên Trường Đại học Công nghệ (UET) có cơ cấu tổ chức như thế nào?
+Đáp án tham chiếu: Cơ cấu tổ chức của Đoàn Thanh niên Trường Đại học Công nghệ (UET) bao gồm: Ban chấp hành Đoàn trường (21 đồng chí), Ban thường vụ Đoàn trường (4 đồng chí), các Ban chức năng (Ban Điều hành, Ban Chuyên môn học thuật, Ban Phong trào, Ban Truyền thông & Đối ngoại, Ban Hậu cần) và các đơn vị trực thuộc (Liên chi Đoàn các khoa/viện và Chi đoàn cán bộ khối Hiệu bộ).
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.02, Recall: 0.01
+
+--- Câu hỏi 169 ---
+Câu hỏi: Phòng ban nào của Trường Đại học Công nghệ (UET) chịu trách nhiệm chính trong việc liên hệ và phát triển hợp tác?
+Đáp án tham chiếu: Phòng Khoa học Công nghệ và Hợp tác phát triển của Trường Đại học Công nghệ (UET) chịu trách nhiệm chính trong việc liên hệ và phát triển hợp tác.
+Đáp án mô hình:    Phòng Khoa học công nghệ và Hợp tác phát triển chịu trách nhiệm chính trong việc liên hệ và phát triển hợp tác.
+EM: 0, F1: 0.87, Recall: 0.77
+
+--- Câu hỏi 170 ---
+Câu hỏi: Trường Đại học Công nghệ (ĐHQGHN) đã đạt được thành tích gì tại Olympic Toán học Sinh viên và Học sinh năm 2023?
+Đáp án tham chiếu: Đội tuyển Toán học Trường Đại học Công nghệ (ĐHQGHN) đạt top 4 tại kỳ thi Olympic Toán học Sinh viên và Học sinh năm 2023 với thành tích 04 giải Nhất, 06 giải Nhì và 01 giải Ba.
+Đáp án mô hình:    Đội tuyển Toán học Trường Đại học Công nghệ (ĐHQGHN) đạt top 4 kỳ thi Olympic Toán học Sinh viên và Học sinh năm 2023 với thành tích 04 giải Nhất, 06 giải Nhì và 01 giải Ba.
+EM: 0, F1: 0.99, Recall: 0.97
+
+--- Câu hỏi 171 ---
+Câu hỏi: VNU CUP là gì?
+Đáp án tham chiếu: VNU CUP là một giải đấu bóng đá thường niên do Đại học Quốc gia Hà Nội tổ chức, nhằm tạo ra sân chơi lành mạnh và bổ ích giữa các sinh viên, các đơn vị trong khối ĐHQGHN.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.04, Recall: 0.03
+
+--- Câu hỏi 172 ---
+Câu hỏi: Đơn vị nào thuộc VNU chịu trách nhiệm chính trong việc đảm bảo chất lượng và quản lý lịch thi học kỳ cho sinh viên?
+Đáp án tham chiếu: Trung tâm Đảm bảo chất lượng.
+Đáp án mô hình:    Trung tâm Đảm bảo chất lượng chịu trách nhiệm chính trong việc đảm bảo chất lượng và quản lý lịch thi học kỳ.
+EM: 0, F1: 0.41, Recall: 1.00
+
+--- Câu hỏi 173 ---
+Câu hỏi: Phòng Đào tạo của Trường Đại học Công nghệ (UET) có thể được liên hệ bằng những phương thức nào?
+Đáp án tham chiếu: Có thể liên hệ với Phòng Đào tạo của Trường Đại học Công nghệ (UET) qua điện thoại và email. Cụ thể là các số điện thoại (04) 3754 7865, (04) 3754 7810 và địa chỉ email TuyensinhDHCN@vnu.edu.vn.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 174 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) thường tập trung vào các chương trình đào tạo nào?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET), trực thuộc VNU, thường tập trung vào các chương trình đào tạo thuộc lĩnh vực công nghệ thông tin, điện tử viễn thông, cơ điện tử và các ngành kỹ thuật công nghệ khác.
+Đáp án mô hình:    Trường Đại học Công nghệ (UET) tập trung vào các chương trình đào tạo chất lượng cao và các chương trình đào tạo tài năng xuất sắc trong các lĩnh vực như vi mạch bán dẫn, trí tuệ nhân tạo, công nghệ kỹ thuật điện tử, công nghệ thông tin, công nghệ điện tử viễn thông, cơ điện tử, và thiết kế công nghiệp và đồ họa.
+EM: 0, F1: 0.62, Recall: 0.82
+
+--- Câu hỏi 175 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) được thành lập khi nào và có tiền thân là gì?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) được thành lập vào ngày 25 tháng 5 năm 2004, nhưng truyền thống của trường bắt nguồn từ việc thành lập Khoa Công nghệ vào ngày 18 tháng 10 năm 1999.
+Đáp án mô hình:    Trường Đại học Công nghệ được thành lập vào năm 2004. Tiền thân của trường là Khoa Công nghệ và Trung tâm Hợp tác Đào tạo và Bồi dưỡng Cơ học thuộc Đại học Quốc gia Hà Nội.
+EM: 0, F1: 0.43, Recall: 0.43
+
+--- Câu hỏi 176 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) thuộc Đại học Quốc gia Hà Nội (VNU) có bao nhiêu chương trình đào tạo đại học chính quy?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) tổ chức 17 chương trình đào tạo đại học chính quy, bao gồm 05 chương trình chất lượng cao theo Thông tư 23, 01 chương trình chất lượng cao của ĐHQGHN, 11 chương trình chuẩn và 04 chương trình bằng kép.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.03, Recall: 0.02
+
+--- Câu hỏi 177 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) nằm ở khu vực nào của Hà Nội?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) nằm ở phía Tây của Hà Nội, thuộc quận Cầu Giấy.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 178 ---
+Câu hỏi: Trụ sở hành chính của Trường Đại học Công nghệ (UET) được đặt ở đâu?
+Đáp án tham chiếu: Trụ sở hành chính của Trường Đại học Công nghệ (UET) được đặt tại tòa nhà E3.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.07, Recall: 0.06
+
+--- Câu hỏi 179 ---
+Câu hỏi: Bộ phận Hành chính của Trường Đại học Công nghệ (UET) có những chức năng chính nào?
+Đáp án tham chiếu: Bộ phận Hành chính có chức năng tư vấn, hỗ trợ Hiệu trưởng trong các công tác hành chính, tổng hợp, truyền thông, cơ sở vật chất, thiết bị và an ninh của Trường.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.09, Recall: 0.06
+
+--- Câu hỏi 180 ---
+Câu hỏi: Ngoài hợp tác quốc tế, VNU-UET còn hợp tác với những tổ chức nào khác trong nước?
+Đáp án tham chiếu: VNU-UET hợp tác với Viện Cơ học (Institute of Mechanics), thuộc Viện Hàn lâm Khoa học và Công nghệ Việt Nam.
+Đáp án mô hình:    VNU-UET hợp tác với nhiều trường, viện, tổ chức và đối tác công nghiệp trong nước, bao gồm:
+
+*   Hội Vô tuyến Điện tử Việt Nam
+*   Viện Công nghệ Thông tin, Viện Khoa học và Công nghệ Việt Nam
+*   Viện Công nghệ Viễn thông, Viện Khoa học và Công nghệ Việt Nam
+*   Viện tin học Pháp ngữ (IFI)
+*   Học viện Kỹ thuật Mật Mã
+*   Trung tâm Vệ tinh Quốc gia, Viện Hàn lâm KH&CN Việt Nam
+*   Viện nghiên cứu cơ khí, Bộ Công Thương
+*   Trường Đại học Nguyễn Tất Thành
+*   Trung tâm CNTT, Bộ VH-TT&DL
+*   Viện Cơ học, Viện Hàn lâm KH&CN VN
+*   Viện Di truyền Nông nghiệp
+*   Viện Chăn nuôi
+*   Viện Thổ nhưỡng Nông hóa
+*   Hiệp hội Nông nghiệp số VN
+*   Viện Nghiên cứu rau quả
+*   Trung tâm Chuyển giao công nghệ và khuyến nông, Viện KH Nông nghiệp VN
+*   Viện Bảo vệ thực vật
+*   Viện Môi trường nông nghiệp
+*   Trung tâm Khảo thí ĐHQGHN
+*   Công ty TNHH Samsung Electronics Việt Nam (Samsung Electronics Vietnam Co., Ltd)
+*   Tập đoàn Viễn thông Quân đội (Viettel)
+*   Công ty TNHH Framgia Việt Nam
+*   IMI Holding Co.Ltd.
+EM: 0, F1: 0.17, Recall: 0.81
+
+--- Câu hỏi 181 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) có những thành tích nổi bật nào trong lĩnh vực an ninh mạng?
+Đáp án tham chiếu: Các đội thi của UET đã đạt được giải thưởng cao trong các cuộc thi an ninh mạng khu vực và quốc tế, ví dụ như giải nhì Cyber SEA Game 2021 và giải nhất "Students with information security ASEAN 2021".
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.08, Recall: 0.05
+
+--- Câu hỏi 182 ---
+Câu hỏi: Trường Đại học Quốc gia Hà Nội (VNU) được xếp hạng như thế nào trong lĩnh vực Kỹ thuật và Công nghệ theo Times Higher Education World University Rankings năm 2020?
+Đáp án tham chiếu: VNU được xếp hạng trong top 401-500 các trường đại học trên thế giới trong lĩnh vực Kỹ thuật và Công nghệ theo Times Higher Education World University Rankings (THE WUR) năm 2020.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.09, Recall: 0.06
+
+--- Câu hỏi 183 ---
+Câu hỏi: Ngoài các lĩnh vực đào tạo truyền thống, Trường Đại học Công nghệ (UET) còn có thế mạnh trong những lĩnh vực nghiên cứu nào?
+Đáp án tham chiếu: Ngoài các lĩnh vực đào tạo truyền thống như Công nghệ Thông tin, Điện tử và Viễn thông, Cơ học Kỹ thuật và Tự động hóa, Trường Đại học Công nghệ (UET) còn có thế mạnh trong các lĩnh vực nghiên cứu như Vật lý Kỹ thuật và Công nghệ Nano.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.09, Recall: 0.06
+
+--- Câu hỏi 184 ---
+Câu hỏi: Trung tâm Máy tính của Trường Đại học Công nghệ (UET) có những chức năng chính nào?
+Đáp án tham chiếu: Trung tâm Máy tính có chức năng tư vấn và hỗ trợ Hiệu trưởng trong việc quản lý cơ sở hạ tầng công nghệ thông tin của trường, triển khai công nghệ, quản lý các cơ sở kỹ thuật công nghệ thông tin dùng chung do Trung tâm thực hiện.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.10, Recall: 0.06
+
+--- Câu hỏi 185 ---
+Câu hỏi: Phòng ban nào tại một đơn vị trực thuộc Đại học Quốc gia Hà Nội (VNU) chịu trách nhiệm quản lý các hoạt động hợp tác phát triển trong nghiên cứu và đào tạo?
+Đáp án tham chiếu: Phòng Khoa học, Công nghệ và Quan hệ Quốc tế (Department of Science, Technology and International relations).
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 186 ---
+Câu hỏi: Phong trào "Sinh viên 5 tốt" của VNU bao gồm những nội dung gì?
+Đáp án tham chiếu: Phong trào "Sinh viên 5 tốt" của VNU bao gồm 5 nội dung: đạo đức tốt, học tập tốt, thể lực tốt, tình nguyện tốt và hội nhập tốt.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 187 ---
+Câu hỏi: Ai là đồng giám đốc của VNU Key Laboratory for Micro-Nano Technology?
+Đáp án tham chiếu: Đồng giám đốc của VNU Key Laboratory for Micro-Nano Technology là Prof. Nguyen Huu Duc (Vice President of VNU) và Prof. Cheolgi Kim (Daegu Gyeongbuk Institute of Science and Technology, South Korea).
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 188 ---
+Câu hỏi: Lĩnh vực nghiên cứu trọng tâm của SIS Laboratory là gì?
+Đáp án tham chiếu: Phòng thí nghiệm tập trung nghiên cứu vào thiết kế chip, hệ thống nhúng, xử lý tín hiệu, xử lý ảnh, công nghệ tri thức và an ninh thông tin.
+Đáp án mô hình:    Lĩnh vực nghiên cứu trọng tâm của SIS Laboratory là Electronics and Communications Engineering Technology /Mechatronics Engineering.
+EM: 0, F1: 0.09, Recall: 0.07
+
+--- Câu hỏi 189 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) thuộc Đại học Quốc gia Hà Nội (VNU) có những phòng thí nghiệm trọng điểm nào?
+Đáp án tham chiếu: Dựa vào thông tin trong đoạn văn, UET có ít nhất hai phòng thí nghiệm trọng điểm cấp Đại học Quốc gia Hà Nội, bao gồm Phòng thí nghiệm trọng điểm về Công nghệ Micro-Nano và Phòng thí nghiệm trọng điểm về Hệ thống tích hợp thông minh (SIS Lab).
+Đáp án mô hình:    Trường Đại học Công nghệ (UET) thuộc Đại học Quốc gia Hà Nội (VNU) có các phòng thí nghiệm trọng điểm sau:
+
+1.  PTN trọng điểm Hệ thống Tích hợp Thông minh
+2.  PTN trọng điểm Công nghệ micro và nano
+3.  PTN Cơ kỹ thuật
+4.  Trung tâm Công nghệ Tích hợp liên ngành Giám sát hiện trường
+EM: 0, F1: 0.48, Recall: 0.52
+
+--- Câu hỏi 190 ---
+Câu hỏi: Giáo sư Chu Đức Trinh đã đảm nhiệm những chức vụ nào tại Trường Đại học Công nghệ trước khi trở thành Hiệu trưởng?
+Đáp án tham chiếu: Trước khi trở thành Hiệu trưởng Trường Đại học Công nghệ, Giáo sư Chu Đức Trinh đã từng là giảng viên, Phó Trưởng khoa Điện tử Viễn thông, Trưởng phòng thực hành Điện tử Viễn thông, Phó Bí thư Đảng ủy, Phó Trưởng khoa, rồi Trưởng khoa Vi điện tử và Micro hệ thống, Bí thư, Trưởng khoa Điện tử Viễn thông, và Phó Hiệu trưởng Trường Đại học Công nghệ.
+Đáp án mô hình:    Trước khi trở thành Hiệu trưởng, Giáo sư Chu Đức Trinh từng là giảng viên, Phó Chủ nhiệm Khoa Điện tử Viễn thông, Trưởng phòng Thực hành Điện tử Viễn thông, Phó Bí thư Đảng ủy, Phó Chủ nhiệm rồi Chủ nhiệm Bộ môn Vi điện tử và Vi hệ thống, Bí thư, Chủ nhiệm Khoa Điện tử Viễn thông, và Phó Hiệu trưởng.
+EM: 0, F1: 0.79, Recall: 0.75
+
+--- Câu hỏi 191 ---
+Câu hỏi: Chương trình Cử nhân Công nghệ Thông tin (Chất lượng cao) của UET có những định hướng đào tạo chuyên sâu nào?
+Đáp án tham chiếu: Chương trình có các định hướng đào tạo chuyên sâu như Kỹ thuật phần mềm, Hệ thống thông tin, Mạng máy tính và Truyền thông, Khoa học máy tính và Dịch vụ.
+Đáp án mô hình:    Chương trình đào tạo ngành Công nghệ thông tin tại UET gồm những định hướng đào tạo chuyên sâu như: Công nghệ phần mềm, Hệ thống thông tin, Mạng và truyền thông máy tính, Khoa học máy tính và dịch vụ.
+EM: 0, F1: 0.77, Recall: 0.88
+
+--- Câu hỏi 192 ---
+Câu hỏi: Sinh viên tốt nghiệp chương trình Cử nhân Công nghệ Thông tin định hướng thị trường Nhật Bản có thể làm việc ở đâu?
+Đáp án tham chiếu: Sinh viên tốt nghiệp chương trình này có thể đáp ứng yêu cầu công việc của một kỹ sư IT tại Nhật Bản và một số nước phát triển khác. Họ cũng có thể học lên cao ở các cơ sở đào tạo trong và ngoài nước, đặc biệt là ở Nhật Bản.
+Đáp án mô hình:    Sinh viên tốt nghiệp chương trình Cử nhân Công nghệ Thông tin định hướng thị trường Nhật Bản có thể làm kỹ sư CNTT tại Nhật Bản cũng như một số nước phát triển khác. Họ cũng có thể học tập nâng cao tại các cơ sở đào tạo trong nước và nước ngoài, đặc biệt là Nhật Bản. Ngoài ra, sinh viên có nhiều cơ hội làm việc cho các công ty công nghệ tại Nhật Bản sau khi tốt nghiệp.
+EM: 0, F1: 0.61, Recall: 0.77
+
+--- Câu hỏi 193 ---
+Câu hỏi: Trước khi trở thành Trường Đại học Công nghệ (UET), đơn vị này đã trải qua những tên gọi và trực thuộc những tổ chức nào?
+Đáp án tham chiếu: Trước khi là Trường Đại học Công nghệ (UET), đơn vị này từng là Khoa Công nghệ, thuộc Trường Đại học Khoa học Tự nhiên, Trường Đại học Tổng hợp Hà Nội (nay là Đại học Quốc gia Hà Nội).
+Đáp án mô hình:    Trước khi trở thành Trường Đại học Công nghệ (UET), đơn vị này đã trải qua các giai đoạn:
+
+*   **Khoa Công nghệ Thông tin:** Trực thuộc Trường Đại học Tổng hợp Hà Nội (nay là Đại học Quốc gia Hà Nội).
+*   **Khoa Công nghệ Điện tử - Viễn thông.**
+*   **Khoa Công nghệ:** Trên cơ sở sắp xếp, tổ chức lại Khoa Công nghệ Thông tin và Khoa Công nghệ Điện tử - Viễn thông thuộc Trường Đại học Khoa học Tự nhiên.
+*   **Trung tâm Hợp tác Đào tạo và Bồi dưỡng cơ học:** Trực thuộc ĐHQGHN.
+EM: 0, F1: 0.55, Recall: 0.93
+
+--- Câu hỏi 194 ---
+Câu hỏi: Phòng ban nào tại UET chịu trách nhiệm chính trong việc xây dựng kế hoạch phát triển nguồn nhân lực và các chính sách liên quan đến cán bộ?
+Đáp án tham chiếu: Phòng Tổ Chức Cán Bộ (Personel Department) chịu trách nhiệm chính trong việc xây dựng kế hoạch phát triển nguồn nhân lực và các chính sách liên quan đến cán bộ.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.05, Recall: 0.03
+
+--- Câu hỏi 195 ---
+Câu hỏi: Phòng Tổ Chức Cán Bộ (Personel Department) có vai trò gì trong việc đảm bảo quyền lợi và nghĩa vụ của cán bộ UET?
+Đáp án tham chiếu: Phòng Tổ Chức Cán Bộ (Personel Department) đảm bảo và thực hiện kịp thời các chính sách và quyền lợi của cán bộ, triển khai chế độ bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp cho cán bộ.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 196 ---
+Câu hỏi: Sự kiện nào đã diễn ra tại Trường Đại học Công nghệ (UET) vào ngày 01 tháng 02 năm 2018?
+Đáp án tham chiếu: Bí thư Thành ủy Hà Nội - Hoàng Trung Hải đã đến thăm các phòng thí nghiệm trọng điểm của Đại học Quốc gia Hà Nội (VNU) tại Trường Đại học Công nghệ (UET).
+Đáp án mô hình:    Vào ngày 01 tháng 02 năm 2018, Trường Đại học Công nghệ và Công ty TNHH Điện tử Samsung Việt Nam đã ký kết thỏa thuận hợp tác (Giai đoạn II). Cùng ngày, Bí thư Thành ủy Hà Nội - Hoàng Trung Hải đã đến thăm 02 phòng thí nghiệm trọng điểm của ĐHQGHN tại Trường Đại học Công nghệ.
+EM: 0, F1: 0.57, Recall: 0.79
+
+--- Câu hỏi 197 ---
+Câu hỏi: Chương trình đào tạo Tiến sĩ ngành Kỹ thuật phần mềm trang bị cho người học những kỹ năng cụ thể nào?
+Đáp án tham chiếu: Chương trình giúp hoàn thiện các kỹ năng phân tích và thiết kế hệ thống phần mềm cũng như các kỹ năng nghiên cứu chuyên sâu về lý thuyết và công nghệ.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 198 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) có bao nhiêu giảng viên và nhân viên?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) có tổng cộng 279 nhân viên, bao gồm 212 giảng viên, nhà nghiên cứu và 67 nhân viên hành chính.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 199 ---
+Câu hỏi: Những khoa nào của Trường Đại học Công nghệ (UET) có các giáo sư (Prof.Dr)?
+Đáp án tham chiếu: Các khoa của Trường Đại học Công nghệ (UET) có các giáo sư (Prof.Dr) bao gồm: School of Aerospace Engineering, Key Laboratory for Micro and Nanotechnology, Faculty of Engineering Physics and Nanotechnology, Faculty of Agriculture technology, Faculty of Information Technology, Faculty of Electronics and Telecommunications.
+Đáp án mô hình:    Khoa Vật lý Kỹ thuật và Công nghệ Nano có các giáo sư (GS). Ngoài ra, đội ngũ giảng viên kiêm nhiệm của khoa này còn có các giáo sư (GS).
+EM: 0, F1: 0.24, Recall: 0.20
+
+--- Câu hỏi 200 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) thuộc Đại học Quốc gia Hà Nội (VNU) đã đạt được thành tích gì tại giải thưởng Vietnam Talent Award 2017?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) đã giành giải nhì tại giải thưởng Vietnam Talent Award 2017.
+Đáp án mô hình:    TS.Hà Minh Hoàng – Người đoạt Giải thưởng KHCN Thanh niên Quả Cầu Vàng 2017.
+EM: 0, F1: 0.19, Recall: 0.18
+
+--- Câu hỏi 201 ---
+Câu hỏi: UET-VNU có những kênh thông tin liên lạc chính thức nào cho sinh viên?
+Đáp án tham chiếu: UET-VNU có các kênh thông tin liên lạc chính thức sau: Fanpage (https://www.facebook.com/DTNHSV.UET.VNU/), Website (https://thanhnien.uet.vnu.edu.vn), Email (doandaihoccongnghe@vnu.edu.vn), và số điện thoại (024.3754.7528).
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.11, Recall: 0.09
+
+--- Câu hỏi 202 ---
+Câu hỏi: UET-VNU có những hoạt động nào khác ngoài các hoạt động học thuật?
+Đáp án tham chiếu: Dựa vào nội dung bài viết và các bài viết liên quan được đề cập (Related posts), UET-VNU có các hoạt động khác như: đóng góp vào việc tạo không gian học tập và sinh hoạt xanh của VNU tại Hòa Lạc, tổ chức cuộc thi "Be Proud of Vietnam Contest", các hoạt động liên quan đến sinh viên tiêu biểu trong khoa học và công nghệ, và các hoạt động liên quan đến công tác sinh viên (Student Affair Activities).
+Đáp án mô hình:    Ngoài các hoạt động học thuật, sinh viên UET còn được rèn luyện kỹ năng mềm, khám phá bản thân, kết nối bạn bè thông qua các hoạt động ngoại khóa sôi nổi với các câu lạc bộ như: CLB Thuyết trình, CLB Tiếng Anh, CLB Sinh viên vận động hiến máu, CLB Nghệ thuật, CLB Truyền thông. Sinh viên còn được tham gia các cuộc thi trí tuệ, có cơ hội nhận học bổng khuyến khích học tập và học bổng từ các đối tác của UET và VNU.
+EM: 0, F1: 0.34, Recall: 0.36
+
+--- Câu hỏi 203 ---
+Câu hỏi: Ngành Công nghệ Hàng không Vũ trụ của UET đào tạo những gì?
+Đáp án tham chiếu: Ngành Công nghệ Hàng không Vũ trụ của UET đào tạo các kỹ sư đam mê chinh phục không gian, với các định hướng nghề nghiệp liên quan đến thiết kế, sản xuất các thiết bị bay không người lái, máy bay có người lái cỡ nhỏ, các hệ thống điều khiển.
+Đáp án mô hình:    Sinh viên theo học ngành Công nghệ Hàng không Vũ trụ tại UET được cung cấp kiến thức theo các định hướng đào tạo cụ thể, bao gồm: Công nghệ thông tin, điện tử hàng không, Động lực học, điều khiển và cơ khí hàng không, Vệ tinh và Khoa học dữ liệu không gian.
+EM: 0, F1: 0.34, Recall: 0.35
+
+--- Câu hỏi 204 ---
+Câu hỏi: UET có những ngành đào tạo nào liên quan đến lĩnh vực nông nghiệp?
+Đáp án tham chiếu: UET có các ngành đào tạo Kỹ sư Công nghệ Nông nghiệp và Kỹ sư Công nghệ Sinh học.
+Đáp án mô hình:    UET đào tạo các ngành liên quan đến lĩnh vực nông nghiệp như: Kỹ sư Công nghệ Nông nghiệp, Kỹ sư Công nghệ Sinh học.
+EM: 0, F1: 0.77, Recall: 0.89
+
+--- Câu hỏi 205 ---
+Câu hỏi: Trong năm 2025, nhóm lĩnh vực nào của Trường Đại học Công nghệ (UET) được xếp hạng và vị trí của nhóm lĩnh vực đó là gì?
+Đáp án tham chiếu: Trong năm 2025, Trường Đại học Công nghệ (UET) có 2 nhóm lĩnh vực được xếp hạng: "Kỹ thuật và Công nghệ" (Engineering & Technology) được xếp hạng 451-500 và "Khoa học Tự nhiên" (Natural Sciences). Nhóm lĩnh vực "Khoa học Tự nhiên" chỉ có 1 lĩnh vực là Vật lý và thiên văn học (Physics & Astronomy) được xếp hạng.
+Đáp án mô hình:    Trong năm 2025, Trường Đại học Công nghệ (UET) có hai nhóm lĩnh vực được xếp hạng:
+
+*   **Kỹ thuật và Công nghệ**: 451-500
+*   **Khoa học Tự nhiên**: 601-675
+EM: 0, F1: 0.60, Recall: 0.44
+
+--- Câu hỏi 206 ---
+Câu hỏi: Chương trình đào tạo ngành Kỹ thuật Robot tại Trường Đại học Công nghệ (UET) – ĐHQGHN trang bị cho sinh viên những kiến thức nền tảng nào?
+Đáp án tham chiếu: Chương trình đào tạo Kỹ thuật Robot tại UET cung cấp nền tảng kiến thức đa dạng, từ tay máy robot, xe tự hành, trí tuệ nhân tạo, xử lý ảnh, robot hình người, tương tác người-robot, đa robot, PLC,...
+Đáp án mô hình:    Sinh viên ngành Kỹ thuật Robot tại Trường Đại học Công nghệ (UET) – ĐHQGHN được trang bị kiến thức liên ngành về Khoa học máy tính, Điện tử, Điều khiển tự động, Cơ khí; kiến thức về ghép nối giữa phần cứng và phần mềm để chế tạo và phát triển các hệ thống Robot thông minh; sự hiểu biết và khả năng áp dụng khoa học cơ bản, toán học, cơ học, khoa học điện tử và tin học vào thực tiễn của ngành Kỹ thuật Robot.
+EM: 0, F1: 0.19, Recall: 0.30
+
+--- Câu hỏi 207 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) có những thay đổi gì trong chính sách tuyển sinh sau đại học năm 2025?
+Đáp án tham chiếu: Theo thông tin từ văn bản, công tác tuyển sinh sau đại học năm 2025 của Trường Đại học Công nghệ (UET) sẽ có đổi mới, học viên và nghiên cứu sinh sẽ được miễn 100% học phí, đồng thời hỗ trợ kinh phí sinh hoạt và tham gia giảng dạy, nghiên cứu khoa học tại Trường.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.09, Recall: 0.05
+
+--- Câu hỏi 208 ---
+Câu hỏi: Thời gian đào tạo của ngành Công nghệ Hàng không Vũ trụ tại UET là bao lâu?
+Đáp án tham chiếu: Thời gian đào tạo ngành Công nghệ Hàng không Vũ trụ tại UET là 4,5 năm.
+Đáp án mô hình:    Thời gian đào tạo của ngành Công nghệ Hàng không Vũ trụ tại UET là 4,5 năm.
+EM: 0, F1: 0.97, Recall: 1.00
+
+--- Câu hỏi 209 ---
+Câu hỏi: Trường Đại học Công nghệ - Đại học Quốc gia Hà Nội đã thực hiện những biện pháp gì để thu hút nhân tài?
+Đáp án tham chiếu: Trường đã triển khai nhiều chính sách thu hút nhân tài nhằm thu hút nhiều cán bộ, giảng viên giỏi trong nước và quốc tế.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.11, Recall: 0.08
+
+--- Câu hỏi 210 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) được thành lập như thế nào?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) được thành lập trên cơ sở tổ chức lại Khoa Công nghệ và một số đơn vị khác của Đại học Quốc gia Hà Nội (ĐHQGHN) theo Quyết định số 92/2004/QĐ-TTg ngày 25/5/2004 của Thủ tướng Chính phủ.
+Đáp án mô hình:    Trường Đại học Công nghệ được thành lập trên cơ sở Khoa Công nghệ và Trung tâm Hợp tác Đào tạo và Bồi dưỡng Cơ học thuộc Đại học Quốc gia Hà Nội theo Quyết định số 92/2004/QĐ-TTg ngày 25 tháng 5 năm 2004 của Thủ tướng Chính phủ.
+EM: 0, F1: 0.69, Recall: 0.73
+
+--- Câu hỏi 211 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) có những chương trình đào tạo nào dành cho sinh viên sau đại học?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) có chương trình đào tạo dành cho học viên và nghiên cứu sinh.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 212 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) có những hoạt động thường niên nào liên quan đến việc làm cho sinh viên?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) tổ chức chương trình "Ngày hội việc làm – Kết nối thành công (UET Job Fair)" thường niên.
+Đáp án mô hình:    Trường Đại học Công nghệ (UET) tổ chức "Ngày hội việc làm" thường niên. Trong khuôn khổ ngày hội việc làm có các hội thảo như "Sinh viên cần chuẩn bị gì để khởi nghiệp thành công" và "Cùng Apply – Cùng phỏng vấn".
+EM: 0, F1: 0.50, Recall: 0.71
+
+--- Câu hỏi 213 ---
+Câu hỏi: Đại học Quốc gia Hà Nội (ĐHQGHN) tổ chức kỳ thi Olympic bậc Trung học phổ thông với những môn nào?
+Đáp án tham chiếu: Đại học Quốc gia Hà Nội (ĐHQGHN) tổ chức kỳ thi Olympic bậc Trung học phổ thông các môn Toán, Tin học, Vật lí, Hóa học, Sinh học.
+Đáp án mô hình:    Đại học Quốc gia Hà Nội (ĐHQGHN) tổ chức kỳ thi Olympic bậc Trung học phổ thông với các môn Toán, Tin học, Vật lí, Hóa học, Sinh học.
+EM: 0, F1: 0.98, Recall: 1.00
+
+--- Câu hỏi 214 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) có những ngành đào tạo nào thuộc lĩnh vực Máy tính và Công nghệ thông tin?
+Đáp án tham chiếu: Các ngành đào tạo thuộc lĩnh vực Máy tính và Công nghệ thông tin của Trường Đại học Công nghệ (UET) bao gồm:
+Đáp án mô hình:    Trường Đại học Công nghệ (UET) có các ngành đào tạo thuộc lĩnh vực Máy tính và Công nghệ thông tin sau: Khoa học Máy tính, Hệ thống thông tin, Mạng máy tính và Truyền thông dữ liệu, Kỹ thuật Máy tính, Công nghệ thông tin.
+EM: 0, F1: 0.58, Recall: 0.87
+
+--- Câu hỏi 215 ---
+Câu hỏi: Ai là Trưởng ban Đào tạo của Đại học Quốc gia Hà Nội?
+Đáp án tham chiếu: GS.TSKH. Nguyễn Đình Đức là Trưởng ban Đào tạo của Đại học Quốc gia Hà Nội (VNU).
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 216 ---
+Câu hỏi: Hội đồng Giáo sư cơ sở của Trường Đại học Công nghệ (UET) có nhiệm vụ gì?
+Đáp án tham chiếu: Hội đồng Giáo sư cơ sở có nhiệm vụ xét duyệt các ứng viên cho chức danh Giáo sư và Phó Giáo sư của trường.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 217 ---
+Câu hỏi: ĐHQGHN có bao nhiêu nhà khoa học được xếp hạng trong danh sách của Research.com năm 2023, và họ thuộc những lĩnh vực nào?
+Đáp án tham chiếu: Có 4 nhà khoa học của ĐHQGHN được xếp hạng trong danh sách của Research.com năm 2023, thuộc các lĩnh vực: Khoa học máy tính, Kỹ thuật và Công nghệ, Khoa học Môi trường.
+Đáp án mô hình:    ĐHQGHN có 4 nhà khoa học được xếp hạng trong danh sách của Research.com năm 2023. Tôi không tìm thấy thông tin này trong tài liệu được cung cấp về các lĩnh vực của họ.
+EM: 0, F1: 0.58, Recall: 0.59
+
+--- Câu hỏi 218 ---
+Câu hỏi: ĐHQGHN đang triển khai đào tạo khoảng bao nhiêu ngành liên quan đến lĩnh vực bán dẫn?
+Đáp án tham chiếu: ĐHQGHN đang triển khai đào tạo khoảng 20 ngành liên quan đến lĩnh vực bán dẫn.
+Đáp án mô hình:    Trường Đại học Công nghệ, ĐHQGHN đã xây dựng và phát triển nhiều chương trình đào tạo tiên tiến, đặc biệt là các chương trình cung cấp kiến thức nền tảng quan trọng cho đào tạo và nghiên cứu trong lĩnh vực bán dẫn và vi mạch. Hiện tại, trường là một trong số ít các trường đại học có đủ chương trình đào tạo định hướng bán dẫn và vi mạch từ bậc đại học, thạc sĩ cho đến tiến sĩ. Các chương trình đào tạo này có thể kể đến như: Công nghệ Kỹ thuật Điện tử – Viễn thông, Kỹ thuật máy tính (thuộc khoa Điện tử – Viễn thông), Vật lý kỹ thuật, Kỹ thuật năng lượng (thuộc khoa Vật lý kỹ thuật & Công nghệ Nano), Cơ kỹ thuật, Công nghệ Kỹ thuật Cơ điện tử (thuộc khoa Cơ học kỹ thuật & Tự động hóa).
+EM: 0, F1: 0.12, Recall: 0.62
+
+--- Câu hỏi 219 ---
+Câu hỏi: Trong bảng xếp hạng QS năm 2022, lĩnh vực nào của Trường Đại học Công nghệ (ĐHQGHN) đạt thứ hạng cao nhất và thứ hạng cụ thể là bao nhiêu?
+Đáp án tham chiếu: Lĩnh vực Kỹ thuật – Công nghệ của Trường Đại học Công nghệ (ĐHQGHN) đã vươn lên xếp hạng 386 thế giới trong bảng xếp hạng QS năm 2022.
+Đáp án mô hình:    Trong bảng xếp hạng QS năm 2022, nhóm lĩnh vực "Kỹ thuật và Công nghệ" của Trường Đại học Công nghệ (ĐHQGHN) đạt thứ hạng cao nhất là 386.
+EM: 0, F1: 0.76, Recall: 0.76
+
+--- Câu hỏi 220 ---
+Câu hỏi: Ngoài lĩnh vực Kỹ thuật - Công nghệ, những lĩnh vực nào khác của Trường Đại học Công nghệ (ĐHQGHN) được xếp hạng trong top 400-600 thế giới?
+Đáp án tham chiếu: Các lĩnh vực Cơ kỹ thuật (top 400-500), Điện – Điện tử (top 400-500) và Khoa học máy tính (top 500-600) của Trường Đại học Công nghệ (ĐHQGHN) cũng được xếp hạng trong top 400-600 thế giới.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.08, Recall: 0.05
+
+--- Câu hỏi 221 ---
+Câu hỏi: Hội Sinh viên trường Đại học Công nghệ có những ban chức năng nào?
+Đáp án tham chiếu: Hội Sinh viên trường Đại học Công nghệ có các ban chức năng sau: Ban Truyền thông, Ban Nội dung, Ban Kiểm tra, thi đua khen thưởng, Ban Hội vụ, và Ban Công tác sinh viên.
+Đáp án mô hình:    Hội Sinh viên trường Đại học Công nghệ có các ban chức năng sau: Ban Điều hành, Ban Chuyên môn học thuật, Ban Phong trào, Ban Truyền thông & Đối ngoại, Ban Hậu cần.
+EM: 0, F1: 0.61, Recall: 0.58
+
+--- Câu hỏi 222 ---
+Câu hỏi: Ai đang giữ chức vụ Chủ tịch Hội Sinh viên trường Đại học Công nghệ?
+Đáp án tham chiếu: Đồng chí Phan Hoàng Anh hiện đang giữ chức Chủ tịch Hội Sinh viên trường Đại học Công nghệ.
+Đáp án mô hình:    Trong nhiệm kỳ 2021-2023, đồng chí Phan Hoàng Anh giữ chức Chủ tịch Hội Sinh viên trường. Trong nhiệm kỳ 2023-2025, ThS. Phan Hoàng Anh được bầu làm Chủ tịch Hội Sinh viên Trường ĐH Công nghệ khoá VII.
+EM: 0, F1: 0.52, Recall: 0.79
+
+--- Câu hỏi 223 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) có những chương trình chuyển tiếp quốc tế nào dành cho người học?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) có các chương trình chuyển tiếp tại các trường đại học đối tác như Nhật Bản và Cộng hòa Liên bang Nga dành cho sinh viên, học viên và nghiên cứu sinh.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 224 ---
+Câu hỏi: Trong trường hợp sinh viên Trường Đại học Công nghệ gặp vướng mắc về lịch học hoặc đăng ký học, họ có thể liên hệ với phòng ban nào để được hỗ trợ?
+Đáp án tham chiếu: Sinh viên có thể liên hệ với Phòng Đào tạo (PĐT) tại P.105-E3 (trong giờ hành chính), qua email daotao_dhcn@vnu.edu.vn hoặc hotline 024 3202 6858 (trong giờ hành chính).
+Đáp án mô hình:    Phòng Đào tạo có thể hỗ trợ sinh viên Trường Đại học Công nghệ khi sinh viên gặp vướng mắc về lịch học hoặc đăng ký học.
+EM: 0, F1: 0.29, Recall: 0.28
+
+--- Câu hỏi 225 ---
+Câu hỏi: Sinh viên có thể liên hệ với phòng ban nào của Trường Đại học Công nghệ (UET) để giải đáp thắc mắc liên quan đến kết quả điểm rèn luyện?
+Đáp án tham chiếu: Phòng Công tác sinh viên của Trường Đại học Công nghệ (UET).
+Đáp án mô hình:    Để giải đáp thắc mắc liên quan đến kết quả điểm rèn luyện, sinh viên có thể liên hệ Phòng Công tác sinh viên (Phòng 104-E3).
+EM: 0, F1: 0.26, Recall: 0.42
+
+--- Câu hỏi 226 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) sử dụng hệ thống nào để kết nối giảng viên, sinh viên và các khoa?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) sử dụng hệ thống Canvas LMS là công cụ kết nối giảng viên – giảng viên, giảng viên – sinh viên, nhà trường – các khoa, đặc biệt nhà trường – giảng viên – sinh viên.
+Đáp án mô hình:    Trường Đại học Công nghệ (UET) sử dụng Canvas LMS để kết nối giảng viên, sinh viên và các khoa.
+EM: 0, F1: 0.58, Recall: 0.43
+
+--- Câu hỏi 227 ---
+Câu hỏi: Học phần Nhà nước và Pháp luật đại cương do đơn vị nào của ĐHQGHN tổ chức giảng dạy?
+Đáp án tham chiếu: Học phần Nhà nước và Pháp luật đại cương do Viện Đảm bảo chất lượng giáo dục (ĐBCLGD), ĐHQGHN tổ chức giảng dạy.
+Đáp án mô hình:    Tôi tìm thấy thông tin này trong tài liệu được cung cấp. Học phần Đại cương về nhà nước và pháp luật (giảng dạy cho các cơ sở đào tạo trong ĐHQGHN) do Trường Đại học Luật phụ trách.
+EM: 0, F1: 0.42, Recall: 0.57
+
+--- Câu hỏi 228 ---
+Câu hỏi: Sinh viên có thể tham gia nghiên cứu khoa học tại Trường Đại học Công nghệ (UET) từ năm thứ mấy?
+Đáp án tham chiếu: Sinh viên có thể tham gia nghiên cứu khoa học ngay từ năm thứ hai thông qua các đề tài khoa học và được thầy cô định hướng tham gia các phòng thí nghiệm.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.13, Recall: 0.09
+
+--- Câu hỏi 229 ---
+Câu hỏi: Sinh viên UET có thể tìm thông tin về các thủ tục hành chính và mẫu biểu ở đâu?
+Đáp án tham chiếu: Sinh viên UET có thể tham khảo các thông tin cần thiết tại sổ tay sinh viên được cung cấp tại địa chỉ http://handbook.uet.vnu.edu.vn/.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.27, Recall: 0.21
+
+--- Câu hỏi 230 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) sử dụng những tổ hợp xét tuyển nào cho ngành Thiết kế công nghiệp và đồ họa?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) sử dụng các tổ hợp xét tuyển A00, A01, D01 cho ngành Thiết kế công nghiệp và đồ họa theo kết quả thi tốt nghiệp trung học phổ thông.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.04, Recall: 0.03
+
+--- Câu hỏi 231 ---
+Câu hỏi: Sự kiện Ngày hội việc làm của Trường Đại học Công nghệ (UET) bắt đầu được tổ chức từ năm nào và mục đích của sự kiện này là gì?
+Đáp án tham chiếu: Ngày hội việc làm của Trường Đại học Công nghệ (UET) bắt đầu được tổ chức từ năm 2014. Mục đích của sự kiện là tạo điều kiện cho sinh viên tiếp cận với doanh nghiệp, tìm kiếm cơ hội việc làm và định hướng nghề nghiệp.
+Đáp án mô hình:    Ngày hội việc làm của Trường Đại học Công nghệ (UET) được tổ chức thường niên. Mục đích của sự kiện là tạo điều kiện cho sinh viên sắp ra trường và người lao động có cơ hội tiếp cận trực tiếp với các doanh nghiệp, nhà tuyển dụng, đồng thời định hướng nghề nghiệp trong tương lai.
+EM: 0, F1: 0.72, Recall: 0.81
+
+--- Câu hỏi 232 ---
+Câu hỏi: Ngành Hệ thống thông tin tại UET có những hướng chuyên sâu nào?
+Đáp án tham chiếu: Ngành Hệ thống thông tin tại UET có hai hướng chuyên sâu chính: (1) Tích hợp dịch vụ và quản lý dữ liệu lớn, (2) Khoa học dữ liệu và phân tích kinh doanh.
+Đáp án mô hình:    Ngành Hệ thống thông tin tại UET có hai hướng chuyên sâu:
+(1) Tích hợp dịch vụ và quản lý dữ liệu lớn
+(2) Khoa học dữ liệu và phân tích kinh doanh.
+EM: 0, F1: 0.99, Recall: 0.97
+
+--- Câu hỏi 233 ---
+Câu hỏi: Chương trình đào tạo Nghiên cứu sinh (NCS) tại ĐHQGHN có những loại học bổng nào?
+Đáp án tham chiếu: Đoạn văn này đề cập đến việc phân bổ chỉ tiêu học bổng cho NCS khóa QH-2018, cho thấy có ít nhất một loại học bổng dành cho chương trình đào tạo NCS tại ĐHQGHN. Tuy nhiên, thông tin về các loại học bổng khác không được cung cấp trong đoạn văn.
+Đáp án mô hình:    Chương trình đào tạo NCS tại ĐHQGHN có các loại học bổng sau: Học bổng Acer Việt Nam, Học bổng Dầu khí Việt Nam, Học bổng Hà Nội Telecom – Vietnammobile, Học bổng Minh Đức, Học bổng K-T, Học bổng Báo Dân trí – Bà Nguyễn Thị Thoa, Học bổng Doanh nghiệp tư nhân Nam Úc, Học bổng Quỹ Sáng tạo Kỹ thuật Việt Nam (VIFOTEC), Học bổng Vừ A Dính, Học bổng Tạp chí Doanh nghiệp và Hội nhập, Học bổng Tiếp sức đến trường, Học bổng Tổ chức Hỗ trợ đại học Việt Nam, Học bổng POSCO (Hàn Quốc), Học bổng Toshiba (Nhật Bản), Học bổng Tài năng trẻ Sasakawa (SYLFF), Học bổng Shinnyo – En (Nhật Bản), Học bổng Pony Chung (Hàn Quốc), Học bổng từ Quỹ học bổng và Văn hóa Việt Nam Kumho Asiana, Chương trình học bổng của Quỹ Học bổng Toàn cầu SMBC, Học bổng Quỹ Ngân hàng Tài chính Thống nhất Nhật Bản – Ngân hàng Tokyo Mitsubishi, Học bổng Lotte (Hàn Quốc), Học bổng Quỹ Hỗ trợ Cộng đồng Lawrence S.Tinh, Học bổng Yamada (Nhật Bản).
+EM: 0, F1: 0.16, Recall: 0.37
+
+--- Câu hỏi 234 ---
+Câu hỏi: Từ năm nào, Viện Trí tuệ Nhân tạo thuộc Trường Đại học Công nghệ (ĐHQGHN) bắt đầu tuyển sinh ngành Trí tuệ Nhân tạo?
+Đáp án tham chiếu: Viện Trí tuệ Nhân tạo bắt đầu tuyển sinh ngành Trí tuệ nhân tạo từ năm 2022.
+Đáp án mô hình:    Viện Trí tuệ Nhân tạo thuộc Trường Đại học Công nghệ (ĐHQGHN) bắt đầu tuyển sinh ngành Trí tuệ Nhân tạo từ năm 2022.
+EM: 0, F1: 0.83, Recall: 1.00
+
+--- Câu hỏi 235 ---
+Câu hỏi: Ngày truyền thống của Trường Đại học Công nghệ (ĐHCN) là ngày nào?
+Đáp án tham chiếu: Ngày 18 tháng 10.
+Đáp án mô hình:    Ngày truyền thống của Trường Đại học Công nghệ là ngày 18/10/1999.
+EM: 0, F1: 0.12, Recall: 0.25
+
+--- Câu hỏi 236 ---
+Câu hỏi: Đại học Quốc gia Hà Nội (VNU) được thành lập năm nào và với mục tiêu gì?
+Đáp án tham chiếu: Đại học Quốc gia Hà Nội (VNU) được thành lập năm 1993 với sứ mệnh tiên phong, đổi mới, bồi dưỡng nhân tài và là đại học trọng điểm quốc gia.
+Đáp án mô hình:    Đại học Quốc gia Hà Nội được thành lập theo Nghị định số 97/CP ngày 10 tháng 12 năm 1993 của Chính phủ trên cơ sở tổ chức, sắp xếp lại 3 trường đại học lớn ở Hà Nội. ĐHQGHN là trung tâm đào tạo, nghiên cứu khoa học, chuyển giao tri thức và công nghệ đa ngành, đa lĩnh vực, chất lượng cao; ngang tầm khu vực, dần đạt trình độ quốc tế; đáp ứng yêu cầu phát triển của đất nước, phù hợp với xu hướng phát triển giáo dục đại học tiên tiến.
+EM: 0, F1: 0.28, Recall: 0.58
+
+--- Câu hỏi 237 ---
+Câu hỏi: Viện trưởng Viện Trí tuệ nhân tạo thuộc Trường Đại học Công nghệ là ai?
+Đáp án tham chiếu: Viện trưởng Viện Trí tuệ nhân tạo thuộc Trường Đại học Công nghệ là TS. Trần Quốc Long.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.00, Recall: 0.00
+
+--- Câu hỏi 238 ---
+Câu hỏi: Viện Trí tuệ nhân tạo thuộc Trường Đại học Công nghệ được thành lập vào ngày tháng năm nào?
+Đáp án tham chiếu: Viện Trí tuệ nhân tạo thuộc Trường Đại học Công nghệ được thành lập vào ngày 18/3/2022.
+Đáp án mô hình:    Viện Trí tuệ nhân tạo thuộc Trường Đại học Công nghệ được thành lập vào ngày 25/5/2022.
+EM: 0, F1: 0.94, Recall: 0.94
+
+--- Câu hỏi 239 ---
+Câu hỏi: Trường Đại học Công nghệ (UET) có những hoạt động nào dành cho học sinh Trung học phổ thông?
+Đáp án tham chiếu: Trường Đại học Công nghệ (UET) tổ chức kỳ thi Olympic bậc Trung học phổ thông của Đại học Quốc gia Hà Nội các môn Toán, Tin học, Vật lí, Hóa học, Sinh học.
+Đáp án mô hình:    Tôi không tìm thấy thông tin này trong tài liệu được cung cấp.
+EM: 0, F1: 0.09, Recall: 0.06
+
+--- Câu hỏi 240 ---
+Câu hỏi: Thời gian đào tạo trình độ tiến sĩ tại Trường Đại học Công nghệ (UET), Đại học Quốc gia Hà Nội (VNU) là bao lâu đối với các đối tượng khác nhau?
+Đáp án tham chiếu: Thời gian đào tạo là 3 năm đối với nghiên cứu sinh đã có bằng thạc sĩ và 4 năm đối với nghiên cứu sinh đã có bằng đại học.
+Đáp án mô hình:    Thời gian đào tạo trình độ tiến sĩ tại Trường Đại học Công nghệ (UET), Đại học Quốc gia Hà Nội (VNU) là 3 năm đối với người có bằng thạc sĩ và 4 năm đối với người chưa có bằng thạc sĩ.
+EM: 0, F1: 0.60, Recall: 0.73
+
+--- Câu hỏi 241 ---
+Câu hỏi: Trường Đại học Công nghệ (ĐHCN) xét tuyển những tổ hợp môn nào cho các chương trình đào tạo chuẩn của trường?
+Đáp án tham chiếu: Đối với 12 chương trình đào tạo chuẩn, Trường Đại học Công nghệ xét tuyển theo tổ hợp môn thi: Toán, Lý, Hóa (A00); Toán, Lý, Anh (A01). Riêng ngành Công nghệ Nông nghiệp, ngoài các tổ hợp môn thi A00, A01, Trường Đại học Công nghệ xét tuyển thêm tổ hợp môn thi: Toán, Hóa, Sinh (B00).
+Đáp án mô hình:    Đối với 12 chương trình đào tạo chuẩn, Trường Đại học Công nghệ xét tuyển theo tổ hợp môn thi: Toán, Lý, Hóa (A00) và Toán, Lý, Anh (A01). Riêng ngành Công nghệ Nông nghiệp, ngoài các tổ hợp môn thi A00, A01, Trường Đại học Công nghệ xét tuyển thêm tổ hợp môn thi: Toán, Hóa, Sinh (B00).
+EM: 0, F1: 0.99, Recall: 1.00
+
+--- Câu hỏi 242 ---
+Câu hỏi: Ngoài phương thức xét tuyển dựa trên kết quả thi THPT quốc gia, Trường Đại học Công nghệ còn sử dụng những phương thức tuyển sinh nào khác?
+Đáp án tham chiếu: Ngoài xét tuyển theo kết quả thi THPT quốc gia, Trường Đại học Công nghệ còn xét tuyển thẳng, ưu tiên xét tuyển, xét tuyển thí sinh có chứng chỉ quốc tế của Trung tâm Khảo thí Đại học Cambridge, Anh (Cambridge International Examinations A-Level, UK); Thí sinh có kết quả trong kỳ thi chuẩn hóa SAT (Scholastic Assessment Test, Hoa Kỳ); Thí sinh có chứng chỉ tiếng Anh IELTS hoặc các chứng chỉ tiếng Anh quốc tế tương đương.
+Đáp án mô hình:    Ngoài phương thức xét tuyển dựa trên kết quả thi THPT quốc gia, Trường Đại học Công nghệ còn xét tuyển thẳng, ưu tiên xét tuyển, xét tuyển bằng chứng chỉ quốc tế và xét tuyển theo kết quả thi ĐGNL.
+EM: 0, F1: 0.53, Recall: 0.40
+
+=== Trung bình trên tất cả câu hỏi ===
+EM trung bình: 0.00
+F1 trung bình: 0.40
+Recall trung bình: 0.45
+

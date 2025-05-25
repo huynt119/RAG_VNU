@@ -1,0 +1,75 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_1045.txt
+
+Xét tuyển theo kết quả  kỳ thi tốt nghiệp THPT
+TT
+Tên ngành đào tạo/Tổ hợp xét tuyển
+Mã ngành
+Mã tổ hợp
+Thi THPT
+Ghi chú
+1
+Luật
+1.1
+Luật
+7380101
+218
+Ngữ văn, Lịch sử, Địa lý
+C00
+82
+Xét điểm theo từng tổ hợp
+Toán, Vật lý, Hóa học
+A00
+50
+Ngữ văn, Toán, Ngoại ngữ
+D01
+60
+D03
+03
+Ngữ Văn, Ngoại ngữ, KHXH
+D78
+20
+D82
+03
+1.2
+Luật chất lượng cao theo TT23
+7380101CLC
+72
+Xét điểm theo ngành, điểm thi THPT tiếng Anh tối thiểu 6.0/10
+Toán, Vật lý, Tiếng Anh
+A01
+Ngữ văn, Toán, Tiếng Anh
+D01
+Toán, Hóa học, Tiếng Anh
+D07
+Ngữ Văn, Tiếng Anh, KHXH
+D78
+2
+Luật Kinh doanh
+7380110
+111
+Xét điểm theo ngành
+Toán, Vật lý, Hóa học
+A00
+Toán, Vật lý, Tiếng Anh
+A01
+Ngữ văn, Toán, Ngoại ngữ
+D01, D03
+Toán, Ngoại ngữ, KHTN
+D90, D91
+3
+Luật Thương mại quốc tế
+7380109
+33
+Xét điểm theo ngành
+Toán, Vật lý, Hóa học
+A00
+Toán, Vật lý, Tiếng Anh
+A01
+Ngữ văn, Toán, Ngoại ngữ
+D01
+Ngữ Văn, Ngoại ngữ, KHXH
+D78, D82
+- Không quy định chênh lệch điểm giữa các tổ hợp;
+- Xét tuyển từ cao xuống thấp cho đến hết chỉ tiêu;
+- Không sử dụng kết quả miễn thi bài thi môn ngoại ngữ; không sử dụng điểm thi được bảo lưu từ kỳ thi THPT quốc gia, THPT những năm trước để tuyển sinh;
+- Tiêu chí phụ được quy định tại mục 1.6.2.

@@ -1,0 +1,176 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_589.txt
+
+TRƯỜNG ĐẠI HỌC NGOẠI NGỮ, ĐHQGHN
+1
+QHF
+7220201
+Ngôn ngữ  Anh
+D01
+35.5
+D78
+35.5
+D90
+35.5
+Thang điểm 40, điểm môn ngoại ngữ nhân đôi
+2
+QHF
+7140231
+Sư phạm tiếng Anh
+D01
+34.45
+D78
+34.45
+D90
+34.45
+3
+QHF
+7220202
+Ngôn ngữ  Nga
+D01
+28.57
+D02
+28.57
+D78
+28.57
+D90
+28.57
+4
+QHF
+7220203
+Ngôn ngữ Pháp
+D01
+32.48
+D03
+32.48
+D78
+32.48
+D90
+32.48
+5
+QHF
+7140234
+Sư phạm tiếng Trung Quốc
+D01
+34.7
+D04
+34.7
+D78
+34.7
+D90
+34.7
+6
+QHF
+7220205
+Ngôn ngữ Đức
+D01
+32.3
+D05
+32.3
+D78
+32.3
+D90
+32.3
+7
+QHF
+7140236
+Sư phạm tiếng Nhật
+D01
+34.52
+D06
+34.52
+D78
+34.52
+D90
+34.52
+8
+QHF
+7140237
+Sư phạm tiếng Hàn Quốc
+D01
+34.08
+D78
+34.08
+D90
+34.08
+9
+QHF
+7220211
+Ngôn ngữ  Ả Rập
+D01
+28.63
+D78
+28.63
+D90
+28.63
+10
+QHF
+7220201CLC
+Ngôn ngữ  Anh (CTĐT CLC TT23)
+D01
+31.32
+D78
+31.32
+D90
+31.32
+11
+QHF
+7220203CLC
+Ngôn ngữ Pháp (CTĐT CLC TT23)
+D01
+26.02
+D03
+26.02
+D78
+26.02
+D90
+26.02
+12
+QHF
+7220204CLC
+Ngôn ngữ Trung Quốc                             (CTĐT CLC TT23)
+D01
+32.03
+D04
+32.03
+D78
+32.03
+D90
+32.03
+13
+QHF
+7220205CLC
+Ngôn ngữ Đức
+(CTĐT CLC TT23)
+D01
+27.78
+D05
+27.78
+D78
+27.78
+D90
+27.78
+14
+QHF
+7220209CLC
+Ngôn ngữ Nhật
+(CTĐT CLC TT23)
+D01
+31.95
+D06
+31.95
+D78
+31.95
+D90
+31.95
+15
+QHF
+7220210CLC
+Ngôn ngữ  Hàn Quốc
+(CTĐT CLC TT23)
+D01
+32.77
+D78
+32.77
+D90
+32.77
+5.

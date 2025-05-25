@@ -1,0 +1,277 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_832.txt
+
+K
+HOA LUẬT
+(7
+00
+chỉ tiêu)
+5
+60
+140
+QHL
+7380101
+Luật
+312
+78
+C00
+A00
+D01,
+D03
+D78,
+D82
+QHL
+7380101
+(CLC)
+Luật
+(CTĐT CLC)
+48
+12
+A01
+D01
+D07
+D78
+QHL
+7380110
+Luật kinh doanh
+1
+52
+38
+A00
+A01
+D01,
+D03
+D
+90
+,
+D
+91
+QHL
+7380109
+Luật thương mại quốc tế
+4
+8
+12
+A00
+A01
+D01
+D78,
+D82
+10. K
+HOA QUỐC TẾ
+(750 chỉ tiêu)
+525
+225
+QHQ
+QHQ01
+Kinh doanh quốc tế **
+154
+66
+A00
+A01
+Ngoại ngữ
+D01, D03,
+D06
+Ngoại
+ngữ
+D96, D97, DD0
+Ngoại ngữ
+QHQ
+QHQ02
+Kế toán, Phân tích và Kiểm toán **
+105
+45
+A00
+A01
+Ngoại ngữ
+D01, D03,
+D06
+Ngoại
+ngữ
+D96, D97, DD0
+Ngoại ngữ
+QHQ
+QHQ03
+Hệ thống thông tin
+quản lý **
+70
+30
+A00
+A01
+Ngoại ngữ
+D01, D03,
+D06
+Ngoại
+ngữ
+D96, D97, DD0
+Ngoại ngữ
+QHQ
+QHQ04
+Tin học và kĩ thuật máy tính
+((
+CTĐT LKQT do ĐHQGHN cấp bằng)
+5
+6
+24
+A00
+Toán
+A01
+Toán
+D01, D03,
+D06
+Toán
+D07, D23, D24
+Toán
+QHQ
+QHQ05
+Phân tích dữ liệu
+kinh doanh **
+70
+30
+A00
+Toán
+A01
+Toán
+D01, D03,
+D06
+Toán
+D07, D23, D24
+Toán
+QHQ
+QHQ06
+Marketing
+(CTĐT cấp 2 bằng ĐH của ĐHQGHN và trường ĐH HELP - Malaysia)
+42
+18
+A00
+A01
+Ngoại ngữ
+D01, D03,
+D06
+Ngoại
+ngữ
+D96, D97, DD0
+Ngoại ngữ
+QHQ
+QHQ07
+Quản lý
+(CTĐT cấp 2 bằng ĐH của ĐHQGHN và trường ĐH Keuka – Hoa Kỳ)
+28
+12
+A00
+A01
+Ngoại ngữ
+D01, D03,
+D06
+Ngoại
+ngữ
+D96, D97, DD0
+Ngoại ngữ
+Đối với tất cả các tổ hợp xét tuyển, thí sinh phải đạt điểm thi tốt nghiệp THPT (năm 2021)  môn Ngoại ngữ tối
+thiểu 5 điểm
+(theo thang điểm 10),
+trừ đối tượng được miễn thi
+môn này
+11. KHOA QUẢN TRỊ VÀ KINH DOANH
+(
+360
+chỉ tiêu)
+280
+8
+0
+QHD
+7900101
+Quản trị Doanh nghiệp và Công nghệ
+70
+20
+A0
+1
+D
+01
+D0
+7
+D08
+QHD
+7900102
+Marketing và Truyền thông
+70
+20
+D
+01
+D
+09
+D
+10
+D
+96
+QHD
+7900103
+Quản trị Nhân lực và
+Nhân tài
+70
+20
+D
+01
+D
+09
+D
+10
+D
+96
+QHD
+7900189
+Quản trị và An ninh
+70
+20
+A0
+1
+D
+01
+D0
+7
+D08
+Đối với tất cả các tổ hợp xét tuyển, thí sinh phải đạt kết quả thi tốt nghiệp THPT năm 2021 môn tiếng Anh tối thiểu 5 điểm (theo thang điểm 10) hoặc có chứng chỉ
+tiếng Anh IELTS đạt từ 4.5 trở lên hoặc tương đương
+12. KHOA
+CÁC KHOA HỌC LIÊN NGÀNH
+(
+180
+chỉ tiêu)
+150
+30
+12.1
+QHK
+7349001
+Quản trị thương hiệu
+100
+20
+A00
+A01
+C00
+D01, D03, D04
+12.2
+QHK
+7349002
+Quản trị tài nguyên di sản
+50
+10
+A01
+C00
+D01,
+D03,
+D04
+D78,
+D82,
+D83
+TỔNG CHỈ TIÊU CỦA ĐHQGHN: 1
+1
+.2
+5
+0 chỉ tiêu
+8.475
+2.675
+và 100 chỉ tiêu cho CTĐT Quản trị kinh doanh dành cho các tài năng thể thao
+Ghi chú
+:
+(
+*)
+Các chương trình đào tạo thí điểm.

@@ -1,0 +1,410 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_289.txt
+
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ, ĐHQGHN
+Nhóm ngành (CN1): Công nghệ thông tin
+1
+QHI
+CN1
+Công nghệ thông tin
+A00
+20
+A01
+20
+D07
+20
+2
+QHI
+Công nghệ thông tin định hướng thị trường Nhật Bản
+3
+QHI
+Hệ thống thông tin
+4
+QHI
+Mạng máy tính và truyền thông dữ liệu
+Nhóm ngành (CN2): Máy tính và Robot
+1
+QHI
+CN2
+Kỹ thuật Robot
+A00
+16
+A01
+16
+D07
+16
+2
+QHI
+Kỹ thuật máy tính
+Nhóm ngành (CN3): Vật lí kĩ thuật
+1
+QHI
+CN3
+Kỹ thuật năng lượng
+A00
+16
+A01
+16
+D07
+16
+2
+QHI
+Vật lí kỹ thuật
+1
+QHI
+CN4
+Cơ kỹ thuật
+A00
+16
+A01
+16
+D07
+16
+2
+QHI
+CN5
+Công nghệ kỹ thuật Xây dựng
+A00
+16
+A01
+16
+D07
+16
+3
+QHI
+CN6
+Công nghệ kỹ thuật cơ điện tử
+A00
+16
+A01
+16
+D07
+16
+4
+QHI
+CN7
+Công nghệ Hàng không vũ trụ
+A00
+16
+A01
+16
+D07
+16
+5
+QHI
+CN8
+Khoa học Máy tính
+(CTĐT CLC TT23)
+A00
+16
+A01
+16
+D07
+16
+6
+QHI
+CN9
+Công nghệ kỹ thuật điện tử - viễn thông
+(CTĐT CLC TT23)
+A00
+16
+A01
+16
+D07
+16
+2. TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQGHN
+1
+QHT
+7460101
+Toán học
+A00
+16
+A01
+16
+D07
+16
+D08
+16
+2
+QHT
+7460117
+Toán tin
+A00
+16
+A01
+16
+D07
+16
+D08
+16
+3
+QHT
+7480110
+Máy tính và khoa học thông tin
+A00
+17
+A01
+17
+D07
+17
+D08
+17
+4
+QHT
+7480110QTD
+Máy tính và khoa học thông tin
+(CTĐT CLC TT23)
+A00
+16
+A01
+16
+D07
+16
+D08
+16
+5
+QHT
+7440102
+Vật lí học
+A00
+16
+A01
+16
+B00
+16
+C01
+16
+6
+QHT
+7440122
+Khoa học vật liệu
+A00
+16
+A01
+16
+B00
+16
+C01
+16
+7
+QHT
+7510407
+Công nghệ kỹ thuật hạt nhân
+A00
+16
+A01
+16
+B00
+16
+C01
+16
+8
+QHT
+7440112
+Hoá học
+A00
+17
+B00
+17
+D07
+17
+9
+QHT
+7440112TT
+Hoá học
+(CTĐT tiên tiến - CLC TT23)
+A00
+15
+B00
+15
+D07
+15
+10
+QHT
+7510401
+Công nghệ kỹ thuật hoá học
+A00
+17
+B00
+17
+D07
+17
+11
+QHT
+7510401CLC
+Công nghệ kỹ thuật hoá học
+(CTĐT CLC TT23)
+A00
+15
+B00
+15
+D07
+15
+12
+QHT
+7720203CLC
+Hoá dược
+(CTĐT CLC TT23)
+A00
+17
+B00
+17
+D07
+17
+13
+QHT
+7420101
+Sinh học
+A00
+16
+B00
+16
+A02
+16
+D08
+16
+14
+QHT
+7420201
+Công nghệ sinh học
+A00
+17
+B00
+17
+A02
+17
+D08
+17
+15
+QHT
+7420201CLC
+Công nghệ sinh học
+(CTĐT CLC TT23)
+A00
+16
+B00
+16
+A02
+16
+D08
+16
+16
+QHT
+7440217
+Địa lí tự nhiên
+A00
+15
+A01
+15
+B00
+15
+D10
+15
+17
+QHT
+7850103
+Quản lý đất đai
+A00
+16
+A01
+16
+B00
+16
+D10
+16
+18
+QHT
+7440230QTD
+Khoa học thông tin địa không gian
+A00
+15
+A01
+15
+B00
+15
+D10
+15
+19
+QHT
+7440301
+Khoa học môi trường
+A00
+16
+A01
+16
+B00
+16
+D07
+16
+20
+QHT
+7440301TT
+Khoa học môi trường
+(CTĐT tiên tiến - CLC TT23)
+A00
+15
+A01
+15
+B00
+15
+D07
+15
+21
+QHT
+7510406
+Công nghệ kỹ thuật môi trường
+A00
+16
+A01
+16
+B00
+16
+D07
+16
+Nhóm ngành (QHTN01): Khí tượng Thủy văn và Biến đổi khí hậu
+22
+QHT
+QHTN01
+Khí tượng và khí hậu học
+A00
+15
+A01
+15
+B00
+15
+D07
+15
+23
+QHT
+Hải dương học
+A00
+A01
+B00
+D07
+Nhóm ngành (QHTN02): Tài nguyên trái đất
+24
+QHT
+QHTN02
+Địa chất học
+A00
+15
+A01
+15
+D07
+15
+A16
+15
+25
+QHT
+Kỹ thuật địa chất
+A00
+A01
+D07
+A16
+26
+QHT
+Quản lý tài nguyên và môi trường
+A00
+A01
+D07
+A16
+3.

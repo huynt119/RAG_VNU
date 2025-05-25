@@ -1,0 +1,93 @@
+Nguồn: uet.vnu.edu.vn_ket_qua_dang_ky_hoc_hoc_ky_ii_nam_hoc_2019_2020_.txt
+
+INT2206 10
+Nguyên lý hệ điều hành
+3
+TS.Lê Đức Trọng
+24
+CL
+18. INT2207 3
+Cơ sở dữ liệu
+3
+HVCH.Nguyễn Thị Cẩm Vân
+14
+N3
+19. INT2209 7
+Mạng máy tính
+3
+ThS.Nguyễn Minh Trang
+18
+N2
+20. INT2209 9
+Mạng máy tính
+3
+CN.Nguyễn Thị Thu Trang B
+3
+N3
+21. INT3403 1
+Đồ họa máy tính
+3
+ThS.Nguyễn Minh Trang
+10
+N1
+22. INT3403 1
+Đồ họa máy tính
+3
+ThS.Nguyễn Minh Trang
+0
+N2
+23. INT3403 1
+Đồ họa máy tính
+3
+ThS.Nguyễn Minh Trang
+1
+N3
+24. INT3403 1
+Đồ họa máy tính
+3
+TS.Ma Thị Châu
+15
+CL
+25. INT3403 2
+Đồ họa máy tính
+3
+HVCH.Nguyễn Đức Cảnh
+0
+N2
+26. INT3403 2
+Đồ họa máy tính
+3
+TS.Ma Thị Châu
+13
+CL
+27. INT3403 2
+Đồ họa máy tính
+3
+HVCH.Nguyễn Đức Cảnh
+12
+N1
+28. INT3403 3
+Đồ họa máy tính
+3
+TS.Ma Thị Châu
+3
+CL
+29. INT3403 3
+Đồ họa máy tính
+3
+HVCH.Nguyễn Đức Cảnh
+3
+N1
+30. INT3403 3
+Đồ họa máy tính
+3
+HVCH.Nguyễn Đức Cảnh
+0
+N2
+31. INT3405 21
+Học máy
+3
+TS.Lê Quang Hiếu
+3
+CL
+32.

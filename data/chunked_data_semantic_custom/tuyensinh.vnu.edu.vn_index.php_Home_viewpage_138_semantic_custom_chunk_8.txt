@@ -1,0 +1,86 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewpage_138.txt
+
+t
+háng
+....
+năm 202
+2
+HIỆU TRƯỞNG
+Nguyễn Việt Hà
+PHỤ LỤC 1:
+Danh mục các ngành đào tạo Đại học phù hợp với môn thi học sinh giỏi của thí sinh
+Số TT
+Tên môn thi học sinh giỏi
+Tên ngành đào tạo
+Mã ngành
+1
+Tin học,
+Toán
+Công nghệ thông tin
+7480201
+Kỹ thuật máy tính
+7480106
+Kỹ thuật Robot
+7520217
+Kỹ thuật năng lượng
+7520406
+Vật lý kỹ thuật
+7520401
+Cơ kỹ thuật
+7520101
+Công nghệ kỹ thuật xây dựng
+7510103
+Công nghệ Hàng không vũ trụ
+7519001
+Kỹ thuật điều khiển và tự động hóa
+7520216
+Công nghệ nông nghiệp
+7519002
+Công nghệ kỹ thuật cơ điện tử
+7510203
+Khoa học Máy tính
+7480101
+Hệ thống thông tin
+7480104
+Mạng máy tính và truyền thông dữ liệu
+7480102
+Công nghệ kỹ thuật điện tử - viễn thông
+7510302
+Trí tuệ nhân tạo
+7480207
+2
+Vật lý
+Vật lý kỹ thuật
+7520401
+Kỹ thuật máy tính
+7480106
+Kỹ thuật Robot
+7520217
+Kỹ thuật năng lượng
+7520406
+Cơ kỹ thuật
+7520101
+Công nghệ kỹ thuật xây dựng
+7510103
+Công nghệ Hàng không vũ trụ
+7519001
+Kỹ thuật điều khiển và tự động hóa
+7520216
+Công nghệ nông nghiệp
+7519002
+Công nghệ kỹ thuật cơ điện tử
+7510203
+Công nghệ kỹ thuật điện tử - viễn thông
+7510302
+3
+Hóa học
+Công nghệ nông nghiệp
+7519002
+Công nghệ kỹ thuật xây dựng
+7510103
+Kỹ thuật năng lượng
+7520406
+4
+Sinh học
+Công nghệ nông nghiệp
+7519002

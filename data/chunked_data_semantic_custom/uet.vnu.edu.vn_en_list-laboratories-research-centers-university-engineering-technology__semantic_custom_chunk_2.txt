@@ -1,0 +1,149 @@
+Nguồn: uet.vnu.edu.vn_en_list-laboratories-research-centers-university-engineering-technology_.txt
+
+Laboratory name
+Level
+Field of study
+1
+Key Laboratory for Smart Integrated Systems Innovation for Future
+Key/Target Laboratory
+Electronics and Communications Engineering Technology /Mechatronics Engineering
+2
+Key Laboratory for Micro-Nano Technology
+Key/Target Laboratory
+Nanomaterials and devices
+3
+Laboratory for Engineering Mechanics
+Key/Target Laboratory
+Engineering Mechanics/
+Mechatronics Engineering
+4
+Center of Multidisciplinary Integrated Technologies for Field Monitoring
+Key/Target Laboratory
+Computer Science
+5
+Electronics and Telecommunications Practice Room
+Laboratory for basic practice
+Electronics and Communications Engineering Technology
+6
+Laboratory for nano semiconductor and nanomaterials. Key laboratory for advanced practice
+Nanomaterials and devices
+7
+Hybrid Component Materials Laboratory
+Key laboratory for advanced practice
+Nanomaterials and devices
+8
+Photonics Practice Lab
+Key laboratory for advanced practice
+Nanomaterials and devices
+9
+Laboratory for Department of Magnetic Nanomaterials and Devices
+Key laboratory for advanced practice
+Nanomaterials and devices
+10
+Laboratory for Department of Nanobiotechnology
+Key laboratory for advanced practice
+Nanobiotechnology
+11
+Laboratory for Energy Technology
+Key laboratory for advanced practice
+Energy Engineering
+12
+Laboratory for Department of Mechatronics Engineering and Automation
+Key laboratory for advanced practice
+Mechatronics Engineering
+13
+Mechatronics and Hydro-pneumatic Industrial Laboratory
+Key laboratory for advanced practice
+Mechatronics Engineering
+14
+Laboratory for Department of Industrial Hydraulics and Environment
+Laboratory for advanced practice
+Engineering Mechanics
+15
+Laboratory for Advanced Materials and Structures
+Laboratory for advanced practice
+Mechatronics Engineering
+16
+Laboratory for Department of Electronics and Computer Engineering
+Laboratory for advanced practice
+Electronics Engineering
+17
+Laboratory for Department of MicroElectroMechanical System
+Laboratory for advanced practice
+Electronics and Communications Engineering Technology /Mechatronics Engineering
+18
+Laboratory of Automatic Control and Robotics
+Laboratory for advanced practice
+Electronics and Communications Engineering Technology /Mechatronics Engineering
+19
+Signals and Systems Laboratory
+Laboratory for advanced practice
+Electronics and Communications Engineering Technology /Mechatronics Engineering
+20
+Center for Electronics and Telecommunications Research
+Laboratory for advanced practice
+Electronics and Communications Engineering Technology /Mechatronics Engineering
+21
+Laboratory for Department of Radio communication
+Laboratory for advanced practice
+Telecommunications engineering
+22
+Laboratory for Telecommunications system
+Laboratory for advanced practice
+Telecommunications engineering
+23
+Computer Center
+Laboratory for basic practice
+Computer Science
+24
+Laboratory for Department of Computer Science
+Laboratory for advanced practice
+Computer Science
+25
+Laboratory for Department of Scientific Computing
+Laboratory for advanced practice
+Computer Science
+26
+Human-Machine Interaction Lab
+Laboratory for advanced practice
+Computer Science
+27
+Laboratory for Department of Software Engineering
+Laboratory for advanced practice
+Software Engineering
+28
+Embedded Systems Laboratory
+Laboratory for advanced practice
+Software Engineering
+29
+UET – Toshiba Lab
+Laboratory for advanced practice
+Software Engineering
+30
+Laboratory for Department of Information Systems
+Laboratory for advanced practice
+Information Systems
+31
+Data Science and Knowledge Engineering Lab
+Laboratory for advanced practice
+Information Systems
+32
+Laboratory for Natural Language Processing
+Laboratory for advanced practice
+Information Technology
+33
+Bingo Biomedical Informatics Lab
+Laboratory for advanced practice
+Information Systems
+34
+Laboratory for Department of Computer Networks and Communications. Laboratory for advanced practice
+Networks and Communications
+35
+Information Security Lab
+Laboratory for advanced practice
+Networks and Communications
+By admin
+|
+Research Centers, Labs & Institutes
+|
+5260 Views

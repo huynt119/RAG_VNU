@@ -1,0 +1,74 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_1053.txt
+
+C
+á
+c
+th
+ô
+n
+g
+t
+i
+n
+cầ
+n
+t
+h
+i
+ết
+- Mã trường:
+VJU
+Mã xét tuyển, tổ hợp xét tuyển:
+TT
+Tên ngành
+Mã ngành xét tuyển
+Tổ hợp xét tuyển
+Nhật
+Bản học
+7310613
+A01 (Toán,
+Vật lí
+,
+Tiếng
+Anh)
+;
+D28 (Toán, Vật lí, Tiếng Nhật)
+;
+D01 (Ngữ văn, Toán, Tiếng Anh
+) /
+D06 (Ngữ văn, Toán, Tiếng Nhật);
+D14 (Ngữ văn, Lịch sử, Tiếng Anh) /
+D63 (Ngữ văn, Lịch sử, Tiếng Nhật);
+D78 (Ngữ văn, Khoa học xã hội, Tiếng Anh)/
+D81 (Ngữ văn, Khoa học xã hội, Tiếng Nhật)
+Khoa học và Kỹ thuật máy tính
+7480204
+A00 (Toán, Vật lí, Hóa học)/
+A01 (Toán, Vật lí, Tiếng Anh);
+D28 (Toán,
+Vật lí
+, Tiếng Nhật)
+/
+D07 (Toán, Hóa học, Tiếng Anh)/
+D23 (Toán, Hóa học, Tiếng Nhật);
+D08 (Toán, Sinh học, Tiếng Anh)/
+D33 (Toán, Sinh học, Tiếng Nhật)
+Nông nghiệp thông minh và bền vững
+7620122
+A00 (Toán, Vật lí, Hóa học);
+B00 (Toán, Vật lí, Sinh học);
+D07 (Toán, Hóa học, Tiếng Anh)/
+D23 (Toán, Hóa học, Tiếng Nhật);
+D08 (Toán, Sinh học, Tiếng Anh)/
+D33 (Toán, Sinh học, Tiếng Nhật)
+Kỹ thuật xây dựng
+7580201
+A00 (Toán, Vật lí, Hóa học)
+A01 (Toán, Vật lí, Tiếng Anh)/
+D28 (Toán,
+Vật lí
+, Tiếng Nhật)
+;
+D07 (Toán, Hóa học, Tiếng Anh)/
+D23 (Toán, Hóa học, Tiếng Nhật)
+1.7.

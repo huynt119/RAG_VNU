@@ -1,0 +1,162 @@
+Dr. Lê Vũ Hà
+Signals and Systems Laboratory
+Faculty of Electronics and Telecommunications
+VNU University of Engineering and Technology
+Office: G2-206, 144 Xuan Thuy, Cau Giay, Hanoi
+Phone: +84 4 3754-9271
+Email: halv<at>vnu<dot>edu<dot>vn
+Teaching
+Signals and Systems
+Digital Signal Processing
+Image Processing
+Image Information Science and Human Communication
+Multimedia Information Systems
+Research
+Image processing: image restoration, super-resolution imaging
+Multimedia communications: video coding, stereo (3D) video generation, network coding for multimedia streaming
+Content-based image and video retrieval: automatic image and video annotation
+Biomedical signal processing and imaging: EEG-based visual perception research, fast MRI
+Publications
+Journal articles
+Nguyen Linh-Trung, Truong Minh-Chinh, Tan Tran-Duc, Ha Vu Le, Minh Ngoc Do,
+    "Chaotic Compressed Sensing and Its Application to Magnetic Resonance Imaging,"
+REV Journal on Electronics and Communications
+,
+    Vol.3, No.3-4, July-December 2013, pp.84-92.
+doi:10.21553/rev-jec.60
+[
+pdf
+]
+Guna Seetharaman, Ha V. Le,
+    "Video-Assisted Global Positioning in Terrain Navigation with Known Landmarks,"
+International Journal of Distributed Sensor Networks
+,
+    Vol.2, No.2, April-June 2006, pp.103-119.
+doi:10.1080/15501320500201235
+Ha V. Le, Guna Seetharaman,
+    "A Super-Resolution Imaging Method Based on Dense Subpixel-Accurate Motion Fields,"
+Journal of Signal Processing Systems
+,
+    Vol.42, No.1, January 2006, pp.79-89.
+doi:10.1007/s11265-005-4167-8
+[
+pdf (pre-print)
+]
+Conference papers
+Nguyen Van Ly, Le Minh Duong, Ha Vu Le, Nguyen Linh-Trung,
+    "Performance of Network Coding for Multimedia Data Transmission over MANET,"
+    In
+Proceedings of the 2014 International Conference on Advanced Technologies for Communications
+,
+    pp.594-599, October 2014, Ha Noi, Vietnam.
+doi:10.1109/ATC.2014.7043458
+Phuong-Nhung Tran, Cam-Tu Nguyen, Jinhee Chun, Ha Vu Le, Takeshi Tokuyama,
+     "A Multiple Instance Learning Approach to Image Annotation with Saliency Map,"
+     In
+The International Conference on Knowledge Discovery and Information Retrieval
+,
+     September 2013, Algarve, Portugal.
+doi:10.5220/0004543901520159
+[
+pdf
+]
+Cam-Tu Nguyen, Ha Vu Le, Takeshi Tokuyama,
+    "Cascade of Multi-level Multi-Instance Classifiers for Image Annotation,"
+    In
+The International Conference on Knowledge Discovery and Information Retrieval
+,
+    October 2011, Paris , France.
+doi:10.5220/0003634400140023
+[
+pdf
+]
+Hong-Thinh Nguyen, Viet-Dung Nguyen, Ha Vu Le,
+    "Super-Resolution Image Construction from High-Speed Camera Sequences,"
+    In
+Proceedings of the 2010 International Conference on Advanced Technologies for Communications
+,
+    pp.152-157, October 2010, HoChiMinh city, Vietnam.
+doi:10.1109/ATC.2010.5672692
+[
+pdf (pre-print)
+]
+Ha V. Le, Michele Gouiffes, Fabien Parrain, Alain Bosseboeuf, Bertrand Zavidovique,
+    "Image Blur Analysis for the Subpixel-level Measurement of In-plane Vibration Parameters of MEMS Resonators,"
+    In
+Proceedings of SPIE
+,
+    Vol. 6696, pp.66962D, August 2007, San Diego, CA, USA.
+doi:10.1117/12.733533
+[
+pdf (pre-print)
+]
+Ha Vu Le,
+    "A Structure-from-motion Method for 3-D Reconstruction of Moving Objects from Multiple-view Image Sequences,"
+    In
+Proceedings of the 2004 IEEE International Conference on Image Processing
+,
+    Vol.3, pp.1955-1958, October 2004, Singapore.
+doi:10.1109/ICIP.2004.1421463
+[
+pdf (pre-print)
+]
+Guna Seetharaman, Ha V. Le, S. S. Iyengar, R. Logananthraj,
+    "SmartSAM: A Multisensor Network Based Framework for Video Surveillance and Monitoring,"
+    In
+Proceedings of the International Symposium on Mathematical Theory of Networks and Systems
+,
+    July 2004, Leuven, Belgium.
+    [
+pdf (pre-print)
+]
+Ha V. Le, Guna Seetharaman, Bertrand Zavidovique,
+    "A Multiscale Technique for Optical Flow Computation Using Piecewise Affine Approximation,"
+    In
+Proceedings of the IEEE International Workshop on Computer Architectures for Machine Perception
+,
+    pp.221-230, May 2003, New Orleans, LA, USA.
+doi:10.1109/CAMP.2003.1598167
+[
+pdf (pre-print)
+]
+Anant Utgikar, Guna Seetharaman, Ha Le,
+    "VLSI Architecture for Video-Assisted Global Positioning,"
+    In
+Proceedings of the IEEE International Workshop on Computer Architectures for Machine Perception
+,
+    pp.249-255, May 2003, New Orleans, LA, USA.
+doi:10.1109/CAMP.2003.1598170
+Ha V. Le, Guna Seetharaman,
+    "A Superresolution Imaging Method Based on Dense Subpixel-Accurate Motion Fields,"
+    In
+Proceedings of the International Workshop on Digital and Computational Video
+,
+    pp.35-42, November 2002, Clearwater Beach, FL, USA.
+doi:10.1109/DCV.2002.1218741
+Ha V. Le, Guna Seetharaman, Harold Szu,
+    "Video-Assisted Global Positioning in Terrain Navigation: Hough Transform Solution,"
+    In
+Proceedings of the Indian Conference on Computer Vision, Graphics and Image Processing
+,
+    December 2003, Ahmedabad, India.
+    [
+pdf
+]
+Book chapter
+s
+Guna Seetharaman, S.S. Iyengar, Ha V. Le, N. Balakrishnan, R. Logananthraj (2005),
+  "Multisensor Network-Based Framework for Video Surveillance: Real-Time Superresolution Imaging,"
+  In
+Sensor Network Operations
+(
+eds. S. Phoha, T.F. LaPorta, C. Griffin
+),
+  John Wiley & Sons, Hoboken, NJ, USA, pp.631-647.
+doi:10.1002/9780471784173.ch11
+Professional activities
+Member of IEEE Computer Society and Signal Processing Society (since 1997)
+Member of the Editorial Board,
+REV Journal on Electronics and Communications
+Member of the Organizing and Technical Program Committees,
+International Conferences on Advanced Technologies for Communications
+(2008, 2009, 2010, 2011)

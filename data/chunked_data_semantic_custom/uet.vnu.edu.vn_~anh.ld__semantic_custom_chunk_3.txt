@@ -1,0 +1,208 @@
+Nguồn: uet.vnu.edu.vn_~anh.ld_.txt
+
+L
+inh,
+L., N.,
+Viet, T.
+D.,
+Dưc, N.
+V.,
+Anh, L.,
+D.
+,
+2020, “Mô
+phỏ
+ng dòng
+xâm
+th
+ực hơi
+và
+xâm
+th
+ự
+c
+khí b
+ằng
+phương
+pháp
+mô hình
+đồ
+ng nh
+ấ
+t
+cho dòng
+khôn
+g
+nh
+ớ
+t,”
+Hộ
+i ng
+h
+ị
+Cơ họ
+c Th
+ủ
+y
+khí Toàn qu
+ố
+c, 11/2020, Hà N
+ộ
+i (Peer-review). Minh, B
+., D.,
+Tam, H., V.,
+Anh, L., D.
+,
+2020, “Ng
+hiên cứ
+u
+biên d
+ạ
+ng cánh
+c
+ả
+i thi
+ệ
+n
+hi
+ệ
+u
+su
+ấ
+t
+tuabin
+gió
+Savonius
+b
+ằ
+ng
+công
+c
+ụ
+CFD,”
+H
+ộ
+i
+ngh
+ị
+Cơ
+họ
+c
+Th
+ủ
+y
+khí
+Toàn
+qu
+ố
+c,
+11/2020, Hà N
+ộ
+i (Peer-review). Hung,
+T.
+T.,
+Truong,
+C.
+D.,
+Minh,
+D.
+V.,
+Trang,
+N.
+M.,
+Chung,
+P.,
+A
+nh,
+L.
+D.
+,
+2021,
+“Application
+of RANS
+turbulence
+model
+in simulation
+base flow
+of
+ax
+isy
+mmetric
+bod
+y
+in
+wide
+range
+of
+Mach
+number,”
+H
+ộ
+i
+ngh
+ị
+cơ
+h
+ọ
+c
+th
+ủ
+y
+khí
+toàn
+qu
+ố
+c
+2021
+(Peer-
+review). Thanh, N. V.,
+Anh, L. D.
+, Anh, T. V., 2021, “Đánh giá hiệ
+u qu
+ả
+tính toán c
+ủ
+a sáu s
+ố
+mô
+hình
+r
+ố
+i
+mô
+ph
+ỏ
+ng
+dòn
+g
+ch
+ả
+y
+bao
+biên
+d
+ạ
+n
+g
+naca4412
+t
+ạ
+i
+s
+ố
+re
+1x106,”
+H
+ộ
+i
+ngh
+ị
+Cơ
+h
+ọ
+c Th
+ủ
+y
+khí Toàn qu
+ố
+c 24

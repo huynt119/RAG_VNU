@@ -1,0 +1,151 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_753.txt
+
+K
+HOA QUỐC TẾ
+(800 chỉ tiêu)
+640
+160
+10.1
+QHQ
+QHQ01
+Kinh doanh quốc tế **
+208
+52
+A00
+Thí sinh phải đạt điểm thi tốt nghiệp THPT môn Ngoại ngữ  tối thiểu 4 điểm (theo thang điểm 10), trừ đối tượng được miễn thi
+môn này
+A01
+Ngoại ngữ
+D01, D03,
+D06
+Ngoại ngữ
+D96, D97, DD0
+Ngoại ngữ
+10.2
+QHQ
+QHQ02
+Kế toán, Phân tích và Kiểm toán **
+144
+36
+A00
+A01
+Ngoại ngữ
+D01, D03,
+D06
+Ngoại ngữ
+D96, D97, DD0
+Ngoại ngữ
+10.3
+QHQ
+QHQ03
+Hệ thống thông tin
+quản lý **
+80
+20
+A00
+A01
+Ngoại ngữ
+D01, D03,
+D06
+Ngoại ngữ
+D96, D97, DD0
+Ngoại ngữ
+10.4
+QHQ
+QHQ05
+Phân tích dữ liệu
+kinh doanh **
+64
+16
+A00
+A01
+Ngoại ngữ
+D01, D03,
+D06
+Ngoại ngữ
+D90, D91, D94
+Ngoại ngữ
+10.5
+QHQ
+QHQ06
+Marketing
+(CTĐT cấp 2 bằng ĐH của ĐHQGHN và trường ĐH HELP - Malaysia)
+48
+12
+A00
+A01
+Ngoại ngữ
+D01, D03,
+D06
+Ngoại ngữ
+D96, D97, DD0
+Ngoại ngữ
+10.6
+QHQ
+QHQ07
+Quản lý
+(CTĐT cấp 2 bằng ĐH của ĐHQGHN và trường ĐH Keuka – Hoa Kỳ)
+32
+8
+A00
+A01
+Ngoại ngữ
+D01, D03,
+D06
+Ngoại ngữ
+D96, D97, DD0
+Ngoại ngữ
+10.7
+QHQ
+QHQ04
+Tin học và kĩ thuật máy tính
+((
+CTĐT LKQT do ĐHQGHN cấp bằng)
+64
+16
+A00
+A01
+Ngoại ngữ
+D01, D03, D06
+Ngoại ngữ
+D90, D91, D94
+Ngoại ngữ
+11. KHOA QUẢN TRỊ VÀ KINH DOANH
+(
+2
+00 chỉ tiêu)
+180
+2
+0
+11.1
+QHD
+7900101
+Quản trị Doanh nghiệp và Công nghệ
+90
+10
+A0
+1
+D
+01
+D0
+7
+D08
+11.2
+QHD
+7900102
+Marketing và Truyền thông
+90
+10
+D
+01
+D
+09
+D
+10
+D
+96
+TỔNG CHỈ TIÊU CỦA ĐHQGHN: 10.420 chỉ tiêu
+8.760
+1.660
+(-) * Chương trình đào tạo thí điểm
+(-) ** CTĐT CLC thu học phí tương ứng với chất lượng đào tạo, hoặc chương trình tiên tiến hoặc CTĐT theo đặc thù đơn vị.

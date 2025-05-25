@@ -1,0 +1,239 @@
+Nguồn: High_School_for_Gifted_Students__Hanoi_University_of_Science.txt
+
+Asian Pacific Mathematics Olympiad
+Source:
+- 1995-1996:Ngo Dac Tuan: Gold medalNguyễn Ánh Tu: Silver medalNguyen Ba Hung: Bronze medalMai Phu Son: Bronze medalNguyễn Hoàng Dụong: Bronze medalDinh Thanh Trung: Bronze medal
+- 2000-2001:Le Anh Vinh: Gold medalTran Minh Quan: Bronze medal
+- Ngo Dac Tuan: Gold medal
+- Nguyễn Ánh Tu: Silver medal
+- Nguyen Ba Hung: Bronze medal
+- Mai Phu Son: Bronze medal
+- Nguyễn Hoàng Dụong: Bronze medal
+- Dinh Thanh Trung: Bronze medal
+- Le Anh Vinh: Gold medal
+- Tran Minh Quan: Bronze medal
+International Olympiad in Informatics
+Source:
+- 1st IOI inBulgaria(1989):Nguyễn Anh Linh: Bronze medal
+- 2nd IOI inUSSR(1990):Tran Hoai Linh: Silver medalNguyễn Anh Linh: Bronze medalNguyen Viet Ha: Bronze medal
+- 3rd IOI in Greece (1991):Dam Hieu Chi: Bronze medal
+- 4th IOI in Germany (1992):Ha Cong Thanh: Bronze medalLe Van Tri: Bronze medal
+- 5th IOI inArgentina(1993):Pham Viet Thang: Bronze medal
+- 6th IOI in Sweden (1994):Truong Xuan Nam: Silver medalTran Minh Chau: Silver medalPham Bao Son: Silver medal
+- 7th IOI in Netherlands (1995):Pham Bao Son: Silver medalBui The Duy: Bronze medal
+- 8th IOI in Hungary (1996):Bui The Duy: Bronze medalNguyen Thuc Duong: Bronze medal
+- 9th IOI inSouth Africa(1997):Vuong Phan Tuan: Silver medal
+- 10th IOI in Portugal (1998):Tran Tuan Anh: Bronze medal
+- 11th IOI in Turkey (1999):Nguyen Ngoc Huy: Gold medal
+- 12th IOI in China (2000):Nguyen Ngoc Huy: Gold medalPham Kim Cuong: Silver medal
+- 14th IOI inSouth Korea(2002):Nguyen Van Hieu: Silver medal
+- 15th IOI in United States (2003):Nguyen Le Huy: Gold medalCao Thanh Tung: Silver medalPham Tran Duc: Bronze medalDinh Ngoc Thang: Bronze medal
+- 16th IOI in Greece (2004):Le Manh Ha: Bronze medal
+- 18th IOI inMexico(2005):Tran Tuan Linh: Bronze medal
+- 19th IOI inCroatia(2007):Doan Manh Hung: Silver medalNguyen Hoanh Tien: Bronze medal
+- 23rd IOI inThailand(2011):Nguyen Vuong Linh: Gold medalLe Khac Minh Tue: Silver medal
+- 24th IOI in Italy (2012):Vu Dinh Quang Dat: Silver medal
+- 25th IOI in Australia (2013):Duong Thanh Dat: Silver medal
+- 26th IOI inTaiwan(2014)Ngo Hoang Anh Phuc: Silver medalDo Xuan Viet: Bronze medalNguyen Tien Trung Kien: Bronze medal
+- 27th IOI inKazakhstan(2015)Pham Van Hanh, Gold medalPhan Duc Nhat Minh, Silver medalNguyen Viet Dung, Silver medalNguyen Tien Trung Kien: Silver medal
+- 28th IOI inRussia(2016)Phan Duc Nhat Minh, Gold medalPham Cao Nguyen, Gold medal
+- 29th IOI inIran(2017)Pham Cao Nguyen, Bronze medal
+- 30th IOI inJapan(2018)Pham Duc Thang, Gold medalNguyen Hoang Hai Minh, Bronze medalNguyen Khanh, Bronze medal
+- 31st IOI inAzerbaijan(2019)Bui Hong Duc, Gold medalVu Hoang Kien, Silver medalNguyen Minh Tung, Bronze medal
+- 32nd IOI inSingapore(2020)Bui Hong Duc, Gold medalVu Hoang Kien, Silver medalLe Quang Huy, Silver medal
+- 33rd IOI inSingapore(2021)Le Quang Huy, Silver medal
+- 34th IOI inIndonesia(2022)Tran Xuan Bach, Gold medalDuong Minh Khoi, Silver medal
+- Nguyễn Anh Linh: Bronze medal
+- Tran Hoai Linh: Silver medal
+- Nguyễn Anh Linh: Bronze medal
+- Nguyen Viet Ha: Bronze medal
+- Dam Hieu Chi: Bronze medal
+- Ha Cong Thanh: Bronze medal
+- Le Van Tri: Bronze medal
+- Pham Viet Thang: Bronze medal
+- Truong Xuan Nam: Silver medal
+- Tran Minh Chau: Silver medal
+- Pham Bao Son: Silver medal
+- Pham Bao Son: Silver medal
+- Bui The Duy: Bronze medal
+- Bui The Duy: Bronze medal
+- Nguyen Thuc Duong: Bronze medal
+- Vuong Phan Tuan: Silver medal
+- Tran Tuan Anh: Bronze medal
+- Nguyen Ngoc Huy: Gold medal
+- Nguyen Ngoc Huy: Gold medal
+- Pham Kim Cuong: Silver medal
+- Nguyen Van Hieu: Silver medal
+- Nguyen Le Huy: Gold medal
+- Cao Thanh Tung: Silver medal
+- Pham Tran Duc: Bronze medal
+- Dinh Ngoc Thang: Bronze medal
+- Le Manh Ha: Bronze medal
+- Tran Tuan Linh: Bronze medal
+- Doan Manh Hung: Silver medal
+- Nguyen Hoanh Tien: Bronze medal
+- Nguyen Vuong Linh: Gold medal
+- Le Khac Minh Tue: Silver medal
+- Vu Dinh Quang Dat: Silver medal
+- Duong Thanh Dat: Silver medal
+- Ngo Hoang Anh Phuc: Silver medal
+- Do Xuan Viet: Bronze medal
+- Nguyen Tien Trung Kien: Bronze medal
+- Pham Van Hanh, Gold medal
+- Phan Duc Nhat Minh, Silver medal
+- Nguyen Viet Dung, Silver medal
+- Nguyen Tien Trung Kien: Silver medal
+- Phan Duc Nhat Minh, Gold medal
+- Pham Cao Nguyen, Gold medal
+- Pham Cao Nguyen, Bronze medal
+- Pham Duc Thang, Gold medal
+- Nguyen Hoang Hai Minh, Bronze medal
+- Nguyen Khanh, Bronze medal
+- Bui Hong Duc, Gold medal
+- Vu Hoang Kien, Silver medal
+- Nguyen Minh Tung, Bronze medal
+- Bui Hong Duc, Gold medal
+- Vu Hoang Kien, Silver medal
+- Le Quang Huy, Silver medal
+- Le Quang Huy, Silver medal
+- Tran Xuan Bach, Gold medal
+- Duong Minh Khoi, Silver medal
+International Physics Olympiad
+- 24th IPhO in United States (1993):Thai Thanh Minh: Bronze medal
+- 26th IPhO in Australia (1995):Vo Van Duc: Silver medalTran The Trung: Bronze medal
+- 27th IPhO in Norway (1996):Tran The Trung: Gold medalNguyen Duc Trung Kien: Silver medalNguyen Quang Hung: Silver medal
+- 28th IPhO in Canada (1997):Nguyen Duc Trung Kien: Silver medalPham Tuan Minh: Bronze medalBui Van Diep: Bronze medal
+- 29th IPhO inIceland(1998):Vu Tri Khu: Bronze medalBui Van Diep: Bronze medalNguyen Trung Thanh: Bronze medal
+- 30th IPhO in Italy (1999):Ngo Quang Tien: Silver medalNguyen Thanh Lam: Silver medalPham Xuan Thanh: Silver medalDao Tung Lam: Silver medalNguyen Thanh Trung: Bronze medal
+- 31st IPhO in United Kingdom (2000):Tran Việt Bắc: Bronze medal
+- 32nd IPhO in Turkey (2001):Nguyen Bao Trung: Gold medalDang Ngoc Duong: Bronze medal
+- 33rd IPhO inIndonesia(2002):Dang Ngoc Duong: Gold medalLuong Tuan Thanh: Silver medalNguyen Huy Thanh: Bronze medal
+- 34th IPhO inTaiwan(2003):Nguyen Huu Thuan: Bronze medal
+- 35th IPhO inSouth Korea(2004):Nguyen Hai Chau: Silver medalTrinh Hong Phuc: Bronze medal
+- 36th IPhO in Spain (2005):Nguyen Minh Hai: Silver medalVan Sy Chien: Bronze medalNguyen Quang Huy: Bronze medal
+- 37th IPhO inSingapore(2006):Tran Xuan Quy: Bronze medal
+- 38th IPhO inIran(2007):Do Hoang Anh: Silver medal
+- 39th IPhO inVietnam(2008):Do Hoang Anh: Gold medal
+- 45th IPhO inKazakhstan(2014):Do Thi Bich Hue: Gold medalDao Phuong Khoi: Silver medal
+- 48th IPhO inIndonesia(2017):Ta Ba Dung: Gold medal
+- International distributed Physics Olympiad inRussia(2020):Vu Ngo Hoang Duong: Silver medalLe Minh Hoang: Silver medalTrang Dao Cong Minh: Silver medal
+- 51st IPhO inLithuania(2021):Trang Dao Cong Minh: Gold medal
+- 52nd IPhO inSwitzerland(2022):Le Minh Hoang: Gold medalVu Ngo Hoang Duong: Gold medalVo Hoang Hai: Gold medal
+- Thai Thanh Minh: Bronze medal
+- Vo Van Duc: Silver medal
+- Tran The Trung: Bronze medal
+- Tran The Trung: Gold medal
+- Nguyen Duc Trung Kien: Silver medal
+- Nguyen Quang Hung: Silver medal
+- Nguyen Duc Trung Kien: Silver medal
+- Pham Tuan Minh: Bronze medal
+- Bui Van Diep: Bronze medal
+- Vu Tri Khu: Bronze medal
+- Bui Van Diep: Bronze medal
+- Nguyen Trung Thanh: Bronze medal
+- Ngo Quang Tien: Silver medal
+- Nguyen Thanh Lam: Silver medal
+- Pham Xuan Thanh: Silver medal
+- Dao Tung Lam: Silver medal
+- Nguyen Thanh Trung: Bronze medal
+- Tran Việt Bắc: Bronze medal
+- Nguyen Bao Trung: Gold medal
+- Dang Ngoc Duong: Bronze medal
+- Dang Ngoc Duong: Gold medal
+- Luong Tuan Thanh: Silver medal
+- Nguyen Huy Thanh: Bronze medal
+- Nguyen Huu Thuan: Bronze medal
+- Nguyen Hai Chau: Silver medal
+- Trinh Hong Phuc: Bronze medal
+- Nguyen Minh Hai: Silver medal
+- Van Sy Chien: Bronze medal
+- Nguyen Quang Huy: Bronze medal
+- Tran Xuan Quy: Bronze medal
+- Do Hoang Anh: Silver medal
+- Do Hoang Anh: Gold medal
+- Do Thi Bich Hue: Gold medal
+- Dao Phuong Khoi: Silver medal
+- Ta Ba Dung: Gold medal
+- Vu Ngo Hoang Duong: Silver medal
+- Le Minh Hoang: Silver medal
+- Trang Dao Cong Minh: Silver medal
+- Trang Dao Cong Minh: Gold medal
+- Le Minh Hoang: Gold medal
+- Vu Ngo Hoang Duong: Gold medal
+- Vo Hoang Hai: Gold medal
+International Chemistry Olympiad
+- 29th IChO inCanada(1997):Nguyen Ngoc Bao: Silver medal
+- 35th IChO inGreece(2003):Vu Viet Cuong: Bronze medal
+- 36th IChO inGermany(2004):Vu Viet Cuong: Silver medalNguyen Mai Luan: Silver medalHa Minh Tu: Bronze medal
+- 37th IChO inTaiwan(2005):Nguyen Mai Luan: Gold medalNguyễn Hoàng Minh: Gold medalNguyen Huy Viet: Silver medal
+- 38th IChO inSouth Korea(2006):Đang Tien Duc: Gold medalTu Ngoc Ly Lan: Gold medalNguyễn Hoàng Minh: Silver medal
+- 39th IChO inRussia(2007):Nguyen Thi Ngoc Minh: Gold medal
+- 40th IChO inHungary(2008):Vu Minh Chau: Gold medalPham Anh Tuan: Bronze medal
+- 41st IChO inUnited Kingdom(2009):Vu Minh Chau: Gold medal
+- 45th IChO inRussia(2013):Phan Quang Dung: Gold medalHo Quang Khai: Silver medalNguyen Quoc Anh: Silver medal
+- 48th IChO inGeorgia (country)(2016):Đinh Quang Hieu: Gold medal
+- 49th IChO inThailand(2017)Đinh Quang Hieu: Gold medalPham Đuc Anh: Gold medal
+- 50th IChO inCzech RepublicandSlovakia(2018)Pham Đuc Anh: Gold medal
+- 52nd IChO inTurkey(Virtually conducted) (2020)Nguyen Hoang Duong: Gold medal
+- 53rd IChO inJapan(Virtually conducted) (2021)Nguyen Hoang Duong: Silver medal
+- Nguyen Ngoc Bao: Silver medal
+- Vu Viet Cuong: Bronze medal
+- Vu Viet Cuong: Silver medal
+- Nguyen Mai Luan: Silver medal
+- Ha Minh Tu: Bronze medal
+- Nguyen Mai Luan: Gold medal
+- Nguyễn Hoàng Minh: Gold medal
+- Nguyen Huy Viet: Silver medal
+- Đang Tien Duc: Gold medal
+- Tu Ngoc Ly Lan: Gold medal
+- Nguyễn Hoàng Minh: Silver medal
+- Nguyen Thi Ngoc Minh: Gold medal
+- Vu Minh Chau: Gold medal
+- Pham Anh Tuan: Bronze medal
+- Vu Minh Chau: Gold medal
+- Phan Quang Dung: Gold medal
+- Ho Quang Khai: Silver medal
+- Nguyen Quoc Anh: Silver medal
+- Đinh Quang Hieu: Gold medal
+- Đinh Quang Hieu: Gold medal
+- Pham Đuc Anh: Gold medal
+- Pham Đuc Anh: Gold medal
+- Nguyen Hoang Duong: Gold medal
+- Nguyen Hoang Duong: Silver medal
+International Biology Olympiad
+- 12th IBO inBrussels,Belgium(2001):Nguyen Anh Vu: Bronze medalNguyen Kim Nu Thao: Bronze medal
+- 13th IBO inJūrmala-Riga,Latvia(2002)Nguyen Van Nhuong: Bronze medal
+- 14th IBO inMinsk,Belarus(2003)Tran Thu Huong: Bronze medalNguyen Minh Huong: Bronze medal
+- 16th IBO inBeijing,China(2005)Nghiem Viet Dung: Bronze medalDo Thi Hong Van: Bronze medal
+- 17th IBO inRío Cuarto, Argentina(2006)Tran Thi Thu Thuy: Bronze medal
+- 18th IBO inSaskatoon,Canada(2007)Duong Thi Thu Phuong: Bronze medal
+- 20th IBO inTsukuba,Japan(2009)Nguyen Thi Thuy Trang: Silver medal
+- 24th IBO inBern,Switzerland(2013):Nguyen Quang Huy: Bronze medal
+- 27th IBO inHanoi,Vietnam(2016):Vu Thi Chinh: Gold Medal
+- 28th IBO inCoventry,England(2017)Nguyen Phuong Thao: Silver medal
+- 29th IBO inShiraz,Iran(2018)Nguyen Phuong Thao: Gold medal (1st place)
+- 30th IBO inSzeged,Hungary(2019)Ha Vu Huyen Linh: Bronze medal
+- 31th IBO inNagasaki,Japan(Virtually conducted as IBO challenge I) (2020):Dong Ngoc Ha: Silver medalHa Vu Huyen Linh: Bronze Medal
+- 34th IBO inDubai,UAE(2023)Tran Pham Manh: Bronze Medal
+- Nguyen Anh Vu: Bronze medal
+- Nguyen Kim Nu Thao: Bronze medal
+- Nguyen Van Nhuong: Bronze medal
+- Tran Thu Huong: Bronze medal
+- Nguyen Minh Huong: Bronze medal
+- Nghiem Viet Dung: Bronze medal
+- Do Thi Hong Van: Bronze medal
+- Tran Thi Thu Thuy: Bronze medal
+- Duong Thi Thu Phuong: Bronze medal
+- Nguyen Thi Thuy Trang: Silver medal
+- Nguyen Quang Huy: Bronze medal
+- Vu Thi Chinh: Gold Medal
+- Nguyen Phuong Thao: Silver medal
+- Nguyen Phuong Thao: Gold medal (1st place)
+- Ha Vu Huyen Linh: Bronze medal
+- Dong Ngoc Ha: Silver medal
+- Ha Vu Huyen Linh: Bronze Medal
+- Tran Pham Manh: Bronze Medal
+References
+External links
+- 2013-03-06 at theWayback Machine
+- Trường Trung học phổ thông chuyên Khoa học Tự nhiên, Đại học Quốc gia Hà Nội

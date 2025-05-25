@@ -1,0 +1,72 @@
+Đề án tuyển sinh Đại học năm 2024
+Điểm chuẩn ĐHCQ năm 2023 của các trường thành viên, trường, khoa trực thuộc ĐHQGHN
+Hướng dẫn đăng ký nội trú KTX ngoại ngữ và KTX Mễ Trì
+Đề án tuyển sinh trình độ đại học năm 2023 - ĐHQGHN
+Muốn kiếm lương $1000/ tháng, hãy đến Khoa Quốc tế học Phân tích dữ liệu kinh doanh!
+Dữ liệu lớn ảnh hưởng tới doanh nghiệp ra sao?
+Tầm quan trọng của dữ liệu ngày càng được đánh giá cao bởi những lợi ích mà nó đem lại cho doanh nghiệp, giúp doanh nghiệp có những giải pháp tối ưu hoá mô hình kinh doanh của mình đáp ứng sự thay đổi của cuộc cách mạng công nghệ 4.0 trên toàn cầu. Nhờ có dữ liệu, doanh nghiệp có thể đánh giá được tình hình của mình, dự đoán xu hướng thị trường, thích nghi, nâng cao chất lượng sản phẩm dịch vụ hiện có, tạo ra sản phẩm mới, tạo ra các nội dung thu hút và hiểu biết tường tận hơn về hành vi khách hàng.
+Ví dụ như các nhãn hàng thương mại điện tử sẽ thu thập và xử lý thông tin, hành vi người dùng trên trang web thương mại điện tử như: họ đã xem các sản phẩm, dịch vụ gì, tần suất, thời gian xem bao lâu, những sản phẩm nào đã được họ tìm kiếm nhưng chưa mua những mẫu quảng cáo nào được khách hàng click vào và có tỉ lệ chuyển đổi cao hơn… từ đó đưa ra những gợi ý về sản phẩm, mẫu quảng cáo, hình thức khuyến mại phù hợp với từng người dùng cụ thể… Hay nhờ vào việc phân tích và tổng hợp những dữ liệu nội bộ phòng nhân sự, người ta cũng có thể tạo ra những nội dung quảng cáo tuyển dụng hấp dẫn đối với người tìm việc.
+Công việc phân tích dữ liệu là làm những gì?
+Nhìn chung, công việc chính của một người làm phân tích dữ liệu thường bao gồm:
+Xử lý dữ liệu:
+Đây là quá trình chiếm tỷ lệ thời gian lớn nhất và liên quan đến lập trình nhiều nhất. Quá trình này chuyển đổi dữ liệu thô như khách hàng, hóa đơn, thị trường,… thành những thông tin dễ hiểu và có ích cho doanh nghiệp (insights).
+Thiết kế báo cáo:
+Sử dụng các công cụ để chuyển đổi dữ liệu/thông tin tìm được thành những hình ảnh hay biểu đồ một cách khoa học.
+Giao tiếp:
+Hằng ngày người phân tích dữ liệu phải giao tiếp với các phòng ban khác nhau để hiểu nhu cầu của họ, đồng thời cũng phải giải thích cho người khác biết về những thông tin mà họ tìm thấy.
+Khác:
+Tùy thuộc vào mỗi công ty mà sự phân bổ thời gian có thể khác nhau như: tham gia các sự kiện nội bộ công ty, đào tạo, giao lưu, giải trí, …
+Sự kết hợp của nhiều kỹ năng
+Đặc thù của ngành này là sự kết hợp giữa toán học, thống kê học, kinh tế, tài chính, tiếp thị và khoa học máy tính, liên quan đến các phương pháp và kỹ thuật nhằm khai thác thông tin, chuyển hóa những loại dữ liệu này thành thông tin có ích cho việc ra quyết định ở các mức quản lý khác nhau trong doanh nghiệp. Vì vậy, ngoài những kiến thức công nghệ như sử dụng các công cụ phân tích dữ liệu và code cơ bản để xử lý các mô hình dự báo, những kỹ năng thiết kế báo cáo, làm việc nhóm, ngoại ngữ, tư duy quản lý và sáng tạo trong công việc cũng là những kỹ năng mềm cần để nâng “level” cho bản thần các cá nhân trong nghề.
+Nghề phân tích dữ liệu được trả lương ra sao
+Khi các tổ chức đang dần nhận ra sức mạnh của dữ liệu lớn trong việc thúc đẩy kinh doanh của mình thì nguồn cung cấp các chuyên gia dữ liệu hiện tại lại chưa bắt kịp nhu cầu. Do đó, các nhà tuyển dụng sẵn sàng trả lương cao cho các vị trí phân tích dữ liệu.
+Theo báo cáo của Glassdoor, mức lương trung bình của một nhà khoa học dữ liệu năm 2014 là 118.709$ so với 64,537$ của một lập trình viên. Tương tự, nhà phân tích nhân sự lương cao hơn 44% so với một nhà tuyển dụng thông thường và một nhân viên phân tích tiếp thị có lương cao hơn 75% so với một nhân viên phụ trách nội dung bài viết.
+Tại Việt Nam, các bạn sinh viên mới ra trường với những kỹ năng cần thiết hoàn toàn có thể nhận được mức lương $500 khi bắt đầu. Và với những bạn với 1-2 năm kinh nghiệm làm phân tích dữ liệu hoàn toàn có thể thỏa thuận lương lên đến $1000/ tháng. Đặc biệt, đối với những bạn tự tin về khả năng tiếng Anh, có thể làm việc và giao tiếp thành thạo với đối tác nước ngoài thì mức lương này còn cao gấp 1,5 đến 2 lần so với các lập trình viên cùng trình độ.
+Ngành đào tạo:
+Phân tích dữ liệu kinh doanh
+Mã xét tuyển:
+QHQ05
+Thời gian đào tạo:
+4 năm
+Ngôn ngữ đào tạo:
+Tiếng Anh (toàn bộ khối kiến thức ngành)
+Mô hình đào tạo:
+Học toàn phần tại Khoa Quốc tế
+Văn bằng:
+Bằng cử nhân chính quy ngành Phân tích dữ liệu kinh doanh do Đại học Quốc gia Hà Nội cấp.
+Cơ hội chuyển tiếp:
+Đại học Deakin, Australia
+Các thí sinh có thể liên hệ Khoa Quốc tế qua các hotline 024.3555 3555 | 0989 106 633 hoặc inbox trực tiếp Fanpage Khoa Quốc tế để đăng kí xét tuyển vào ngành
+Cử nhân Phân tích dữ liệu kinh doanh
+của Khoa trước ngày 29/7
+Các thí sinh cũng có thể nhận thông tin tư vấn trực tiếp tại các văn phòng tuyển sinh:
+Địa chỉ 1: Nhà G8, 144 Xuân Thuỷ, Cầu Giấy, Hà Nội
+Địa chỉ 2: Phòng 306, Nhà C, Làng Sinh viên HACINCO, 79 Nguỵ Như Kon Tum, Nhân Chính, Thanh Xuân, Hà Nội
+Email: tuyensinh@khoaquocte.vn
+Website:
+http://www.is.vnu.edu.vn/
+|
+http://tuyensinh.khoaquocte.vn/
+Facebook Chat
+Widget by CAIT
+Liên kết
+Trường Đại học Khoa học Tự nhiên
+Trường Đại học  Khoa học Xã hội và Nhân văn
+Trường Đại học Ngoại ngữ
+Trường Đại học Công nghệ
+Trường Đại học Giáo dục
+Trường Đại học Luật
+Trường Đại học Y Dược
+Trường Đại học Việt Nhật
+Trường Quốc tế
+Trường Quản trị và Kinh doanh
+Trường Đại học Kinh tế
+Trường Khoa học liên ngành và Nghệ thuật
+Khoa Quốc tế Pháp ngữ
+Địa chỉ
+144 Xuân Thủy, Cầu Giấy, Hà Nội
+Khu đô thị ĐHQGHN tại Hòa Lạc
+024 37547 670
+tsvnu@vnu.edu.vn
+Copyright by Đại học Quốc gia Hà Nội
+×

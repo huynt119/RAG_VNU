@@ -1,0 +1,381 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-co-ky-thuat-24_.txt
+
+Khung chương trình đào tạo
+STT
+Mã học phần
+Học phần
+Số tín chỉ
+Số giờ tín chỉ
+Mã số học phần tiên quyết
+Lý thuyết
+Thực hành
+Tự học
+I
+Khối kiến thức chung
+(chưa tính các học phần Giáo dục thể chất, Giáo dục quốc phòng – an ninh, Kỹ năng bổ trợ)
+21
+1
+PHI1006
+Triết học Mác – Lênin
+Marxist-Leninist Philosophy
+3
+30
+15
+2
+PEC1008
+Kinh tế chính trị Mác – Lênin
+Marx-Lenin Political Economy
+2
+20
+10
+PHI1006
+3
+PHI1002
+Chủ nghĩa xã hội khoa học
+Scientific Socialism
+2
+30
+4
+HIS1001
+Lịch sử Đảng Cộng sản Việt Nam
+Revolutionary Guidelines of Vietnam Communist Party
+2
+20
+10
+5
+POL1001
+Tư tưởng Hồ Chí Minh
+Ho Chi Minh’s Ideology
+2
+20
+10
+6
+FLF1107
+Tiếng Anh B1
+English B1
+5
+20
+35
+20
+7
+INT1009
+Tin học cơ sở
+Introduction to Informatics
+3
+15
+30
+8
+THL1057
+Nhà nước và pháp luật đại cương
+State and Law
+2
+20
+5
+5
+9
+Kỹ năng bổ trợ
+Soft skills
+3
+10
+Giáo dục thể chất
+Physical education
+4
+11
+Giáo dục quốc phòng – an ninh
+National Defence Education
+8
+II
+Khối kiến thức theo lĩnh vực
+19
+12
+MAT1093
+Đại số
+Algebra
+4
+30
+30
+13
+MAT1041
+Giải tích 1
+Analytics 1
+4
+30
+30
+14
+MAT1042
+Giải tích 2
+Analytics 2
+4
+30
+30
+MAT1041
+15
+EPN1095
+Vật lý đại cương 1
+General Physics 1
+2
+30
+16
+EPN1096
+Vật lý đại cương 2
+General Physics 2
+2
+30
+EPN1095
+17
+INT1008
+Nhập môn lập trình
+Introduction to Programming
+3
+20
+25
+III
+Khối kiến thức theo khối ngành
+6
+18
+EMA2050
+Xác suất thống kê ứng dụng
+Applied Probability and Statistic
+3
+30
+15
+MAT1093 MAT1042
+19
+EMA2011
+Phương pháp tính trong kỹ thuật
+Computational Methods for Engineering
+3
+30
+15
+INT1008
+MAT1093 MAT1042
+IV
+Khối kiến thức theo nhóm ngành
+14
+20
+EMA2036
+Cơ học kỹ thuật 1
+Engineering Mechanics 1
+3
+30
+15
+MAT1093 MAT1042
+21
+EMA2037
+Cơ học kỹ thuật 2
+Engineering Mechanics 2
+3
+30
+15
+EMA2036
+22
+EMA2006
+Matlab và ứng dụng
+Matlab and Applications
+3
+30
+15
+INT1008 MAT1093 MAT1042
+23
+EMA2013
+Lý thuyết điều khiển tự động
+Automatic Control Theory
+3
+30
+15
+MAT1093 MAT1042
+24
+EMA2032
+Hình hoạ kỹ thuật và CAD
+Geometric Engineering and CAD
+2
+15
+15
+MAT1093 MAT1042
+V
+Khối kiến thức ngành
+90
+V.1
+Các học phần bắt buộc
+43
+25
+EMA2004
+Cơ học môi trường liên tục
+Continuum Mechanics
+4
+45
+15
+EPN1096 EMA2041 EMA2037
+26
+EMA2012
+Sức bền vật liệu và cơ học kết cấu
+Strength of Materials and Structural Mechanics
+4
+45
+15
+EMA2037
+27
+EMA2033
+Cơ sở thiết kế máy
+Fundamental of Machine Design
+4
+40
+20
+EPN1096
+28
+EMA2041
+Phương trình vi phân và đạo hàm riêng
+Ordinary and Partial Differential Equations
+4
+45
+15
+MAT1093
+MAT1042
+29
+EMA2005
+Kỹ thuật điện và điện tử
+Electrical and Electronic Engineering
+3
+35
+10
+EPN1096
+30
+EMA2007
+Cơ học vật rắn biến dạng
+Mechanics of Deformable Bodies
+3
+30
+15
+EMA2037
+31
+EMA2008
+Cơ học chất lỏng
+Fluid Mechanics
+3
+30
+15
+EMA2041
+32
+EMA2035
+Kỹ thuật mô hình – mô phỏng
+Modeling and Simulation Techniques
+3
+30
+15
+EMA2037 EMA2006
+33
+EMA2015
+Phương pháp thực nghiệm trong cơ học
+Experimental Methods in Mechanics
+3
+30
+15
+EMA2004 EMA2005 EMA2050
+34
+EMA2038
+Nhiệt động lực học kỹ thuật
+Thermodynamic  Engineering
+3
+35
+10
+EPN1096
+35
+EMA2045
+Lý thuyết cắt gọt kim loại
+Theory of Metal Cutting
+2
+30
+36
+EMA3090
+Kỹ thuật hiển thị máy tính
+Computer Graphics Display Techniques
+2
+20
+10
+EMA2006
+37
+EMA2039
+Thủy khí động lực ứng dụng
+Applied Fluid Dynamic
+3
+30
+15
+EMA2008
+38
+EMA2040
+Máy CNC và CAD/CAM
+CNC and CAD/CAM
+2
+18
+12
+EMA2013
+V.2
+Khối kiến thức bổ trợ
+7
+/21
+39
+INT2208
+Công nghệ phần mềm
+Software Engineering
+3
+45
+INT1008
+40
+INT2213
+Mạng máy tính
+Computer Network
+4
+30
+30
+INT1008
+41
+INT3103
+Tối ưu hóa
+Optimization
+3
+30
+15
+MAT1093
+MAT1042
+42
+ELT2028
+Chuyên nghiệp trong công nghệ
+Professional in Technology
+2
+30
+43
+BSA2002
+Nguyên lý marketing
+Principles of Marketing
+3
+21
+23
+1
+44
+MNS1052
+Khoa học quản lý đại cương
+Fundamentals of Management Science
+2
+20
+10
+45
+EMA2046
+Một số vấn đề cơ bản cho Kỹ sư toàn cầu
+Global
+E
+ngineering
+S
+kill
+2
+20
+10
+46
+UET1002
+Kỹ năng khởi nghiệp
+Entrepreneurship
+2
+30
+V.3
+Khối kiến thức định hướng chuyên sâu
+27
+V.3.1.

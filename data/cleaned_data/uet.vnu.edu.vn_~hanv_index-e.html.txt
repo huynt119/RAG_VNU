@@ -1,0 +1,22 @@
+Vietnamese
+Nguyen Viet Ha
+Associate Professor, Dr. Eng.,
+Faculty of Information Technology
+University of Engineering & Technology
+Vietnam National University, Hanoi
+144 Xuan Thuy, Cau Giay, Hanoi
+Phone : (+84-4) 37546575
+Fax : (+84-4) 37547460
+Email : hanv at vnu.edu.vn
+Research Interests
+Software modeling & verification
+Agent-based software development
+Program analysis
+Publications
+Current Projects
+A Study on Verification of Evolving Software, 2010-2012 (funded by NAFOSTED Vietnam).
+Methodologies and Tools for Component-based Software Engineering, 2009-2011 (funded by VNU).
+Education
+Dr. Eng., Takushoku Univ., Japan, 2002
+ME, Takushoku Univ., Japan, 1999
+BE, Takushoku Univ., Japan, 1997

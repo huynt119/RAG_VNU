@@ -1,0 +1,293 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_camnang_150.txt
+
+125
+5
+50
+175
+QHT
+QHT01
+Toán học
+27
+15
+8
+A00
+A01
+D07
+D08
+QHT
+QHT02
+Toán tin
+37
+1
+8
+5
+A00
+A01
+D07
+D08
+QHT
+QHT98
+Khoa học máy tính và thông tin*
+74
+36
+10
+A00
+A01
+D07
+D08
+QHT
+QHT93
+Khoa học dữ liệu*
+41
+21
+8
+A00
+A01
+D07
+D08
+QHT
+QHT03
+Vật lý học
+52
+25
+8
+A00
+A01
+A
+0
+2
+C01
+QHT
+QHT04
+Khoa học vật liệu
+66
+30
+4
+A00
+A01
+A
+0
+2
+C01
+QHT
+QHT05
+Công nghệ kỹ thuật hạt nhân
+21
+10
+4
+A00
+A01
+A
+0
+2
+C01
+QHT
+QHT94
+Kỹ thuật điện tử và tin học*
+36
+18
+6
+A00
+A01
+A
+0
+2
+C01
+QHT
+QHT06
+Hoá học
+62
+3
+1
+12
+A00
+B00
+D07
+C02
+QHT
+QHT07
+Công nghệ kỹ thuật hoá học
+59
+2
+7
+4
+A00
+B00
+D07
+C02
+QHT
+QHT43
+Hoá dược
+49
+27
+14
+A00
+B00
+D07
+C02
+QHT
+QHT08
+Sinh học
+55
+2
+8
+1
+2
+A00
+A02
+B00
+B08
+QHT
+QHT09
+Công nghệ sinh học
+85
+4
+5
+20
+A00
+A02
+B00
+B08
+QHT
+QHT81
+Sinh dược học
+31
+15
+4
+A00
+A02
+B00
+B08
+QHT
+QHT10
+Địa lí tự nhiên
+17
+9
+4
+A00
+A01
+B00
+D10
+QHT
+QHT91
+Khoa học thông tin địa không gian*
+17
+9
+4
+A00
+A01
+B00
+D10
+QHT
+QHT12
+Quản lý đất đai
+52
+24
+4
+A00
+A01
+B00
+D10
+QHT
+QHT95
+Quản lý phát triển đô thị và bất động sản*
+40
+20
+5
+A00
+A01
+B00
+D10
+QHT
+QHT13
+Khoa học môi trường
+66
+30
+4
+A00
+A01
+B00
+D07
+QHT
+QHT15
+Công nghệ kỹ thuật môi trường
+35
+1
+6
+4
+A00
+A01
+B00
+D07
+QHT
+QHT96
+Khoa học và công nghệ thực phẩm*
+49
+24
+7
+A00
+A01
+B00
+D07
+QHT
+QHT82
+Môi trường, sức khỏe và an toàn
+31
+15
+4
+A00
+A01
+B00
+D07
+QHT
+QHT16
+Khí tượng và khí hậu học
+17
+9
+4
+A00
+A01
+B00
+D07
+QHT
+QHT17
+Hải dương học
+1
+5
+6
+4
+A00
+A01
+B00
+D07
+QHT
+QHT92
+Tài nguyên và môi trường nước*
+15
+6
+4
+A00
+A01
+B00
+D07
+QHT
+QHT18
+Địa chất học
+17
+9
+4
+A00
+A01
+D10
+D07
+QHT
+QHT20
+Quản lý tài nguyên và môi trường
+59
+27
+4
+A00
+A01
+D10
+D07
+3.

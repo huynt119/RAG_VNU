@@ -1,0 +1,66 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewpage_143.txt
+
+e)    Mã phương thức xét tuyển
+Năm 2023, tất cả các ngành đào tạo của Nhà trường đều được tuyển sinh theo các phương thức xét tuyển sau:
+Bảng 7. Mã phương thức xét tuyển
+TT
+Mã 2023
+Tên phương thức xét tuyển
+1
+100
+Xét tuyển dựa theo kết quả thi tốt nghiệp THPT năm 2023
+2
+401
+Xét tuyển dựa theo kết quả thi Đánh giá năng lực do ĐHQGHN tổ chức
+3
+408
+Xét tuyển theo chứng chỉ quốc tế gồm
+S
+A
+T, A
+-Level, ACT
+4
+409
+Xét tuyển kết hợp kết quả thi tốt nghiệp THPT 2023 với chứng chỉ tiếng Anh quốc tế
+5
+301
+Xét tuyển thẳng theo quy định của Quy chế tuyển sinh của Bộ GD
+&ĐT
+(Điều 8)
+6
+303
+Xét tuyển thẳng theo cơ chế đặc thù của ĐHQGHN
+7
+500
+Xét tuyển thí sinh diện dự bị đại học
+8
+501
+Ưu tiên xét tuyển theo quy định của Quy chế tuyển sinh của Bộ GD
+&ĐT và
+cơ chế đặc thù của ĐHQGHN
+1.6.3    Tổ hợp môn xét tuyển theo kết quả thi tốt nghiệp THPT
+-    Toán, Lý, Hóa (A00);
+-    Toán, Anh, Lý (A01);
+-    Toán, Anh, Văn (Toán, Anh hệ số 2) (D01);
+-    Riêng đối với ngành Công nghệ nông nghiệp xét tuyển các tổ hợp: Toán, Lý, Hóa (A00); Toán, Anh, Lý (A01); Toán, Hóa, Sinh (B00);
+1.6.4    Cách tính điểm xét tuyển:
+a) Cách tính điểm xét tuyển (gọi tắt là ĐX) theo kết quả thi tốt nghiệp THPT năm 2023 như sau:
+ĐX = (Môn1 + Môn2 + Môn3) + Điểm ƯT (ĐT, KV)
+Riêng tổ hợp D01 điểm xét tuyển được tính như sau:
+ĐX = (Môn chính1 x 2 + Môn chính2 x 2 + Môn3) x 3/5 + Điểm ƯT (ĐT, KV)
+Đối với các tổ hợp xét tuyển có môn Tiếng Anh, Trường ĐHCN chỉ sử dụng kết quả điểm thi trong kỳ thi tốt nghiệp THPT năm 2023, không sử dụng kết quả miễn thi môn Tiếng Anh theo quy định tại Quy chế xét công nhận tốt nghiệp THPT của Bộ GD&ĐT. b) Cách tính điểm xét tuyển theo kết quả thi ĐGNL(HSA) do ĐHQGHN tổ chức
+ĐX = (Tư duy định lượng x 2 + Tư duy định tính + Điểm Khoa học) * 30/200 + Điểm ƯT (ĐT, KV)
+c) Cách tính điểm xét tuyển theo các chứng chỉ quốc tế
+- SAT: ĐX = điểm SAT * 30/1600 + Điểm ƯT (ĐT, KV)
+- A-Level: ĐX = (Toán + Lý + Hóa)/10 + Điểm ƯT (ĐT, KV)
+- ACT: ĐX = điểm ACT * 30/36 + Điểm ƯT (ĐT, KV)
+d) Cách tính điểm xét tuyển kết hợp kết quả thi tốt nghiệp THPT 2023 với chứng chỉ tiếng Anh quốc tế (IELTS/TOEFL iBT)
+ĐX = Điểm Tiếng Anh đã quy đổi + Điểm Toán + Điểm Lý + Điểm ƯT (ĐT, KV)
+Lưu ý:
+- ĐX được làm tròn đến hai chữ số thập phân;
+- Điểm chuẩn trúng tuyển vào các ngành tuyển sinh năm 2023 của Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội sẽ được công bố theo thang điểm 30. - Từ năm 2023, điểm ưu tiên đối với thí sinh đạt tổng điểm từ 22.5 trở lên (khi quy đổi về điểm theo thang 10 và tổng điểm 3 môn tối đa là 30) được xác định theo công thức sau:
+Điểm ƯT = [(30 – Tổng điểm đạt được)/7.5] x Mức điểm ưu tiên theo quy định của Bộ
+1.6.5    Chênh lệch điểm chuẩn trúng tuyển
+Trong cùng một mã xét tuyển theo các tổ hợp môn, điểm trúng tuyển theo các tổ hợp là như nhau. 1.6.6    Điều kiện phụ khi xét tuyển
+Trong trường hợp số thí sinh đạt ngưỡng điểm trúng tuyển vượt quá chỉ tiêu ngành, các thí sinh bằng điểm xét tuyển ở cuối danh sách sẽ được xét trúng tuyển theo điều kiện phụ như sau:
+a) Theo phương thức xét tuyển dựa trên kết quả thi tốt nghiệp THPT và phương thức xét tuyển kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ tiếng Anh quốc tế: điều kiện phụ được xét lần lượt là ưu tiên thí sinh có điểm môn Toán cao hơn, nếu vẫn còn vượt chỉ tiêu thì ưu tiên thí sinh có nguyện vọng cao hơn. b) Theo phương thức xét tuyển dựa trên kết quả bài thi ĐGNL: điều kiện phụ được xét lần lượt là ưu tiên thí sinh có điểm phần tư duy định lượng cao hơn, nếu vẫn còn vượt chỉ tiêu thì ưu tiên thí sinh có nguyện vọng cao hơn.

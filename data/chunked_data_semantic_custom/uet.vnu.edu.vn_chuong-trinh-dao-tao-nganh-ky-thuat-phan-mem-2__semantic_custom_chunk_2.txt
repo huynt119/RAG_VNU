@@ -1,0 +1,19 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-phan-mem-2_.txt
+
+d. Về năng lực tự chủ và trách nhiệm
+Có năng lực phát hiện và giải quyết các vấn đề thuộc chuyên môn đào tạo và đề xuất những sáng kiến có giá trị; có khả năng tự định hướng phát triển năng lực cá nhân, thích nghi với môi trường làm việc có tính cạnh tranh cao và năng lực dẫn dắt chuyên môn; đưa ra được những kết luận mang tính chuyên gia về các vấn đề phức tạp của chuyên môn, nghiệp vụ; bảo vệ và chịu trách nhiệm về những kết luận chuyên môn; có khả năng xây dựng, thẩm định kế hoạch; có năng lực phát huy trí tuệ tập thể trong quản lý và hoạt động chuyên môn; có khả năng nhận định đánh giá và quyết định phương hướng phát triển nhiệm vụ công việc được giao; có khả năng dẫn dắt chuyên môn để xử lý những vấn đề lớn. Chuẩn về kỹ năng
+a. Kỹ năng nghề nghiệp
+Có kỹ năng hoàn thành công việc phức tạp, không thường xuyên xảy ra, không có tính quy luật, khó dự báo; có kỹ năng nghiên cứu độc lập để phát triển và thử nghiệm những giải pháp mới, phát triển các công nghệ mới trong lĩnh vực được đào tạo;
+Biết vận dụng các quy trình phát triển phần mềm, các mô hình phát triển phần mềm hiện đại và các kỹ thuật tương ứng để xây dựng một hệ thống phần mềm có chất lượng;
+Biết vận dụng các khái niệm chung liên quan đến kiến thức về các lĩnh vực cơ bản của Công nghệ Thông tin như Trí tuệ nhân tạo, Tương tác người máy, Mật mã và an toàn dữ liệu, …;
+Vận dụng tốt các kỹ thuật về phân tích và thiết kế hệ thống cho phát triển các phần mềm phức tạp;
+Vận dụng được các quy trình đảm bảo chất lượng, các kỹ thuật về kiểm thử và đảm bảo chất lượng phần mềm. Có khả năng xây dựng các công cụ hỗ trợ kiểm thử tự động;
+Vận dụng được các kiến trúc phần mềm hiện đại trong việc xây dựng các hệ thống phần mềm;
+Biết cách hình thức hóa các yêu cầu phần mềm, sử dụng được một số ngôn ngữ và công cụ hỗ trợ việc hình thức hóa;
+Biết quản lý các dự án phần mềm nói riêng và dự án CNTT nói chung;
+Vận dụng các kiến thức liên quan đến quản lý dự án phần mềm trong công việc như quy trình lập kế hoạch, sắp xếp công việc, quản lý thời gian và nguồn lực, …;
+Biết cách cập nhật các kiến thức hiện đại trong chuyên ngành Kỹ thuật phần mềm;
+Vận dụng các kỹ thuật, các công nghệ mới trong ngành Công nghệ Thông tin, ứng dụng trong phát triển các phần mềm đặc biệt, bảo đảm chất lượng của hệ thống. Biết sử dụng các công cụ phần mềm hỗ trợ trong công việc;
+Biết tìm kiếm, cập nhật, tổng hợp, khai thác thông tin;
+Biết sử dụng các kiến thức chuyên môn một cách linh hoạt;
+Có năng lực nghiên cứu và khả năng lãnh đạo.

@@ -1,0 +1,27 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewpage_154.txt
+
+Sử dụng điểm quy đổi môn ngoại ngữ theo Quy chế tuyển sinh của Bộ GD&ĐT. 2
+Xét tuyển kết quả thi ĐGNL do ĐHQGHN tổ chức
+ĐQĐ (401) = Điểm thi (HSA)* 30/200 + Điểm ƯT (ĐT, KV)
+3
+Xét tuyển kết quả thi ĐGNL do ĐHQG TP HCM tổ chức
+ĐQĐ (403) = Điểm thi (APT)* 30/1200 + Điểm ƯT (ĐT, KV)\
+4
+Xét tuyển kết quả trong kỳ thi chuẩn hóa SAT
+ĐQĐ (408-SAT) = Điểm thi SAT * 30/1600 + Điểm ƯT (ĐT, KV)
+5
+Xét tuyển kết quả trong kỳ thi chuẩn hóa ACT
+ĐQĐ (408-ACT) = Điểm thi ACT * 30/36 + Điểm ƯT (ĐT, KV)
+6
+Xét tuyển chứng chỉ A-Level
+ĐQĐ (408-A-Level) = (Điểm 3 môn trong tổ hợp xét tuyển)/10 + Điểm ƯT (ĐT, KV)
+Bắt buộc có môn Ngữ văn hoặc môn Toán trong tổ hợp xét tuyển tương ứng đối với ngành
+7
+Xét tuyển chứng chỉ ngoại ngữ kết hợp điểm thi tốt nghiệp THPT năm 2024
+ĐQĐ (409) = Điểm ngoại ngữ quy đổi + Điểm 2 môn thi THPT còn lại trong tổ hợp xét tuyển + Điểm ƯT (ĐT, KV)
+Sử dụng điểm quy đổi ngoại ngữ theo quy định ngưỡng đầu vào của phương thức. Bắt buộc có môn Ngữ văn hoặc môn Toán trong tổ hợp xét tuyển tương ứng đối với ngành
+6.4.3 Nguyên tắc cộng điểm ưu tiên khu vực, đối tượng
+- Trường Đại học Việt Nhật áp dụng cộng điểm ưu tiên khu vực, đối tượng theo Quy chế tuyển sinh đại học của Bộ GD&ĐT;
+Năm 2024, điểm ưu tiên đối với thí sinh đạt tổng điểm từ 22.5 trở lên (khi quy đổi về điểm theo thang 10 và tổng điểm 3 môn tối đa là 30) được xác định theo công thức sau (áp dụng quy định của Quy chế tuyển sinh đại học hiện hành của Bộ GD&ĐT):
+Điểm ƯT = [(30 – Tổng điểm đạt được)/7.5] x Mức điểm ưu tiên theo quy định của Bộ GD&ĐT
+Điểm ưu tiên khu vực, đối tượng chỉ áp dụng khi xác định điểm chuẩn của phương thức xét tuyển kết quả thi tốt nghiệp THPT năm 2024.

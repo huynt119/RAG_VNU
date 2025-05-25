@@ -1,0 +1,45 @@
+Computer Center
+1. Functions:
+Counseling and assisting the Rector in managing the University’s information technology infrastructure; deploying technology, administering shared information technology technical facilities undertaken by the Center.
+2. Missions:
+Formulating strategies to develop the university’s information and communication technology infrastructure; planning and developing a shared software system, applying information technology in research and training at the university; technically assuring of computer labs managed by the Center; supporting users, maintaining personal computer systems for functional units;
+Administering online video conferencing system; managing and maintaining the university’s Website systems; Administering email system, account system for staff and learners.
+Implementing online enrollment; operating multiple-choice marking systems; standardizing and training information technology application skills.
+3. Human resource:
+Num
+Full name
+Position
+Email
+1
+MSc. Do Hoang Kien
+Center Director
+kiendh@vnu.edu.vn
+2
+MSc. Luong Viet Nguyen
+Center Deputy Director
+nguyenlv@vnu.edu.vn
+3
+MSc. Phung Chi Dung
+Researcher
+dungpc@vnu.edu.vn
+4
+B. Le Minh Duc
+Engineer
+duclm@vnu.edu.vn
+5
+B. Khuong Tuan Dung
+Engineer
+dungkt@vnu.edu.vn
+6
+MSc. Tran Anh Tuan
+Engineer
+tuanta91@vnu.edu.vn
+4. Address:
+G2B Building, 144 Xuan Thuy Street, Cau Giay District, Ha Noi. Tel: (024) 3754 7463
+Website:
+http://ccne.uet.vnu.edu.vn
+By admin
+|
+Uncategorized
+|
+4506 Views

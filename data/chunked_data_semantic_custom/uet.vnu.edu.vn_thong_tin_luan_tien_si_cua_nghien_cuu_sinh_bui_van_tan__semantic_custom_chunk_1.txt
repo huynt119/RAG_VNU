@@ -1,0 +1,15 @@
+Nguồn: uet.vnu.edu.vn_thong_tin_luan_tien_si_cua_nghien_cuu_sinh_bui_van_tan_.txt
+
+Tóm tắt các
+kết quả mới
+của luận án:
+Luận án này nhắm đến nâng cao hiệu năng của các mô hình tự động xác định bốn quan hệ ngữ nghĩa của từ gồm
+bao thuộc
+,
+đồng nghĩa
+,
+trái nghĩa
+,
+tương đồng ngữ nghĩa
+. Những kết quả chính của luận án như sau:
+Thứ nhất, luận án đã đề xuất một cải tiến cho mô hình mạng nơ-ron có trọng số động (Dynamic Weighting Neural Network – DWN) được đề xuất bởi Anh Tuan Luu và cộng sự. Mô hình cải tiến được gọi là EDWN, có khả năng học các vector nhúng từ chuyên biệt, các vector nhúng này được “chuyên biệt hóa” các đặc trưng về ngữ nghĩa, qua đó phù hợp cho bài toán xác định quan quan hệ bao thuộc. Thứ hai, Luận án đã xác định các đặc trưng ngữ nghĩa mức dưới từ, và đề xuất một lược đồ trích chọn những đặc trưng này. Để xác định quan hệ bao thuộc, luận án đề xuất mô hình LERC, mô hình này đã sử dụng đặc trưng đầu vào được kết hợp từ vector nhúng từ và vector đặc trưng ngữ nghĩa dưới từ. Kết quả thực nghiệm được đánh giá trên một số bộ dữ liệu chuẩn của cả tiếng Anh, tiếng Việt đã chứng minh mô hình được đề xuất trong luận án có hiệu năng cao hơn đáng kể so với các mô hình tốt nhất tại cùng thời điểm. Thứ ba, luận án đã đề xuất mô hình mạng nơ-ron DVASNet.

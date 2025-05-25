@@ -1,0 +1,178 @@
+Nguồn: uet.vnu.edu.vn_lich_hoc_bo_sung_kien_thuc_ky_thi_tuyen_sinh_sau_dai_hoc_dot_2_nam_2018_.txt
+
+LỊCH HỌC BỔ SUNG KIẾN THỨC KỲ THI TUYỂN SINH SAU ĐẠI HỌC ĐỢT 2 NĂM 2018
+TT
+Ngày
+Thứ
+Giờ học
+Giảng đường
+Môn học
+Giảng viên
+1
+29/08/2018
+4
+18h00
+210-E3
+Cấu trúc dữ liệu và giải thuật
+TS. Bùi Ngọc Thăng
+2
+01/09/2018
+7
+8h00
+210-E3
+Cấu trúc dữ liệu và giải thuật
+TS. Bùi Ngọc Thăng
+3
+05/09/2018
+4
+18h00
+210-E3
+Cấu trúc dữ liệu và giải thuật
+TS. Bùi Ngọc Thăng
+4
+08/09/2018
+7
+8h00
+210-E3
+Cấu trúc dữ liệu và giải thuật
+TS. Bùi Ngọc Thăng
+5
+25/08/2018
+7
+14h00
+210-E3
+Cơ sở dữ liệu
+TS.Nguyễn Tuệ
+6
+28/08/2018
+3
+18h00
+210-E3
+Cơ sở dữ liệu
+TS.Nguyễn Tuệ
+7
+04/09/2018
+3
+18h00
+210-E3
+Cơ sở dữ liệu
+TS.Nguyễn Tuệ
+8
+08/09/2018
+7
+14h00
+210-E3
+Cơ sở dữ liệu
+TS.Nguyễn Tuệ
+9
+24/08/2018
+6
+18h00
+210-E3
+Lập trình nâng cao
+TS. Nguyễn Văn Vinh
+10
+31/08/2018
+6
+18h00
+210-E3
+Lập trình nâng cao
+TS. Nguyễn Văn Vinh
+11
+01/09/2018
+7
+14h00
+210-E3
+Lập trình nâng cao
+TS. Nguyễn Văn Vinh
+12
+07/09/2018
+6
+18h00
+210-E3
+Lập trình nâng cao
+TS. Nguyễn Văn Vinh
+13
+25/08/2018
+7
+8h00
+210-E3
+Toán rời rạc
+TS. Tô Văn Khánh
+14
+27/08/2018
+2
+18h00
+103-G2
+Toán rời rạc
+TS. Tô Văn Khánh
+15
+30/08/2018
+5
+18h00
+304-GĐ2
+Toán rời rạc
+TS. Tô Văn Khánh
+16
+06/09/2018
+5
+18h00
+304-GĐ2
+Toán rời rạc
+TS. Tô Văn Khánh
+17
+25/08/2018
+7
+8h00
+303-G2
+Kỹ thuật điện tử số
+TS. Bùi Thanh Tùng
+18
+29/08/2018
+4
+18h00
+303-G2
+Kỹ thuật điện tử số
+TS. Bùi Thanh Tùng
+19
+01/09/2018
+7
+8h00
+303-G2
+Kỹ thuật điện tử số
+TS. Bùi Thanh Tùng
+20
+04/09/2018
+3
+18h00
+304-G2
+Kỹ thuật điện tử số
+TS. Bùi Thanh Tùng
+21
+25/08/2018
+7
+14h00
+303-G2
+Xử lý tín hiệu số
+PGS.TS. Trần Đức Tân
+22
+01/09/2018
+7
+14h00
+303-G2
+Xử lý tín hiệu số
+PGS.TS. Trần Đức Tân
+23
+08/09/2018
+7
+8h00
+303-G2
+Xử lý tín hiệu số
+PGS.TS. Trần Đức Tân
+24
+08/09/2018
+7
+14h00
+303-G2
+Xử lý tín hiệu số
+PGS.TS.

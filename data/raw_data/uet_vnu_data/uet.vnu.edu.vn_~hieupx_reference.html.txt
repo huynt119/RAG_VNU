@@ -1,0 +1,123 @@
+Conferences
+and
+Journals
+:
+NLP conferences
+:
+ACL
+,
+NAACL
+,
+EMNLP
+,
+HLT
+,
+CoNLL
+,
+COLING
+,
+EACL
+,
+MT Summit
+,
+IJCNLP
+,
+PACLING
+, ...
+NLP journals
+:
+Computational Linguistics
+,
+Natural Language Engineering
+,
+ACM Transactions on Asian Language Information Processing (ACM TALIP)
+,
+Computer Speech and Language
+, ...
+Machine Learning conferences
+:
+NIPS
+,
+ICML
+,
+COLT
+,
+ECML
+, ...
+Machine Learning journals
+:
+JMLR
+,
+IEEE PAMI
+,
+MLJ
+, ...
+AI conferences
+:
+AAAI
+,
+IJCAI
+,
+AISTATS
+,
+UAI
+, ...
+AI journals
+:
+JAIR
+,
+Artificial Intelligence
+, ...
+IR, WWW, and Information Systems conferences
+:
+SIGIR
+,
+WWW
+,
+WSDM
+,
+ICEC
+,
+ECIR
+,
+Web Intelligence
+, ...
+IR, WWW, and Information Systems journals
+:
+Information Retrieval
+,
+ACM TOIS
+,
+ACM TOIT
+, ...
+KDD and Databases conferences
+:
+SIGKDD
+,
+SDM
+,
+SIGMOD
+,
+VLDB
+,
+ICDE
+,
+ICDM
+,
+CIKM
+,
+PKDD
+, ...
+KDD and Databases journals
+:
+Data Mining and Knowledge Discovery
+,
+ACM TKDD
+,
+ACM TODS
+,
+IEEE TKDE
+,
+VLDB Journal
+, ...
+

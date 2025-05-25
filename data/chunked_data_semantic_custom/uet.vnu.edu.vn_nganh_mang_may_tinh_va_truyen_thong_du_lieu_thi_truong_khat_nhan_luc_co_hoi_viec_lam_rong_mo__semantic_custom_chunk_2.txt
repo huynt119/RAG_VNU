@@ -1,0 +1,26 @@
+Nguồn: uet.vnu.edu.vn_nganh_mang_may_tinh_va_truyen_thong_du_lieu_thi_truong_khat_nhan_luc_co_hoi_viec_lam_rong_mo_.txt
+
+Theo học ngành Mạng máy tính và Truyền thông dữ liệu tại Trường Đại học Công nghệ – ĐHQGHN, sinh viên sau khi ra trường sẽ được trang bị kiến thức, kỹ năng chuyên môn tốt, đầy đủ năng lực và phẩm chất để lựa chọn các vị trí việc làm như:
+– Về lĩnh vực Điện toán đám mây (Cloud Computing)
+Theo thống kê trên mạng xã hội nghề nghiệp Linkedln, điện toán đám mây (Cloud Computing) là một trong những kĩ năng nằm trong top 10 kĩ năng công nghệ có nhu cầu cao nhất năm 2022. Trường Đại học Công Nghệ hiện là thành viên trong chương trình đào tạo Điện toán đám mây của Amazon (Amazon AWS Educate), qua đó, sinh viên sẽ được trợ cấp dùng dịch vụ cloud của Amazon miễn phí, được tham gia đào tạo và thực hành về các chủ đề cloud và các giải pháp AWS, được tăng cơ hội nghề nghiệp qua chương trình AWS Educate Cloud Career Pathway. Sinh viên có thể lựa chọn làm các công việc sau:
+Quản trị hệ thống trung tâm dữ liệu (data center):
+Quản trị hệ thống server Window, Linux; Quản trị hệ thống web server Apache, Nginx; Quản trị hệ thống email server; Bảo mật hệ thống (Window, Linux)…
+Kỹ sư phát triển ứng dụng Cloud:
+Thiết kế, lập trình hệ thống và ứng dụng, tích hợp nền tảng Cloud Computing với các phần mềm ứng dụng; Nghiên cứu, tư vấn các giải pháp về Cloud Computing, Virtualization…
+– Về lĩnh vực Internet của vạn vật (Internet of Things – IoT)
+IoT – một trong ba lĩnh vực công nghệ 4.0 được các chuyên gia công nghệ dự đoán là sẽ định hình tương lai ngành công nghiệp 4.0 (Industrial 4.0) trong tương lai (2 lĩnh vực còn lại là Cloud Computing và Artificial Intelligent), đã và đang tạo ra thị trường việc làm vô cùng lớn. Sinh viên học tại UET có cơ hội làm việc trên phòng thực hành IoT của bộ môn để nghiên cứu những giải pháp áp dụng IoT vào nông nghiệp, công nghiệp, dịch vụ, nhà thông minh, …, được tham gia khóa học đào tạo chứng chỉ IoT do Cisco cấp bằng. Cùng với đó là cơ hội nghề nghiệp đa dạng, hấp dẫn:
+Chuyên gia phân tích dữ liệu IoT:
+Thu thập, xử lý và phân tích dữ liệu thu được từ các giải pháp IOT; Đưa ra những cơ hội kinh doanh mới nhờ dựa vào các kết quả phân tích thu thập được
+IoT Product Manager:
+Phân tích và thiết kế giải pháp IoT tổng thể (sensors, kết nối cloud, giải pháp phân tích dữ liệu…); Phân tích các cơ hội kinh doanh của một giải pháp IoT và những yêu cầu cần thiết để triển khai giải pháp
+Kỹ
+sư phát triển hệ thống IoT:
+Phân tích, thiết kế, phát triển và triển khai các hệ thống IoT, từ hệ thống phần cứng đến lập trình và triển khai phần mềm nhúng, phần mềm phía người dùng
+– Về lĩnh vực Quản trị mạng và an toàn thông tin
+Quản trị mạng và an ninh thông tin (Network management and Information Security) hiện đang là một trong những mối quan tâm hàng đầu của nhiều cơ quan, doanh nghiệp hay chính phủ. Lựa chọn định hướng chuyên môn sâu về lĩnh vực này, sinh viên có thể đảm nhận các vị trí công việc:
+Network Engineer (Kĩ sư mạng):
+Thiết kế, lắp đặt, cấu hình và bảo trì hạ tầng mạng quy mô lớn; Cài đặt, hỗ trợ và duy trì phần cứng và phần mềm cơ sở hạ tầng mạng; Sẵn sàng ứng cứu khi hệ thống gặp sự cố nhằm đảm bảo hệ thống hoạt động thông suốt 24/7
+Network Architect (Kiến trúc mạng):
+Tìm hiểu các yêu cầu về business của công ty; Đưa ra định hướng xây dựng một mạng IT đáp ứng được yêu cầu kinh doanh của công ty; Tính toán được các mức đầu tư cần thiết để triển khai thành công kiến trúc mạng đó. Network Security Engineer (Kĩ sư An ninh mạng):
+Triển khai và hỗ trợ các giải pháp liên quan đến bảo mật hệ thống như firewall, IPS, VPN; Sử dụng các công cụ kiểm tra khả năng chống tấn công mạng, các công cụ giả lập tấn công mạng; Hỗ trợ thiết kế mạng. Security Solution Engineer (Kỹ sư đưa ra các giải pháp bảo toàn An ninh mạng):
+Nghiên cứu, cập nhật công nghệ, nhu cầu và định hướng của thị trường bảo mật, các giải pháp của các hãng bảo mật; Đề xuất, tư vấn lãnh đạo roadmap về công nghệ trong lĩnh vực bảo mật phù hợp với nhu cầu của công ty;….

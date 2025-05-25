@@ -1,0 +1,80 @@
+Nguồn: uet.vnu.edu.vn_danh-sach-cac-de-tai-nhiem-vu-nam-2018-2_.txt
+
+Danh sách các đề tài, nhiệm vụ năm 2018
+MS
+Tên đề tài/nhiệm vụ
+Chủ nhiệm đề tài/nhiệm vụ
+Đơn vị
+Bắt đầu
+Kết thúc
+Tình trạng
+CN18.01
+Nghiên cứu ảnh hưởng của việc tái sử dụng tần số trong mạng thông tin di động 4G
+Lâm Sinh Công
+Khoa ĐTVT
+T7/2018
+T7/2019
+Đã nghiệm thu
+CN18.02
+Nghiên cứu thiết kế bộ ổn áp DC phục vụ khai thác năng lượng mặt trời
+Phạm Thị Việt Hương
+Khoa ĐTVT
+T7/2018
+T7/2019
+Đã nghiệm thu
+CN18.03
+Nghiên cứu và xây dựng phần mềm hỗ trợ bác sỹ trong việc chuẩn đoán và điều trị bệnh nhân ung thư gan sử dụng ảnh cắt lớp CT
+Lưu Mạnh Hà
+Khoa ĐTVT
+T7/2018
+T7/2019
+Đã nghiệm thu
+CN18.04
+Áp dụng công nghệ CNC gia công một số sản phẩm gia dụng
+Trần Thanh Tùng
+Khoa CHKT&TĐH
+T7/2018
+T7/2019
+Đã nghiệm thu
+CN18.05
+Mô phỏng quang học của pin mặt trời đa lớp cấu trúc phẳng
+Nguyễn Đức Cường
+Khoa VLKT&CNNN
+T7/2018
+T7/2019
+Đã nghiệm thu
+CN18.06
+Nghiên cứu tính chất và mô phỏng quá trình đảo từ cảm ứng điện trường của vật liệu 3d/PZT cấu trúc nano
+Nguyễn Thị Minh Hồng
+Khoa VLKT&CNNN
+T7/2018
+T7/2019
+Đã nghiệm thu
+CN18.07
+Phát hiện spam trên mạng xã hội Twitter
+Lê Thị Hợi
+Khoa CNTT
+T7/2018
+T7/2019
+CN18.08
+Theo dấu chuyển động bàn tay sử dụng kết hợp phương pháp generative và discriminative
+Ngô Thị Duyên
+Khoa CNTT
+T7/2018
+T7/2019
+Đã nghiệm thu
+CN18.09
+Nhận dạng và Liên kết Thực thể cho Tiếng Việt
+Nguyễn Bá Đạt
+T7/2018
+T7/2019
+CN18.10
+Thiết kế và mô hình hóa phương pháp sửa lỗi mềm dựa trên mã chẵn lẻ dùng cho truyền thông trong chip
+Đặng Nam Khánh
+PTN SIS
+T7/2018
+T7/2019
+Đã nghiệm thu
+QG.18.35
+Nghiên cứu giải pháp loại bỏ nhiễu, nâng cao hiệu năng mạng và phát triển phần mềm mô phỏng mạng truyền thông ánh sáng nhìn thấy sử dụng các chùm sáng định hướng
+TS.

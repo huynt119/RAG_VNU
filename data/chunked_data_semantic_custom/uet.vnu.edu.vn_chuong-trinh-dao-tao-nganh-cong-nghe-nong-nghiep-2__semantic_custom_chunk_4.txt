@@ -1,0 +1,26 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-nong-nghiep-2_.txt
+
+Kiến thức tin học
+Giải thích được các kiến thức cơ bản về thông tin;
+Sử dụng được công cụ xử lý thông tin thông dụng (hệ điều hành, các phần mềm hỗ trợ công tác văn phòng và khai thác Internet,…);
+Có khả năng phân tích, đánh giá và lập trình một ngôn ngữ lập trình;
+Có khả năng phân tích, đánh giá phương pháp lập trình hướng thủ tục và lập trình hướng đối tượng; phân biệt được ưu và nhược điểm của hai phương pháp lập trình;
+Hiểu các kiến thức cơ bản về nguyên lý hoạt động của hệ thống phần cứng, phần mềm, tối ưu hóa hệ thống kết hợp giữa phần cứng và phần mềm. Kiến thức của khối ngành
+Vận dụng được các phương pháp phân tích tín hiệu, phân tích và thiết kế hệ thống trong các miền biểu diễn khác nhau;
+Vận dụng được các kiến thức liên quan đến thực vật, động vật và vi sinh vật học;
+Vận dụng được các khái niệm cơ bản về các công nghệ ứng dụng trong nông nghiệp
+1.4. Kiến thức của nhóm ngành
+Vận dụng được các kiến thức cơ bản về trồng trọt, chăn nuôi và nuôi trồng thủy hải sản; phân tích được các quá trình sinh học ở sinh vật; hóa hữu cơ và hóa phân tích ứng dụng trong nông nghiệp;
+Vận dụng được các kiến thức cơ bản về kỹ thuật điện, điện tử số;
+Vận dụng được các kiến thức cơ bản về tín hiệu và các hệ thống điều khiển;
+Sử dụng thành thạo một ngôn ngữ lập trình cơ bản;
+Vận dụng các thuật toán cơ bản liên quan đến sắp xếp tìm kiếm và các thuật toán khác trên các cấu trúc dữ liệu;
+Vận dụng được các kiến thức về quản trị sản xuất và logistics trong nông nghiệp. Kiến thức ngành
+Kiến thức rộng: Vận dụng các kiến thức theo các định hướng chuyên ngành của ngành Công nghệ Nông nghiệp như: hệ sinh thái nông nghiệp, đất canh tác, bảo vệ thực vật, công nghệ sau thu hoạch, hệ thống kiểm định chất lượng nông sản và thực phẩm. Kiến thức sâu: Vận dụng thành thạo các kiến thức liên quan đến các định hướng công nghệ chuyên sâu, bao gồm:
++ Nông nghiệp kỹ thuật số
+:
+tổng hợp được các kiến thức kiến trúc máy tính và mạng máy tính, kỹ thuật đo lường và cảm biến ứng dụng trong nông nghiệp, vi xử lý và vi điều khiển, PLC ứng dụng trong nông nghiệp, cơ sở dữ liệu, phát triển ứng dụng Internet of Things, phát triển ứng dụng Web, trí tuệ nhân tạo; viết được chương trình phần mềm theo phương pháp lập trình hướng đối tượng;
++ Công nghệ sinh học nông nghiệp
+:
+tổng hợp được các kiến thức về kỹ thuật công nghệ như: công nghệ sinh học phân tử, công nghệ vi sinh nông nghiệp, công nghệ tế bào động và thực vật, công nghệ nhân giống cây trồng và vật nuôi, công nghệ sinh học nấm ăn, nấm dược liệu và vi tảo;
++ Các lĩnh vực chung: Tổng hợp được các kiến thức về thiết kế, quản lý và vận hành được các hệ thống thiết bị nông nghiệp, công nghệ tưới tiêu và cung cấp dinh dưỡng cho cây trồng, tin sinh học, kiểm soát ô nhiễm trong sản xuất nông nghiệp, marketing trong nông nghiệp. + Vận dụng thành thạo và sáng tạo các kiến thức thực tập thiết kế, vận hành các hệ thống nông nghiệp trong môi trường phòng thí nghiệm và tại các cơ sở doanh nghiệp nghiên cứu và triển khai công nghệ. + Tự thiết kế được một số hệ thống nông nghiệp, hệ thống điều khiển tự động phục vụ yêu cầu của ứng dụng thực tế đáp ứng nguyện vọng nghề nghiệp tương lai.

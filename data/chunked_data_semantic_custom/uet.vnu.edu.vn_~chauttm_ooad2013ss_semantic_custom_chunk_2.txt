@@ -1,0 +1,114 @@
+Nguồn: uet.vnu.edu.vn_~chauttm_ooad2013ss.txt
+
+lab04
+06
+Phân tích kiến trúc
+Đọc mục 3.3, chương 3 trong tài liệu [TL5]
+Đọc chương 13, 33, 34, 39 trong [TL4]
+Đọc tài liệu
+giới thiệu về mẫu thiết kế
+Tìm hiểu ví dụ về
+tài liệu kiến trúc
+Tham khảo tài liệu về
+làm tài liệu kiến trúc phần mềm
+lab05
+07
+Phân tích ca sử dụng
+Đọc mục 3.4, chương 3 trong tài liệu [TL5]
+Đọc chương 9, 23, 25, 30 trong [TL4]
+Đọc
+ví dụ về phân tích ca sử dụng
+lab06
+08
+Xác định các phần tử thiết
+kế
+Đọc mục 4.1, chương 4 trong tài liệu [TL5]
+Đọc chương 5 (trang 69-75), trang 134, 318, 413-418, 504-508, và 633 trong [TL2]
+Đọc chương 13 trong [TL4]
+Tìm hiểu đặc tả thiết kế từ file
+07identelements-mech.mdl
+trong [TL1]
+Đọc
+ví dụ về xác định các phần tử thiết kế
+lab07
+09
+Xác định các cơ chế thiết kế
+Mô tả kiến trúc
+thực thi
+và
+phân tán
+Đọc mục 4.2, chương 4 trong tài liệu [TL5]
+Đọc chương 17-18 trong tài liệu [TL4]
+Đọc
+ví dụ về xác định các cơ chế thiết kế
+Đọc mục 4.3, 4.4 chương 4 trong tài liệu [TL5]
+Tìm hiểu đặc tả thiết kế từ file
+08describerun-timearch.mdl và 09descrdis.mdl
+trong [TL1]
+Xem ví dụ về RMI
+Đọc ví dụ về mô tả kiến trúc
+thực thi
+và
+phân tán
+lab08
+10
+Thiết kế ca sử dụng
+Đọc mục 4.5 chương 4 trong tài liệu [TL5]
+Đọc chương 31,35,37 trong tài liệu [TL4]
+Tìm hiểu đặc tả thiết kế từ file
+10ucdesign.mdl
+trong [TL1]
+Đọc
+ví dụ về thiết kế ca sử dụng
+lab09
+11
+(17/4) tự học tại nhà để chuẩn bị nộp bài tập lớn
+Tham khảo mẫu trong [TL1] và [TL6]
+Hạn nộp báo cáo phân tích yêu cầu
+(
+nộp qua Bitbucket
+)
+lab10
+12
+(24/4)
+Báo cáo bài tập lớn - Nội dung phân tích yêu
+cầu
+Tiếp tục đọc tài liệu của các tuần 9, 10.
+lab11
+13
+Thiết kế hệ thống con
+Đọc mục 4.6 chương 4 trong tài liệu [TL5]
+Tìm hiểu đặc tả thiết kế từ file
+11ssdesign.mdl
+trong [TL1]
+Đọc
+ví dụ về thiết kế hệ thống con
+lab12
+14
+Thiết kế lớp
+Thiết kế cơ sở dữ liệu
+Đọc mục 4.7 chương 4 trong tài liệu [TL5]
+Tìm hiểu đặc tả thiết kế từ file
+12aclassdesign.mdl, 12bclassdesign.mdl
+trong [TL1]
+Đọc
+ví dụ về thiết kế lớp
+lab13
+15
+Báo cáo tổng hợp bài tập lớn
+Hỏi và trả lời
+Tham khảo mẫu trong [TL1] và [TL6] để làm báo cáo thiết kế
+Hạn nộp báo cáo cá nhân(
+xem chi tiết tại thông báo ở đầu trang
+)
+lab14
+Đánh giá (dự kiến)
+Chuyên cần: 5%
+Bài tập thực hành: 5-10%
+Bài tập lớn: 25-30%
+Thi cuối kỳ: 60%
+Điểm cộng dựa vào chứng chỉ IBM
+Lưu ý
+Sao chép bài sẽ không được dự thi cuối kỳ
+Nộp bài tập chậm sẽ không được chấp nhận
+Last updated on 27/02/2013

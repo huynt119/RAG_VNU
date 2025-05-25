@@ -1,0 +1,6 @@
+Nguồn: uet.vnu.edu.vn_truong_dai_hoc_cong_nghe_tung_buoc_lam_chu_cong_nghe_dien_gio_hieu_nang_cao_.txt
+
+Hệ thống điều khiển cho thiết bị chuyển đổi công suất trong hệ thống điện gió
+Trong quá trình hoạt động của hệ thống điện gió thì hệ thống chuyển đổi công suất và các bộ điều khiển là những thành phần quan trọng nhưng lại có tỷ lệ hư hỏng lớn nhất. Vì vậy nhóm nghiên cứu Bộ môn Công nghệ Cơ điện tử – Trường ĐHCN – ĐHQGHN do PGS.TS Phạm Mạnh Thắng, chủ nhiệm Bộ môn Công nghệ Cơ điện tử đã thực hiện nội dung nghiên cứu làm chủ công nghệ trong thiết kế ứng dụng và giám sát tự động từ xa các thông số của bộ chuyển đổi công suất này. Cổng thông tin điện tử ĐHQGHN đã có cuộc trao đổi cùng PGS.TS Phạm Mạnh Thắng – Chủ nhiệm đề tài để tìm hiểu rõ hơn về tính ưu việt và ứng dụng thực tế của sản phẩm hệ thống chuyển đổi công suất chuyên dụng cho thiết bị điện gió nhỏ gọn hiệu năng cao (CART) này. Sơ đồ khối hệ thống giám sát quy trình
+chuyển đổi công suất cho thiết bị CART
+Thưa PGS, Ông có thể chia sẻ thêm về căn cứ thực tiễn để nhóm quyết định nghiên cứu về đề tài nghiên cứu làm chủ công nghệ và thiết kế, chế tạo hệ thống chuyển đổi công suất chuyên dụng cho thiết bị điện gió nhỏ gọn hiệu năng cao (CART) này?

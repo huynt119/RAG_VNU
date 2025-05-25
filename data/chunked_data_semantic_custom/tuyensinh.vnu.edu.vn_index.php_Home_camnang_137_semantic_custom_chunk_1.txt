@@ -1,0 +1,68 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_camnang_137.txt
+
+Thông tin danh mục ngành được phép đào tạo:
+Đường link công khai danh mục ngành được phép đào tạo trên trang thông tin điện tử của CSĐT:
+http://ump.vnu.edu.vn/dao-tao/dao-tao-he-chinh-quy/nganh-dao-tao
+STT
+Tên ngành
+Mã ngành
+Số văn bản cho phép mở ngành
+Ngày tháng năm ban hành văn bản cho phép mở ngành
+Số QĐ chuyển đổi tên ngành (gần nhất)
+Ngày tháng năm ban hành Số QĐ chuyển đổi tên ngành (gần nhất)
+Trường tự chủ QĐ hoặc Cơ quan có thẩm quyền cho phép
+Năm bắt đầu đào tạo
+Năm đã tuyển sinh và đào tạo gần nhất
+1
+Răng - Hàm - Mặt
+7720501
+605/QĐ-ĐHQGHN
+27/02/2017
+Đại học Quốc Gia Hà Nội
+2017
+2021
+2
+Y khoa
+7720101
+1291/QĐ-ĐT
+17/04/2012
+250/QĐ-ĐHQGHN
+18/01/2018
+Đại học Quốc Gia Hà Nội
+2018
+2021
+3
+Kỹ thuật xét nghiệm y học
+7720601
+708/QĐ-ĐHQGHN
+13/03/2019
+Đại học Quốc Gia Hà Nội
+2019
+2021
+4
+Kỹ thuật hình ảnh y học
+7720602
+709/QĐ-ĐHQGHN
+13/03/2019
+Đại học Quốc Gia Hà Nội
+2019
+2021
+5
+Dược học
+7720201
+1291/QĐ-ĐT
+17/04/2012
+250/QĐ-ĐHQGHN
+18/01/2018
+Đại học Quốc Gia Hà Nội
+2012
+2021
+6
+Điều dưỡng
+7720301
+816/QĐ-ĐHQGHN
+13/03/2020
+Đại học Quốc Gia Hà Nội
+2020
+2021
+10.

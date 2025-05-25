@@ -1,0 +1,27 @@
+Assignment
+6A
+Điểm: 2%
+Câu 1. (1.5)
+Cài các class như trong hình.
+Square là biểu thức bình phương. Square.expression là biểu
+thức dưới dấu bình phương. Addition là phép cộng,
+left, right là các biểu thức là toán hạng trái và phải
+của phép cộng. BinaryExpresion là biểu thức đôi, là
+khái niệm tổng quát của phép cộng, trừ, nhân chia.
+Expression là biểu thức nói chung. Numeral là biểu thức
+chỉ gồm 1 giá trị số int. Cài đè hàm evaluate() và
+hàm toString() cho từng class. Evaluate có nhiệm vụ tính toán
+và trả về giá trị kiểu int là kết quả của
+biểu thức. Cho trước file TestExpressions.java tại
+project mẫu.
+Câu 2. (.5)
+Bổ sung các lớp
+Subtraction (trừ), Multiplication (nhân) Sửa lớp TestExpression
+để thêm test cho các lớp mới.
+Assignment
+6B
+Điểm: 1%
+Câu 1. Sửa bài làm phần 6A, sử dụng
+abstract ở bất cứ nơi nào có thể.
+Câu 2. Sửa bài làm phần 6A, sử dụng
+interface thay vì các lớp trừu tượng.

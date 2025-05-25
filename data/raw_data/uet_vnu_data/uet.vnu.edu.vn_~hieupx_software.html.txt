@@ -1,0 +1,35 @@
+NLP software:
+CRFTagger
+:
+English part-of-speech tagger built on top of conditional random fields.
+CRFChunker
+:
+English phrase chunker built on top of conditional random fields.
+JTextPro
+:
+Java-based English text processing tool (including sentence boundary detection, 
+	word tokenization, part-of-speech tagging, and phrase chunking), all built on top of maximum entropy and conditional random fields.
+JVnSegmenter
+:
+Java-based Vietnamese word segmentation tool built on top of conditional random fields.
+JVnTextPro
+:
+Java-based Vietnamese text processing tool (including sentence boundary detection, 
+	tokenization, word segmentation, and part-of-speech tagging) all built on top of maximum entropy and conditional random fields.
+Machine learning software:
+FlexCRFs
+:
+Flexible conditional random fields for segmenting and labeling sequence data. FlexCRFs, 
+	written in C/C++, was designed to deal with hundreds of thousand data sequences and millions of features. FlexCRFs support both 
+	first-order and second-order Markov properties. A parallel version, 
+	PCRFs, is also available for running conditional random fields on massively parallel systems.
+GibbsLDA++
+:
+A C/C++ implementation of latent Dirichlet allocation using Gibbs sampling technique 
+	for parameter estimation and inference. It is fast and designed to analyze hidden/latent topic structures of large-scale 
+	discrete data collections (e.g., huge collections of text/Web data).
+Text/Web mining software:
+PEWeb
+:
+A Win32 implementation of product description extraction from the Web.
+

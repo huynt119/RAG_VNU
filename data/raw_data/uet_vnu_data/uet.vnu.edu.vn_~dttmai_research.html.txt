@@ -1,0 +1,16 @@
+Msc. DINH Thi Thai-Mai
+Research
+-   Cognitive Radio
+-	Computer Networks
+-	Wireless Communications
+-	Next generation mobile communications networks (beyond 4G / 5G)
+Projects
+-   2009-2011: "BCJR algorithm and applications in Channel Decoding", sponsored by Vietnam National University Hanoi.
+-	2010-2012: "Cooperative Spectrum Sensing in Cognitive Radio" sponsored by Vietnam National University Hanoi.
+-	2013-2014: "Cooperative Spectrum Sensing over Composite fading Environment using Gamma Distribution" sponsored by Vietnam National University Hanoi.
+VNU University of Engineering and Technology
+Home
+Research
+Publications
+Lectures
+Contact

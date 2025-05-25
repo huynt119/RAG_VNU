@@ -1,0 +1,15 @@
+TS. Lê Nguyên Khôi
+e-mail: khoi.n.le - vnu.edu.vn
+Teaching
+Introduction to Programming (INT1008)
+Data Structures and Algorithms (INT2210)
+Design & Analysis of Algorithms (INT3513)
+Information Theory (INT2044)
+Robotics (INT3409)
+Research Interests
+Evolutionary Computation
+Machine Learning
+AI Robotics
+Current Projects
+Investigation on application of evolutionary computation in machine learning
+Google Scholar

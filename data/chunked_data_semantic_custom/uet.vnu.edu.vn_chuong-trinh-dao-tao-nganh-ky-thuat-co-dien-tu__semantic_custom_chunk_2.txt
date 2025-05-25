@@ -1,0 +1,61 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-co-dien-tu_.txt
+
+– Danh mục các ngành phù hợp, ngành gần:
+Danh mục các ngành phù hợp: Kỹ thuật cơ điện tử; Cơ kỹ thuật; Công nghệ kỹ thuật điện, điện tử;
+Danh mục các ngành gần: Công nghệ kỹ thuật điều khiển và tự động hóa; Truyền thông và mạng máy tính; Kỹ thuật hàng không; Vật lý kỹ thuật; Vật lý học;
+– Danh mục các học phần bổ túc kiến thức:
+STT
+Mã học phần
+Tên học phần
+Số tín chỉ
+1
+EMA3005
+Công nghệ chế tạo máy
+3
+2
+EMA3084
+Vi xử lý và vi điều khiển
+3
+3
+EMA2026
+Cơ sở kỹ thuật điện
+2
+Tổng
+8
+|
+24/10/2022
+|
+ĐTSĐH
+|
+1022 Views
+Trước
+Chương trình đào tạo ngành Cơ kỹ thuật
+Sau
+Chương trình đào tạo ngành Kỹ thuật cơ điện tử
+Bài viết liên quan
+Chương trình đào tạo ngành Vật liệu và linh kiện nano
+Chương trình đào tạo ngành Vật liệu và linh kiện nano
+Chương trình đào tạo ngành Vật liệu và linh kiện nano
+Chương trình đào tạo ngành Khoa học máy tính
+Chương trình đào tạo ngành Khoa học máy tính
+Chương trình đào tạo ngành Kỹ thuật cơ điện tử
+1. Một số thông tin về chuyên ngành đào tạo
+Tên chuyên ngành đào tạo:
+– Tiếng Việt: Kỹ thuật Cơ điện tử
+– Tiếng Anh: Mechatronics Engineering
+Mã số chuyên ngành:
+60520114
+Tên ngành đào tạo:
+– Tiếng Việt: Công nghệ Kỹ thuật Cơ Điện tử
+– Tiếng Anh: Mechatronics Engineering Technology
+Trình độ đào tạo
+:
+Thạc sĩ
+Thời gian đào tạo:
+02 năm
+Tên văn bằng
+tốt nghiệp
+:
+– Tiếng Việt: Thạc sĩ ngành Công nghệ Kỹ thuật Cơ điện tử
+– Tiếng Anh: The Degree of Master in Mechatronics Engineering Technology
+2.

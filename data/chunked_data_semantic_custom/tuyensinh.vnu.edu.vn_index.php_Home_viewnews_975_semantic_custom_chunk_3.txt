@@ -1,0 +1,136 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_975.txt
+
+T
+RƯỜNG ĐẠI HỌC NGOẠI  NGỮ
+QHF
+7140231
+Sư phạm tiếng Anh
+D01
+38.45
+D78
+38.45
+D90
+38.45
+QHF
+7140234
+Sư phạm tiếng Trung
+D01
+38.32
+D04
+38.32
+D78
+38.32
+D90
+38.32
+QHF
+7140236
+Sư phạm tiếng Nhật
+D01
+37.33
+D06
+37.33
+D78
+37.33
+D90
+37.33
+QHF
+7140237
+Sư phạm tiếng Hàn Quốc
+D01
+37.7
+DD2
+37.7
+D78
+37.7
+D90
+37.7
+QHF
+7220201
+Ngôn ngữ Anh
+(CTĐT CLC)
+D01
+36.9
+D78
+36.9
+D90
+36.9
+QHF
+7220203
+Ngôn ngữ Pháp
+(CTĐT CLC)
+D01
+35.77
+D03
+35.77
+D78
+35.77
+D90
+35.77
+QHF
+7220204
+Ngôn ngữ Trung Quốc (CTĐT CLC)
+D01
+37.13
+D04
+37.13
+D78
+37.13
+D90
+37.13
+QHF
+7220205
+Ngôn ngữ Đức
+(CTĐT CLC)
+D01
+35.92
+D05
+35.92
+D78
+35.92
+D90
+35.92
+QHF
+7220209
+Ngôn ngữ Nhật
+(CTĐT CLC)
+D01
+36.53
+D06
+36.53
+D78
+36.53
+D90
+36.53
+QHF
+7220210
+Ngôn ngữ Hàn Quốc
+(CTĐT CLC)
+D01
+36.83
+DD2
+36.83
+D78
+36.83
+D90
+36.83
+QHF
+7220202
+Ngôn ngữ Nga
+D01
+35.19
+D02
+35.19
+D78
+35.19
+D90
+35.19
+QHF
+7220211
+Ngôn ngữ Ả Rập
+D01
+34
+D78
+34
+D90
+34
+5.

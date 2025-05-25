@@ -1,0 +1,130 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_817.txt
+
+Các ngành tuyển sinh
+Mã trường
+Mã xét tuyển
+Tên nhóm ngành
+Tên ngành/chương trình đào tạo
+Bằng tốt
+nghiệp
+Thời gian đào tạo
+Chỉ tiêu
+(dự kiến)
+Tổ hợp môn
+xét tuyển
+CÁC CHƯƠNG TRÌNH ĐÀO TẠO CHUẨN
+QHI
+CN1
+Công nghệ thông tin
+Công nghệ thông tin
+Cử nhân
+4 năm
+19
+0
+Toán, Lý, Hóa (
+A00)
+Toán, Lý, Anh
+(A01)
+Công nghệ thông tin định hướng thị trường Nhật Bản
+Cử nhân
+4 năm
+60
+QHI
+CN2
+Máy tính và Robot
+Kỹ thuật máy tính
+Kỹ sư
+4,5 năm
+8
+0
+Kỹ thuật Robot
+Kỹ sư
+4,5 năm
+60
+QHI
+CN3
+Vật lý kỹ thuật
+Kỹ thuật năng lượng
+Kỹ sư
+4,5 năm
+60
+Vật lý kỹ thuật
+Cử nhân
+4 năm
+60
+QHI
+CN4
+Cơ kỹ thuật
+Kỹ sư
+4,5 năm
+80
+QHI
+CN5
+Công nghệ kỹ thuật xây dựng
+Kỹ sư
+4,5 năm
+100
+QHI
+CN7
+Công nghệ hàng không vũ trụ
+Cử nhân
+4 năm
+60
+QHI
+CN11
+Kỹ thuật điều khiển và tự động hóa
+Kỹ sư
+4,5 năm
+60
+QHI
+CN10
+Công nghệ nông nghiệp
+Kỹ sư
+4,5 năm
+60
+Toán, Lý, Hóa (
+A00)
+Toán, Lý, Anh
+(A01)
+Toán, Lý, Sinh
+(A02)
+Toán, Hóa, Sinh
+(B00)
+Học phí: Thu theo quy định hiện hành của Nhà nước
+CÁC CHƯƠNG TRÌNH ĐÀO TẠO CHẤT LƯỢNG CAO ĐÁP ỨNG THÔNG TƯ 23 CỦA BỘ GD&ĐT
+QHI
+CN6
+Công nghệ kỹ thuật cơ điện tử
+Cử nhân CLC
+4 năm
+150
+Toán, Lý, Hóa (
+A00)
+(Toán, Lý hệ số 2)
+Toán, Lý, Anh
+(A01)
+(Toán, Anh hệ số 2)
+QHI
+CN8
+Công nghệ thông tin (CLC)
+Khoa học Máy tính
+Cử nhân CLC
+4 năm
+210
+Hệ thống thông tin
+Cử nhân CLC
+4 năm
+60
+Mạng máy tính và truyền thông dữ liệu
+Kỹ sư
+4,5 năm
+60
+QHI
+CN
+9
+Công nghệ kỹ thuật điện tử - viễn thông
+(CLC theo TT23)
+Cử nhân CLC
+4 năm
+150
+Học phí: 35.000.000đ/năm ổn định trong toàn khóa học.

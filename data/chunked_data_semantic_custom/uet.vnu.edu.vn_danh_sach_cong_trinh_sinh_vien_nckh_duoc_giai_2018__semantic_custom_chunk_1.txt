@@ -1,0 +1,113 @@
+Nguồn: uet.vnu.edu.vn_danh_sach_cong_trinh_sinh_vien_nckh_duoc_giai_2018_.txt
+
+Danh sách công trình sinh viên NCKH được giải 2018
+STT
+Tên công trình
+Nhóm thực hiện
+Lớp
+GVHD
+Giải thưởng
+1
+Biomedical named entity recognization using CRF- biLSTM improved with fine- tuned embeddings of various linguistic information
+Vũ Tiến Sinh
+K60-CA
+Giải Nhất – Cấp trường
+Giải Nhì – Cấp Bộ
+2
+Domain-independent Intent Extraction From Online Texts
+Nguyễn Hữu Hồng
+Trần Như Thuật
+Nguyễn Thanh Tùng
+Đặng Tiến Sơn
+K59-CA
+K59-CA
+K59-CA
+K60-CA
+Giải Nhất – Cấp trường
+Giải Nhất – Cấp ĐHQG
+3
+VTSE công cụ kiểm chứng một số tính chất của mã nguồn chương trình
+Nguyễn Đức Thuần
+Nguyễn Bá Tú
+Nguyễn Thị Vân Anh
+Nguyễn Thị Thủy
+K59-CLC
+K59-CLC
+K60-CLC
+K60-CLC
+Giải Nhất – Cấp trường
+Giải Ba – Cấp ĐHQG
+4
+MOTORSAFE -Android Application Supported for Motorbike Drivers
+Phạm Phương Thanh
+Cao Đình Đức
+Vũ Thị Thanh Thanh
+K59-ĐA
+K59-ĐB
+K59-ĐB
+Giải Nhất – Cấp trường
+Giải Ba – Cấp ĐHQG
+5
+Thiết kế cấu hình và quản lý tài nguyên trong hệ thống mạng VLC nhiều trạm phát
+Trần Công Nam
+Lê Thị Duyên
+Lê Thị Hiền
+K59-ĐB
+K59-ĐB
+K59-ĐB
+Giải Nhất – Cấp trường
+Giải Nhì – Cấp ĐHQG
+6
+Thiết kế mạch giám sát và tự động điều khiển hàm lượng CO2 ứng dụng trong nhà kính nông nghiệp công nghệ cao
+Hoàng Lê Anh Tuấn
+Trần Đức Huy
+K61-V
+K59-V
+Giải Nhất – Cấp trường
+7
+Nghiên cứu tích hợp mạng cảm biến ứng dụng trong nông nghiệp thông minh
+Nguyễn Văn Hùng
+Nguyễn Mậu Hoàng
+Vũ Thế Quân
+Tạ Ngọc Hải
+K59-M
+K60-M
+K60-M
+K60-M
+Giải Nhất – Cấp trường
+Giải Ba – Cấp Bộ
+8
+Semantic segmentation for aerial image
+Trần Trọng Đạt
+Bùi Đức Thịnh
+K59-CA
+K59-CA
+Giải Nhì – Cấp trường
+9
+Semantic- aware and funtion – based cache replacement algorithm for web systems
+Cao Xuân Hưng
+K59-CA
+Giải Nhì – Cấp trường
+10
+Bộ công cụ đảm bảo chất lượng mã nguồn cho các ứng dụng doanh nghiệp
+Bùi Quang Cường
+Đinh Tiến Lộc
+Nguyễn Minh Hiếu
+K59-CLC
+K59-CLC
+K59-CLC
+Giải Nhì – Cấp trường
+11
+Deep learning based detection of vehicles, lane, and street signs for behavior cloning in autonomous car
+Nguyễn Hữu Nhật Minh
+K59-CA
+Giải Nhì – Cấp trường
+12
+Nghiên cứu, phát triển và thử nghiệm tường lửa ứng dụng web AbnorFirewall
+Lý Văn Tuấn
+Phạm Minh Đức
+K59-CLC
+K59-CLC
+Giải Nhì – Cấp trường
+13
+Bluetooth Low Energy – based Indoor Positioning on IOs Platform.

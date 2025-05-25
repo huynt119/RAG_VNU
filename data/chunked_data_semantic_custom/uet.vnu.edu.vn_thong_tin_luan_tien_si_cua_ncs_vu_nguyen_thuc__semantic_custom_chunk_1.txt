@@ -1,0 +1,7 @@
+Nguồn: uet.vnu.edu.vn_thong_tin_luan_tien_si_cua_ncs_vu_nguyen_thuc_.txt
+
+Tóm tắt các
+kết quả mới
+của luận án:
+Luận án là công trình nghiên cứu khoa học chuyên sâu có tính hệ thống và tương đối đầy đủ về các kết quả, thành tựu trong việc nghiên cứu khả năng điều khiển từ tính bằng ứng suất trong các hệ vật liệu dạng lớp ở trên thế giới và trong nước. Kết quả nghiên cứu có những điểm mới sau đây:
+– Đưa ra một phương pháp mới tạo các cấu trúc xốp micro cho các băng từ và màng mỏng từ bằng cách sử dụng công nghệ khắc laser hiện đại kết hợp với công nghệ ăn mòn hóa ướt. Kết quả đã tạo được các cấu trúc xốp micro với độ rộng cạnh khoảng 60 µm với chất lượng tốt, độ lặp lại cao mà không làm biến tính vật liệu từ tính ban đầu. – Đã khảo sát, nghiên cứu tính chất từ của các cấu trúc xốp khác nhau (về hình dạng, về độ dày cạnh trong cấu trúc) để đưa ra cấu hình xốp tối ưu là cấu trúc tổ ong (honeycom) với độ dày cạnh là 60 µm với tính chất từ mềm nổi trội. – Đã khảo sát và lựa chọn được các thông số phún xạ tối ưu cho màng mỏng từ tính NiFe; Đã khảo sát tính chất từ của cấu trúc xốp dạng hình tam giác, vuông, lục giác của các màng mỏng từ NiFe với độ rộng ô cơ sở 200 µm và độ dày lớp vật liệu ở cỡ 45 nm. – Đã khảo sát khả năng điều khiển từ tính bằng ứng suất của các hệ vật liệu tổ hợp băng từ FeCSi/PZT và màng mỏng từ NiFe/PZT với các điện trường đặt vào khác nhau (từ -20 kV/cm đến 20 kV/cm) và ở các từ trường khác nhau (1, 10 và 50 Oe). Kết quả cho thấy khả năng điều khiển từ tính của vật liệu là rõ ràng bằng cách đặt vào tấm PZT một điện thế phù hợp).

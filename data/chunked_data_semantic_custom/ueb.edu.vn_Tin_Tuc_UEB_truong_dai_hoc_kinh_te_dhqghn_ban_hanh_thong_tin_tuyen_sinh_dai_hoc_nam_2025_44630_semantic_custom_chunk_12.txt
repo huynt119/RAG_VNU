@@ -1,0 +1,195 @@
+Nguồn: ueb.edu.vn_Tin_Tuc_UEB_truong_dai_hoc_kinh_te_dhqghn_ban_hanh_thong_tin_tuyen_sinh_dai_hoc_nam_2025_44630.txt
+
+Chỉ tiêu tuyển sinh
+* Năm 2025, Trường ĐHKT tuyển sinh 6 ngành đào tạo với 9 chương trình đào tạo theo các phương thức tuyển sinh sau:
+TT
+Mã xét tuyển
+Tên chương trình, ngành, nhóm ngành xét tuyển
+Mã ngành, nhóm ngành
+Tên ngành, nhóm ngành
+Chỉ tiêu
+Phương thức tuyển sinh
+I
+Tuyển sinh đại học chính quy trong nước
+1
+Ngành Quản trị kinh doanh
+1.1. 7340101.01
+Cử nhân ngành Quản trị kinh doanh
+, Ngành Quản trị kinh doanh, Nhóm ngành Kinh doanh
+7340101,
+73401
+Ngành Quản trị kinh doanh
+(
+bao gồm 04 chuyên ngành sau:
+- Quản trị kinh doanh và phát triển doanh nghiệp
+- Quản trị Marketing, Truyền thông và Thương hiệu
+- Quản trị nhân lực
+- Quản trị kinh doanh khách sạn và lữ hành)
+Nhóm ngành Kinh doanh
+360
+Chi tiết phương thức tuyển sinh tại mục 2.1
+(trừ tuyển sinh ngành QTKD dành cho các tài năng thể thao)
+1.2. 7340101.06
+Cử nhân ngành Quản trị kinh doanh dành cho các tài năng thể thao
+, Ngành Quản trị kinh doanh, Nhóm ngành Kinh doanh
+7340101,
+73401
+Ngành Quản trị kinh doanh
+,
+Nhóm ngành Kinh doanh
+50
+- Xét tuyển
+- Xét tuyển kết hợp phỏng vấn
+2
+Ngành Tài chính – Ngân hàng
+7340201
+Cử nhân ngành Tài chính – Ngân hàng
+, Ngành Tài chính – Ngân hàng,
+Nhóm ngành Tài chính – Ngân hàng – Bảo hiểm
+7340201,
+73402
+Ngành Tài chính – Ngân hàng
+(
+bao gồm 04 chuyên ngành sau:
+- Tài chính doanh nghiệp
+- Ngân hàng và công nghệ tài chính
+- Quản trị rủi ro và bảo hiểm
+- Tài chính và đầu tư)
+Nhóm ngành Tài chính – Ngân hàng – Bảo hiểm
+500
+Chi tiết phương thức tuyển sinh tại mục 2.1
+3
+Ngành Kế toán
+7340301
+Cử nhân ngành Kế toán
+, Ngành Kế toán, Nhóm ngành Kế toán – Kiểm toán
+7340301,
+73403
+Ngành Kế toán
+(
+bao gồm 03 chuyên ngành sau:
+- Kế toán định hướng nghề nghiệp quốc tế
+- Kiểm toán
+- Phân tích kinh doanh)
+Nhóm ngành Kế toán – Kiểm toán
+330
+Chi tiết phương thức tuyển sinh tại mục 2.1
+4
+Ngành Kinh tế quốc tế
+7310106
+Cử nhân ngành Kinh tế quốc tế
+, Ngành Kinh tế quốc tế, Nhóm ngành Kinh tế học
+7310106,
+73101
+Ngành Kinh tế quốc tế
+(
+bao gồm 03 chuyên ngành sau:
+- Thương mại quốc tế
+- Kinh doanh quốc tế và phát triển thị trường toàn cầu
+- Logistics và Chuỗi cung ứng toàn cầu)
+Nhóm ngành Kinh tế học
+510
+Chi tiết phương thức tuyển sinh tại mục 2.1
+5
+Ngành Kinh tế
+7310101
+Cử nhân ngành Kinh tế
+, Ngành Kinh tế, Nhóm ngành Kinh tế học
+7310101,
+73101
+Ngành Kinh tế
+(bao gồm 04 chuyên ngành sau:
+- Kinh tế chính trị và Ngoại giao
+- Kinh tế truyền thông và báo chí
+- Kinh tế số và quản lý
+- Quản lý kinh tế)
+Nhóm ngành Kinh tế học
+400
+Chi tiết phương thức tuyển sinh tại mục 2.1
+6
+Ngành Kinh tế phát triển
+7310105
+Cử nhân ngành Kinh tế phát triển
+, Ngành Kinh tế phát triển, Nhóm ngành Kinh tế học
+7310105,
+73101
+Ngành Kinh tế phát triển
+(bao gồm 05 chuyên ngành sau:
+- Kinh tế du lịch và dịch vụ
+- Kinh tế Tài nguyên, Môi trường và Bất động sản
+- Phân tích dữ liệu kinh tế và chính sách
+- Kinh tế đầu tư và phát triển
+- Hệ thống thông tin kinh tế và khoa học dữ liệu)
+Nhóm ngành Kinh tế học
+350
+Chi tiết phương thức tuyển sinh tại mục 2.1
+Tổng I
+2500
+II
+Tuyển sinh đại học chính quy liên kết đào tạo với nước ngoài
+1
+Ngành Quản trị kinh doanh (do Đại học Troy cấp bằng)
+7340101.68
+Cử nhân ngành Quản trị kinh doanh  (do ĐH Troy – Hoa Kỳ cấp bằng)
+7340101,
+73401
+Ngành Quản trị kinh doanh
+150
+2
+Ngành Quản trị kinh doanh (do Đại học St.Francis cấp bằng)
+7340101.98
+Cử nhân ngành Quản trị kinh doanh  (do ĐH St.Francis – Hoa Kỳ cấp bằng)
+7340101,
+73401
+Ngành Quản trị kinh doanh
+350
+* Chỉ tiêu xét tuyển thẳng
+(theo Điều 8 của Quy chế tuyển sinh của Bộ GD&ĐT)
+STT
+Ngành đào tạo
+Chỉ tiêu
+1
+Ngành Quản trị kinh doanh
+5
+2
+Ngành Tài chính – Ngân hàng
+5
+3
+Ngành Kế toán
+5
+4
+Ngành Kinh tế quốc tế
+10
+5
+Ngành Kinh tế
+5
+6
+Ngành Kinh tế phát triển
+5
+Tổng
+35
+* Chỉ tiêu xét tuyển dự bị đại học
+STT
+Ngành đào tạo
+Chỉ tiêu
+1
+Ngành Quản trị kinh doanh
+2
+2
+Ngành Tài chính – Ngân hàng
+2
+3
+Ngành Kế toán
+2
+4
+Ngành Kinh tế quốc tế
+2
+5
+Ngành Kinh tế
+2
+6
+Ngành Kinh tế phát triển
+2
+Tổng
+12
+5.

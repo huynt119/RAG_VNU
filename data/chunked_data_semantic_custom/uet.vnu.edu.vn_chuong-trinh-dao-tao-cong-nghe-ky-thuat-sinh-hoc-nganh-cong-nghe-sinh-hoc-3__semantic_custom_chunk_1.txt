@@ -1,0 +1,87 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-cong-nghe-ky-thuat-sinh-hoc-nganh-cong-nghe-sinh-hoc-3_.txt
+
+Phân loại các khối kiến thức:
++ LLCT
+(13): Lý luận chính trị & Pháp luật đại cương
++
+GDTC, GDQP-AN: Giáo dục thể chất, Giáo dục Quốc phòng – An ninh
++
+NN (5): Ngoại ngữ – Tiếng anh B1
++
+T&KHCB (20): Toán và khoa học cơ bản
++
+KTBT (12): Kiến thức bổ trợ
++
+GTN (2): Giới thiệu ngành
++
+CSN (58): Cơ sở ngành
++
+CN (13): Chuyên ngành
++
+TC (9): Tự chọn
++
+ĐA (4): Đồ án
++
+TTKT (2): Thực tập kỹ thuật
++
+TTNLNN (2): Thực tập năng lực nghề nghiệp
++
+TTTN (6): Thực tập tốt nghiệp
++
+ĐATN (10): Đồ án tốt nghiệp
+|
+03/01/2025
+|
+ĐTĐH
+|
+359 Views
+Trước
+Chương trình đào tạo Công nghệ kỹ thuật sinh học – Ngành Công nghệ sinh học
+Sau
+Chương trình đào tạo Công nghệ kỹ thuật sinh học – Ngành Công nghệ sinh học
+Bài viết liên quan
+Chương trình đào tạo Khoa học và Kỹ thuật dữ liệu – Ngành Khoa học dữ liệu
+Chương trình đào tạo Khoa học và Kỹ thuật dữ liệu – Ngành Khoa học dữ liệu
+Chương trình đào tạo Khoa học và Kỹ thuật dữ liệu – Ngành Khoa học dữ liệu
+Chương trình đào tạo Khoa học và Kỹ thuật dữ liệu – Ngành Khoa học dữ liệu
+Chương trình đào tạo Công nghệ kỹ thuật sinh học – Ngành Công nghệ sinh học
+Chương trình đào tạo Công nghệ kỹ thuật sinh học – Ngành Công nghệ sinh học
+1. Tóm tắt yêu cầu chương trình đào tạo Kỹ sư Công nghệ
+Tổng số tín chỉ của chương trình đào tạo
+(
+chưa tính Giáo dục thể chất, Giáo dục quốc phòng – an ninh, kĩ năng bổ trợ
+):
+150 tín chỉ
+– Khối kiến thức chung (
+chưa tính Giáo dục thể chất, Giáo dục quốc phòng –an ninh, kĩ năng bổ trợ
+): 21 tín chỉ
+– Khối kiến thức theo lĩnh vực: 17 tín chỉ
+– Khối kiến thức theo khối ngành: 11 tín chỉ
+– Khối kiến thức theo nhóm ngành: 21 tín chỉ
+– Khối kiến thức ngành: 80 tín chỉ
++ Bắt buộc: 33 tín chỉ
++ Tự chọn theo định hướng chuyên sâu: 13 tín chỉ
++ Tự chọn: 09 tín chỉ
++ Kiến thức bổ trợ: 09 tín chỉ
++ Thực tập kỹ sư: 6 tín chỉ
++ Đồ án kỹ sư
+10 tín chỉ
+2. Khung chương trình đào tạo
+STT
+Mã học phần
+Học phần
+(ghi bằng tiếng Việt và tiếng Anh)
+Số tín chỉ
+Số giờ học tập
+Mã học phần tiên quyết
+Phân loại
+Lý thuyết
+Thực hành
+Tự học
+I
+Khối kiến thức chung
+(
+chưa tính các học phần Kỹ năng bổ trợ, Giáo dục thể chất, Giáo dục Quốc phòng – An ninh
+)
+21
+1.

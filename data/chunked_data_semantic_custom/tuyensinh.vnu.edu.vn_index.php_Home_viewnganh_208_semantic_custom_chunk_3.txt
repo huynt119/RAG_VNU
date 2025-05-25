@@ -1,0 +1,20 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnganh_208.txt
+
+Quy định cụ thể điều kiện theo các phương thức xét tuyển như sau:
+(1) Xét tuyển bằng kết quả kì thi tốt nghiệp THPT năm 2022
+Các tổ hợp xét tuyển:
+- A00 (Toán, Vật lý, Hóa học), môn chính: Toán
+- A01 (Toán, Vật lí, Tiếng Anh), môn chính: Tiếng Anh
+- D01 (Toán, Văn, Tiếng Anh)), môn chính: Tiếng Anh
+- D96 (Toán, Khoa học Xã hội, Tiếng Anh), môn chính: Tiếng Anh
+Thí sinh có tổng điểm các bài thi/môn thi của tổ hợp xét tuyển theo thang điểm 30 (trong đó điểm môn chính nhân hệ số 2) đạt từ 15 điểm trở lên. Điểm xét tuyển
+= (Điểm Môn 1 + Điểm Môn 2 + Điểm
+Môn chính
+x 2) x 3 / 4
+Điều kiện phụ:
+Thí sinh phải đạt điểm thi tốt nghiệp THPT môn Tiếng Anh tối thiểu 5 điểm trên thang điểm 10 (trừ đối tượng được miễn thi môn này). (2) Xét tuyển theo học bạ THPT
+Thí sinh có tổng điểm trung bình tất cả các môn học của 5 học kỳ trong chương trình THPT (
+Điểm trung bình
+năm
+lớp 10 + Điểm trung bình năm lớp 11 + Điểm trung bình Học kỳ 1 lớp 12)
+đạt từ 30 điểm trở lên, trong đó điểm trung bình 5 học kỳ môn tiếng Anh đạt từ 7 điểm trở lên và có hạnh kiểm xếp loại từ ”Khá” trở lên.

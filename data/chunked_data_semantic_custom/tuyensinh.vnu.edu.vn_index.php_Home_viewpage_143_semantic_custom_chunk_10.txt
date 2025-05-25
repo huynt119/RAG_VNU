@@ -1,0 +1,57 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewpage_143.txt
+
+Học phí dự kiến với sinh viên chính quy; lộ trình tăng học phí tối đa cho từng năm
+STT
+Mã
+tuyển sinh
+Ngành
+Học phí
+năm học 2023-2024
+CN10
+Công nghệ nông nghiệp
+2
+8
+,
+5
+00,000
+CN5
+Công nghệ kỹ thuật xây dựng
+CN7
+Công nghệ hàng không vũ trụ
+CN1
+Công nghệ
+t
+hông tin
+CN2
+Kỹ thuật máy tính
+CN3
+Vật lý
+k
+ỹ thuật
+CN4
+Cơ kỹ thuật
+CN11
+Kỹ thuật điều khiển và tự động hóa
+CN13
+Kỹ thuật năng lượng
+CN16
+Công nghệ thông tin định hướng thị trường Nhật Bản
+CN17
+Kỹ thuật Robot
+CN12
+Trí tuệ nhân tạo
+CN6
+Công nghệ kỹ thuật cơ điện tử
+35,000,000
+CN8
+Khoa học
+m
+áy tính
+CN9
+Công nghệ kỹ thuật điện tử - viễn thông
+CN14
+Hệ thống thông tin
+CN15
+Mạng máy tính và truyền thông dữ liệu
+-    Các ngành CN6, CN8, CN9, CN14, CN15 thu học phí trên cơ sở định mức kinh tế kỹ thuật được phê duyệt theo quy định tại Khoản d, Điểm 2, Điều 11, Nghị định 81/2021/NĐ-CP ngày 27/8/2021. -    Sinh viên nhập học vào các ngành đào tạo sau sẽ được cấp học bổng thu hút:
+CN10 (*): 30% mức học phí của năm học tương ứng.

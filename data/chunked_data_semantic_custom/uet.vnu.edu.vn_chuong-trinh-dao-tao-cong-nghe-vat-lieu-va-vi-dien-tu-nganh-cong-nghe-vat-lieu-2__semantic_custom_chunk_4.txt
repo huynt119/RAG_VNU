@@ -1,0 +1,647 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-cong-nghe-vat-lieu-va-vi-dien-tu-nganh-cong-nghe-vat-lieu-2_.txt
+
+Ma trận chuẩn đầu ra và các học phần
+CÁC HỌC PHẦN TRONG
+CHƯƠNG TRÌNH ĐÀO TẠO
+CHUẨN ĐẦU RA
+Kiến thức
+Kỹ năng, phẩm chất cá nhân và nghề nghiệp
+Kỹ năng tương tác
+Năng lực thực hành nghề nghiệp
+Mã học phần
+Học phần (ghi bằng tiếng Việt và tiếng Anh)
+PLO1
+PLO2
+PLO3
+PLO4
+PLO5
+PLO6
+PLO7
+PLO8
+PLO9
+PLO10
+PLO11
+PLO12
+PHI1006
+Triết học Mác – Lênin
+Marxist-Leninist Philosophy
+2
+PEC1008
+Kinh tế chính trị Mác – Lênin
+Marxist-Leninist Political Economy
+2
+PHI1002
+Chủ nghĩa xã hội khoa học
+Scientific Socialism
+2
+HIS1001
+Lịch sử Đảng Cộng sản Việt Nam
+Revolutionary Guidelines of Vietnam Communist Party
+2
+POL1001
+Tư tưởng Hồ Chí Minh
+Ho Chi Minh’s Ideology
+2
+THL1057
+Nhà nước và Pháp luật Đại cương
+State and Law
+2
+FLF1107
+Tiếng Anh B1
+English B1
+3
+INT1009
+Tin học cơ sở
+Introduction to Informatics
+3
+3
+3
+3
+Kỹ năng bổ trợ
+Soft Skills
+3
+3
+3
+3
+Giáo dục thể chất
+Physical Education
+2
+Giáo dục quốc phòng – an ninh
+National Defence Education
+2
+MAT1093
+Đại số
+Algebra
+3
+3
+MAT1041
+Giải tích 1
+Calculus 1
+3
+3
+MAT1042
+Giải tích 2
+Calculus 2
+3
+3
+EPN1095
+Vật lý đại cương 1
+General Physics 1
+3
+3
+3
+3
+5
+EPN1096
+Vật lý đại cương 2
+General Physics 2
+3
+3
+3
+3
+5
+INT1008
+Nhập môn lập trình
+Fundamentals of Programming
+3
+4
+3
+EPN2054
+Cơ – Nhiệt
+Mechanics and Thermodynamics
+3
+3
+3
+4
+4
+4
+EPN2055
+Điện – Quang
+Electromagnetism and Optics
+3
+3
+3
+3
+3
+3
+5
+AIT2006
+Lập trình xử lý dữ liệu
+Programming for Data Engineering
+5
+4
+4
+4
+5
+3
+4
+5
+MAT1101
+Xác suất thống kê
+Probability and Statistics
+5
+4
+5
+4
+3
+EPN2015
+Vật lý lượng tử
+Quantum Physics
+3
+3
+3
+3
+3
+EPN2067
+Nhập môn hóa học vật liệu
+Introduction to Materials Chemistry
+3
+3
+3
+4
+3
+4
+EPN2029
+Khoa học vật liệu đại cương
+Fundamentals of Materials Science
+2
+3
+3
+3
+3
+5
+EPN2023
+Các phương pháp toán lý
+Mathematical Methods in Physics
+3
+3
+4
+3
+3
+3
+5
+EPN2068
+Nhập môn công nghệ vật liệu và vi điện tử
+Introduction to Materials and Microelectronics Engineering
+2
+3
+3
+5
+EPN2063
+Vật lý bán dẫn và linh kiện
+Physics of semiconductors and devices
+3
+3
+3
+3
+3
+3
+3
+4
+4
+EPN2069
+Vật liệu từ và ứng dụng
+Magnetic Materials and Applications
+2
+2
+3
+3
+3
+3
+2
+EPN2070
+Vật liệu và linh kiện vi điện tử
+Micro-nanoelectronics: Materials and Devices
+2
+2
+2
+3
+3
+3
+2
+EPN2071
+Mô hình hóa và thiết kế vật liệu
+Materials Modeling and Design
+3
+3
+4
+3
+3
+3
+5
+EPN2072
+Tổng hợp và chế tạo vật liệu
+Synthesis and Fabrication of Materials
+3
+3
+4
+3
+3
+3
+5
+EPN2073
+Đồ án tổng hợp và chế tạo vật liệu
+Project in Synthesis and Fabrication of Materials
+3
+4
+4
+3
+3
+5
+EPN2001
+Các phương pháp phân tích vật liệu
+Materials Characterization Techniques
+3
+3
+4
+3
+3
+3
+5
+EPN2074
+Công nghệ chế tạo linh kiện vi điện tử
+Microelectronic Device Fabrication Technology
+2
+3
+3
+3
+3
+4
+3
+3
+3
+3
+ELT2030
+Kỹ thuật điện
+Electrical Engineering
+5
+3
+3
+3
+5
+4
+ELT2040
+Điện tử tương tự
+Analog Electronics
+4
+3
+5
+5
+4
+5
+4
+5
+3
+5
+ELT2041
+Điện tử số
+Digital Electronics
+4
+4
+4
+4
+4
+5
+5
+4
+5
+ELT3102
+Thực tập điện tử tương tự
+Analog Electronics Lab
+4
+3
+5
+4
+4
+5
+5
+3
+3
+ELT3103
+Thực tập điện tử số
+Digital Electronics Lab
+4
+2
+5
+4
+5
+5
+4
+3
+3
+3
+EPN2075
+Đóng gói và kiểm thử bán dẫn
+Semiconductor Packaging and Testing
+3
+3
+4
+4
+3
+3
+EPN3074
+Thực tập chuyên đề công nghệ vật liệu
+Specialized Practice in Materials Engineering
+3
+3
+4
+4
+5
+EPN3075
+Vật liệu ứng dụng trong vi điện tử
+Applied Materials in Microelectronics
+3
+4
+3
+3
+EPN3076
+Đồ án vật liệu ứng dụng trong vi điện tử
+Project in Applied Materials in Microelectronics
+4
+4
+4
+3
+EPN3077
+Quản lý dự án
+Project Management
+2
+3
+3
+3
+3
+3
+EPN3072
+Các hệ vi cơ điện tử và ứng dụng
+Microelectromechanical Systems and Applications
+2
+2
+2
+3
+3
+3
+2
+EPN3055
+Công nghệ chế tạo pin mặt trời
+Solar Cells Technology
+3
+3
+3
+3
+3
+2
+4
+2
+3
+4
+EPN3078
+Vật liệu bán dẫn hữu cơ và ứng dụng trong linh kiện điện tử
+Organic Semiconductor Materials and Applications in Electronic Devices
+3
+3
+4
+3
+EPN3079
+Đổi mới sáng tạo trong công nghệ vật liệu
+Innovation in Materials Engineering
+3
+3
+3
+4
+3
+4
+3
+5
+EPN3031
+Công nghệ và kỹ thuật laser
+Laser Technology and Techniques
+2
+4
+3
+4
+5
+EPN3024
+Thiết bị quang tử
+Photonic Instruments
+2
+4
+3
+3
+3
+3
+EPN3034
+Chiếu sáng rắn
+Solid-State Lighting
+3
+3
+3
+3
+EPN3080
+Vật liệu cách điện và chống ăn mòn
+Insulating and Anti-corrosion Materials
+3
+4
+4
+3
+4
+EPN3008
+Các phương pháp tính trong Vật lý
+Computational Physics
+5
+4
+4
+5
+EPN3081
+Thực tập chuyên đề công nghệ chế tạo vi điện tử
+Specialized Practice in Microelectronics Engineering
+3
+3
+4
+4
+5
+EPN3082
+Kỹ thuật CMOS
+CMOS Engineering
+3
+3
+3
+2
+2
+2
+2
+EPN3083
+Đồ án kỹ thuật CMOS
+Project in CMOS Engineering
+3
+3
+4
+4
+4
+4
+4
+4
+4
+ELT3293
+Công nghệ vi cơ điện tử
+MEMS Technology
+4
+5
+5
+5
+4
+4
+EPN2019
+Kỹ thuật đo lường và cảm biến trong Vật lý
+Measurement Techniques and Sensors in Physics
+2
+2
+2
+3
+3
+3
+2
+EPN3084
+Ngôn ngữ scripting cho thiết kế chip
+VLSI Scripting
+3
+4
+3
+4
+4
+3
+5
+EPN3085
+Các vấn đề về cơ và nhiệt trong đóng gói chip bán dẫn
+Mechanical and Thermal Issues in Semiconductor Chip Packaging
+2
+3
+3
+4
+3
+3
+3
+4
+2
+3
+4
+ELT3244
+IoT và ứng dụng
+IoT and Application
+5
+4
+5
+4
+5
+4
+5
+EPN3086
+Thiết kế và mô phỏng vi mạch điện tử
+Microcircuit Design and Simulation
+2
+3
+3
+3
+3
+EET2020
+Đồ họa kỹ thuật
+Technical Graphics
+3
+3
+4
+3
+5
+UET1002
+Kỹ năng khởi nghiệp
+Entrepreneurship
+4
+4
+5
+4
+5
+4
+5
+PHY1105
+Vật lý hiện đại
+Modern Physics
+3
+3
+3
+5
+MNS1052
+Khoa học quản lý đại cương
+Fundamental of Management
+4
+4
+4
+5
+5
+INT3103
+Tối ưu hóa
+Optimization
+4
+3
+4
+3
+ELT1007
+Nhập môn kỹ thuật công nghệ
+Introduction to Engineering and Technology
+3
+3
+3
+3
+5
+INE1051
+Kinh tế vĩ mô
+Macro Economics
+2
+3
+3
+5
+HIS1053
+Lịch sử văn minh thế giới
+History of World Civilization
+2
+3
+3
+5
+EPN2051
+Seminar và thảo luận nhóm về công nghệ nano và ứng dụng
+Seminar and Teamwork on Nanotechnology and Applications
+3
+3
+3
+2
+2
+2
+EPN2002
+Kỹ thuật hóa học và ứng dụng
+Chemical Engineering and Applications
+3
+3
+3
+3
+EPN4052
+Thực tập công nghiệp
+Industrial Internship
+4
+3
+4
+3
+5
+EPN4053
+Đồ án tốt nghiệp
+Graduation Project
+3
+3
+4
+3
+4
+3
+3
+3
+5
+|
+03/01/2025
+|
+ĐTĐH
+|
+206 Views

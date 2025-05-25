@@ -1,0 +1,101 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_528.txt
+
+Bảng "
+Nội dung0 các nguyện vọng (NV) đăng ký xét tuyển sau điều chỉnh
+":
+Bước 1:
+Thí sinh ghi đầy đủ thông tin về NV đăng ký xét tuyển sau khi đã điều chỉnh vào bảng mới từ cột (1) đến cột (5);
+Bước 2:
+So sánh bảng mới với bảng cũ (đã đăng ký khi làm thủ tục dự thi) để ghi "Nội dung thay đổi " vào cột (6) như sau:
+- Nếu không thay đổi thứ tự  NV ưu tiên và các nội dung đã đăng ký thì thí sinh ghi số
+0
+tại cột (6) cùng hàng;
+- Nếu chỉ thay đổi thứ tự  NV ưu tiên và giữ nguyên các nội dung khác đã đăng ký thì thí sinh ghi số thứ tự NV ưu tiên cũ tại cột (6) cùng hàng;
+- Những thay đổi khác thì ghi
+TĐ
+tại cột 6 cùng hàng. Ví dụ:
+Bảng danh sách nguyện vọng cũ đã đăng ký khi làm thủ tục dự thi
+(bảng cũ)
+Thứ tự
+NV ưu tiên
+Mã trường
+(chữ in hoa)
+Mã ngành/
+Nhóm ngành
+Tên ngành/Nhóm ngành
+Mã tổ hợp môn xét tuyển
+1
+BVH
+7480201
+Công nghệ thông tin
+A00
+2
+QHQ
+QHQ01
+Kinh doanh quốc tế
+A00
+3
+BKA
+7480201
+Công nghệ thông tin
+A00
+4
+VHD
+7480201
+Công nghệ thông tin
+A00
+……
+Bảng nội dung điều chỉnh nguyện vọng đăng ký xét tuyển
+(bảng mới)
+Thứ tự NV
+ưu tiên
+(1)
+Mã trường
+(chữ in hoa)
+(2)
+Mã ngành/
+Nhóm ngành
+(3)
+Tên ngành/Nhóm ngành
+(4)
+Mã tổ hợp môn xét tuyển
+(5)
+Nội dung thay đổi
+(6)
+1
+QHQ
+QHQ01
+Kinh doanh quốc tế
+A00
+2
+2
+QHQ
+QHQ02
+Kế toán, Phân tích và Kiểm toán
+A01
+TĐ
+3
+QHQ
+QHQ03
+Hệ thống thông tin quản lý
+D01
+TĐ
+4
+VHD
+7480201
+Công nghệ thông tin
+A00
+0
+……
+Trong ví dụ trên
+:
+-          Nguyện vọng 1 của bảng mới trùng với nguyện vọng 2 của bảng cũ:  Điền số
+2
+(số thứ tự NV ưu tiên cũ)
+vào cột 6, hàng 1;
+-          Nguyện vọng 2 của bảng mới thay đổi so với bảng cũ: Điền
+TĐ
+vào cột 6, hàng 2;
+-           Nguyện vọng 4 của bảng mới không thay đổi so với bảng cũ: Điền số
+0
+vào cột 6, hàng 4.

@@ -1,0 +1,50 @@
+Nguồn: uet.vnu.edu.vn_tuyen_giang_vien_co_trinh_thac_si_tien_si_cho_cac_khoa_vien_bo_mon_thuoc_truong_2_.txt
+
+Tuyển giảng viên có trình độ thạc sĩ, tiến sĩ cho các Khoa, Viện, Bộ môn thuộc Trường
+Trường Đại học Công nghệ (ĐHCN), Đại học Quốc gia Hà Nội cần tuyển 25 giảng viên có trình độ thạc sĩ, tiến sĩ cho các Khoa, Viện, Bộ môn thuộc Trường (theo bảng mô tả vị trí tuyển dụng kèm theo) với các tiêu chuẩn, hồ sơ và hình thức xét tuyển như sau:
+I. Bảng mô tả vị trí tuyển dụng giảng viên có trình độ thạc sĩ, tiến sĩ
+1
+Khoa Công nghệ Thông tin: 03 Giảng viên
+Yêu cầu về tiêu chuẩn, số lượng
+03 Tiến sĩ tốt nghiệp ngành/chuyên ngành: Công nghệ Thông tin hoặc các ngành/chuyên ngành liên quan. 2
+Khoa Điện tử Viễn Thông: 03 Giảng viên
+Yêu cầu về tiêu chuẩn, số lượng
+03 Tiến sĩ tốt nghiệp ngành/chuyên ngành:Kỹ thuật điện tử, Kỹ thuật viễn thông, Kỹ thuật Mạng truyền thông, Kỹ thuật máy tính, Kỹ thuật Robot, Kỹ thuật điện hoặc các ngành/chuyên ngành liên quan. 3
+Khoa Cơ học kỹ thuật và Tự động hóa:
+07
+Giảng viên
+Yêu cầu về tiêu chuẩn, số lượng
+05 Tiến sĩ và 02 Thạc sĩ tốt nghiệp ngành/chuyên ngành: Kỹ thuật điều khiển, Tự động hóa, Cơ điện tử, Kỹ thuật Điện, Kỹ thuật điện tử hoặc ngành/chuyên ngành liên quan. 4
+Bộ môn Công nghệ Xây dựng – Giao thông: 01 Giảng viên
+Yêu cầu về tiêu chuẩn, số lượng
+01 Tiến sĩ tốt nghiệp ngành/chuyên ngành: Kỹ thuật Xây dựng giao thông. 5
+Viện Công nghệ Hàng không Vũ trụ: 0
+2
+Giảng viên
+Yêu cầu về tiêu chuẩn, số lượng
+02 Tiến sĩ tốt nghiệp ngành/chuyên ngành: Công nghệ vũ trụ, Điện tử – Thông tin Hàng không, Cơ khí Hàng không hoặc ngành/chuyên ngành liên quan. 6
+Viên Tiên tiến về Kỹ thuật và Công nghệ: 01 Giảng viên/Nghiên cứu viên
+Yêu cầu về tiêu chuẩn, số lượng
+01 Tiến sĩ tốt nghiệp ngành/chuyên ngành: Công nghệ Thông tin – Truyền thông hoặc ngành/chuyên ngành liên quan. 7
+Viện Trí tuệ Nhân tạo:
+0
+4
+Giảng viên
+Yêu cầu về tiêu chuẩn, số lượng
+02 Tiến sĩ và 02 Thạc sĩ tốt nghiệp ngành/chuyên ngành:Công nghệ thông tin, Khoa học Máy tính hoặc ngành/chuyên ngành liên quan đến Trí tuệ nhân tạo và có chuyên môn sâu (luận án, công trình nghiên cứu, ứng dụng) về Trí tuệ nhân tạo, Học máy hoặc Khoa học dữ liệu. 8
+Trung tâm Nghiên cứu Điện tử Viễn thông:
+01 Giảng viên
+Yêu cầu về tiêu chuẩn, số lượng
+01 Tiến sĩ tốt nghiệp ngành/chuyên ngành:Điện tử viễn thông, Công nghệ thông tin và truyền thông, Tự động hóa hoặc ngành/chuyên ngành liên quan. 9
+Trung tâm Tích hợp liên ngành Giám sát hiện trường:
+01 Giảng viên
+Yêu cầu về tiêu chuẩn, số lượng
+01 Tiến sĩ tốt nghiệp ngành/chuyên ngành: Công nghệ thông tin và Truyền thông hoặc ngành/chuyên ngành liên quan. 10
+Phòng thí nghiệm Trọng điểm Công nghệ Micro&Nano:
+01 Giảng viên
+Yêu cầu về tiêu chuẩn, số lượng
+01 Tiến sỹ tốt nghiệp các ngành/chuyên ngành/chuyên ngành:Vật lý ứng dụng, Vật liệu – Linh kiện, Điện – Điện tử, Đo lường – Điều khiển hoặc ngành/chuyên ngành liên quan. 11
+Phòng thí nghiệm Trọng điểm Hệ thống tích hợp thông minh:
+01 Giảng viên
+Yêu cầu về tiêu chuẩn, số lượng
+01 Tiến sĩ tốt nghiệp ngành/chuyên ngành:Công nghệ thông tin, Khoa học máy tính, Điện tử hoặc ngành, chuyên ngành liên quan đến Trí tuệ nhân tạo và có chuyên môn sâu (luận án, công trình nghiên cứu, ứng dụng) về hệ thống phần cứng, phần mềm trí tuệ nhân tạo.

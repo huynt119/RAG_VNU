@@ -1,0 +1,104 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_camnang_124.txt
+
+Chỉ tiêu tuyển sinh
+Trường Đại học Giáo dục tuyển sinh theo nhóm ngành. Chỉ tiêu tuyển sinh theo nhóm ngành/ngành theo từng phương thức tuyển sinh cụ thể như sau:
+TT
+Tên
+nhóm ngành/ngành
+Mã nhóm ngành/Ngành
+Chỉ tiêu
+(Dự
+kiến)
+Chỉ tiêu chia theo
+các phương thức xét tuyển
+Xét tuyển theo
+kết quả thi tốt nghiệp THPT 2022
+Xét tuyển theo
+kết quả thi ĐGNL năm 2022 của ĐHQGHN
+Xét tuyển theo các phương thức khác
+I
+Sư phạm Toán và
+Khoa học Tự nhiên*
+Gồm 05 ngành sau:
+GD1
+300
+250
+30
+20
+1
+Sư phạm Toán học
+120
+2
+Sư phạm Vật lí
+50
+3
+Sư phạm Hoá học
+40
+4
+Sư phạm Sinh học
+20
+5
+Sư phạm Khoa học
+Tự nhiên
+70
+II
+Sư phạm Ngữ văn,
+Lịch sử, Lịch sử và Địa lý*
+Gồm 03 ngành sau:
+GD2
+200
+170
+20
+10
+1
+Sư phạm Ngữ văn
+120
+2
+Sư phạm Lịch sử
+20
+3
+Sư phạm Lịch sử và Địa lý
+60
+III
+Khoa học giáo dục và khác
+Gồm 05 ngành sau
+GD3
+310
+190
+110
+10
+1
+Quản trị trường học
+65
+2
+Quản trị Công nghệ giáo dục
+80
+3
+Khoa học giáo dục
+40
+4
+Quản trị chất lượng giáo dục
+55
+5
+Tham vấn học đường
+70
+IV
+Ngành Giáo dục Tiểu học*
+GD4
+110
+80
+25
+5
+V
+Ngành Giáo dục Mầm non*
+GD5
+80
+60
+15
+5
+Tổng
+1000
+750
+200
+50
+6.

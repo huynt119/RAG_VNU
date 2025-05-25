@@ -1,0 +1,6 @@
+Future Courses:
+Data Mining
+Advanced Topics in Data Mining
+Data Mining and Business Intelligence
+Information Extraction
+Information Retrieval

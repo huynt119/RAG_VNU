@@ -1,0 +1,277 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_camnang_117.txt
+
+6
+50 chỉ tiêu)
+1.375
+275
+QHX
+QHX01
+Báo chí
+55
+15
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX40
+Báo chí **
+(CTĐT CLC)
+30
+5
+A01
+C00
+D01
+D78
+QHX
+QHX02
+Chính trị học
+40
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX03
+Công tác xã hội
+50
+10
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX04
+Đông Nam Á học
+33
+7
+A01
+D01
+D78
+QHX
+QHX05
+Đông phương học
+50
+10
+C00
+D01, D04
+D78, D83
+QHX
+QHX26
+Hàn Quốc học
+40
+10
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX06
+Hán Nôm
+25
+5
+C00
+D01, D04
+D78, D83
+QHX
+QHX07
+Khoa học quản lý
+50
+15
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX41
+Khoa học quản lý**
+(CTĐT CLC)
+30
+5
+A01
+C00
+D01
+D78
+QHX
+QHX08
+Lịch sử
+45
+10
+C00
+D01, D04
+D78, D83
+QHX
+QHX09
+Lưu trữ học
+40
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX10
+Ngôn ngữ học
+45
+10
+C00
+D01, D04
+D78, D83
+QHX
+QHX11
+Nhân học
+40
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX12
+Nhật Bản học
+40
+10
+D01, D06
+D78
+QHX
+QHX13
+Quan hệ công chúng
+55
+10
+C00
+D01, D04
+D78, D83
+QHX
+QHX14
+Quản lý thông tin
+42
+8
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX42
+Quản lý thông tin **
+(CTĐT CLC)
+30
+5
+A01
+C00
+D01
+D78
+QHX
+QHX15
+Quản trị dịch vụ du lịch và lữ hành
+60
+15
+A01
+D01
+D78
+QHX
+QHX16
+Quản trị khách sạn
+55
+15
+A01
+D01
+D78
+QHX
+QHX17
+Quản trị văn phòng
+60
+10
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX18
+Quốc tế học
+55
+15
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX43
+Quốc tế học**
+(CTĐT CLC)
+30
+5
+A01
+C00
+D01
+D78
+QHX
+QHX19
+Tâm lý học
+65
+15
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX20
+Thông tin - Thư viện
+40
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX21
+Tôn giáo học
+40
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX22
+Triết học
+40
+5
+A01
+C00
+D01, D04
+D78, D83
+QHX
+QHX27
+Văn hóa học
+40
+5
+C00
+D01, D04
+D78, D83
+QHX
+QHX23
+Văn học
+55
+10
+C00
+D01, D04
+D78, D83
+QHX
+QHX24
+Việt Nam học
+50
+10
+C00
+D01, D04
+D78, D83
+QHX
+QHX25
+Xã hội học
+45
+10
+A01
+C00
+D01, D04
+D78, D83
+4.

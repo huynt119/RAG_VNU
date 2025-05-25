@@ -1,0 +1,104 @@
+Đội ngũ giảng viên
+Đội ngũ giảng viên
+STT
+Họ tên
+Học hàm/vị
+Chức vụ
+Email vnu
+Chuyên môn
+Lý lịch khoa học
+Bộ môn Công nghệ và Giáo dục
+1
+Tôn Quang Cường
+TS
+Trưởng Khoa, Trưởng bộ môn
+cuongtq@vnu.edu.vn
+Ngữ văn, Lý luận, phương pháp dạy học, Công nghệ giáo dục
+Lý lịch khoa học
+2
+Lã Phương Thúy
+TS
+Phó trưởng Khoa
+laphuongthuy@vnu.edu.vn
+Ngữ văn, Lý luận, phương pháp dạy học, Công nghệ giáo dục
+Lý lịch khoa học
+3
+Nguyễn Thị Giang
+TS
+giangnguyen86@vnu.edu.vn
+Lý luận và phương pháp dạy học
+Lý lịch khoa học
+4
+Ngô Thị Hoàng Anh
+CN
+hoanganh2001@vnu.edu.vn
+Công nghệ giáo dục
+Lý lịch khoa học
+5
+Nguyễn Ngọc Tuấn
+TS
+tuan1975@vnu.edu.vn
+Lý luận và phương pháp dạy học bộ môn KTCN
+Lý lịch khoa học
+Bộ môn Tin học, Quản lý công nghệ trong lớp học và Phát triển học liệu số
+1
+Trần Doãn Vinh
+PGS.TS
+Trưởng bộ môn
+vinhtd@vnu.edu.vn
+Lý luận và PPDH Tin học
+Lý lịch khoa học
+2
+Phạm Kim Chung
+PGS.TS
+Phó trưởng Khoa
+chungpk@vnu.edu.vn
+Lí luận phương pháp dạy học Vật lí, Công nghệ giáo dục
+Lý lịch khoa học
+3
+Vũ Văn Hùng
+GS.TS
+vvhung57@vnu.edu.vn
+Vật lí lí thuyết và Vật lí Toán
+Lý lịch khoa học
+4
+Vũ Cẩm Tú
+TS
+vucamtu@vnu.edu.vn
+- Lý luận và PPDH bộ môn Kỹ thuật công nghiệp
+- Khoa học Giáo dục
+Lý lịch khoa học
+5
+Lê Ngọc Diệp
+TS
+lediep@vnu.edu.vn
+Lý lịch khoa học
+6
+Nguyễn Đức Nguyên
+ThS
+nguyennd@vnu.edu.vn
+- Toán – Tin ứng dụng
+- Công nghệ giáo dục
+Lý lịch khoa học
+7
+Nguyễn Đức Can
+ThS
+cannd@vnu.deu.vn
+- Văn hóa và Văn học
+-  Công nghệ Giáo dục
+- Giáo dục và Dạy học
+Lý lịch khoa học
+8
+Nguyễn Tùng Lâm
+ThS
+tunglamued@vnu.edu.vn
+- Lí luận và phương pháp dạy học bộ môn Hóa học
+- Công nghệ giáo dục
+Lý lịch khoa học
+9
+Trần Thái Long
+ThS
+longtt@vnu.edu.vn
+Sư phạm Toán học
+Công nghệ giáo dục
+Lý lịch khoa học

@@ -1,0 +1,69 @@
+Nguồn: uet.vnu.edu.vn_danh-sach-cac-de-tai-nhiem-vu-nam-2020-2_.txt
+
+Phạm Ngọc Hùng
+Khoa CNTT
+T10/2020
+T3/2023
+KC-4.0-12/19-25
+Phát triển hệ thống dịch đa ngữ giữa tiếng Việt và một số ngôn ngữ khác
+TS. Nguyễn Văn Vinh
+Khoa CNTT
+T10/2020
+T3/2023
+Đề tài hợp tác
+Phần mềm đánh giá tác động trên mạng xã hội trong công tác dự báo khí tượng thủy văn và mở rộng đối với một số lĩnh vực tài nguyên và môi trường ứng dụng giải pháp dữ liệu lớn
+Trần Mai Vũ
+Khoa CNTT
+T5/2020
+T6/2020
+Đề tài hợp tác
+Triển khai phần mềm DoIT
+Võ Đình Hiếu
+Khoa CNTT
+T8/2020
+T8/2020
+Đề tài hợp tác
+Triển khai phần mềm DoIT
+Võ Đình Hiếu
+Khoa CNTT
+T6/2020
+T9/2020
+Đề tài hợp tác
+Hệ thống giao tiếp tiếng Việt dựa trên AI sử dụng tín hiệu mắt và tín hiệu điện não cho người tổn thương chức năng vận động
+Lê Thanh Hà
+Khoa CNTT
+T11/2020
+T10/2023
+Đề tài hợp tác
+Thiết bị và vật liệu tiên tiến cho khảo sát quy mô lớn dữ liệu về nước
+Hoàng Nam Nhật
+Khoa VLKT&CNNN
+T11/2020
+T10/2023
+Đề tài hợp tác
+Nghiên cứu và phát triển công cụ phân tích sự ảnh hưởng của thay đổi mã nguồn và áp dụng để giảm thiểu kinh phí cho kiểm thử hồi quy
+TS. Võ Đình Hiếu
+Khoa CNTT
+10/1/2019
+1/9/2020
+Đề tài hợp tác
+Nghiên cứu giải pháp và xây dựng công cụ hỗ trợ kiểm thử tự động cho các ứng dụng Typescript
+TS. Võ Đình Hiếu
+Khoa CNTT
+8/1/2020
+1/2/2021
+Đề tài hợp tác
+Nghiên cứu phương pháp và công cụ hỗ trợ giảm sự phụ thuộc của các biến toàn cục nhằm tăng khả năng song song hóa cho các dự án C
+PGS.TS. Phạm Ngọc Hùng
+Khoa CNTT
+4/1/2020
+1/3/2021
+Đề tài hợp tác
+Xây dựng đề án chương trình Thạc sĩ Công nghệ tích hợp không gian cho phát triển môi trường bền vững (MONTUS)
+TS. Bùi Quang Hưng
+Trung tâm FIMO
+15/11/2018
+14/11/2021
+Đề tài hợp tác
+Xây dựng bản đồ nồng độ bụi PM2.5 cấp quận cho Hà Nội, theo trung bình tháng và năm cho năm 2019
+PGS.TS.

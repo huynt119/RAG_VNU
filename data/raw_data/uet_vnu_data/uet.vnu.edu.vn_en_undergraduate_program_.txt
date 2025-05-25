@@ -1,0 +1,18 @@
+UNDERGRADUATE (BACHELOR DEGREE): 17 PROGRAMS (5 HONORS)
+Information Technology (Standard)
+Information Technology (Honors)
+Information Technology (Japanese Market-Oriented)
+Computer Science (Honors)
+Information Systems (Honors)
+Computer Networks and Data Communications
+Electronics and Communications Engineering (Honors)
+Computer Engineering
+Robotics Engineering
+Mechatronics Engineering (Honors)
+Engineering Mechanics
+Control Engineering and Automation
+Engineering Physics
+Energy Engineering
+Aerospace Engineering
+Agriculture Engineering
+Civil Engineering

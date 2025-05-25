@@ -1,0 +1,123 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_647.txt
+
+Phương thức tuyển sinh (thi tuyển, xét tuyển hoặc kết hợp thi tuyển và xét tuyển)
+- Xét tuyển thí sinh có k
+ết quả bài thi THPT năm 2020 theo tổ hợp các môn/bài thi tương ứng đạt ngưỡng đảm bảo chất lượng đầu vào do Khoa Luật và ĐHQGHN quy định;
+- Xét tuyển thí sinh có Chứng chỉ quốc tế A-Level của Trung tâm Khảo thí Đại học Cambridge, Anh (Cambridge International Examinations A-Level, UK);
+- Xét tuyển thí sinh có kết quả trong kỳ thi chuẩn hóa SAT (Scholastic Assessment Test, Hoa Kỳ);
+- Xét tuyển thí sinh có kết quả trong kỳ thi chuẩn hóa ACT (
+American College Testing
+);
+- Xét tuyển thí sinh có Chứng chỉ tiếng Anh IELTS từ 5.5 trở lên hoặc các chứng chỉ tiếng Anh quốc tế tương đương
+(xem Phụ lục 1)
+;
+- Xét tuyển thẳng và xét tuyển đối với thí sinh: (1) đạt giải nhất, nhì, ba
+cuộc thi chọn học sinh giỏi cấp quốc gia; (2) thí sinh đạt giải
+nhất, nhì, ba
+trong cuộc thi Khoa học, kỹ thuật cấp quốc gia; (3) thí sinh đạt giải
+nhất, nhì
+cuộc thi cấp tỉnh, thành phố trung ương; (4) thí sinh là học sinh hệ chuyên của trường THPT chuyên;
+- Xét tuyển thẳng và xét tuyển thí sinh là người nước ngoài đáp ứng các yêu cầu được quy định tại Quy định về việc thu hút và quản lý sinh viên quốc tế tại ĐHQGHN ban hành kèm theo Quyết định số 4848/QĐ-ĐHQGHN ngày 18/12/2017 của Giám đốc ĐHQGHN. Chỉ tiêu tuyển sinh: Chỉ tiêu theo Ngành/Nhóm ngành/Khối ngành, theo từng phương thức tuyển sinh và trình độ đào tạo
+a) Thông tin danh mục ngành được phép đào tạo
+(Ghi rõ số, ngày ban hành quyết định chuyển đổi tên ngành của cơ quan có thẩm quyền hoặc quyết định của trường (nếu được cho phép tự chủ) đối với Ngành trong Nhóm ngành, Khối ngành tuyển sinh; theo từng phương thức tuyển sinh và trình độ đào tạo theo quy định của pháp luật)
+Stt
+Mã ngành
+Tên ngành
+Số QĐ mở ngành hoặc chuyển đổi tên ngành (gần nhất)
+Ngày tháng năm ban hành Số QĐ mở ngành hoặc chuyển đổi tên ngành (gần nhất)
+Trường tự chủ QĐ hoặc Cơ quan có thẩm quyền cho phép
+Năm bắt đầu đào tạo
+Năm tuyển sinh và đào tạo gần nhất với năm tuyển sinh
+1
+Ngành Luật
+7380101
+1994/KH
+23/07/1986
+ĐHQGHN
+1976
+2019
+2
+Ngành Luật CLC (TT23)*
+7380101CLC
+917/ĐHQGHN
+19/03/2018
+2018
+2019
+3
+Ngành Luật Kinh doanh
+7380110
+1994/KH
+23/07/1986
+2003
+2019
+4
+Ngành Luật Thương mại quốc tế
+7380109
+538/ĐHQGHN
+26/02/2019
+2019
+2019
+b) Chỉ tiêu tuyển sinh đối với từng ngành/nhóm ngành/khối ngành tuyển sinh; theo từng phương thức tuyển sinh và trình độ đào tạo
+Stt
+Trình độ đào tạo
+Mã ngành
+Ngành học
+Chỉ tiêu (dự kiến)
+Tổ hợp môn xét tuyển 1
+Tổ hợp môn xét tuyển 2
+Tổ hợp môn xét tuyển 3
+Tổ hợp môn xét tuyển 4
+Theo xét KQ thi THPT QG
+Theo phương thức khác
+Tổ hợp môn
+Môn chính
+Tổ hợp môn
+Môn chính
+Tổ hợp môn
+Môn chính
+Tổ hợp môn
+Môn chính
+1
+Đại học
+Luật
+1.1
+Đại học
+7380101
+Luật
+270
+30
+C00
+A00
+D01, D03
+D78, D82
+1.2
+Đại học
+7380101CLC
+Luật chất lượng cao theo TT23
+45
+05
+A01
+D01
+D07
+D78
+2
+Đại học
+7380110
+Luật Kinh doanh
+150
+20
+A00
+A01
+D01, D03
+D90, D91
+3
+Đại học
+7380109
+Luật Thương mại quốc tế
+45
+05
+A00
+A01
+D01
+D78, D82
+* Luật chất lượng cao thu học phí  theo điều kiện đảm bảo chất lượng đào tạo.

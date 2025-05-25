@@ -1,0 +1,19 @@
+Nghiên cứu khoa học
+Nghiên cứu khoa học
+1. Hướng nghiên cứu
+- Hệ thống giáo dục thông minh trong môi trường thực-ảo
+- Hệ thống thiết bị giáo dục, dạy học tương tác thế hệ mới
+- Nhà trường thông minh
+- Trí tuệ nhân tạo trong giáo dục
+- Khoa học dữ liệu trong giáo dục
+2. Đề tài/ Dự án
+Đề tài/Dự án đang triển khai
+[1]
+Nghiên cứu xây dựng quy trình và quản lý hồ sơ tốt nghiệp điện tử của sinh viên theo hướng tiếp cận Sư phạm số: Nghiên cứu trường hợp quản lý đào tạo cử nhân tại Trường Đại học Giáo dục, ĐHQGHN
+[2] Tiếp cận sư phạm tự quyết (Heutagogy) trong phát triển học liệu số đáp ứng chương trình giáo dục phổ thông năm 2018.
+[3]
+Xây dựng tập dữ liệu quản lý sinh viên dựa trên công nghệ học máy để dự báo các nhân tố ảnh hưởng tới kết quả học tập.
+3. Đề tài/Dự án đã hoàn thành
+[1] Nghiên cứu đề xuất mô hình quản lý giáo dục điện tử và dạy - học điện tử trong nhà trường Việt Nam, Chương trình KH&CN cấp quốc gia giai đoạn 2016-2020 “Nghiên cứu phát triển khoa học giáo dục đáp ứng đổi mới căn bản, toàn diện nền giáo dục Việt Nam” Mã số: KHGD/16-20.
+[2] Designing Digital Literacy Competencies for Preschool Education in Vietnam. Department of Preschool Education, MOET of Vietnam Project, 2020.
+[3] Nhà trường thông minh. Dự án kết hợp với STEMPunks, Úc. Chương trình được bảo trợ bởi Austrade Office, ĐSQ Úc tại Việt Nam

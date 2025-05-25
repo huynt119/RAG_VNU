@@ -1,0 +1,26 @@
+Nguồn: Viện_Công_nghệ_Thông_tin_Đại_học_Quốc_gia_Hà_Nội.txt
+
+Chức năng & nhiệm vụ
+Viện Công nghệ Thông tin có sứ mệnh đào tạo chuyên gia chất lượng cao ở bậc tiến sỹ và tham gia đào tạo đại học và sau đại học thuộc lĩnh vực công nghệ thông tin với các trường đại học và các đơn vị trực thuộc trong Đại học Quốc gia Hà Nội; nghiên cứu khoa học, triển khai ứng dụng, tư vấn và chuyển giao công nghệ trong lĩnh vực công nghệ thông tin – truyền thông góp phần phát triển kinh tế - xã hội của đất nước; đào tạo kỹ năng nghề nghiệp, bồi dưỡng, nâng cao trình độ khoa học, công nghệ, phổ cập công nghệ mới cho các doanh nghiệp, đơn vị, cá nhân trong và ngoài nước. Tầm nhìn & Mục tiêu
+Ngày 3/12/2024, Giám đốc Đại học Quốc gia Hà Nội (ĐHQGHN) đã ban hành Quyết định số 5547/QĐ-ĐHQGHN về việc phê duyệt Đề án phát triển Viện Công nghệ Thông tin, ĐHQGHN đến năm 2030. Cùng với việc phê duyệt Đề án vị trí việc làm, số người làm việc và cơ cấu chức danh nghề nghiệp viên chức của Viện CNTT, Đề án phát triển Viện CNTT đến năm 2030 đã xác định mục tiêu của Viện CNTT đến năm 2030 là “Trở thành viện nghiên cứu và đào tạo xuất sắc, thuộc nhóm dẫn đầu trong lĩnh vực công nghệ thông tin và bán dẫn tại Việt Nam; trong đó, một số lĩnh vực thế mạnh của Viện vươn tầm quốc tế, đóng góp thiết thực vào sự nghiệp phát triển khoa học công nghệ, kinh tế – xã hội của đất nước.”
+Tổ chức & Đội ngũ
+Viện Công nghệ Thông tin hiện có 5 đơn vị nghiên cứu và phát triển công nghệ:
+- Phòng Cơ sở dữ liệu và hệ thống thông tin
+- Phòng An toàn hệ thống thông tin
+- Phòng Công nghệ mạng và truyền thông
+- Phòng Công nghệ nhận dạng và xử lý ngôn ngữ tự nhiên
+- Trung tâm Nghiên cứu tiên tiến quốc tế về Trí tuệ nhân tạo ứng dụng (AIRC)
+Bên cạnh đó, Viện Công nghệ Thông tin còn có các phòng chức năng, trung tâm dịch vụ:
+- Phòng Khoa học Công nghệ và Đào tạo
+- Phòng Hành chính Tổng hợp
+- Trung tâm Đào tạo và chuyển giao công nghệ
+Và các phòng thí nghiệm nghiên cứu:
+- Phòng thí nghiệm Chính phủ điện tử
+- Phòng thí nghiệm Trí tuệ nhân tạo và Internet vạn vật
+- Phòng thí nghiệm Hệ thống tích hợp thông minh
+Đội ngũ các nhà khoa học của Viện Công nghệ Thông tin đang triển khai nhiều hoạt động nghiên cứu, đề tài, dự án cấp nhà nước, cấp bộ ngành, cấp ĐHQGHN và quốc tế liên quan đến các vấn đề công nghệ quan trọng như: khoa học dữ liệu; trí tuệ nhân tạo (AI); thực tại ảo/thực tại tăng cường (VR/AR); xử lý ảnh/video; an toàn thông tin; blockchain; Internet vạn vật (IoT); hệ thống nhúng; thiết kế vi mạch và FPGA, thiết kế bảo mật cho RFID…
+Lãnh đạo Viện
+Viện trưởng
+- GS.TS.Trần Xuân Tú
+Phó Viện trưởng
+- TS.

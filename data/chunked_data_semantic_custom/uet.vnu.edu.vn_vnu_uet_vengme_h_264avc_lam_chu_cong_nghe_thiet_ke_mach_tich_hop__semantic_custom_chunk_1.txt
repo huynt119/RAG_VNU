@@ -1,0 +1,21 @@
+Nguồn: uet.vnu.edu.vn_vnu_uet_vengme_h_264avc_lam_chu_cong_nghe_thiet_ke_mach_tich_hop_.txt
+
+Phó Giám đốc ĐHQGHN Nguyễn Hữu Đức (đứng thứ sáu, bên phải ảnh), Hiệu trưởng Trường Đại học Công nghệ Nguyễn Việt Hà (đứng thứ tám, bên phải ảnh) chụp ảnh lưu niệm cùng nhóm nghiên cứu Thiết kế mạch tích hợp VLSI
+– Ông có thể cho biết một số thông tin chung về sản phẩm đoạt giải? Vi mạch (chip điện tử) chuyên dụng mã hoá video VENGME H.264/AVC là sản phẩm của đề tài nghiên cứu khoa học cấp Đại học Quốc gia Hà Nội mã số QGĐA.10.02 “Nghiên cứu và thiết kế bộ mã hoá video cho các thiết bị đa phương tiện thế hệ mới”. Vi mạch mã hoá video VENGME H.264/AVC l
+à
+vi mạch
+chuyên dụng dùng cho mã hoá video thuộc thế hệ vi mạch đang được sử dụng rộng rãi nhất hiện nay trên thế giới,
+có độ tích hợp cao với khoảng 2 triệu cổng lô-gic (tương đương 8 triệu transistors) trên
+diện tích gần 16mm
+2
+, được sản xuất với
+công nghệ CMOS 130 nanômét của hãng Global Foundry
+. PGS.TS Trần Xuân Tú đại diện nhóm nghiên cứu nhận Giải Nhì CNTT Triển vọng do Bộ trưởng Bộ TT&TT
+Nguyễn Bắc Son và
+Tổng Giám đốc Tập đoàn VinGroup,
+bà Dương Thị Mai Hoa trao
+– Ông có thông tin như thế nào về sự khác biệt và giải pháp công nghệ của sản phẩm
+VNU-UET VENGME H.264/AVC
+đối với
+chuẩn nén video công nghiệp H.264
+hiện có trên thị trường?

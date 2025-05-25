@@ -1,0 +1,127 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_1178.txt
+
+QHF
+7140231
+Sư phạm tiếng Anh
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2024
+75
+D01
+D78
+D90
+D14
+301
+Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ GD&ĐT và xét tuyển dự bị đại học
+7
+F31
+- Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ GD&ĐT
+- Xét tuyển thí sinh thuộc các trường dự bị đại học
+303
+Xét tuyển thẳng, ưu tiên xét tuyển theo Quy định của ĐHQGHN và xét tuyển kết quả học tập THPT kết hợp phỏng vấn
+23
+F33
+402
+Xét tuyển theo kết quả thi ĐGNL học sinh bậc THPT do ĐHQGHN hoặc ĐHQG HCM tổ chức
+15
+Q00
+408
+Xét tuyển chứng chỉ ngoại ngữ, chứng chỉ quốc tế
+30
+F48
+- Xét tuyển chứng chỉ ngoại ngữ kết hợp kết quả học tập bậc THPT
+- Xét tuyển chứng chỉ quốc tế (SAT, ACT, A-Level)
+- Xét tuyển chứng chỉ ngoại ngữ kết hợp kết quả thi tốt nghiệp THPT năm 2024
+2. QHF
+7220201
+Ngôn ngữ Anh
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2024
+280
+D01
+D78
+D90
+D14
+301
+Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ GD&ĐT và xét tuyển dự bị đại học
+28
+F31
+- Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ GD&ĐT
+- Xét tuyển thí sinh thuộc các trường dự bị đại học
+303
+Xét tuyển thẳng, ưu tiên xét tuyển theo Quy định của ĐHQGHN và xét tuyển kết quả học tập THPT kết hợp phỏng vấn
+84
+F33
+402
+Xét tuyển theo kết quả thi ĐGNL học sinh bậc THPT do ĐHQGHN hoặc ĐHQG HCM tổ chức
+56
+Q00
+408
+Xét tuyển chứng chỉ ngoại ngữ, chứng chỉ quốc tế
+112
+F48
+- Xét tuyển chứng chỉ ngoại ngữ kết hợp kết quả học tập bậc THPT
+- Xét tuyển chứng chỉ quốc tế (SAT, ACT, A-Level)
+- Xét tuyển chứng chỉ ngoại ngữ kết hợp kết quả thi tốt nghiệp THPT năm 2024
+3. QHF
+7220202
+Ngôn ngữ Nga
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2024
+35
+D01
+D78
+D90
+D02
+301
+Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ GD&ĐT và xét tuyển dự bị đại học
+3
+F31
+- Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ GD&ĐT
+- Xét tuyển thí sinh thuộc các trường dự bị đại học
+303
+Xét tuyển thẳng, ưu tiên xét tuyển theo Quy định của ĐHQGHN và xét tuyển kết quả học tập THPT kết hợp phỏng vấn
+11
+F33
+402
+Xét tuyển theo kết quả thi ĐGNL học sinh bậc THPT do ĐHQGHN hoặc ĐHQG HCM tổ chức
+7
+Q00
+408
+Xét tuyển chứng chỉ ngoại ngữ, chứng chỉ quốc tế
+14
+F48
+- Xét tuyển chứng chỉ ngoại ngữ kết hợp kết quả học tập bậc THPT
+- Xét tuyển chứng chỉ quốc tế (SAT, ACT, A-Level)
+- Xét tuyển chứng chỉ ngoại ngữ kết hợp kết quả thi tốt nghiệp THPT năm 2024
+4. QHF
+7220203
+Ngôn ngữ Pháp
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2024
+75
+D01
+D78
+D90
+D03
+301
+Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ GD&ĐT và xét tuyển dự bị đại học
+7
+F31
+- Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ GD&ĐT
+- Xét tuyển thí sinh thuộc các trường dự bị đại học
+303
+Xét tuyển thẳng, ưu tiên xét tuyển theo Quy định của ĐHQGHN và xét tuyển kết quả học tập THPT kết hợp phỏng vấn
+23
+F33
+402
+Xét tuyển theo kết quả thi ĐGNL học sinh bậc THPT do ĐHQGHN hoặc ĐHQG HCM tổ chức
+15
+Q00
+408
+Xét tuyển chứng chỉ ngoại ngữ, chứng chỉ quốc tế
+30
+F48
+- Xét tuyển chứng chỉ ngoại ngữ kết hợp kết quả học tập bậc THPT
+- Xét tuyển chứng chỉ quốc tế (SAT, ACT, A-Level)
+- Xét tuyển chứng chỉ ngoại ngữ kết hợp kết quả thi tốt nghiệp THPT năm 2024
+5.

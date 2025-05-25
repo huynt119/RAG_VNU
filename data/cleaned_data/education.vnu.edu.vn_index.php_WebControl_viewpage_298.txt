@@ -1,0 +1,459 @@
+Giáo dục mầm non (từ TCSP)
+CHƯƠNG TRÌNH LIÊN THÔNG NGÀNH GIÁO DỤC MẦM NON
+(TỪ TRUNG CẤP SƯ PHẠM)
+1.
+Một số thông tin về chương trình đào tạo
+- Tên ngành đào tạo:
++ Tiếng Việt: Giáo dục mầm non
++ Tiếng Anh: Pre - School Education
+- Mã số ngành đào tạo:
+7140201
++ Danh hiệu tốt nghiệp:
+Cử nhân
++ Hình thức tổ chức đào tạo:
+Liên thông vừa làm vừa học
++ Tên văn bằng tốt nghiệp:
+Tiếng Việt: Cử nhân Giáo dục mầm non
+Tiếng Anh: The Degree of Bachelor in Pre - School Education
+- Đơn vị được giao nhiệm vụ đào tạo
+: Trường Đại học Giáo dục, ĐHQGHN
+2. Tóm tắt yêu cầu chương trình đào tạo
+Tổng số tín chỉ của chương trình đào tạo:
+89
+tín chỉ
+- Khối kiến thức chung
++ Ngoại ngữ
++ Lý luận chính trị
+Khối kiến thức theo lĩnh vực
+:
+11 tín chỉ
+5 tín chỉ
+6 tín chỉ
+1
+0 tín chỉ
+Khối kiến thức theo khối ngành:
+21
+tín chỉ
+Khối kiến thức theo nhóm ngành:
+2
+3 tín chỉ
+Khối kiến thức ngành:
+24
+tín chỉ
+3. Khung chương trình đào tạo
+STT
+Mã học phần
+Tên học phần
+Số tín chỉ
+Số giờ tín chỉ
+Mã học phần tiên quyết
+Lí thuyết
+Thực hành
+Tự học
+I
+Khối kiến thức chung
+(chưa tính các học phần 5, 6)
+1
+1
+1
+PEC1008
+Kinh tế chính trị Mac-Lenin
+Marxism-Leninism Politic Economy
+2
+24
+6
+0
+2
+POL1001
+Tư tưởng Hồ Chí Minh
+Ho Chi Minh Ideology
+2
+24
+6
+0
+3
+HIS1001
+Lịch sử Đảng Cộng sản Việt Nam
+History of the Communist Party of Vietnam
+2
+24
+6
+0
+4
+FLF1107
+Ngoại ngữ B1
+Foreign Language B1
+5
+20
+35
+20
+5
+Giáo dục quốc phòng và an ninh (Phần II - Công tác quốc phòng và an ninh)
+National Defence Education (Part II)
+2
+6
+Giáo dục quốc phòng và an ninh (Phần IV - Kỹ thuật chiến đấu bộ binh và chiến thuật)
+National Defence Education (Part IV)
+4
+II
+Khối kiến thức theo lĩnh vực
+1
+0
+7
+EDT2001
+Nhập môn công nghệ giáo dục
+Introduction to  Educational Technology
+2
+20
+10
+0
+8
+PSE2009
+Nhập môn khoa học giáo dục
+Introduction to Educational sciences
+3
+35
+10
+0
+9
+EAM2052
+Nhập môn Đo lường và đánh giá trong giáo dục
+Introduction to measurement and evaluation in Education
+2
+24
+6
+0
+10
+PSE2004
+Phương pháp nghiên cứu khoa học giáo dục
+Methodology of Educational Research
+3
+26
+16
+3
+III
+Khối kiến thức theo khối ngành
+21
+11
+PSE3004
+Sinh lý học trẻ em tuổi mầm non
+Childhood & preschool physiology
+3
+30
+15
+0
+12
+PSE3005
+Tâm lý học giáo dục trẻ mầm non
+Psychology of preschool education
+3
+30
+15
+0
+13
+PSE3006
+Giáo dục học mầm non
+Early childhood education
+3
+45
+0
+0
+14
+TMT3009
+Quy tắc đạo đức nghề nghiệp trong lĩnh vực giáo dục
+Code of professional ethics in the field of education
+2
+12
+18
+0
+1
+5
+PSE3009
+Dinh dưỡng trẻ
+em và vệ sinh an toàn thực phẩm
+Child nutrition and food safety
+3
+30
+15
+0
+1
+6
+PSE3059
+Tham
+vấn trong giáo dục mầm non
+Counseling in early childhood education
+3
+30
+12
+3
+17
+PSE3015
+Chăm sóc và vệ sinh trẻ em
+C
+hild care and
+c
+hildren sanitary
+2
+15
+15
+0
+18
+PSE3016
+Bệnh trẻ em
+Child disease
+2
+15
+15
+0
+IV
+Khối kiến thức theo nhóm ngành
+2
+3
+19
+PSE3071
+Thiết kế và làm đồ chơi – đồ dùng dạy học
+Designing and making toys - teaching aids
+2
+10
+15
+5
+20
+PSE3066
+Giáo dục kỹ năng xã hội cho trẻ mầm non
+Social skills education for preschool children
+2
+15
+15
+0
+21
+PSE3061
+Văn học và phương pháp cho trẻ làm quen với các tác phẩm văn học
+Literature and methods for children to become familiar with literary works
+3
+20
+20
+5
+22
+PSE3062
+Toán và phương
+pháp
+hình thành biểu tượng toán cho trẻ mầm non
+Math and math symbols for preschool children
+3
+20
+20
+5
+23
+PSE3065
+Âm
+nhạc và p
+hương pháp giáo dục âm nhạc cho trẻ mầm non
+Methods of music education for preschool children
+3
+20
+20
+5
+2
+4
+PSE3067
+Giáo dục hòa nhập trong giáo dục mầm non
+Inclusive education in early childhood education
+2
+27
+3
+0
+25
+PSE3068
+Kỹ năng giao tiếp với phụ huynh và các bên liên quan
+Communication skills with parents and other stakeholders
+2
+10
+15
+5
+26
+PSE3086
+Kỹ năng sơ cứu cho trẻ mầm non
+First aid skills for preschool children
+2
+10
+15
+5
+27
+PSE3072
+Mỹ học và giáo dục thẩm mỹ cho trẻ mầm non
+Aesthetics and aesthetic education for preschool children
+2
+15
+12
+3
+28
+PSE3073
+Giáo dục an toàn cho trẻ mầm non
+Safe education for preschool children
+2
+10
+15
+5
+V
+Khối kiến thức ngành
+2
+4
+29
+PSE3074
+Phát triển chương trình giáo dục mầm non
+Developing preschool education programs
+3
+25
+15
+5
+30
+PSE3075
+Phương pháp phát triển ngôn ngữ cho trẻ mầm non
+Language development method for preschool children
+3
+25
+15
+5
+31
+PSE3076
+Phương pháp giáo dục thể chất cho trẻ mầm non
+Physical education method for preschool children
+3
+25
+15
+5
+32
+PSE3077
+Phương pháp tổ chức hoạt động tạo hình cho trẻ mầm non
+Method of organizing shaping activities for preschool children
+3
+20
+20
+5
+33
+PSE3078
+Phương
+pháp
+t
+ổ chức hoạt động vui chơi cho trẻ mầm non
+Skills to organize play activities for preschool children
+3
+20
+20
+5
+34
+PSE3079
+Phương pháp tổ chức hoạt động khám phá môi trường xung quanh cho trẻ mầm non
+Methods of organizing activities to explore the surroundings for preschool children
+3
+20
+20
+5
+35
+PSE3081
+Giáo dục tích hợp trong giáo dục mầm non
+Integrated education in early childhood education
+2
+10
+15
+5
+36
+PSE3083
+Ứng dụng phương pháp Montessori trong giáo dục mầm non
+Montessori method application in preschool
+2
+10
+15
+5
+37
+PSE3084
+Các dự án Steam trong giáo dục mầm non
+Steam projects in early childhood education
+2
+10
+15
+5
+Tổng cộng
+89
+Ghi chú:
+- Học phần Ngoại ngữ thuộc khối kiến thức chung được tính vào tổng số tín chỉ của chương trình đào tạo nhưng kết quả đánh giá các học phần này không tính vào điểm trung bình chung học kì, điểm trung bình chung các học phần và điểm trung bình chung tích lũy.
+- Học phần Giáo dục Quốc phòng và Anh ninh thực hiện theo quy định tại Thông tư 05/2020/TT/BGD-ĐT
+ngày 18 tháng 3 năm 2020 của Bộ Giáo dục và Đào tạo về việc
+ban hành Chương trình giáo dục quốc phòng và an ninh trong trường trung cấp sư phạm, cao đẳng sư phạm và cơ sở giáo dục đại học.
+Tóm tắt và luận án tiến sĩ của NCS Ngô Văn Định trước bảo vệ
+Thông tin về luận án tiến sĩ của NCS Ngô Văn Định
+Thông báo về việc giới thiệu danh sách thành viên Hội đồng Giáo sư cơ sở Trường Đại học Giáo dục, ĐHQGHN năm 2025
+Thông báo tổ chức buổi bảo vệ luận án cấp Đại học Quốc gia của NCS Nguyễn Công Ước
+Thông báo tổ chức đánh giá luận án tiến sĩ của nghiên cứu sinh Lê Phương Thúy
+Thông báo về việc thu hồ sơ xét tốt nghiệp đợt tháng 6 năm 2025
+Thông báo thu học phí học kỳ II năm học 2024 - 2025 chương trình đào tạo cử nhân khóa QH2023S ngành
+Thông báo thu học phí học kỳ II năm học 2024-2025 chương trình đào tạo cử nhân khoá QH2021-S ngành GD3
+Tuyển sinh
+Đại học
+Sau đại học
+Chương trình bồi dưỡng
+Đào tạo
+Cử nhân Sư phạm Toán
+Cử nhân Sư phạm Vật lý
+Cử nhân Sư phạm Hóa học
+Cử nhân Sư phạm Sinh học
+Cử nhân Sư phạm Ngữ văn
+Cử nhân Sư phạm Lịch sử
+Cử nhân Sư phạm Khoa học Tự nhiên
+Cử nhân Quản trị trường học
+Cử nhân Quản trị Công nghệ Giáo dục
+Cử nhân Quản trị Chất lượng giáo dục
+Cử nhân Tham vấn học đường
+Cử nhân Khoa học Giáo dục
+Cử nhân Giáo dục mầm non
+Cử nhân Giáo dục tiểu học
+Cử nhân Sư phạm Lịch sử và Địa lý
+Cử nhân Tâm lí học
+Thạc sĩ Quản lý giáo dục
+Thạc sĩ LL&PPDH bộ môn (Toán, Vật lý, Hóa học, Sinh học, Ngữ văn, Lịch sử)
+Thạc sĩ Tâm lý học Lâm sàng TE&VTN
+Thạc sĩ Đo lường & Đánh giá trong GD
+Thạc sĩ Quản trị trường học
+Thạc sĩ Tham vấn học đường
+Thạc sĩ Giáo dục mầm non, giáo dục tiểu học
+Thạc sĩ Quản trị Công nghệ Giáo dục
+Tiến sĩ Quản lý Giáo dục
+Tiến sĩ Tâm lý học Lâm sàng TE&VTN
+Tiến sĩ Đo lường & Đánh giá trong GD
+Tiến sỹ Lý luận, phương pháp và công nghệ dạy học
+Giới thiệu
+Cơ cấu tổ chức
+Hội đồng Khoa học và Đào tạo
+Ban Giám hiệu
+Lịch sử hình thành
+Sứ mạng - Tầm nhìn
+Kế hoạch chiến lược
+Quy chế hoạt động
+Sơ đồ tổ chức
+Hội đồng trường
+Hội đồng Khoa học và Đào tạo
+Hội đồng Đảm bảo chất lượng
+Ban Giám hiệu
+Đảng ủy
+Công Đoàn
+Đoàn Thanh niên
+Ba công khai
+Tài nguyên
+Cổng thông tin việc làm
+Tra cứu tài liệu thư viện ĐHQGHN
+Tra cứu luận văn, luận án
+Thư viện
+Tạp chí Khoa học
+Cổng thông tin người học
+Cổng thông tin tuyển sinh
+Biểu mẫu dành cho học viên, sinh viên
+Thiết kế website
+Trường đại học giáo dục
+Địa chỉ
+: Nhà G7, số 144 Xuân Thủy
+Điện thoại
+: (024) 7301 7123
+Email
+: education@vnu.edu.vn
+© UED. All Rights Reserved.
+Quay trở lại website cũ

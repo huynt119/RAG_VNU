@@ -1,0 +1,17 @@
+Nguồn: uet.vnu.edu.vn_trung_tam_nghien_cuu_va_phat_trien_ve_phan_mem_ung_dung_cho_o_tai_viet_nam_lg_vc_dcv_tuyen_dung_va_tuyen_sinh_vien_thuc_tap_2017_.txt
+
+Yêu cầu đối với các ứng viên có kinh nghiệm
+Hơn 2 năm kinh nghiệm phát triển phần mềm sử dụng ngôn ngữ C++;
+Có kiến thức tốt về phân tích, thiết kế và lập trình hướng đối tượng;
+Có kinh nghiệm sử dụng công cụ quản lý bug, source code: JIRA, GIT và Gerrit;
+Có kinh nghiệm làm việc với các hệ thống phần mềm lớn;
+* Các ứng viên tài năng và có kinh nghiệm tốt sẽ được cân nhắc cho vị trí Senior hoặc Leader. Yêu cầu đối với các ứng viên chưa có kinh nghiệm hoặc mới ra trường
+Yêu thích và có mong muốn lập trình sử dụng ngôn ngữ C++ (Công ty sẽ có các khóa học on-job-training);
+Có thể sử dụng ít nhất một ngôn ngữ lập trình (Ưu tiên biết ngôn ngữ lập trình hướng đối tượng);
+Bất kỳ kinh nghiệm lập trình thực tế (bao gồm bài tập lớn, đồ án tốt nghiệp) được khuyến khích đề cập trong hồ sơ ứng tuyển
+Các ứng viên có một hoặc nhiều kỹ năng dưới đây sẽ là lợi thế
+Có kinh nghiệm lập trình đa luồng, đa tiến trình;
+Có kinh nghiệm thực tế trong việc sử dụng và thực hiện các design patterns (MVC, Observer, Singleton);
+Có kinh nghiệm phát triển ứng dụng sử dung Qt/QML framework;
+Có kinh nghiệm liên quan đến việc thiết kế GUI framework và các ứng dụng front-end;
+Có khả năng thuyết trình, chia sẻ thông tin và tạo lập báo cáo.

@@ -1,0 +1,213 @@
+Nghiên cứu khoa học
+Nghiên cứu khoa học
+TT
+Giảng viên
+Các chủ đề hướng dẫn
+1
+PGS.TS. Nguyễn Minh Tuấn
+* Hướng nghiên cứu và hướng dẫn SV, HVCH, và NCS trong lĩnh vực toán cao cấp:
+-Giải tích Fourier
+-Phép biến đổi tích phân và các hàm đặc biệt, phương trình tích phân dạng chập
+-Lý thuyết khả nghịch một phía của toán tử tuyến tính
+-Phương trình tích phân kỳ dị Cauchy, bài toán biên Riemann
+-Hàm thực, bất đẳng thức đại số và bất đẳng thức tích phân
+-Phương trình vi-tích phân và mô hình toán học trong sinh học
+* Chủ đề hướng dẫn SV, HVCH: số học, đại số, lượng giác trong toán sơ cấp (toán phổ thông)
+ThS. Đào Thị Hoa Mai
+* Xây dựng các công cụ đánh giá kết quả học tập
+* Cách thức xây dựng các công cụ điều tra xã hội học
+* Các kỹ thuật xử lý và phân tích số liệu điều tra khảo sát
+* Các kỹ thuật kiểm tra đánh giá trong lớp học
+* Quy trình xây dựng ngân hàng và đề thi
+* Các công cụ đánh giá cải tiến, phát triển chuyên môn nghiệp vụ
+* Xây dựng hồ sơ kiển tra đánh giá
+* Quy trình dạy – học định hướng tiếp cận chuẩn quốc tế và vận dụng vào môn học cụ thể
+* Xây dựng bộ công cụ đánh giá quá trình trong dạy học Toán và các môn KHTN (nói chung)
+* Các cách tiếp cận, phương pháp và kĩ thuật dạy – học – kiểm tra đánh giá trong dạy học môn Toán bằng tiếng Anh (đáp ứng yêu cầu theo chương trình Cambridge)
+* Hình học trong dạy học Toán ở THPT
+PGS. TS. Nguyễn Chí Thành
+* Dạy học tích cực và các phương pháp triển khai: Dạy học Dự án; Dạy học tích hợp; Dạy học STEM…
+* Ứng dụng CNTT trong DH Toán (Phần mềm dạy học; Web 2.0 trong DH; Dạy học trong môi trường trực tuyến: Sử dụng Moodle trong dạy học; Tổ chức hoạt động dạy học E-learning; …)
+* PP và KT-ĐG trong DH Toán theo tiếp cận năng lực đầu ra; Đánh giá PISA, PASEC…;
+* Phát triển CT nhà trường trong DH Toán;
+* Bồi dưỡng và phát triển nghiệp vụ giáo viên: mô hình Nghiên cứu bài học; Phát triển cộng đồng học tập…;
+4
+TS. Phạm Đức
+Hiệp
+* Hướng nghiên cứu và hướng dẫn SV và HVCH trong lĩnh vực toán cao cấp:
+-Lý thuyết số đại số, lý thuyết số p-adic
+-Xấp xỉ Diophante và phương trình Diophante
+-Hình học đại số số học
+* Chủ đề hướng dẫn SV, HVCH trong toán phổ thông
+* Số học, đại số sơ cấp
+5
+PGS.TS. Mai Văn Hưng
+*Phương pháp dạy học theo định hướng phát triển năng lực
+* Dạy học giải quyết vấn đề và sáng tạo
+* Dạy học theo quan điểm sư phạm tích hợp
+* Dạy học thích ứng với năng khiếu học sinh
+* Phương pháp dạy học phân hóa
+*Giáo dục giới và giới tính
+* Giáo dục STEM
+* Dạy học hỗn hợp (Blended Learning)
+6
+PGS. TS. Phạm Kim Chung
+* Phát triển năng lực của HS trong dạy học
+* Tổ chức hoạt động trải nghiệm của HS trong dạy học
+* Ứng dụng công nghệ thông tin trong dạy học
+* Sử dụng thí nghiệm trong dạy học Vật lý
+* Tổ chức dạy học chủ để tích hợp và STEM
+7
+TS. Vũ Minh Trang
+* Phương pháp dạy học hoá đại cương
+* Phương pháp dạy học hoá vô cơ
+* Phương pháp dạy học hoá hữu cơ
+* Tuyển chọn và phân loại hệ thống bài tập hoá học để phát huy năng lực tư duy cho học sinh
+* Thiết kế giáo án dạy học cho các học phần hoá đại cương, hoá vô cơ, hoá hữu cơ
+*Thiết kế các câu hỏi và các đề kiểm tra để đánh giá học lực và nhận thức của học sinh trong môn hoá học
+* Ứng dụng công nghệ thông tin trong dạy học Hóa học
+*Dạy học theo định hướng STEM
+* Sử dụng thí nghiệm trong dạy học Hóa học
+*Dạy học Hóa học theo định hướng hình thành và phát triển năng lực cho HS
+8
+TS. Lê Thị Phượng
+* Dạy học Sinh học THPT theo hướng phát triển năng lực cho người học (Dạy học khám phá; Dạy học nêu và giải quyết vấn đề; Dạy học tình huống; Dạy học theo trạm; Dạy học theo nhóm nhỏ; Dạy học dự án; Dạy học theo mô hình lớp học đảo ngược…)
+* Dạy học Sinh học tích hợp (tích hợp giáo dục môi trường, sinh lý, sức khỏe sinh sản, giáo dục giới tính): xây dựng chủ đề tích hợp, tổ chức dạy các chủ đề tích hợp
+* Sử dụng một số kĩ thuật dạy học tiên tiến trong dạy học Sinh học THPT (sử dụng phiếu học tập, sử dụng sơ đồ tư duy…)
+* Thiết kế và sử dụng bài tập phát triển năng lực trong dạy học Sinh học.
+* Dạy học Sinh học ngoài thực địa và môi trường thiên nhiên.
+* Xây dựng các hoạt động ngoại khóa, hoạt động trải nghiệm sang tạo trong giảng dạy Sinh học ở trường phổ thông
+* Thiết kế giáo án trong dạy – học Sinh học bằng tiếng Anh ở trường phổ thông.
+* Tổ chức dạy học Sinh học bằng các phương tiện trực quan (tranh ảnh, mẫu vật...)
+* Xây dựng các kỹ năng cơ bản khi làm việc độc lập với sách giáo khoa nhằm nâng cao năng lực tự học cho học sinh.
+* Nghiên cứu sách giáo khoa nước ngoài, xây dựng mô hình Sách giáo khoa Khoa học tự nhiên và Sách giáo khoa Sinh học theo chương trình mới.
+* Thiết kế Webquest hướng dẫn tự học môn Sinh học.
+9
+TS. Nguyễn Thị Thúy Quỳnh
+* Dạy học tích cực và các phương pháp triển khai: Dạy học STEM, STEAM, Dạy học Dự án; Dạy học tích hợp…
+* Vận dụng các bài hát Tiếng anh trong dạy học Sinh học ở trường THPT nhằm phát triển năng lực ngôn ngữ và giao tiếp cho học sinh
+* Thiêt kế và xây dựng các bài thí nghiệm sinh học nhằm phát triển năng lực tư duy cho học sinh
+* Nghiên cứu và thiết kế các hoạt động ngoại khóa trong dạy học sinh học ở trường THPT
+* Xây dựng và thiết kế mô hình thí nghiệm ảo và sách điện tử môn Sinh học theo hướng bồi dưỡng năng lực tự học của học sinh THCS và PTTH.
+* Ứng dụng công nghệ thông tin trong dạy học môn Sinh học ở trường THPT
+10
+TS. Phạm Thị Kim Giang
+* Dạy học theo định hướng phát triển năng lực cho HS:
+* Dạy học trải nghiệm sáng tạo
+* Dạy học STEM
+* Thiết kế phần mềm ebook để dạy học
+* Dạy học E-learning, Blended Learning,…
+* Ứng dụng công nghệ thông tin trong dạy học: Webquest, googlesite, moodle,…
+* Dạy học tích hợp liên môn, dạy học theo chủ đề…
+* Nghiên cứu chuyên đề về bài tập hóa học phân tích giảng dạy ở phổ thông, luyện thi học sinh giỏi.
+* Nghiên cứu các chuyên đề hóa học: chuyên đề hóa học với đời sống, hóa học với y tế, hóa dược,...
+* Nghiên cứu về đổi mới phương pháp giảng dạy hóa học ở trường phổ thông: các phuong pháp dạy học theo huong tích cực và hiện đại (dự án, hop đồng, sơ đồ tư duy,...); các kỹ thuật dạy học, ...
+* Phát tiển năng lực cho học sinh thông qua bài tập hóa học.
+* Dạy học kiến tạo, dạy học tình huống, dạy học sư phạm tương tác,...
+11
+TS. Vũ Thị Thu Hoài
+* Dạy học định hướng phát triển năng lực cho HS: Phát triển các năng lực chung và năng lực đặc thù của môn Hóa học trong dạy học Hóa học ở trường phổ thông: NL Giải quyết vấn đề và sáng tạo; NL hợp tác giải quyết vấn đề, NL Thực nghiệm hóa học; NL vận dụng kiến thức hóa học vào thực tiễn; NL Nghiên cứu khoa học; NL hợp tác; NL tính toán, NL tự học, ....
+* Vận dụng các PPDH tích cực: PPDH theo dự án, DH GQVĐ, DH hợp tác theo nhóm, DH tích hợp, DH phân hóa, Sơ đồ tư duy, PPDH Grahp..... phát triển NL người học,.........
+* Dạy học tích hợp theo các chủ đề trong dạy học hóa học ở trường phổ thông
+* Sử dụng sơ đồ tư duy hướng dẫn học sinh ôn tập tổng kết trong các bài luyện tập, tổng kết hóa học 10, 11, 12.
+* Xây dựng Ebook hỗ trợ học sinh tự học, phát triển năng lực tự học cho học sinh
+* Xây dựng và sử dụng bài tập thực nghiệm hóa học phát triển NL thực nghiệm hóa học cho HS.
+* Xây dựng và sử dụng BTHH thực tiễn trong dạy học hóa học.
+* Sử dụng bài tập hóa học rèn luyện và phát triển năng lực của học sinhtrong dạy học hóa học
+* Xây dựng và sử dụng câu hỏi bài tập hình thành khái niệm hóa học, hình thành và phát triển khái niệm phản ứng học trong chương trình hóa học phổ thông.
+12
+TS. Nguyễn Hoàng Trang
+* Dạy học theo định hướng phát triển năng lực (năng lực hợp tác, năng lực GQVĐ và sáng tạo, năng lực tự học,…) áp dụng các phương pháp dạy học tích cực (Dự án, dạy học theo góc, STEM,…)
+* Hoạt động ngoại khóa hóa học, dạy học trải nghiệm sáng tạo
+* Thiết kế bài giảng trực tuyến, dạy học E-learning, Blended learning
+* Dạy học tích hợp theo chủ đề gắn liền với thực tiễn.
+* Dạy học sử dụng thí nghiệm hóa học
+* Ứng dụng CNTT trong dạy học hóa học: Mô phỏng cấu trúc không gian của phân tử, orbital phân tử; thiết kế thí nghiệm ảo; Sử dụng các phần mềm trong dạy học hóa học (Imindmap, Hyperchem, ChemOffice, ChemCraft,..)
+* Hướng dẫn nghiên cứu khoa học môn hóa học cho học sinh
+* Ứng dụng các kiến thức hóa lý trong giảng dạy hóa học phổ thông
+* Nghiên cứu cấu trúc phân tử bằng các phương pháp hóa học tính toán (hóa lượng tử), các thông số nhiệt động và giải thích cơ chế tham gia phản ứng hóa học của một số hợp chất hữu cơ.
+13
+ThS. Đỗ Thùy Linh
+* Ứng dụng công nghệ thông tin trong dạy học môn Sinh học tại trường THPT
+* Nâng cao năng lực ứng dụng kiến thức môn Sinh học trong thực tiễn (hướng dẫn sinh viên thiết kế các hoạt động theo hướng STEM – STEAM)
+* Vận dụng quan điểm tiếp cận lịch sử trong dạy và học môn Sinh học THPT
+* Rèn luyện năng lực dạy học bằng tiếng Anh cho sinh viên sư phạm Sinh học
+* Dạy học Sinh học theo chủ đề
+* Xây dựng và thiết kế mô hình thí nghiệm ảo và sách điện tử môn Sinh học theo hướng bồi dưỡng năng lực tự học của học sinh THCS và PTTH.
+* Vận dụng hình thức nghiên cứu bài học để nâng cao năng lực tự học và năng lực tư duy kiến thức môn Sinh học cho học sinh THPT
+14
+ThS. Lại Phương
+Liên
+* Dạy học theo chủ đề
+* Dạy học Sinh học theo quan điểm tích hợp (tích hợp Khoa học tự nhiên, Công nghệ, Địa lý, Biến đổi khí hậu… với Sinh học).
+* Dạy học phân hóa
+* Xây dựng các chủ đề cốt lõi để tổ chức dạy học Sinh học ở THCS
+Xây dựng các chủ đề cốt lõi để tổ chức dạy học Sinh học ở THPT
+* Lý thuyết đồng tâm trong phát triển chương trình Sinh học phổ thông
+* Vận dụng lý thuyết hệ thống và tiếp cận nghiên cứu hệ thống vào chương trình Sinh học Phổ thông
+* Nghiên cứu, xây dựng sách giáo khoa Khoa học tự nhiên phục vụ việc giảng dạy Sinh học trong bối cảnh tích hợp Sinh học với các môn Khoa học tự nhiên khác, đáp ứng yêu cầu đổi mới chương trình học sau 2015
+* Nguyên tắc thiết kế các câu hỏi, bài tập Sinh học và đề kiểm tra, đánh giá môn Sinh học
+* Nghiên cứu chương trình học môn Sinh học của các nước và đề xuất vận dụng vào chương trình Sinh học Việt Nam
+15
+TS. Nguyễn Hữu Chung
+* Phương pháp dạy học theo định hướng phát triển năng lực cho học sinh THPT
+* Xây dựng bài tập hóa học thực tiễn rèn luyện phát triển tư duy sáng tạo cho học sinh.
+* Xây dựng hệ thống thí nghiệm và bài tập hóa học phát triển tư duy cho học sinh.
+16
+ThS. Vũ Phương Liên
+* Vấn đề tích hợp trong dạy học hóa học: giáo dục môi trường, giáo dục hướng nghiệp, kĩ năng sống, giá trị sống….
+* Dạy học hiệu quả dựa trên cách tiếp cận khoa học thần kinh nhân thức
+* Xây dựng và mô phỏng thí nghiệm hóa học
+* Phát triển năng lực tư duy sáng tạo thông qua hoạt động giải bài tập hóa học
+* Thiết kế các công cụ kiểm tra đánh giá: câu hỏi kiểm tra, bài kiểm tra, hồ sơ KTĐG
+* Tâm lý định hướng, hướng nghiệp cho học sinh, sinh viên
+17
+PGS.TS. Phạm Minh Diệu
+* Dạy học Ngữ văn theo định hướng phát triển năng lực cho HS
+* Thiết kế quy trình các bài học theo hướng tăng cường hoạt động của HS
+* Vấn đề hoạt động cá nhân, hoạt động nhóm trong dạy học môn Ngữ văn
+* Vấn đề tổ chức trò chơi và các hoạt động bổ trợ trong dạy học Ngữ văn
+* Dạy học tích hợp và phân hóa trong CT Ngữ văn phổ thông
+* Hệ thống văn bản trong nhà trường phổ thông
+18
+TS. Phạm Thị Thu Hiền
+* Dạy học đọc hiểu văn bản
+* Dạy học làm văn
+* Dạy học tích hợp trong môn Ngữ văn
+* Kiểm tra đánh giá trong dạy học Ngữ văn
+* Nghiên cứu về chương trình, sách giáo khoa Ngữ văn của Việt Nam và nước ngoài
+* Xây dựng chương trình nhà trường
+19
+TS. Đoàn Nguyệt
+Linh
+* Dạy học và biên soạn lịch sử địa phương.
+* Dạy học môn Lịch sử thông qua hình thức dạy – học tích cực, phát huy tính chủ động cho học sinh.
+* Phương pháp trải nghiệm trong dạy học Lịch sử
+* Thiết kế và sử dụng bài tập nhận thức trong dạy học LS
+* Dạy học nhân vật lịch sử
+* Tổ chức, hướng dẫn tự học trong dạy học Lịch sử
+* Sử dụng có hiệu quả đồ dùng trực quan trong dạy học
+* Rèn luyện kỹ năng sử dụng sách giáo khoa
+* Xây dựng hồ sơ tư liệu môn học
+* Thiết kế Ebook trong dạy học Lịch sử
+* Vận dụng nghiên cứu bài học để Xây dựng cộng đồng học tập trong dạy học lịch sử
+* Phát triển kỹ năng tư duy logic, tư duy phản biện cho học sinh trong dạy học Lịch sử.
+20
+PGS.TS. Lê Hải Anh
+* Nghiên cứu và dạy học Ngữ Văn từ phương diện Ngôn ngữ nghệ thuật.
+* Nghiên cứu và dạy học Ngữ Văn từ góc nhìn Văn hóa.
+* Nghiên cứu và dạy học Ngữ Văn từ sự phân loại khu vực văn học đặc tuyển và văn học đại chúng.
+* Nghiên cứu và dạy học Ngữ Văn từ Thi pháp học.
+* Nghiên cứu và dạy học Ngữ Văn theo tinh thần đổi mới giáo dục, chương trình SGK mới:
+- Dạy học theo hướng phát triển năng lực học sinh
+- Dạy học ứng dụng đa phương tiện
+- Dạy học tích cực và phân hóa
+- Thiết kế, tổ chức hoạt động ngoại khóa trong dạy học Ngữ Văn
+21
+TS. Lê Thanh Huyền
+* Các vấn đề về văn học nước ngoài, Lí luận văn học...PPDH Ngữ văn
+* Thiết kế chương trình giáo dục, chương trình nhà trường, tích hợp môn Ngữ văn
+* Thiết kế hình thức tổ chức dạy học theo tiếp cận năng lực trong dạy học Ngữ văn (mô hình Câu lạc bộ sáng tạo văn học; hoạt động ngoài giờ, ngoại khóa, khám phá, trải nghiệm sáng tạo...)
+* Các vấn đề về liên quan đến phương pháp phát triển năng lực sáng tạo trong dạy học Ngữ văn
+* Thiết kế hệ thống bài tập rèn kĩ năng dạy học sáng tạo cho sinh viên sư phạm
+* Ứng dụng ICT trong dạy học

@@ -1,0 +1,39 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-dieu-khien-va-tu-dong-hoa-7_.txt
+
+Tóm tắt yêu cầu chương trình đào tạo
+Tổng số tín chỉ của chương trình đào tạo
+(Chưa tính các học phần Giáo dục thể chất, Giáo dục quốc phòng – an ninh, Kỹ năng bổ trợ)
+: 150 tín chỉ
+– Khối kiến thức chung
+(Chưa tính các học phần Giáo dục thể chất, Giáo dục quốc phòng – an ninh, Kỹ năng bổ trợ)
+: 21 tín chỉ
+– Khối kiến thức theo lĩnh vực: 19 tín chỉ
+– Khối kiến thức theo khối ngành: 06 tín chỉ
+– Khối kiến thức theo nhóm ngành: 14 tín chỉ
+– Khối kiến thức ngành: 90 tín chỉ
++ Khối kiến thức bắt buộc: 37 tín chỉ
++ Khối kiến thức bổ trợ: 07 tín chỉ
++ Khối kiến thức định hướng chuyên sâu: 28 tín chỉ
+Bắt buộc: 24 tín chỉ
+Tự chọn: 04 tín chỉ
++ Khối kiến thức thực tập và tốt nghiệp: 18 tín chỉ
+Thực tập: 08 tín chỉ
+Đồ án tốt nghiệp: 10 tín chỉ
+2. K
+hung chương trình đào tạo
+STT
+Mã học phần
+Học phần
+Số tín chỉ
+Số giờ tín chỉ
+Mã học phần tiên quyết
+Lý thuyết
+Thực hành
+Tự học
+I
+Khối kiến thức chung
+(
+chưa tính các học phần Giáo dục thể chất, Giáo dục quốc phòng – an ninh, Kỹ năng bổ trợ
+)
+21
+1.

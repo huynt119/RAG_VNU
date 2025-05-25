@@ -1,0 +1,121 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_camnang_131.txt
+
+Đại học
+7380101
+Luật
+100
+Xét kết quả thi tốt nghiệp THPT
+380
+218
+C00
+A00
+D01,
+D03
+D78,
+D82
+301
+Xét tuyển thẳng theo quy định của Quy chế Tuyển sinh (Điều 8)
+19
+303
+Xét tuyển thẳng, ưu tiên xét tuyển theo Đề án của Khoa Luật, ĐHQGHN
+19
+401
+Thi ĐGNL do ĐHQGHN tổ chức năm 2022
+76
+408
+Chỉ sử dụng chứng chỉ quốc tế để xét tuyển
+08
+409
+Kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ quốc tế để xét tuyển
+30
+500
+Xét tuyển phương thức khác (thí sinh là học sinh các trường Dự bị đại học)
+10
+2. Đại học
+7380101CLC
+Luật chất lượng cao theo TT23
+100
+Xét kết quả thi tốt nghiệp THPT
+120
+74
+A01
+D01
+D07
+D78
+301
+Xét tuyển thẳng theo quy định của Quy chế tuyển sinh (Điều 8)
+06
+303
+Xét tuyển thẳng, ưu tiên xét tuyển theo Đề án của Khoa Luật, ĐHQGHN
+06
+401
+Thi ĐGNL do ĐHQGHN tổ chức năm 2022
+24
+408
+Chỉ sử dụng chứng chỉ quốc tế để xét tuyển
+03
+409
+Kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ quốc tế để xét tuyển
+09
+3. Đại học
+7380110
+Luật Kinh doanh
+100
+Xét kết quả thi tốt nghiệp THPT
+190
+111
+A00
+A01
+D01,
+D03
+D90,
+D91
+301
+Xét tuyển thẳng theo quy định của Quy chế tuyển sinh (Điều 8)
+09
+303
+Xét tuyển thẳng, ưu tiên xét tuyển theo Đề án của Khoa Luật, ĐHQGHN
+10
+401
+Thi ĐGNL do ĐHQGHN tổ chức năm 2022
+38
+408
+Chỉ sử dụng chứng chỉ quốc tế để xét tuyển
+04
+409
+Kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ quốc tế để xét tuyển
+15
+500
+Xét tuyển phương thức khác (thí sinh là học sinh các trường Dự bị đại học)
+03
+4. Đại học
+7380109
+Luật Thương mại quốc tế
+100
+Xét kết quả thi tốt nghiệp THPT
+60
+33
+A00
+A01
+D01
+D78,
+D82
+301
+Xét tuyển thẳng theo quy định của Quy chế tuyển sinh (Điều 8)
+02
+303
+Xét tuyển thẳng, ưu tiên xét tuyển theo Đề án của Khoa Luật, ĐHQGHN
+03
+401
+Thi ĐGNL do ĐHQGHN tổ chức năm 2022
+12
+408
+Chỉ sử dụng chứng chỉ quốc tế để xét tuyển
+02
+409
+Kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ quốc tế để xét tuyển
+05
+500
+Xét tuyển phương thức khác (thí sinh là học sinh các trường Dự bị đại học)
+03
+1.5.

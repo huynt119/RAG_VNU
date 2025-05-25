@@ -1,0 +1,30 @@
+Nguồn: uet.vnu.edu.vn__chauttm_oop2014f_assignments_asg04_Tetris.htm.txt
+
+Chiến lược là cài đè phương
+thức
+tick(
+), sao cho mỗi lần hệ
+thống gọi tick(DOWN) để hạ mảnh tetris xuống
+một hàng, JBrainTetris nắm lấy cơ hội này để
+di chuyển mảnh tetris trước đã. Quy tắc của
+ta là mỗi lần
+tick(
+DOWN) được
+gọi, bộ óc có thể thực hiện tối đa 01
+phép xoay kèm theo tối đa 01 phép dịch trái/phải. Trong chế độ tự động, bộ óc
+cần thao tác để mảnh trôi về vị trí
+đúng. Trong khi bộ óc đang chơi tự
+động, người dùng vẫn có thể sử dụng
+bàn phím để di chuyển mảnh tetris, nhưng bộ
+óc sẽ di chuyển mảnh về hướng đúng. Khi bảng bị đầy dần, có thể
+sẽ đến lúc bộ óc không thể kịp di chuyển
+mảnh tetris về vị trí. Đó là tình huống
+bình thường (ta có thể tạo chế độ mà bộ
+óc lập tức kéo mảnh về vị trí đúng sau chỉ
+một thao tác, nhưng xem chương trình chơi tự
+động như vậy thì không vui bằng)
+JBrainTetris cần phát hiện khi
+biến JTetris.count thay đổi để biết rằng
+một mảnh mới đã xuất hiện. Tại thời điểm này, nó cần dùng bộ
+óc để tính, một lần thôi, xem mảnh đó nên
+đi đến vị trí nào – đích.

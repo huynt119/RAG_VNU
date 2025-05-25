@@ -1,0 +1,1623 @@
+LE DINH ANH, Ph. D (Eng.)
+Contact:
+School of Aerospace Engineering,
+VNU
+-University of Engineering and
+Technology, 403-E5, 144 Xuan Thuy,
+Cau Giay, Hanoi
+Tel:
++84-973242703
+Email:
+anh.ld@vnu.edu.vn
+Homepage:
+LeDinhAnh_Google Scholar
+https://uet.vnu.edu.vn/~anh.ld/
+1.
+EDUCATION
+
+Engineering
+Deg.
+i
+n
+M
+echanical
+Eng.
+:
+2013,
+Hanoi
+University
+of
+Science
+and
+Technology, Vietnam
+
+Master Deg. in Mechanical Eng.
+: 2015, Tohoku University, Japan
+
+Doctor Deg. In Mechanical Eng. (Ph. D)
+: 2019, Tohoku University, Japan
+2.
+CAREER
+
+2016
+–
+2018:
+Research
+Assistant
+–
+Takuetsu-K
+yoten
+-Program,
+Excellent
+Graduate
+Schools,
+“World
+Center
+of
+Educa
+tion
+and
+Research
+for
+Trans
+-disci
+plinary
+Flow
+Dynamics”,
+Tohoku University.
+
+2017
+–
+2019: Research assistance at Graduate School of Engineering, Tohoku University
+
+2019
+–
+Present:
+Lec
+turer
+at
+School
+of
+Aerospace
+Engineering,
+VNU
+University
+of
+Engineering and technology
+3.
+TEACHING COURSES
+
+Fluid Mechanics
+
+Engineering Graphics
+
+Dynamics of Systems
+
+Advanced numerical method for Aerospace engineering
+
+Numerical method
+
+Machine elements
+4.
+RESEARCH INTEREST AND SPECIALISATION
+
+Turbomachine
+
+Cavitation and thermodynamic effec
+t (Computational Fluid D
+y
+namics - CFD)
+
+Aerodynamic optimization of vertical axis wind turbine (CFD)
+
+Drag reduction (CFD)
+5.
+RESEARCH GRANTS
+
+Grant CN.20.16 of VNU-Universit
+y
+of Engineering and Technology, 2020
+–
+2021
+(PI)
+
+Grant
+107.03-2020.22
+of
+the
+National
+Foundation
+for
+Science
+&
+Technolog
+y
+Development
+(NAFOSTED), 2020
+–
+2022
+(PI)
+
+Grant QG.21.32 of Vietnam National University, 2021
+–
+2023
+(PI)
+
+Grant VNU.2021.TTS.08 of VNU postdoctoral fellowship, 2021
+(PI)
+
+Grant VINIF.2022.STS.02 of
+Vingroup Innovation Foundation VINIF, 2022
+(PI)
+
+Grant CN.19
+of VNU-University of
+Engineering and Tec
+hnology, 2019
+–
+2020
+(Member)
+
+Grant QG.21.33 of Vietnam National University, 2021
+–
+2023
+(Member)
+
+Grant
+107.03-2021.37
+of
+the
+National
+Foundation
+for
+Science
+&
+Technolog
+y
+Development
+(NAFOSTED), 2023 -
+(Member)
+6.
+HONORS AND AWARDS
+o
+The scientist
+with high
+achievements
+in scientific
+research
+and innovation of
+VNU
+(2022)
+o
+Certificate of VNU-University of Engineering and Technolog
+y
+for Young
+Representative
+Scientist (2022)
+o
+Certificate
+of
+VNU-
+University
+o
+f
+Engineering
+and
+Technology
+for
+super
+vising
+the
+first
+prize student research project. (2021)
+o
+Tohoku University President Fellowship (2016
+–
+2019)
+o
+JASSO Scholarship (2013
+–
+2014, 2016
+–
+2017)
+o
+Fusheng Group Scholaship (2010)
+o
+HUST Scholarship type A and B (2009
+–
+2012)
+7.
+REFEREEING ACTIVITY
+International journals
+1.
+ASME Journal of Energy Resource a
+nd Technology (ISI)
+2.
+International Journal of Technology (Scopus)
+Domestic Journal
+1. Vietnam Journa
+l of Mechanic
+s
+8.
+PUBLICATIONS:
+40
+publications
+(31
+papers
+in
+international
+journals
+and
+international conferences, including SCI and SCIE journals)
+SCI
+–
+ESCI journals
+1.
+Anh,
+L.
+D.
+,
+Okajima,
+J., Iga,
+Y.,
+2019,
+“Numerical
+Simulation
+of
+Cavitation
+in L
+iquefied
+Hydrogen
+Using
+a Simplified
+Thermodynamic
+Model,”
+Cry
+ogenics, Vol.
+101,
+pp.
+29
+-35.
+(ISSN: 0011-2275)
+2.
+Anh,
+L.
+D.
+,
+Okajima,
+J.,
+Ig
+a,
+Y.,
+2019,
+“Modification
+of
+Energy
+Equation
+for
+Homogeneous
+Cavitation
+Simulation
+wit
+h
+Thermodyna
+mic
+Effect,”
+ASME
+Journal
+of
+Fluids Engineering, Vol. 141(8), pp. 081102 (ISSN: 0098-2202)
+3.
+Anh, L. D.
+, Hoang, P. T., Hung, T. T., 2021, “Assessment of a Homogeneous Model for
+Simulating
+a
+Ca
+vitating
+Flow
+in
+Water
+under
+a
+W
+ide
+Range
+of
+Temper
+atures,”
+ASME
+Journal
+of
+Fluids
+En
+gineering
+143(10):
+101204,
+https://doi.org/10.1115/1.4051078
+(ISSN: 0098-2202)
+4.
+Anh, L.
+D.
+, 2022, “
+Study of
+Thermodynamic Effect
+on the
+Mechanism of Flashing
+Flow
+under
+Pre
+ssurized
+Hot
+Water
+by
+a
+Homo
+gene
+ous
+Model,”
+ASME
+J
+ournal
+of
+Fluids
+Engineering 144(1): 011206 (I
+SSN: 0098-2202
+)
+5. Hung
+, T. T.,
+Masayuki, A.,
+Takuji, N.,
+Keigo,
+S.,
+Anh, L. D.
+, 2022,
+“Exp
+erimental study
+of
+the
+skin-f
+riction
+topolog
+y
+around
+th
+e
+Ahmed
+body
+in
+cross-
+wind
+condition,”
+ASME
+Journal of Fluids Engineering 144(3), 031209 (I
+SSN: 0098
+-2202)
+6.
+Anh
+,
+L.
+D.
+,
+Hung,
+T.
+T.,
+2022,
+“
+I
+mprovement
+of
+Mass
+Tr
+ansfer
+Rate
+Modeling
+for
+Prediction
+of
+Cavitating
+Flow,”
+Journal
+of
+Applied
+Fluid
+Mechanics
+15(2),
+551-561
+(ISSN: 1735-3645)
+7.
+Anh,
+L.
+D.
+, L
+inh, N. L.,
+Anh,
+T.
+V.,
+Hung,
+T. T.,
+2022,
+“Assessment
+of
+Flow F
+luctuation
+Pressure
+Models
+for
+Simulating
+the
+Cavitating
+Flow,”
+Technical
+Physics
+Letters,
+48(4)
+(ISSN: 1090-6533), DOI: 10.21883/TPL.2022.04.53487.19136
+8.
+Anh,
+L.
+D.
+,
+Minh,
+B.
+D.,
+Tam,
+H.
+V.,
+Hung,
+T.
+T.,
+2022,
+“Modified
+S
+avonius
+W
+ind
+Turbine for Wind
+Energy Harvesting in
+Urban Environments,” ASME
+Journal of
+Fluids
+Engineering 144(8): 081501 (I
+SSN: 0098-2202
+)
+9.
+Anh,
+L.
+D.
+,
+Minh,
+B.,
+D.,
+Hung,
+T.
+T.,
+Trinh,
+C.
+D.,
+2022,
+“High
+Efficiency
+Energy
+Harvesting
+Using
+a
+Savonius
+Turbine
+With
+Multicurve
+and
+Auxiliary
+Blade,”
+ASME
+Journal of Fluids Engineering 144(11): 111207-1 (ISSN: 0098-2202)
+10.
+Minh,
+B.
+D.,
+Hun
+g,
+T.
+T.,
+Trinh,
+C.
+D.,
+Duc,
+N.
+D.,
+Anh,
+L.
+D
+,
+2023
+,
+“Performance
+enhancement
+of savonius
+wind
+turbine
+by
+multicurve blade
+shape,”
+Energy
+Source
+Part
+A:
+Recovery,
+Utilization,
+and
+Environmental
+Effects
+45(1),
+1624-1642
+(ISSN:
+1556-
+7230)
+International Journals
+1.
+Tran,
+T.
+H.,
+Nguyen,
+D.
+D.,
+Anh,
+L.
+D.
+,
+2022,
+“Design
+of
+a
+low
+-cost
+pressure
+measurement
+device:
+va
+lidation
+and
+testing,”
+I
+nternational
+Journal
+of
+Sustainable
+Aviation 8(4),
+336-352, https://doi.org/10.1504/IJSA.2022.126558 (ISSN: 2050-0475)
+2. Do,
+V. M.,
+Tran,
+T. H.,
+Bui.
+X.
+S.,
+Anh, L.
+D.
+,
+2022,
+“Influence
+of
+spike
+-nosed length
+on
+aerodynamic
+drag
+of
+a
+wi
+ng-
+projectile
+model,”
+Advances
+in
+Milit
+ary
+Technology
+17(1),
+33-45 (ISSN: 1802-2308)
+3.
+Tran,
+T.
+H.,
+Dao.
+C.
+T.,
+Anh
+,
+L.
+D.
+,
+Nguyen,
+T.
+M.,
+2022,
+“Numerical
+study
+for
+flow
+behavior
+and
+drag
+of
+axisy
+mmetric boattail
+models at
+different
+Mach
+number,”
+Lecture
+Notes
+in
+Mechanical
+Engineering,
+https:/
+/doi.org
+/10.1007/978-981-19-1968-8_60
+(ISSN: 2195-4364)
+4. Minh, B
+. D.,
+and
+Anh, L.
+D
+., 2022,
+“Effe
+ct of
+the Elliptical
+Shape on
+the
+Performance
+of
+the
+Modified
+Savonius
+Wind Tur
+bine,”
+Lecture
+Notes
+in
+Mechanical
+Engineering
+DOI:
+https://doi.org/10.1007/978-981-19-1968-8_32 (ISSN: 2195-4364)
+5.
+Anh
+. L.
+D.
+, Long, I.,
+N., Quan,
+H. N.,
+Anh, T.,
+V., 2022,
+“Numerical Simulation
+of Hot
+Water
+Flashing
+Flow
+in
+a
+Converging
+Diver
+g
+ing
+Nozzle,”
+Lecture
+Notes
+in
+Mechanical
+Engineering,
+DOI:
+https://doi.org/10.1007/978-981-19-1968-8_62
+(ISSN:
+2195-4364)
+6.
+Thanh,
+N.
+V.,
+Anh,
+L.
+D.
+,
+et
+al.,
+2022,
+“
+Nummerical
+Analysis
+on
+Lift
+and
+Dra
+g
+of
+a
+Finite-Thickness
+Circular
+Arc
+H
+y
+drofoil
+in
+Different
+Camber
+,”
+Lecture
+Notes
+in
+Mechanical
+Engineering,
+https://doi.org/10.1007/978-981-19-1968-8_102
+(ISSN:
+2195-4364)
+7.
+Hung,
+T.
+T.,
+Anh,
+L.
+D.
+,
+et
+al.,
+2022,
+“
+Comparison
+of
+Numerical
+and
+Ex
+perimental
+Methods
+in
+Determining
+Boundary
+La
+y
+er
+of
+Axisymmetric
+Model
+,”
+Lecture
+Notes
+in
+Mechanical
+Engineering, https://doi.org/10.1007/978-3-030-
+99666-6_45 (ISSN: 2195-
+4364)
+8.
+Minh,
+B.
+D.,
+Anh,
+L.
+D.
+,
+et
+al.,
+2022,
+“Effe
+ct
+of
+Main
+Blade
+Confi
+g
+uration
+on
+the
+Performance
+of
+the
+Optimized
+Multicurve
+Savonius
+Wind
+Turbine,”
+Lecture
+Notes
+in
+Networks
+and
+S
+y
+stems,
+https://doi
+.org
+/10.1007/978-3-031-22200-9_48
+(ISSN:
+2367-
+3389)
+9.
+Anh
+,
+L.
+D.
+,
+Iga,
+Y.,
+2019,
+“A
+simplified
+Thermodynamic
+Effect
+Model
+for
+Cavitating
+Flow
+in
+Hot Water,”
+IOP
+Conference
+series: Earth
+and
+Environment Science,
+Vol. 240,
+062024
+Domestic Journals
+1.
+Anh,
+D.
+L.
+,
+2021,
+“Experimental
+and
+Numerical
+Evalu
+ation
+of
+a
+Simplified
+Thermodynamic Model
+for NACA0015
+Hydrofoil Cavitation
+in
+Hot Water,” Vietnam
+Journal of Mechanics 43(3): 253-264
+2.
+Anh,
+D.
+L.
+,
+Quan,
+N.,
+H.,
+Long,
+I.
+N.,
+Anh,
+T.
+V.,
+2022,
+“Ảnh
+hưở
+ng
+c
+ủa
+mô
+hình
+độ
+nh
+ớ
+t
+r
+ố
+i
+lên
+mô
+ph
+ỏ
+ng
+d
+òng
+x
+âm
+th
+ực
+tron
+g
+nướ
+c
+ở
+nhi
+ệt
+độ
+cao,”
+TNU
+Journal
+of
+Science and Technology 227(08) (ISSN: 2615-9562)
+3.
+Hung,
+T.
+T.,
+Anh,
+L.
+D.
+,
+et
+al.,
+2022,
+“Thuậ
+t
+toán
+x
+ử
+l
+ý
+ảnh
+và
+tươn
+g
+quan
+chéo
+tron
+g
+phân
+tích
+dòng
+ch
+ảy
+vòi
+phun,”
+TNU
+Journal
+of
+Science
+and
+Technolog
+y
+2
+27(15)
+(ISSN: 2615-9562)
+International Conferences
+1.
+Anh,
+L.
+D.
+, Anh,
+T.
+V.,
+2012,
+“
+A
+stud
+y
+of a
+new blade
+t
+y
+pe
+for
+imp
+rovin
+g
+Savonius wind
+turbine’s
+efficiency
+by
+means
+of
+CFD
+tool,”
+The
+5th
+AUN/SEED
+-Net
+Reg
+ional
+Conference on New/Renewable Energy, Hanoi.
+2.
+Yamaguchi,
+Y.,
+Anh,
+L.
+D.
+,
+Iga,
+Y.,
+2014,
+“Effect
+of
+flow
+v
+elocity
+on
+the
+structure
+of
+cavity
+in
+a
+2D
+nozzle,”
+Visu
+aliz
+ation
+I
+nformation
+S
+y
+mpos
+ium,
+Tokyo,
+Japan.
+(Peer
+review)
+3.
+Anh, L. D.
+, Nohmi, M., Iga, Y., 2014, “Effect of Single
+-Phase Turbulence Model on the
+Aspect
+of
+Cavitation
+in
+a
+Nozz
+le,”
+The
+11th
+I
+nternational
+C
+onferenc
+e
+on
+Flow
+Dynamic
+(ICFD), Sendai, Japan. (Peer-review)
+4.
+Anh, L.
+D.
+, Anh,
+B., Nohmi, M., I
+ga, Y.,
+2015, “Effect
+of Reynolds
+Number and
+Single
+Phase
+Turbulent
+Model
+on
+Cavitation
+ins
+ide
+a
+Nozzle,”
+13th
+Asian
+I
+nternational
+Conference on Fluid Machinery, Tokyo, Japan. (Peer-review)
+5.
+Anh,
+L. D.
+,
+Iga, Y.,
+2016,
+“Influence of
+Cavitation
+Model
+on Cavit
+y
+Surface
+Transition
+in
+a
+Nozzle,”
+13th
+International
+Conference
+on
+Flow
+D
+ynamics
+(
+ICFD),
+10/2016,
+Sendai, Japan. (Peer-review)
+6.
+Anh
+,
+L.
+D.
+,
+Iga,
+Y.,
+2017,
+“Simplified
+Modeling
+of
+Cavitatin
+g
+Fl
+ow
+with
+Thermodyna
+mic
+Effects
+for
+Homogeneous
+Model,”
+17th
+International
+Symposium
+on
+Transport
+Phenomena
+and Dynamics
+of
+Rotating
+Machiner
+y
+ISROMAC,
+12/2017,
+Maui,
+Hawaii,
+USA. (Peer-review)
+7.
+Anh
+,
+L.
+D.
+,
+Iga,
+Y.,
+2018,
+“A
+simplified
+Thermodynamic
+Effect
+Model
+for
+Cavitating
+Flow
+in
+Hot
+Water,”
+29th
+IAHR
+S
+y
+mposium
+on
+H
+y
+draulic
+Machinery
+and
+S
+y
+stems,
+Kyoto, Japan. (Peer-review)
+8.
+Anh,
+L.
+D.
+,
+Iga,
+Y.,
+2018,
+“Numerical
+Simulation
+of
+Cavita
+ting
+Flow
+with
+Thermodynamic
+Effects
+of
+Cavitation,”
+1st
+Internationa
+l
+Conference
+of
+Fluid
+Machinery and Automation Systems, Hanoi. (Peer-review)
+9.
+Anh,
+L.
+D.
+, Okajima,
+J., Iga
+,
+Y.,
+2019,
+“Ex
+perimental
+and Numerical
+Stud
+y
+of
+Hot Water
+Cavitation
+on
+a
+NA
+CA0015
+H
+y
+drofoil,”
+The
+5th
+International
+Conference
+on
+Engineering Mechanics and Automation ICEMA 5, 11/2019, Hanoi (Peer-review)
+10.
+Nakano,
+M.,
+Anh,
+L.,
+D
+.,
+Okajima,
+J
+.,
+Iga,
+Y.,
+2019,
+“Numerical
+Investigation
+of
+Thermodynamic
+Parameter
+in
+Cavitating
+Flow
+of L
+iquid
+H
+ydrog
+en,”
+16th I
+nternational
+Conference on Flow Dynamics (ICFD), Sendai, 10/2019 (Peer-review)
+11.
+Tam,
+H.
+V.,
+Anh,
+D
+.
+L.
+,
+2021,
+“Effect
+of
+the
+Mesh
+T
+ypes
+on
+the
+Prediction
+of
+Flow
+Aerodynamic
+around
+Airfoil,”
+The
+6th
+I
+nternational
+Confere
+nce
+on
+Engineerin
+g
+Mechanics and Automation (I
+CEMA 6) (Peer-revi
+ew)
+12.
+Hung,
+T.
+T.,
+Anh,
+L.
+D.
+,
+Trang,
+M.
+N.,
+Truong,
+C.
+D.,
+2021,
+“Boundary
+measurement
+for
+axisy
+mmetric
+blunt
+base body
+by num
+erical and
+experimental
+method,” Advanced
+Mechanical
+Engineering,
+Automation
+and
+S
+ustainable
+Development
+(AMAS2021)
+(Peer-review)
+Domestic Conferences
+1.
+Anh,
+L.
+D.
+,
+Anh,
+T. V., I
+ga,
+Y.,
+2016, “Kế
+t
+h
+ợ
+p mô
+hình r
+ố
+i RANS
+và mô hình
+xâm
+th
+ự
+c
+c
+ủ
+a
+S
+ingha
+l
+trong
+vi
+ệ
+c
+m
+ô
+ph
+ỏ
+ng
+c
+ấ
+u
+trú
+c
+x
+âm
+th
+ực
+trong
+vòi phun,”
+Hộ
+i ngh
+ị
+khoa
+h
+ọ
+c
+Cơ họ
+c th
+ủ
+y khí toàn qu
+ố
+c, Ha
+noi. (Peer-review)
+2.
+L
+inh,
+L., N.,
+Viet, T.
+D.,
+Dưc, N.
+V.,
+Anh, L.,
+D.
+,
+2020, “Mô
+phỏ
+ng dòng
+xâm
+th
+ực hơi
+và
+xâm
+th
+ự
+c
+khí b
+ằng
+phương
+pháp
+mô hình
+đồ
+ng nh
+ấ
+t
+cho dòng
+khôn
+g
+nh
+ớ
+t,”
+Hộ
+i ng
+h
+ị
+Cơ họ
+c Th
+ủ
+y
+khí Toàn qu
+ố
+c, 11/2020, Hà N
+ộ
+i (Peer-review).
+3. Minh, B
+., D.,
+Tam, H., V.,
+Anh, L., D.
+,
+2020, “Ng
+hiên cứ
+u
+biên d
+ạ
+ng cánh
+c
+ả
+i thi
+ệ
+n
+hi
+ệ
+u
+su
+ấ
+t
+tuabin
+gió
+Savonius
+b
+ằ
+ng
+công
+c
+ụ
+CFD,”
+H
+ộ
+i
+ngh
+ị
+Cơ
+họ
+c
+Th
+ủ
+y
+khí
+Toàn
+qu
+ố
+c,
+11/2020, Hà N
+ộ
+i (Peer-review).
+4.
+Hung,
+T.
+T.,
+Truong,
+C.
+D.,
+Minh,
+D.
+V.,
+Trang,
+N.
+M.,
+Chung,
+P.,
+A
+nh,
+L.
+D.
+,
+2021,
+“Application
+of RANS
+turbulence
+model
+in simulation
+base flow
+of
+ax
+isy
+mmetric
+bod
+y
+in
+wide
+range
+of
+Mach
+number,”
+H
+ộ
+i
+ngh
+ị
+cơ
+h
+ọ
+c
+th
+ủ
+y
+khí
+toàn
+qu
+ố
+c
+2021
+(Peer-
+review).
+5. Thanh, N. V.,
+Anh, L. D.
+, Anh, T. V., 2021, “Đánh giá hiệ
+u qu
+ả
+tính toán c
+ủ
+a sáu s
+ố
+mô
+hình
+r
+ố
+i
+mô
+ph
+ỏ
+ng
+dòn
+g
+ch
+ả
+y
+bao
+biên
+d
+ạ
+n
+g
+naca4412
+t
+ạ
+i
+s
+ố
+re
+1x106,”
+H
+ộ
+i
+ngh
+ị
+Cơ
+h
+ọ
+c Th
+ủ
+y
+khí Toàn qu
+ố
+c 24

@@ -1,0 +1,9 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-mang-may-tinh-va-truyen-thong-du-lieu-5_.txt
+
+Mục tiêu chung
+Mục tiêu chung của Chương trình đào tạo Thạc sĩ chuyên ngành Mạng máy tính và truyền thông dữ liệu (MMT&TTDL) là đào tạo nguồn nhân lực trình độ Thạc sĩ chất lượng cao, có kiến thức nền tảng vững chắc về lĩnh vực Máy tính và Công nghệ thông tin (CNTT), có hiểu biết chuyên sâu và năng lực nghiên cứu vềMMT&TTDL, góp phần thực hiện thành công chiến lược quốc gia phát triển kinh tế số và xã hội số của đất nước. Mục tiêu cụ thể
+Cập nhật, nâng cao kiến thứcvề CNTT, đặc biệt là kiến thứcvề Mạng máy tính và truyền thông dữ liệu như an ninh mạng, các mạng không dây và di động, các vấn đề hiện đại về truyền dữ liệu và mạng máy tính;
+Bổ sung kiến thức chuyên sâu về MMT&TTDL, đặc biệt là các kiến thức về kiến trúc mạng, các tầng giao thức và ứng dụng mạng, các kiến thức về an ninh và quản trị mạng;
+Nâng cao khả năng tự học để nắm bắt các công nghệ mới trong ngành MMT&TTDL;
+Trang bị năng lực tư duy logic tốt, năng lực sáng tạo để tìm hiểu và đề xuất các giải pháp công nghệ cho các vấn đề về mạng và truyền dữ liệu (kiến trúc mạng, giao thức mạng, an ninh mạng). Khả năng nghiên cứu chuyên sâu vào các vấn đề lý thuyết và công nghệ mới;
+Học viên tốt nghiệp có thể: Thiết kế, triển khai và quản trị các mạng máy tính; Thiết lập các chính sách an toàn, bảo mật, đảm bảo tính an ninh, tin cậy của hệ thống mạng; Thiết kế, phát triển và triển khai các dịch vụ và ứng dụng mạng; Học lên tiến sĩ ngành MMT&TTDL, tiếp tục nghiên cứu theo các hướng như quản trị mạng, an ninh mạng, mạng không dây và di động, các dịch vụ mạng, kiến trúc mạng, tính toán phân tán, truyền thông đa phương tiện, v.v.

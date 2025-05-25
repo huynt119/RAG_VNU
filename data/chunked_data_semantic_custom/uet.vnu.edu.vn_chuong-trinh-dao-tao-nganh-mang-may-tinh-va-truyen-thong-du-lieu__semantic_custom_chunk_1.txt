@@ -1,0 +1,7 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-mang-may-tinh-va-truyen-thong-du-lieu_.txt
+
+Mục tiêu chung
+Mục tiêu chung của Chương trình đào tạo trình độ tiến sĩ chuyên ngành Mạng máy tính và truyền thông dữ liệu là đào tạo các chuyên gia, nhà khoa học được trang bị các kiến thức và kỹ năng nghiên cứu chuyên sâu trong lĩnh vựcMạng máy tính và truyền thông dữ liệu, có năng lực sáng tạo để tìm hiểu và đề xuất các giải pháp khoa học và công nghệ cho các vấn đề mới có ý nghĩa khoa học và thực tiễn, có khả năng nghiên cứu độc lập, biết xây dựng các dự án nghiên cứu, tham gia hoặc lãnh đạo các nhóm nghiên cứu. Mục tiêu cụ thể
+– Về kiến thức:
++ Các kiến thức cốt lõi, nền tảng, nâng cao về công nghệ thông tin (CNTT), đặc biệt là các kiến thức nâng cao về Mạng máy tính và truyền thông dữ liệu như an ninh mạng, các mạng không dây và di động, các vấn đề hiện đại về truyền dữ liệu và mạng máy tính;
++ Các kiến thức, chuyên sâu về mạng máy tính và truyền thông dữ liệu, đặc biệt là các kiến thức về kiến trúc và hạ tầng mạng, các giao thức và ứng dụng mạng, các phương thức truyền dữ liệu trong các môi trường mạng, các kiến thức về đảm bảo an ninh và quản trị mạng, mạng Internet vạn vật.

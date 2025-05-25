@@ -1,0 +1,41 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-phan-mem-14_.txt
+
+INT 9001
+Luận án tiến sĩ
+80
+Cộng
+97
+|
+29/11/2022
+|
+ĐTSĐH
+|
+614 Views
+Trước
+Chương trình đào tạo ngành Kỹ thuật phần mềm
+Sau
+Chương trình đào tạo ngành Mạng máy tính và truyền thông dữ liệu
+Bài viết liên quan
+Chương trình đào tạo ngành Vật liệu và linh kiện nano
+Chương trình đào tạo ngành Vật liệu và linh kiện nano
+Chương trình đào tạo ngành Vật liệu và linh kiện nano
+Chương trình đào tạo ngành Khoa học máy tính
+Chương trình đào tạo ngành Khoa học máy tính
+Chương trình đào tạo ngành Kỹ thuật phần mềm
+1. Tóm tắt yêu cầu chương trình đào tạo
+Đối với NCS chưa có bằng thạc sĩ
+Người học phải hoàn thành các học phần của chương trình đào tạo thạc sĩ chuyên ngành Kỹ thuật phần mềm và các nội dung của chương trình đào tạo tiến sĩ. Tổng số tín chỉ phải tích lũy:
+139 tín chỉ,
+trong đó:
+Phần 1: Các học phần bổ sung : 42 tín chỉ
+– Khối kiến thức chung:                        3 tín chỉ
+– Khối kiến thức cơ sở và chuyên ngành:       39 tín chỉ
++ Bắt buộc: 18 tín chỉ
++ Tự chọn: 21/48 tín chỉ
+Phần 2: Các học phần, chuyên đề tiến sĩ và tiểu luận tổng quan: 17 tín chỉ
+– Các học phần tiến sĩ:                9 tín chỉ
++ Bắt buộc: 6 tín chỉ
++ Tự chọn: 3/6 tín chỉ
+– Chuyên đề NCS:                       6 tín chỉ
+– Tiểu luận tổng quan:                2 tín chỉ
+Phần 3: Nghiên cứu khoa học (là yêu cầu bắt buộc với nghiên cứu sinh nhưng không tính số tín chỉ trong chương trình đào tạo).

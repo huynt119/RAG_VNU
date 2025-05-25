@@ -1,0 +1,136 @@
+Nguồn: uet.vnu.edu.vn_lich_hoc_bo_sung_kien_thuc_ky_thi_tuyen_sinh_sau_dai_hoc_dot_1_nam_2019_.txt
+
+Tô Văn Khánh
+2
+07/04/2019
+CN
+14h00
+103-G2
+Toán rời rạc
+TS. Tô Văn Khánh
+3
+08/04/2019
+2
+18h00
+208-GĐ3
+Toán rời rạc
+TS. Tô Văn Khánh
+4
+14/04/2019
+CN
+14h00
+103-G2
+Toán rời rạc
+TS. Tô Văn Khánh
+5
+02/04/2019
+3
+18h00
+208-GĐ3
+Lập trình
+TS. Lê Nguyên Khôi
+6
+03/04/2019
+4
+18h00
+208-GĐ3
+Lập trình
+TS. Lê Nguyên Khôi
+7
+09/04/2019
+3
+18h00
+208-GĐ3
+Lập trình
+TS. Lê Nguyên Khôi
+8
+10/04/2019
+4
+18h00
+208-GĐ3
+Lập trình
+TS. Lê Nguyên Khôi
+9
+04/04/2019
+5
+18h00
+208-GĐ3
+Cấu trúc dữ liệu và giải thuật
+TS. Bùi Ngọc Thăng
+10
+06/04/2019
+7
+14h00
+301-G2
+Cấu trúc dữ liệu và giải thuật
+TS. Bùi Ngọc Thăng
+11
+11/04/2019
+5
+18h00
+208-GĐ3
+Cấu trúc dữ liệu và giải thuật
+TS. Bùi Ngọc Thăng
+12
+13/04/2019
+7
+14h00
+301-G2
+Cấu trúc dữ liệu và giải thuật
+TS. Bùi Ngọc Thăng
+13
+06/04/2019
+7
+8h00
+301-G2
+Cơ sở dữ liệu
+TS.Trần Trọng Hiếu
+14
+07/04/2019
+CN
+8h00
+103-G2
+Cơ sở dữ liệu
+TS.Trần Trọng Hiếu
+15
+13/04/2019
+7
+8h00
+301-G2
+Cơ sở dữ liệu
+TS.Trần Trọng Hiếu
+16
+14/04/2019
+CN
+8h00
+103-G2
+Cơ sở dữ liệu
+TS.Trần Trọng Hiếu
+17
+06/04/2019
+7
+8h00
+303-G2
+Xử lý tín hiệu số
+TS. Nguyễn Hồng Thịnh
+18
+06/04/2019
+7
+14h00
+303-G2
+Xử lý tín hiệu số
+TS. Nguyễn Hồng Thịnh
+19
+13/04/2019
+7
+8h00
+303-G2
+Xử lý tín hiệu số
+TS. Nguyễn Hồng Thịnh
+20
+13/04/2019
+7
+14h00
+303-G2
+Xử lý tín hiệu số
+TS.

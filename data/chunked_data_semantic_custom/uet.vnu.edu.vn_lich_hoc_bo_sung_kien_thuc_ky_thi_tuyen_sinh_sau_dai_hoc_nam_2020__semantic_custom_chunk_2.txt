@@ -1,0 +1,153 @@
+Nguồn: uet.vnu.edu.vn_lich_hoc_bo_sung_kien_thuc_ky_thi_tuyen_sinh_sau_dai_hoc_nam_2020_.txt
+
+Nguyễn Văn Vinh
+15
+25/03/2021
+5
+18h
+313-GĐ2
+Cấu trúc dữ liệu và giải thuật
+TS. Hoàng Thị Điệp
+Môn học thuộc đề thi môn Tin học cơ sở của các chuyên ngành thuộc Khoa CNTT
+16
+26/03/2021
+6
+18h
+313-GĐ2
+Cấu trúc dữ liệu và giải thuật
+TS. Hoàng Thị Điệp
+17
+01/04/2021
+5
+18h
+313-GĐ2
+Cấu trúc dữ liệu và giải thuật
+TS. Hoàng Thị Điệp
+18
+02/04/2021
+6
+18h
+310-GĐ2
+Cấu trúc dữ liệu và giải thuật
+TS. Hoàng Thị Điệp
+19
+08/04/2021
+5
+18h
+313-GĐ2
+Cấu trúc dữ liệu và giải thuật
+TS. Hoàng Thị Điệp
+20
+09/04/2021
+6
+18h
+313-GĐ2
+Cấu trúc dữ liệu và giải thuật
+TS. Hoàng Thị Điệp
+21
+20/03/2021
+7
+8h
+308-G2
+Cơ sở dữ liệu
+TS.Trần Trọng Hiếu
+Môn học thuộc đề thi môn Tin học cơ sở của các chuyên ngành thuộc Khoa CNTT
+22
+21/03/2021
+CN
+8h
+107-G2
+Cơ sở dữ liệu
+TS.Trần Trọng Hiếu
+23
+28/03/2021
+CN
+8h
+107-G2
+Cơ sở dữ liệu
+TS.Trần Trọng Hiếu
+24
+03/04/2021
+7
+8h
+303-G2
+Cơ sở dữ liệu
+TS.Trần Trọng Hiếu
+25
+04/04/2021
+CN
+8h
+107-G2
+Cơ sở dữ liệu
+TS.Trần Trọng Hiếu
+26
+10/04/2021
+7
+8h
+308-G2
+Cơ sở dữ liệu
+TS.Trần Trọng Hiếu
+27
+20/03/2021
+7
+14h
+303-GĐ2
+Kỹ thuật điện tử số
+PGS.TS. Bùi Thanh Tùng
+Môn học dành cho các chuyên ngành Kỹ thuật điện tử, Kỹ thuật viễn thông
+28
+20/03/2021
+7
+18h
+303-GĐ2
+Kỹ thuật điện tử số
+PGS.TS. Bùi Thanh Tùng
+29
+27/03/2021
+7
+14h
+303-GĐ2
+Kỹ thuật điện tử số
+PGS.TS. Bùi Thanh Tùng
+30
+27/03/2021
+7
+18h
+303-GĐ2
+Kỹ thuật điện tử số
+PGS.TS. Bùi Thanh Tùng
+31
+03/04/2021
+7
+14h
+303-GĐ2
+Kỹ thuật điện tử số
+PGS.TS. Bùi Thanh Tùng
+32
+03/04/2021
+7
+18h
+303-GĐ2
+Kỹ thuật điện tử số
+PGS.TS. Bùi Thanh Tùng
+33
+10/04/2021
+7
+14h
+303-GĐ2
+Kỹ thuật điện tử số
+PGS.TS. Bùi Thanh Tùng
+34
+10/04/2021
+7
+18h
+303-GĐ2
+Kỹ thuật điện tử số
+PGS.TS. Bùi Thanh Tùng
+35
+14/04/2021
+4
+18h
+313-GĐ2
+Đánh giá năng lực
+PGS.TS.

@@ -1,0 +1,802 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewpage_137.txt
+
+Stt
+Họ và tên
+Cơ quan công tác
+Chức danh KH
+Trình độ chuyên môn
+Chuyên môn đào tạo
+Ngành tham gia giảng dạy
+CĐ
+Đại học
+1
+Bùi Ngọc Lan
+BV Nhi TƯ
+Tiến sĩ
+Nhi khoa
+Y khoa
+2
+Bùi Phương Thảo
+BV Nhi TƯ
+Tiến sĩ
+Nội tiết và CHDT
+Y khoa
+3
+Bùi Quang Thạch
+BV Bạch Mai
+Thạc sĩ
+Tiêu hóa
+Y khoa
+4
+Cao Việt Tùng
+BV Nhi TƯ
+Tiến sĩ
+Nhi khoa
+Y khoa
+5
+Đặng Hùng Minh
+BV Bạch Mai
+PGS
+Tiến sĩ
+Hô hấp
+Y khoa
+6
+Đặng Trần Đạt
+BV Mắt TƯ
+Tiến sĩ
+Nhãn khoa
+Y khoa
+7
+Đào Thị Thiết
+BV HH&TM TƯ
+CK I
+Huyết học -Truyền máu
+Y khoa
+8
+Đào Văn Tú
+Bệnh viện K
+Tiến sĩ
+Ung thư
+Y khoa
+9
+Đậu Việt Hùng
+BV Nhi TƯ
+Tiến sĩ
+Nhi khoa
+Y khoa
+10
+Đinh Ngọc Sơn
+BV Việt Đức
+PGS
+Tiến sĩ
+Ngoại cột sống
+Y khoa
+11
+Đỗ Minh Loan
+BV Nhi TƯ
+Tiến sĩ
+Nhi khoa
+Y khoa
+12
+Đỗ Tấn
+BV Mắt TƯ
+Tiến sĩ
+Nhãn khoa
+Y khoa
+13
+Dương Quỳnh Chi
+BV Mắt TƯ
+Tiến sĩ
+Nhãn khoa
+Y khoa
+14
+Hồ Xuân Hải
+BV Mắt TƯ
+Tiến sĩ
+Nhãn khoa
+Y khoa
+15
+Hoàng Anh Tuấn
+BV Mắt TƯ
+Tiến sĩ
+Nhãn khoa
+Y khoa
+16
+Hoàng Cương
+BV Mắt TƯ
+Tiến sĩ
+Nhãn khoa
+Y khoa
+17
+Hoàng Long
+BV Việt Đức
+PGS
+Tiến sĩ
+Ngoại tiết niệu
+Y khoa
+18
+Hoàng Thị Bích Ngọc
+BV Nhi TƯ
+Tiến sĩ
+Vi sinh YH
+Y khoa
+19
+Hoàng Thị Thu Hà
+BV Mắt TƯ
+Tiến sĩ
+Nhãn khoa
+Y khoa
+20
+Hoàng Trần Thanh
+BV Mắt TƯ
+Tiến sĩ
+Nhãn khoa
+Y khoa
+21
+Lê Anh Cường
+Viện Pháp Y TƯ
+Thạc sĩ
+Giải phẫu bệnh
+Y khoa
+22
+Lê Mạnh Cường
+BV YHCT TƯ
+Tiến sĩ
+Ngoại tiêu hóa
+Y khoa
+23
+Lê Quang Thuận
+BV Bạch Mai
+Tiến sĩ
+Tiêu hóa
+Y khoa
+24
+Lê Thị Liễu
+BV Bạch Mai
+Tiến sĩ
+Cơ xương khớp
+Y khoa
+25
+Lê Thị Thu Hường
+ĐH Bà Rịa – Vũng Tàu
+Tiến sĩ
+Tin sinh học
+Y khoa
+26
+Lê Tư Hoàng
+BV Việt Đức
+PGS
+Tiến sĩ
+Ngoại tiêu hóa
+Y khoa
+27
+Lê Văn Long
+BV Bạch Mai
+Thạc sĩ
+YHHN và Ung bướu
+Y khoa
+28
+Lê Viết Nam
+BV Bạch Mai
+CK I
+YHHN và Ung bướu
+Y khoa
+29
+Lê Xuân Cung
+BV Mắt TƯ
+Tiến sĩ
+Nhãn khoa
+Y khoa
+30
+Lưu Thị Minh Diệp
+BV Bạch Mai
+Thạc sĩ
+Tiêu hóa
+Y khoa
+31
+Mai Phương Thanh
+ĐH Y HN
+Tiến sĩ
+Y học
+Y khoa
+32
+Mai Thị Hiền
+BV Bạch Mai
+Tiến sĩ
+Nội thận tiết niệu
+Y khoa
+33
+Mai Thị Minh Tâm
+Bệnh viện E
+Tiến sĩ
+Nội xương khớp
+Y khoa
+34
+Nghiêm Trung Dũng
+BV Bạch Mai
+Tiến sĩ
+Nội thận tiết niệu
+Y khoa
+35
+Ngô Mạnh Quân
+BV Medlatec
+Tiến sĩ
+Huyết học -Truyền máu
+Y khoa
+36
+Ngô Thế Ngọc
+BV ĐHQGHN
+Thạc sĩ
+Tim mạch
+Y khoa
+37
+Nguyễn Đình Thuyên
+Bệnh viện E
+Thạc sĩ
+Hồi sức
+Y khoa
+38
+Nguyễn Đức Chính
+BV Việt Đức
+PGS
+Tiến sĩ
+Ngoại tiêu hóa
+Y khoa
+39
+Nguyễn Hoài Nam
+BV Bạch Mai
+CK I
+Tiêu hóa
+Y khoa
+40
+Nguyễn Kiên Trung
+BV Mắt TƯ
+Thạc sĩ
+Nhãn khoa
+Y khoa
+41
+Nguyễn Mạnh Quân
+BV Bạch Mai
+CK I
+Tim mạch
+Y khoa
+42
+Nguyễn Minh Hùng
+BV Bạch Mai
+Tiến sĩ
+Y học
+Y khoa
+43
+Nguyễn Minh Phú
+BV Mắt TƯ
+Tiến sĩ
+Nhãn khoa
+Y khoa
+44
+Nguyễn Nghệ Tĩnh
+BV Bạch Mai
+CK I
+Tiêu hóa
+Y khoa
+45
+Nguyễn Nhị Hà
+Bệnh viện E
+CK I
+Vi sinh YH
+Y khoa
+46
+Nguyễn Phạm Anh Hoa
+BV Nhi TƯ
+Tiến sĩ
+Nhi tiêu hóa
+Y khoa
+47
+Nguyễn Phương Anh
+Bệnh viện E
+Thạc sĩ
+Tim mạch
+Y khoa
+48
+Nguyễn Quang Hùng
+BV Bạch Mai
+Tiến sĩ
+YHHN và Ung bướu
+Y khoa
+49
+Nguyễn Thanh Long
+BV Việt Đức
+PGS
+Tiến sĩ
+Ngoại tiêu hóa
+Y khoa
+50
+Nguyễn Thị Kim Thanh
+BV Phổi TƯ
+Thạc sĩ
+Sinh học
+Y khoa
+51
+Nguyễn Thị Lan Anh
+Bệnh viện E
+CK II
+Nhãn khoa
+Y khoa
+52
+Nguyễn Thị Lan Hương
+BV Bạch Mai
+CK II
+Huyết học
+Y khoa
+53
+Nguyễn Thị Mai Hương
+BV Nhi TƯ
+Tiến sĩ
+Nhi khoa
+Y khoa
+54
+Nguyễn Thị Minh Thanh
+BV Phụ sản HN
+Thạc sĩ
+Sản phụ khoa
+Y khoa
+55
+Nguyễn Thị Phương Thảo
+Bệnh viện E
+CK I
+Nhãn khoa
+Y khoa
+56
+Nguyễn Thị Thu Hiền
+BV Mắt TƯ
+Tiến sĩ
+Nhãn khoa
+Y khoa
+57
+Nguyễn Thị Thu Phương
+BV Phụ sản HN
+CK II
+Sản phụ khoa
+Y khoa
+58
+Nguyễn Thị Vân Anh
+Viện HLKHVN
+Tiến sĩ
+Dược học
+Y khoa
+59
+Nguyễn Thu Thủy
+BV Mắt TƯ
+Tiến sĩ
+Nhãn khoa
+Y khoa
+60
+Nguyễn Triệu Vân
+BV HH&TM TƯ
+Tiến sĩ
+Huyết học -Truyền máu
+Y khoa
+61
+Nguyễn Tuấn Tùng
+BV Bạch Mai
+Tiến sĩ
+Huyết học
+Y khoa
+62
+Nguyễn Văn Huy
+BV Mắt TƯ
+Tiến sĩ
+Nhãn khoa
+Y khoa
+63
+Nguyễn Văn Thường
+BV Đức Giang
+Tiến sĩ
+Nhi khoa
+Y khoa
+64
+Nguyễn Xuân Tịnh
+BV Mắt TƯ
+Tiến sĩ
+Nhãn khoa
+Y khoa
+65
+Ninh Văn Quyết
+BV Bạch Mai
+Thạc sĩ
+Giải phẫu bệnh
+Y khoa
+66
+Phạm Thị Minh Châu
+BV Mắt TƯ
+Tiến sĩ
+Nhãn khoa
+Y khoa
+67
+Phạm Thị Tuyết Nga
+BV Bạch Mai
+Tiến sĩ
+Nội tim mạch
+Y khoa
+68
+Phạm Thu Minh
+BV Mắt TƯ
+Tiến sĩ
+Nhãn khoa
+Y khoa
+69
+Tạ Anh Tuấn
+BV Nhi TƯ
+Tiến sĩ
+Nhi hồi sức
+Y khoa
+70
+Trần Bá Hiếu
+BV Bạch Mai
+CK I
+Tim mạch
+Y khoa
+71
+Trần Khánh Sâm
+BV Mắt TƯ
+Tiến sĩ
+Nhãn khoa
+Y khoa
+72
+Trần Song Giang
+BV Bạch Mai
+Tiến sĩ
+Nội tim mạch
+Y khoa
+73
+Trần Thị Kiều My
+ĐH Y Hà Nội
+Tiến sĩ
+Huyết học -Truyền máu
+Y khoa
+74
+Trần Thị Sen Hồng
+Bệnh viện E
+Thạc sĩ
+Hô hấp
+Y khoa
+75
+Trần Thị Tô Châu
+BV Bạch Mai
+Tiến sĩ
+Cơ xương khớp
+Y khoa
+76
+Trần Thị Vân Hà
+Bệnh viện E
+CK II
+Huyết học
+Y khoa
+77
+Trương Thái Phương
+BV Bạch Mai
+Thạc sĩ
+Vi sinh YH
+Y khoa
+78
+Viên Hoàng Long
+BV Bạch Mai
+CK I
+Tim mạch
+Y khoa
+79
+Võ Đình Vinh
+ĐH Thăng Long
+Tiến sĩ
+Mô phôi
+Y khoa
+80
+Vũ Chí Dũng
+BV Nhi TƯ
+Tiến sĩ
+Nhi khoa
+Y khoa
+81
+Vũ Ngọc Trung
+BV ĐHQGHN
+Thạc sĩ
+Tim mạch
+Y khoa
+82
+Vũ Thị Bích Thủy
+BV Mắt TƯ
+PGS
+Tiến sĩ
+Nhãn khoa
+Y khoa
+83
+Lê Hồng Vân
+BV RHM TƯ
+Tiến sĩ
+Răng Hàm Mặt
+Răng hàm mặt
+84
+Lê Thị Thu Hà
+BV 108
+PGS
+Tiến sĩ
+Răng Hàm Mặt
+RHM
+85
+Lê Xuân Hải
+BV HH&TMTƯ
+PGS
+Tiến sĩ
+Huyết học -Truyền máu
+RHM
+86
+Ngô Xuân Khoa
+ĐH Y Hà Nội
+PGS
+Tiến sĩ
+Giải phẫu
+RHM
+87
+Phạm Đăng Khoa
+ĐH Y HN
+PGS
+Tiến sĩ
+Miễn dịch - SLB
+RHM
+88
+Phạm Thị Kim Lan
+Bệnh viện E
+PGS
+Tiến sĩ
+Tim mạch người lớn
+RHM
+89
+Vũ Thành Trung
+ĐH Y Hà Nội
+Thạc sĩ
+Giải phẫu
+RHM
+90
+Đặng Thị Hương
+Bộ KH & CN
+Tiến sĩ
+Vi sinh SHPT
+KT xét nghiệm YH
+91
+Đặng Văn Thức
+BV Nhi TƯ
+Tiến sĩ
+Nhi khoa
+KTXNYH
+92
+Đinh Quang Huy
+BV ĐH QGHN
+Thạc sĩ
+Quản lý BV
+KTXNYH
+93
+Đỗ Khắc Huỳnh
+BV Phụ sản HN
+CK II
+Sản phụ khoa
+KTXNYH
+94
+Đỗ Thiện Hải
+BV Nhi TƯ
+Tiến sĩ
+Dịch tễ học
+KTXNYH
+95
+Lê Hồng Luyến
+Trường ĐH KH-CN HN
+Tiến sĩ
+Hóa sinh YH
+KTXNYH
+96
+Lê Thanh Bình
+BV Bạch Mai
+CK I
+Tim mạch
+KTXNYH
+97
+Nguyễn Thành Nam
+BV Bạch Mai
+Tiến sĩ
+Nhi khoa
+KTXNYH
+98
+Nguyễn Thị Bình Minh
+Bệnh viện E
+CK II
+Hóa sinh học
+KTXNYH
+99
+Nguyễn Thị Linh
+BV Phụ sản HN
+Thạc sĩ
+Y học
+KTXNYH
+100
+Phạm Thị Thoa
+Bệnh viện E
+Thạc sĩ
+KS nhiễm khuẩn
+KTXNYH
+101
+Bùi Quang Lộc
+BV Bạch Mai
+Thạc sĩ
+Ung thư
+KT hình ảnh YH
+102
+Đinh Thị Hương
+BV Phổi TƯ
+Thạc sĩ
+Sinh y
+KTHAYH
+103
+Đoàn Minh Khuy
+BV Bạch Mai
+CK I
+Giải phẫu bệnh
+KTHAYH
+104
+Lưu Thị Mỹ Thục
+BV Nhi TƯ
+Tiến sĩ
+Dinh dưỡng
+KTHAYH
+105
+Nguyễn Đức Luân
+BV Bạch Mai
+CK I
+YHHN và Ung bướu
+KTHAYH
+106
+Nguyễn Thị Duyên
+BV Bạch Mai
+CK I
+Giải phẫu bệnh
+KTHAYH
+107
+Nguyễn Thị Hương Bình
+Viện Sốt rét KST TƯ
+PGS
+Tiến sĩ
+Ký sinh trùng
+KTHAYH
+108
+Nguyễn Thị Thu Thủy
+BV Mắt TƯ
+Tiến sĩ
+Nhãn khoa
+KTHAYH
+109
+Nguyễn Thuận Lợi
+BV Bạch Mai
+Tiến sĩ
+Công nghệ sinh học
+KTHAYH
+110
+Nguyễn Vĩnh Hưng
+Bệnh viện E
+Tiến sĩ
+Thận TN- Lọc máu
+KTHAYH
+111
+Phùng Duy Hồng Sơn
+BV Việt Đức
+Tiến sĩ
+Ngoại tim mạch
+KTHAYH
+112
+Trần Văn Chương
+BV Bạch Mai
+CK I
+Giải phẫu bệnh
+KTHAYH
+113
+Đỗ Thị Hà
+Viện Dược liệu
+PGS
+Tiến sĩ
+Dược liệu
+Dược học
+114
+Lê Thị Thùy Dương
+Viện HLKH& CNVN
+Tiến sĩ
+SHPT tế bào và HSH
+Dược học
+115
+Nguyễn Khắc Dũng
+Bệnh viện K
+Tiến sĩ
+Dược lý
+Dược học
+116
+Nguyễn Nữ Kim Thảo
+Viện Vi SV & CNSH, ĐHQGHN
+Tiến sĩ
+Sinh dược học
+Dược học
+117
+Nguyễn Quỳnh Uyển
+Viện VSV&CNSH, ĐHQGHN
+Tiến sĩ
+Sinh dược học
+Dược học
+118
+Nguyễn Thị Tuyết Mai
+Bệnh viện E
+Thạc sĩ
+YT công cộng
+Dược học
+119
+Nguyễn Trần Linh
+ĐH Dược HN
+Tiến sĩ
+Thống kê & TKNCTPT
+Dược học
+120
+Trần Thị Hải Yến
+ĐH Dược HN
+Tiến sĩ
+CNDP và Bào chế
+Dược học
+121
+Bùi Hải Bình
+BV Bạch Mai
+Tiến sĩ
+Y học
+Điều dưỡng
+122
+Cấn Thị Bích Ngọc
+BV Nhi TƯ
+Tiến sĩ
+Y học
+ĐD
+123
+Đào Trần Tiến
+BV Bạch Mai
+CK I
+Tiêu hóa
+ĐD
+124
+Đoàn Thị Mai Thanh
+BV Nhi TƯ
+Tiến sĩ
+Y học
+ĐD
+125
+Hoàng Thị Thanh Nga
+BV HH&TM TƯ
+Thạc sĩ
+Huyết học -Truyền máu
+ĐD
+126
+Lê Văn Tuấn
+Bệnh viện E
+Thạc sĩ
+Điều dưỡng
+ĐD
+127
+Nguyễn Hải Anh
+BV Bạch Mai
+PGS
+Tiến sĩ
+Hô hấp
+ĐD
+128
+Nguyễn Thị Hoa
+BV Phổi TƯ
+CK I
+Vi sinh YH
+ĐD
+129
+Vũ Mạnh Cường
+Bệnh viện E
+Thạc sĩ
+Truyền nhiễm
+ĐD
+PHỤ LỤC 1:
+1.

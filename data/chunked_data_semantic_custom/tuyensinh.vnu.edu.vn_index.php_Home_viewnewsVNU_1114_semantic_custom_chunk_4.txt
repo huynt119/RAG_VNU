@@ -1,0 +1,62 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_1114.txt
+
+Ngành Quản trị kinh doanh (do Đại học Troy, Hoa Kỳ cấp bằng)
+STT
+Tên ngành
+Mã xét tuyển
+Chỉ tiêu
+Tổ hợp xét tuyển 1
+Tổ hợp xét tuyển 2
+Tổ hợp xét tuyển 3
+Tổ hợp xét tuyển 4
+Ghi chú
+Theo kết quả thi THPT
+Theo phương thức khác
+Tổng chỉ tiêu
+1
+Quản trị kinh doanh
+(do Đại học Troy, Hoa Kỳ cấp bằng)
+QHE80
+50
+150
+200
+A01
+D01
+D07
+D08
+Theo kết quả thi THPT: Điểm trung bình các môn thi đạt tối thiểu 5.0; điểm môn Tiếng Anh đạt từ 6.5/10.0 trở lên và nhân hệ số 2
+2. Ngành Quản trị kinh doanh (do Đại học St.Francis, Hoa Kỳ cấp bằng)
+STT
+Tên ngành
+Mã xét tuyển
+Chỉ tiêu
+Tổ hợp xét tuyển 1
+Tổ hợp xét tuyển 2
+Tổ hợp xét tuyển 3
+Tổ hợp xét tuyển 4
+Tổ hợp xét tuyển 5
+Tổ hợp xét tuyển 6
+Tổ hợp xét tuyển 7
+Ghi chú
+Theo kết quả thi THPT
+Theo phương thức khác
+Tổng chỉ tiêu
+1
+Quản trị
+kinh doanh
+(do Đại học St.Francis,  Hoa Kỳ cấp bằng)
+QHE89
+50
+100
+150
+A01
+D01
+D07
+D08
+D09
+D10
+D84
+Theo kết quả thi THPT: Điểm trung bình các môn thi đạt tối thiểu 5.0; điểm môn Tiếng Anh đạt từ 6.5/10.0 trở lên và nhân hệ số 2
+Tổ hợp xét tuyển
+(sử dụng 04 tổ hợp A01/D01/D07/D08 đối với QHE80 và 07 tổ hợp A01/D01/D07/D08/D09/D10/D84 đối với QHE89):
+- A01 (Toán, Vật lý, Tiếng Anh).

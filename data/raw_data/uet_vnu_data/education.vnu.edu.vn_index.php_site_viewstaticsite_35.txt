@@ -1,0 +1,57 @@
+
+Giới thiệu chung
+Giới thiệu chung
+1. Lịch sử hình thành và phát triển
+Khoa Công nghệ Giáo dục, Trường Đại học Giáo dục, Đại học Quốc gia Hà Nội được thành lập theo quyết định số 162/QĐ-ĐHGD ngày 08/02/2018 của Hiệu trưởng Trường Đại học Giáo dục trên cơ sở nâng cấp, phát triển bộ
+môn
+Công nghệ dạy học của Khoa Sư phạm, có chức năng đào tạo và nghiên cứu trong lĩnh vực công nghệ giáo dục, áp dụng triển khai các công nghệ dạy học mới tiếp cận chuẩn khu vực và quốc tế.
+2. Chức năng nhiệm vụ:
+Khoa Công nghệ Giáo dục
+đã và
+đang triển khai các nhiệm vụ trọng điểm để cùng phát triển, đóng góp vào việc thực hiện sứ mệnh, nhiệm vụ chung của
+T
+rường Đại học Giáo dục.
+Khoa Công nghệ giáo dục được thành lập thực hiện chức năng đào tạo, nghiên cứu các lĩnh vực của công nghệ giáo dục và dạy học theo mô hình phối thuộc giữa Trường ĐHGD, Trường Đại học Công nghệ và Viện Công nghệ Thông tin, ĐHQGHN.
+Mô hình “Khoa phối thuộc” (Khoa - Trường - Viện) trong ĐHQGHN được xây dựng và phát triển dựa trên nguyên tắc “đơn vị Khoa được giao làm đầu mối quản lý tổng thể và toàn diện các hoạt động thuộc phạm vi chức năng trong sự phối hợp gắn kết mật thiết với các đơn vị khác trong và ngoài nhà trường”. Bao gồm:
+- Xây dựng, phát triển và triển khai các chương trình đào tạo (bậc cử nhân, cao học và tiến sĩ), nghiên cứu, chuyển giao, phục vụ cộng đồng và cung ứng dịch vụ. Trong đó, việc quản lý chương trình đào tạo, chương trình nghiên cứu khoa học công nghệ được phân cấp cho từng đơn vị tham gia;
+- Sử dụng và chia sẻ nguồn lực đội ngũ chung của các đơn vị, bao gồm giảng viên/nhà khoa học cơ hữu của Trường ĐHGD, giảng viên kiêm nhiệm và giảng viên mời của Trường Đại học Công nghệ - ĐHQGHN, Viện Công nghệ Thông tin - ĐHQGHN;
+- Sử dụng cơ sở vật chất dùng chung phục vụ trực tiếp công tác đào tạo và nghiên cứu của 3 đơn vị nói trên (giảng đường, phòng thí nghiệm, diện tích sử dụng, trang thiết bị…).
+- Trường Đại học Công nghệ, Viện Công nghệ thông tin cùng phối hợp
+, hỗ trợ
+Khoa Công nghệ Giáo dục về các mặt xây dựng, phát triển, triển khai chương trình đào tạo
+;
+xây dựng phát triển đội ngũ, liên kết mở rộng hợp tác nghiên cứu khoa học, chuyển giao công nghệ, cung ứng dịch vụ và hợp tác quốc tế.
+3. Các bộ môn
+3.1. Bộ môn Công nghệ và giáo dục
+Trên cơ sở kết hợp với các chuyên gia, nhà nghiên cứu, giảng viên có kinh nghiệm của Trường Đại học Công nghệ và Viên Công nghệ thông tin, ĐHQGHN, các đơn vị hoạt động trong lĩnh vực công nghệ giáo dục (EdTech) và các Bộ môn trực thuộc của Khoa, Bộ môn Công nghệ và Giáo dục tập trung nghiên cứu, chuyển giao, và triển khai các học phần đào tạo theo hướng giáo dục trong bối cảnh phát triển công nghệ số.
+Bộ môn tập trung vào việc nghiên cứu và ứng dụng các công nghệ tiên tiến như trí tuệ nhân tạo, thực tế ảo, trực tuyến hóa, học máy và nhiều công cụ số khác để tạo ra môi trường giáo dục tối ưu cũng như các mô hình giáo dục hiện đại, “phi truyền thống” thúc đẩy sự phát triển cá nhân, học tập cá nhân hóa và học tập suốt đời. Một số hướng ưu tiên phát triển trong nghiên cứu và đào tạo của Bộ môn:
+- Phát triển giải pháp, công cụ giáo dục số
+-  Học máy và Trí tuệ nhân tạo trong giáo dục
+- Thực tế ảo, thực tế tăng cường, thực tế tăng cường hỗn hợp
+-  Quản lí học tập trực tuyến và an toàn trong giáo dục trực tuyến
+- Phát triển năng lực số cho nhà giáo dục
+- Phân tích thị trường Công nghệ Giáo dục
+- Các môi trường thúc đẩy đổi mới sáng tạo và khởi nghiệp giáo dục số
+3.2. Bộ môn Thiết kế và phát triển học liệu số
+Bộ môn Thiết kế và Phát triển học liệu số định hướng nghiên cứu và triển khai đào tạo chuyên gia về học liệu số, tài nguyên giáo dục mở đáp ứng các nhu cầu mới trong giáo dục số hiện nay. Trên cơ sở phát triển các nền tảng đa phương tiện, ứng dụng công nghệ số hiện đại, Bộ môn cung cấp các định hướng tạo ra các tài liệu học tập số hóa tương tác, đa dạng và hiệu quả, giúp tối ưu hóa quá trình học tập và giảng dạy trong thời đại số hóa.
+Một số hướng ưu tiên phát triển trong nghiên cứu và đào tạo của Bộ môn:
+- Phát triển nội dung, học liệu số đa phương tiện, tích hợp công nghệ AI, Gamification
+- Tạo nội dung eLearning và mLearning, video tương tác
+- Thiết kế UX/UI trong học tập số và phân tích, đánh giá hiệu quả sử dụng học liệu số
+- Phát triển năng lực sản xuất học liệu số thế hệ mới
+3.3. Bộ môn Tin học và quản lý công nghệ trong lớp học
+Bộ môn Tin học và Quản lí công nghệ trong lớp học tập trung vào việc nghiên cứu ứng dụng các công nghệ thông tin, công nghệ số để tối ưu hóa hoạt động quản lí và giảng dạy trong các cơ sở giáo dục, các mô hình quản lí thông minh trong lớp học và nhà trường.
+Một số hướng ưu tiên phát triển trong nghiên cứu và đào tạo của Bộ môn:
+- Hệ Thống quản lí thông minh trong lớp học và nhà trường (Smart School Management Systems)
+- Phân tích dữ Liệu giáo dục (Educational Data Analysis)
+- Hệ thống thông tin trong giáo dục và trường học (School Information Systems – SIS, Educational Management Information System – EMIS)
+- Hệ thống hỗ trợ học tập trực tuyến
+- Quản lí tài nguyên số nhà trường
+- Tích hợp công nghệ trong dạy học và quản lí
+- An toàn thông tin và bảo mật; đánh giá và phản hồi trực tuyến
+4. Thi đua khen thưởng:
+Trong những năm qua, Khoa Công nghệ giáo dục đã đạt được những thành tích như sau:
+- Năm học 2019-2020: Tập thể lao động tiên tiến
+- Năm học 2020-2021: Tập thể lao động tiên tiến
+- Năm học 2021-2022: Tập thể lao động xuất sắc
+Trong quá trình xây dựng và phát triển từ năm 2018 đến nay, nhiều giảng viên, nhà khoa học của Khoa Công nghệ Giáo dục đã được tặng bằng khen của Bộ trưởng Bộ GD-ĐT, Giám đốc ĐHQGHN, danh hiệu Chiến sĩ thi đua cấp Bộ GD-ĐT, Đại học Quốc gia Hà Nội, cấp Trường Đại học GIáo dục.

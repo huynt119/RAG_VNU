@@ -1,0 +1,29 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-co-dien-tu-5_.txt
+
+Danh mục các ngành phù hợp
+Nhóm 1 bao gồm các ngành phù hợp không phải học bổ sung kiến thức: Công nghệ kỹ thuật cơ điện tử (7510203); Kỹ thuật cơ điện tử (7520114); Cơ kỹ thuật (7520101); Công nghệ kỹ thuật điện, điện tử (7510301); Công nghệ kỹ thuật điều khiển và tự động hóa (7510303); Kỹ thuật điều khiển và tự động hoá (7520216);
+Nhóm 2 bao gồm các ngành phù hợp phải học bổ sung kiến thức: Mạng máy tính và truyền thông dữ liệu (7480102); Kỹ thuật hàng không (7520120); Vật lý kỹ thuật (7520401); Vật lý học (7440102), Công nghệ kỹ thuật điện tử – viễn thông (7510302), Kỹ thuật điện tử – viễn thông (7520207); Công nghệ chế tạo máy (7510202); Công nghệ kỹ thuật xây dựng (7510103); Công nghệ kỹ thuật giao thông (7510104), Toán cơ (7460115), Toán ứng dụng (7460112); Toán tin (7460117). Danh mục các học phần bổ sung kiến thức được dành cho đối tượng có bằng tốt nghiệp đại học phù hợp thuộc Nhóm 2, gồm tối đa 03 học phần với 08 tín chỉ như sau:
+STT
+Mã học phần
+Tên học phần
+Số tín chỉ
+1
+EMA3005
+Công nghệ chế tạo máy
+3
+2
+EMA3084
+Vi xử lý và vi điều khiển
+3
+3
+EMA2026
+Cơ sở kỹ thuật điện
+2
+Tổng
+8
+|
+28/11/2022
+|
+ĐTSĐH
+|
+2320 Views

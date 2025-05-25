@@ -1,0 +1,101 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_camnang_143.txt
+
+Công nghệ thông tin định hướng thị trường Nhật Bản
+Cử nhân
+4 năm
+CN16
+60
+Kỹ thuật máy tính
+Kỹ sư
+4,5 năm
+CN2
+120
+Vật lý kỹ thuật
+Cử nhân
+4 năm
+CN3
+80
+Kỹ thuật năng lượng
+Kỹ sư
+4,5 năm
+CN13
+60
+Cơ kỹ thuật
+Kỹ sư
+4,5 năm
+CN4
+80
+Kỹ thuật điều khiển và tự động hóa
+Kỹ sư
+4,5 năm
+CN11
+80
+Công nghệ
+h
+àng không vũ trụ
+Kỹ sư
+4,5 năm
+CN7
+90
+Công nghệ kỹ thuật cơ điện tử
+Cử nhân
+4 năm
+CN6
+150
+Cầu Giấy
+Công nghệ kỹ thuật điện tử - viễn thông
+Cử nhân
+4 năm
+CN9
+150
+Cầu Giấy
+Khoa học
+m
+áy tính
+Cử nhân
+4 năm
+CN8
+280
+Cầu Giấy
+Hệ thống thông tin
+Cử nhân
+4 năm
+CN14
+60
+Cầu Giấy
+Mạng máy tính và truyền thông dữ liệu
+Kỹ sư
+4,5 năm
+CN15
+60
+Cầu Giấy
+Trí tuệ nhân tạo
+Cử nhân
+4 năm
+CN12
+130
+Cầu Giấy
+Kỹ thuật Robot
+Kỹ sư
+4,5 năm
+CN17
+60
+Cầu Giấy
+Công nghệ kỹ thuật xây dựng
+Kỹ sư
+4,5 năm
+CN5
+150
+Cầu Giấy
+Công nghệ nông nghiệp
+Kỹ sư
+4,5 năm
+A00
+;
+A01
+;
+B00
+CN10
+60
+Cầu Giấy
+Lưu ý: Sinh viên các ngành CN5, CN7, CN10 trong năm thứ 3, thứ 4 có một số học phần thực hành/thực tập tại cơ sở Hòa Lạc (sinh viên đi về trong ngày).

@@ -1,0 +1,9 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-vien-thong-13_.txt
+
+Yêu cầu về kiến thức chuyên môn
+Kiến thức nhóm chuyên ngành
+Sử dụng thành thạo một số phương pháp và công cụ tính toán, mô hình hóa và mô phỏng phục vụ cho việc học tập và nghiên cứu các chuyên đề của Kỹ thuật Viễn thông;
+Hiểu và có khả năng vận dụng các kiến thức nâng cao về một số lĩnh vực của Kỹ thuật Viễn thông như: Xử lý tín hiệu, Mạng Viễn thông, Hệ thống viễn thông di động- Viễn thông vô tuyến, Kỹ thuật cao tần, Anten và truyền sóng, …
+Kiến thức chuyên ngành
+Hiểu và có khả năng vận dụng thành thạo các kiến thức chuyên ngành nâng cao và chuyên sâu về quá trình ngẫu nhiên- Viễn thông số, mạng truyền dữ liệu, lý thuyết thông tin và mã hóa, các hệ thống viễn thông (hữu tuyến, vô tuyến, quang), … nhằm phục vụ cho việc nghiên cứu và phát triển các lý thuyết và công nghệ mới trong các lĩnh vực của Kỹ thuật Viễn thông. Kiến thức học phần và chuyên đề tiến sĩ
+Hiểu và có khả năng vận dụng thành thạo các phương pháp nghiên cứu và kỹ thuật viết, trình bày báo cáo khoa học. Nắm bắt được các xu hướng và chủ đề nghiên cứu có tính thời sự, hiểu và có khả năng trình bày lại/vận dụng các kiến thức mới trong một số hướng nghiên cứu hẹp của các lĩnh vực của Kỹ thuật Viễn thông.

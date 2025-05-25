@@ -1,0 +1,351 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_589.txt
+
+TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQGHN
+1
+QHT
+QHT01
+Toán học
+A00
+20
+A01
+20
+D07
+20
+D08
+20
+2
+QHT
+QHT02
+Toán tin
+A00
+22
+A01
+22
+D07
+22
+D08
+22
+3
+QHT
+QHT03
+Vật lí học
+A00
+18
+A01
+18
+B00
+18
+C01
+18
+4
+QHT
+QHT04
+Khoa học vật liệu
+A00
+16.25
+A01
+16.25
+B00
+16.25
+C01
+16.25
+5
+QHT
+QHT05
+Công nghệ kỹ thuật hạt nhân
+A00
+16.25
+A01
+16.25
+B00
+16.25
+C01
+16.25
+6
+QHT
+QHT06
+Hoá học
+A00
+20.5
+B00
+20.5
+D07
+20.5
+7
+QHT
+QHT07
+Công nghệ kỹ thuật hoá học
+A00
+21.75
+B00
+21.75
+D07
+21.75
+8
+QHT
+QHT08
+Sinh học
+A00
+20
+A02
+20
+B00
+20
+D08
+20
+9
+QHT
+QHT09
+Công nghệ sinh học
+A00
+22.75
+A02
+22.75
+B00
+22.75
+D08
+22.75
+10
+QHT
+QHT10
+Địa lí tự nhiên
+A00
+16
+A01
+16
+B00
+16
+D10
+16
+11
+QHT
+QHT12
+Quản lý đất đai
+A00
+16
+A01
+16
+B00
+16
+D10
+16
+12
+QHT
+QHT13
+Khoa học môi trường
+A00
+17
+A01
+17
+B00
+17
+D07
+17
+13
+QHT
+QHT14
+Khoa học đất
+A00
+17
+A01
+17
+B00
+17
+D07
+17
+14
+QHT
+QHT15
+Công nghệ kỹ thuật môi trường
+A00
+17
+A01
+17
+B00
+17
+D07
+17
+15
+QHT
+QHT16
+Khí tượng và khí hậu học
+A00
+16
+A01
+16
+B00
+16
+D07
+16
+16
+QHT
+QHT17
+Hải dương học
+A00
+16
+A01
+16
+B00
+16
+D07
+16
+17
+QHT
+QHT18
+Địa chất học
+A00
+16
+A01
+16
+B00
+16
+D07
+16
+18
+QHT
+QHT19
+Kỹ thuật địa chất
+A00
+16
+A01
+16
+B00
+16
+D07
+16
+19
+QHT
+QHT20
+Quản lý tài nguyên và môi trường
+A00
+16
+A01
+16
+B00
+16
+D07
+16
+20
+QHT
+QHT40
+Máy tính và khoa học thông tin**
+(CTĐT CLC TT23)
+A00
+20.75
+A01
+20.75
+D07
+20.75
+D08
+20.75
+CTĐT Chất lượng cao
+21
+QHT
+QHT41
+Hoá học **
+(CTĐT Tiên tiến)
+A00
+16
+B00
+16
+D07
+16
+22
+QHT
+QHT42
+Công nghệ kỹ thuật hoá học **               (
+CTĐT CLC TT23)
+A00
+16
+B00
+16
+D07
+16
+23
+QHT
+QHT43
+Hoá dược**
+(CTĐT CLC TT23)
+A00
+20.25
+B00
+20.25
+D07
+20.25
+24
+QHT
+QHT44
+Công nghệ sinh học **
+(CTĐT CLC TT23)
+A00
+18.75
+A02
+18.75
+B00
+18.75
+D08
+18.75
+25
+QHT
+QHT45
+Khoa học môi trường **
+(CTĐT tiên tiến)
+A00
+16
+A01
+16
+B00
+16
+D07
+16
+26
+QHT
+QHT46
+Công nghệ kỹ thuật môi trường **
+(CTĐT CLC TT23)
+A00
+16
+A01
+16
+B00
+16
+D07
+16
+27
+QHT
+QHT90
+Máy tính và khoa học thông tin*
+A00
+23.5
+A01
+23.5
+D07
+23.5
+D08
+23.5
+CTĐT chuẩn
+28
+QHT
+QHT91
+Khoa học thông tin địa không gian*
+A00
+16
+A01
+16
+B00
+16
+D10
+16
+29
+QHT
+QHT92
+Tài nguyên và môi trường nước*
+A00
+16
+A01
+16
+B00
+16
+D07
+16
+3.

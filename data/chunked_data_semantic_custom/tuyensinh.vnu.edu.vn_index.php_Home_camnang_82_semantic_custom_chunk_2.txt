@@ -1,0 +1,60 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_camnang_82.txt
+
+Thông tin về tuyển sinh chính quy của 2 năm gần nhất
+3.1. Phương thức tuyển sinh của 2 năm gần nhất (thi tuyển, xét tuyển hoặc kết hợp thi tuyển và xét tuyển)
++ Năm
+2018
+: Xét tuyển dựa vào kết quả thi THPT quốc gia năm 2018
++ Năm 2019:
+Xét tuyển dựa vào kết quả thi THPT quốc gia năm 2019. Điểm trúng tuyển của 2 năm gần nhất (nếu lấy từ kết quả của Kỳ thi THPT quốc gia)
+Khối ngành/ Ngành/
+Nhóm ngành/tổ hợp xét tuyển
+Năm tuyển sinh -2
+Năm tuyển sinh -1
+Chỉ tiêu
+Số trúng tuyển
+Điểm trúng tuyển
+Chỉ tiêu
+Số trúng tuyển
+Điểm trúng tuyển
+Ngành Y đa khoa
+(Tổ hợp B00)
+100
+130
+22,75
+100
+105
+25,6
+Ngành Dược học
+(Tổ hợp A00)
+100
+103
+22,50
+100
+106
+24.2
+Ngành Răng Hàm Mặt
+(Tổ hợp B00)
+50
+62
+21,50
+50
+59
+23.6
+Ngành kỹ thuật xét nghiệm Y học (Tổ hợp B00)
+Chưa tuyển sinh
+50
+48
+22.2
+Ngành kỹ thuật hình ảnh Y học (Tổ hợp B00)
+Chưa tuyển sinh
+50
+48
+21
+Tổng
+150
+195
+350
+366
+“Năm tuyển sinh -2”: là năm tuyển sinh 2018; “Năm tuyển sinh -1”: là năm tuyển sinh 2019
+II.

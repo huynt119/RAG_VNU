@@ -1,0 +1,208 @@
+Nguồn: education.vnu.edu.vn_index.php_WebControl_viewpage_299.txt
+
+Khung chương trình đào tạo
+Ghi chú: Học phần Ngoại ngữ thuộc khối kiến thức chung được tính vào tổng số tín chỉ của chương trình đào tạo nhưng kết quả đánh giá các học phần này không tính vào điểm trung bình chung học kì, điểm trung bình chung các học phần và điểm trung bình chung tích lũy. K
+STT
+Mã học phần
+Tên học phần
+Số tín chỉ
+Số giờ tín chỉ
+Mã học phần tiên quyết
+Lý thuyết
+Thực hành
+Tự học
+I
+Khối kiến thức chung
+5
+FLF1107
+Ngoại ngữ B1
+Foreign Language B1
+5
+20
+35
+20
+II
+Khối kiến thức theo lĩnh vực
+7
+EDT2001
+Nhập môn công nghệ giáo dục
+Introduction to  Educational Technology
+2
+20
+10
+0
+EAM2052
+Nhập môn Đo lường và đánh giá trong giáo dục
+Introduction to measurement and evaluation in Education
+2
+24
+6
+0
+PSE2004
+Phương pháp nghiên cứu khoa học giáo dục
+Methodology of Educational Research
+3
+26
+16
+3
+III
+Khối kiến thức theo khối ngành
+21
+PSE3005
+Tâm lý học giáo dục trẻ mầm non
+Psychology of preschool education
+3
+30
+15
+0
+TMT3009
+Quy tắc đạo đức nghề nghiệp trong lĩnh vực giáo dục
+Code of professional ethics in the field of education
+2
+12
+18
+0
+PSE3004
+Sinh lý học trẻ em tuổi mầm non
+Childhood & preschool physiology
+3
+30
+15
+0
+PSE3006
+Giáo dục học mầm non
+Early childhood education
+3
+45
+0
+0
+PSE3059
+Tham
+vấn trong giáo dục mầm non
+Counseling in early childhood education
+3
+30
+12
+3
+PSE3009
+Dinh dưỡng trẻ
+em và vệ sinh an toàn thực phẩm
+Child nutrition and food safety
+3
+30
+15
+0
+PSE3016
+Bệnh trẻ em
+Child disease
+2
+15
+15
+0
+PSE
+3015
+Chăm sóc và vệ sinh trẻ em
+Child
+care and children sanitary
+2
+15
+15
+0
+IV
+Khối kiến thức theo nhóm ngành
+11
+PSE3061
+Văn học và phương pháp cho trẻ làm quen với các tác phẩm văn học
+Literature and methods for children to become familiar with literary works
+3
+20
+20
+5
+PSE3062
+Toán và phương
+pháp
+hình thành biểu tượng toán cho trẻ mầm non
+Math and math symbols for preschool children
+3
+20
+20
+5
+PSE3065
+Âm
+nhạc và p
+hương pháp giáo dục âm nhạc cho trẻ mầm non
+Methods of music education for preschool children
+3
+20
+20
+5
+PSE3086
+Kỹ năng sơ cứu cho trẻ mầm non
+First aid skills for preschool children
+2
+10
+15
+5
+V
+Khối kiến thức ngành
+2
+1
+PSE3083
+Ứng dụng phương pháp Montessori trong giáo dục mầm non
+Montessori method application in preschool
+2
+10
+15
+5
+PSE3081
+Giáo dục tích hợp trong giáo dục mầm non
+Integrated education in early childhood education
+2
+10
+15
+5
+PSE3074
+Phát triển chương trình giáo dục mầm non
+Developing preschool education programs
+3
+25
+15
+5
+PSE3084
+Các dự án Steam trong giáo dục mầm non
+Steam projects in early childhood education
+2
+10
+15
+5
+PSE3075
+Phương pháp phát triển ngôn ngữ cho trẻ mầm non
+Language development method for preschool children
+3
+25
+15
+5
+PSE3076
+Phương pháp giáo dục thể chất cho trẻ mầm non
+Physical education method for preschool children
+3
+25
+15
+5
+PSE3077
+Phương pháp tổ chức hoạt động tạo hình cho trẻ mầm non
+Method of organizing shaping activities for preschool children
+3
+20
+20
+5
+PSE3079
+Phương pháp tổ chức hoạt động khám phá môi trường xung quanh cho trẻ mầm non
+Methods of organizing activities to explore the surroundings for preschool children
+3
+20
+20
+5
+Tổng cộng
+65
+Ghi chú: Học phần Ngoại ngữ thuộc khối kiến thức chung được tính vào tổng số tín chỉ của chương trình đào tạo nhưng kết quả đánh giá các học phần này không tính vào điểm trung bình chung học kì, điểm trung bình chung các học phần và điểm trung bình chung tích lũy.

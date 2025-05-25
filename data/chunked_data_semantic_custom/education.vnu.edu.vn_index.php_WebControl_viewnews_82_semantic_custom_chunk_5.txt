@@ -1,0 +1,56 @@
+Nguồn: education.vnu.edu.vn_index.php_WebControl_viewnews_82.txt
+
+Đối tượng và điều kiện dự thi
+- Người có bằng đại học ngành đúng (Quản lí giáo dục), ngành phù hợp (Giáo dục học) được dự thi ngay sau khi tốt nghiệp đại học;
+- Đối với người có bằng đại học ngành gần (Phụ lục 1) phải có ít nhất 01 năm kinh nghiệm công tác; đối với người có bằng đại học ngành khác (Phụ lục 1) phải có ít nhất 02 năm kinh nghiệm công tác (tính từ ngày ký quyết định công nhận tốt nghiệp đại học đến ngày dự thi) trong lĩnh vực giáo dục đào tạo; và đã hoặc đang giữ một trong các vị trí công tác sau đây:
++ Hiệu trưởng, phó hiệu trưởng hoặc tương đương trong các cơ sở giáo dục và đào tạo từ bậc học mầm non trở lên;
++ Trưởng khoa, phó trưởng khoa, tổ trưởng, tổ phó các tổ chuyên môn trong các cơ sở giáo dục và đào tạo (trường đại học, cao đẳng, trung cấp, trường phổ thông, tiểu học, trung tâm giáo dục thường xuyên…);
++ Cán bộ quản lí công tác Đoàn, Đảng, Công đoàn trong các cơ sở giáo dục đào tạo;
++ Lãnh đạo, cán bộ quản lí và chuyên viên làm công tác quản lí giáo dục của tổ chức chính trị, Bộ, cơ quan ngang Bộ, Uỷ ban nhân dân tỉnh Quận/ Huyện, Sở/ Phòng Giáo dục và Đào tạo; Phòng/ Ban chức năng của các cơ sở giáo dục đào tạo (trường đại học, cao đẳng, trung cấp, trung tâm giáo dục...);
+3.1.2.2. Danh mục các học phần bổ sung kiến thức
++ Đối với người có bằng tốt nghiệp đại học ngành gần:
+STT
+Tên học phần
+Số tín chỉ
+1
+Giáo dục học
+3
+2
+Đại cương khoa học quản lí
+3
+3
+Tổ chức và quản lí cơ sở giáo dục và nhà trường
+3
+4
+Quản lí hành chính nhà nước và quản lí ngành giáo dục và đào tạo
+3
+Tổng
++ Đối với người có bằng tốt nghiệp đại học ngành khác:
+STT
+Tên học phần
+Số tín chỉ
+1
+Giáo dục học
+3
+2
+Đại cương Khoa học quản lí
+3
+3
+Tổ chức và quản lí cơ sở giáo dục và nhà trường
+3
+4
+Quản lí hành chính nhà nước và quản lí ngành giáo dục và đào tạo
+3
+5
+Đại cương về tâm lí và tâm lí học nhà trường
+3
+6
+Hệ thống giáo dục quốc dân và bộ máy Quản lí giáo dục
+3
+7
+Phát triển nguồn nhân lực và quản lí tài chính, cơ sở vật chất trong giáo dục
+3
+Tổng
+21
+3.1.3
+.

@@ -1,0 +1,11 @@
+»
+Gửi bài
+Gửi bài
+Thể thức và hình thức nộp bài
+Thể thức
+Độ dài: khuyến thích từ 400 từ đến 2.000 từ
+Hình thức thể hiện: Một bài viết theo chủ điểm của Sci-CHAT. Khuyến khích người viết sử dụng hình ảnh, video, hoặc audio.
+Ngôn ngữ: Tiếng Việt, văn phong trong sáng, dễ hiểu
+Hình thức nộp bài
+Các bài viết được nộp online trên website của Sci-CHAT dưới đây. Đối với bài viết có hình ảnh, video và audio, có thể dán đường link vào trực tiếp bài viết (vị trí “Post content”).
+[user-submitted-posts]

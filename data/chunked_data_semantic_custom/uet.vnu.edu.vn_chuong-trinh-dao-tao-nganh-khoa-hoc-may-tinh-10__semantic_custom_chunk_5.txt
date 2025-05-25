@@ -1,0 +1,25 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-khoa-hoc-may-tinh-10_.txt
+
+1.1.2  Kiến thức theo lĩnh vực
+Biết được các kiến thức cơ bản về Vật lý cơ, nhiệt, điện và quang; hiểu được các hiện tượng và quy luật Vật lý và các ứng dụng liên quan trong khoa học kỹ thuật và đời sống; vận dụng kiến thức để học tập và nghiên cứu các học phần khác của các ngành kỹ thuật và công nghệ;
+Nắm được các kiến thức liên quan đến Giải tích toán học như tính giới hạn, tính đạo hàm, tính tích phân của các hàm một biến và hàm nhiều biến;
+Hiểu và vận dụng được các kiến thức liên quan đến Đại số cao cấp như ma trận và các phép biến đổi, giải các hệ phương trình nhiều biến số…. 1.1.3  Kiến thức theo khối ngành
+Hiểu và vận dụng được các kiến thức liên quan đến cấu trúc dữ liệu về mảng, danh sách liên kết, hàng đợi, ngăn xếp, cây nhị phân, bảng băm;
+Vận dụng được các thuật toán cơ bản liên quan đến sắp xếp, tìm kiếm và các thuật toán khác trên các cấu trúc dữ liệu;
+Hiểu và vận dụng được các khái niệm cơ bản về số phức và các loại biểu diễn của số phức;
+Hiểu và vận dụng được các khái niệm cơ bản của lý thuyết xác suất;
+Hiểu và vận dụng được các phương pháp phân tích tín hiệu, phân tích và thiết kế hệ thống tuyến tính trong các miền biểu diễn khác nhau..
+1.1.4  Kiến thức theo nhóm ngành
+Hiểu và vận dụng được các kiến thức cơ bản về Toán rời rạc để xây dựng các thuật toán, tối ưu các giải pháp trong công nghệ;
+Sử dụng được một ngôn ngữ lập trình hướng đối tượng, hiểu các khái niệm và viết được chương trình phần mềm theo phương pháp hướng đối tượng;
+Hiểu được cơ chế hoạt động chung của hệ thống máy tính, các bộ phận, cấu trúc của máy tính;
+Hiểu nguyên lý cơ bản chung hệ điều hành của máy tính;
+Hiểu các khái niệm cơ bản về mạng máy tính, các bộ phận, các giao thức, cách thức truyền dữ liệu trên mạng;
+Hiểu và vận dụng được các khái niệm về cơ sở dữ liệu trong hệ thống, các phương pháp xây dựng và tối ưu hóa cơ sở dữ liệu của hệ thống;
+Hiểu các khái niệm chung về quy trình phát triển phần mềm, các kỹ thuật xây dựng một hệ thống phần mềm có chất lượng. 1.1.5  Kiến thức ngành
+Lập trình thành thạo một số ngôn ngữ lập trình thông dụng;
+Vận dụng thành thạo các kiến thức về phân tích thiết kế để xây dựng yêu cầu, tiến hành phân tích và thiết kế các hệ thống phần mềm;
+Nắm được các kiến thức cơ bản về trí tuệ nhân tạo, học máy, xử lý ngôn ngữ tự nhiên, v.v. ;
+Nắm được các kiến thức cơ bản về truyền thông đa phương tiện, có thể thiết kế và xây dựng các ứng dụng về truyền thông đa phương tiện;
+Hiểu các nguyên lý cơ bản của đồ họa máy tính hiện đại, hiểu kiến thức hình học bên dưới các mô hình 3 chiều, hiểu vấn đề hiệu năng khi vẽ các mô hình 3D;
+Nắm vững kiến thức về lý thuyết thông tin để có thể áp dụng trong các bài toán về suy diễn thống kê, truyền thông, nén dữ liệu, v.v.

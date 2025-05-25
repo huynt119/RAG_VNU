@@ -1,0 +1,25 @@
+Nguồn: uet.vnu.edu.vn_bo-mon-cong-nghe-xay-dung-giao-thong_.txt
+
+Các hướng đào tạo và nghiên cứu chính của Khoa gồm:
+Vật liệu composite 3 pha có cấu trúc không gian 3Dm, 4Dm
+Kết cấu và vật liệu nano-composite
+Ổn định tĩnh và động lực học của các kết cấu tấm và vỏ composite chức năng FGM
+Kết cấu composite có vết nứt
+Các công trình và kết cấu composite chịu các tải trọng đặc biệt
+Vật liệu composite áp điện và auxetic materials
+Phát hiện và đánh giá khuyết tật trong cấu trúc bằng phương pháp siêu âm
+Phương pháp siêu âm xác định đặc tính cơ học của vật liệu composite
+Truyền sóng trong cấu trúc composite và nanocomposite
+Ứng dụng trí tuệ nhân tạo trong cơ kỹ thuật và xây dựng
+Vật liệu tiên tiến ứng dụng trong năng lượng xanh và năng lượng tái tạo
+Các nghiên cứu cơ học định hướng ứng dụng, phục vụ thực tiễn
+Nghiên cứu tính toán, thiết kế trong lĩnh vực hạ tầng giao thông và xây dựng
+Các vật liệu và kết cấu tiên tiến ứng dụng trong thích nghi và ứng phó với biến đổi khí hậu
+Công nghệ tiên tiến trong kỹ thuật xây dựng
+Công nghệ xanh trong xây dựng
+Công nghệ thiết kế và xây dựng các công trình đặc biệt
+Thành phố thông minh; đô thị thông minh
+4. Hoạt động hợp tác – đối ngoại
+Khoa (trên cơ sở Bộ môn) đã có ký kết hợp tác về nghiên cứu và đào tạo với các
+cơ quan khoa học và ứng dụng hàng đầu của quốc gia, quốc tế để triển khai các hướng
+nghiên cứu như: Hợp tác với Viện Khoa học công nghệ xây dựng Việt Nam; Tổng Công ty CONICO để triển khai các hướng nghiên cứu về tiêu chuẩn kỹ thuật công trình, các tiêu chuẩn công trình xanh; các công nghệ thiết kế hiện đại nhất về nhà cao tầng. Hợp tác với FACON và Shimizu (Nhật Bản) đào tạo và nghiên cứu về công nghệ – kỹ thuật các công trình ngầm, các công trình đặc biệt, các kỹ thuật chống xói lở đất và cấp thoát nước ngầm.

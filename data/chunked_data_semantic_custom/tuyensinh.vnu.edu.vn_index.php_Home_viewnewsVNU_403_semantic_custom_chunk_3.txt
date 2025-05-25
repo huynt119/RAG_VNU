@@ -1,0 +1,75 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_403.txt
+
+C. TUYỂN SINH TIẾN SĨ
+I. Danh mục các chuyên ngành tuyển sinh tiến sĩ
+TT
+Tên chuyên ngành
+Mã số
+Báo chí học
+9320101.01
+Chính trị học
+9310201.01
+Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử
+9229001.01
+Chủ nghĩa xã hội khoa học
+9229001.02
+Công tác xã hội
+9760101.01
+Du lịch
+9810101.01
+Đông Nam Á học
+9310608.02
+Hán Nôm
+9220104.01
+Hồ Chí Minh học
+9310204.01
+Khảo cổ học
+9229010.01
+Khoa học thông tin – thư viện
+9320201.01
+Lí luận văn học
+9229030.01
+Lịch sử Đảng Cộng sản Việt
+Nam
+9229010.02
+Lịch sử sử học và sử liệu học
+9229010.04
+Lịch sử thế giới
+9229010.03
+Lịch sử Việt
+Nam
+9229010.05
+Lưu trữ học
+9320303.01
+Ngôn ngữ các dân tộc thiểu số Việt
+Nam
+9229020.02
+Ngôn ngữ học
+9229020.01
+Ngôn ngữ học so sánh-đối chiếu
+9229020.03
+Ngôn ngữ Việt
+Nam
+9229020.04
+Nhân học
+9310302.01
+Quan hệ quốc tế
+9310601.01
+Quản lí khoa học và công nghệ
+9340412.01
+Tâm lí học
+9310401.01
+Tôn giáo học
+9229009.01
+Trung Quốc học
+9310608.01
+Văn học dân gian
+9229030.02
+Văn học nước ngoài
+9229030.03
+Văn học Việt
+Nam
+9229030.04
+Xã hội học
+9310301.01
+II.

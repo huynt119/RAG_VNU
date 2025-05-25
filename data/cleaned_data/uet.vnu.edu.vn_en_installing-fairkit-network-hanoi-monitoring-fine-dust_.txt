@@ -1,0 +1,69 @@
+Installing FairKit network in Hanoi for monitoring fine dust
+The research team of the Center of Multidisciplinary Integrated Technologies for Field Monitoring (FIMO) with the group of students from the School of Aerospace Engineering (SAE), VNU University of Engineering and Technology installed fine dust monitoring equipment PM2.5 and PM10 at a number of locations in schools and agencies in Hanoi.
+Air pollution control
+Currently, air pollution in cities such as Hanoi and Ho Chi Minh City is becoming serious, while the information and measures to prevent environmental pollution are very little or not much concerned. According to Yale University’s 2018 Environmental Performance Index (EPI), Vietnam ranked 159 out of 180 countries for air quality and ranked 129 out of 150 countries for environmental health.
+FairKit equipment installed at The Olympia Schools in the framework of cooperation with
+Live & Learn
+From practical needs, the FIMO team and the first-year students from the School of Aerospace Engineering met a number of partners in the field of environmental management or
+non
+–
+governmental organization
+s in Vietnam, the team got a lot more motivation and decided to build a network of fine dust monitoring devices using cheap sensors to provide information to the community. Mr. Ha Duc Van – FIMO Center’s Internet of Things team leader, said that the research team had experienced in building a fine dust map nationwide from satellite images, so the group has started from building air pollution maps nationwide. However, the resolution and the accuracy of this method is not high, more data needed from the ground to compare. The team is to present the status of air pollution in Hanoi, and later expand to other cities in Vietnam. From that, managers can make appropriate policies to minimize air pollution. Besides, community awareness will be enhanced. People pay more attention to the quality of air environment and take practical actions to protect the health of themselves and their families. After 3 years of research and development, the group has successfully developed FairKit (FIMO Air monitoring Kit) device. This is one of four components of the FAirNet (FIMO Air Polution Monitoring Network), including: FairKit, FAirServer, FAirApp and FAirWeb.
+Installing at 12 urban districts in Hanoi
+After completing the product, 50 FairKit devices was installed at 25 schools / agencies in 12 urban districts of Hanoi from March 15 to May 31, 2019. Sharing about the strength of the product, Mr. Ha Van Duc said that FAirKit device is calibrated with high-precision devices (handheld devices, standard measuring stations) which are done by the research team with in-depth knowledge of air pollution. Meanwhile, domestic devices are not calibrated and installed directly. In using low-cost sensors, data correction is the core value to improve the quality of the product. Existing products in the world are only calibrated with meteorological conditions in the country of manufacture, when brought into Vietnam, the accuracy can be greatly reduced. In addition, it is necessary to revise the product after 6 months, with equipments purchased abroad, this is almost expensive or not feasible.
+The research team of FIMO also has the advantage of being a member of OGC (Open Geospatial Consortium). The group implemented the SWE standard of OGC as the standard for developing information collection, management, analysis and sharing systems from devices to build FAirNet system. This makes the network easily integrated with similar standard development systems.
+FairKit measures outdoor air quality placed in wooden boxes with ventilation lines on both sides and front to ensure air circulation for accurate measurement results
+FAirKit is capable of measuring basic air quality parameters (PM2.5, PM10, CO, NO2, SO2, O3) and temperature, relative humidity. However, in the framework of this project, the device is provided with sensors to measure the parameters of two fine dust PM2.5 and PM10, with CO parameters, temperature and relative humidity. The device uses flexible power, including solar or grid electricity. FIMO center says that FairKit uses low-cost sensors but does not disclose specific costs.
+Two types of FAirKit devices which measure indoor air quality and measures ambient air quality, differ from design due to the peculiar nature of each installation environment: indoor equipment has direct display screens for measurement parameters, while outdoor equipment is designed with protection box to avoid rain and sun and impact.
+In order to enhance accuracy, FairKit applies data adjustment algorithms, tests and alignments in labs before actual installations. The staffs of the schools and agencies are trained on operation and preservation skills by FIMO engineers. The device will be monitored daily and re-calibrated after 6 months of operation by FIMO center.
+The FairKit devices automatically connect (wirelessly) to the FairNet system 24/7 to store, process data and display information via the FairNet website and FairApp mobile application. It is known that FairNet and FairApp are expected to launch in April 2019. After FairNet and FairApp come into operation, the public can update air quality information and receive real-time air pollution alerts which support environmental managers and policy makers to make more effective air pollution control decisions and solutions.In the future, the group will complete the construction of intelligent algorithms to improve the quality of data further, creating air pollution maps in Hanoi city. The group will also design and build software applications to suit users’ tastes.
+(UET-News)
+By KHCN&HTPT
+|
+Cooperation
+.
+News & Events
+.
+Student research
+|
+5628 Views
+KHCN&HTPT
+Previous
+The Student Scientific Research Conference 2019: 02 projects were selected for investment
+Next
+Meeting with the delegation of Tasmania, Australia
+Related posts
+Professor Nguyen Dinh Duc Honored at the 2024 Bao Son Award for Outstanding Contributions to Science and Practical Applications in Vietnam
+Professor Nguyen Dinh Duc: A Distinguished Scientist, a Devoted Teacher, and a Mentor Who Nurtures the Talents of Future Generations
+International Collegiate Programming Contest (ICPC) 2024: UET Contributes to Vietnam’s Mark in the Global Information Technology Sector
+Professor Nguyen Dinh Duc joined the editorial board of a prestigious international journal
+Professor Nguyen Dinh Duc – the aspiring educator who led the Vietnamese emerging generation to the global scientific world
+Installing FairKit network in Hanoi for monitoring fine dust
+The research team of the Center of Multidisciplinary Integrated Technologies for Field Monitoring (FIMO) with the group of students from the School of Aerospace Engineering (SAE), VNU University of Engineering and Technology installed fine dust monitoring equipment PM2.5 and PM10 at a number of locations in schools and agencies in Hanoi.
+Air pollution control
+Currently, air pollution in cities such as Hanoi and Ho Chi Minh City is becoming serious, while the information and measures to prevent environmental pollution are very little or not much concerned. According to Yale University’s 2018 Environmental Performance Index (EPI), Vietnam ranked 159 out of 180 countries for air quality and ranked 129 out of 150 countries for environmental health.
+FairKit equipment installed at The Olympia Schools in the framework of cooperation with
+Live & Learn
+From practical needs, the FIMO team and the first-year students from the School of Aerospace Engineering met a number of partners in the field of environmental management or
+non
+–
+governmental organization
+s in Vietnam, the team got a lot more motivation and decided to build a network of fine dust monitoring devices using cheap sensors to provide information to the community. Mr. Ha Duc Van – FIMO Center’s Internet of Things team leader, said that the research team had experienced in building a fine dust map nationwide from satellite images, so the group has started from building air pollution maps nationwide. However, the resolution and the accuracy of this method is not high, more data needed from the ground to compare. The team is to present the status of air pollution in Hanoi, and later expand to other cities in Vietnam. From that, managers can make appropriate policies to minimize air pollution. Besides, community awareness will be enhanced. People pay more attention to the quality of air environment and take practical actions to protect the health of themselves and their families. After 3 years of research and development, the group has successfully developed FairKit (FIMO Air monitoring Kit) device. This is one of four components of the FAirNet (FIMO Air Polution Monitoring Network), including: FairKit, FAirServer, FAirApp and FAirWeb.
+Installing at 12 urban districts in Hanoi
+After completing the product, 50 FairKit devices was installed at 25 schools / agencies in 12 urban districts of Hanoi from March 15 to May 31, 2019. Sharing about the strength of the product, Mr. Ha Van Duc said that FAirKit device is calibrated with high-precision devices (handheld devices, standard measuring stations) which are done by the research team with in-depth knowledge of air pollution. Meanwhile, domestic devices are not calibrated and installed directly. In using low-cost sensors, data correction is the core value to improve the quality of the product. Existing products in the world are only calibrated with meteorological conditions in the country of manufacture, when brought into Vietnam, the accuracy can be greatly reduced. In addition, it is necessary to revise the product after 6 months, with equipments purchased abroad, this is almost expensive or not feasible.
+The research team of FIMO also has the advantage of being a member of OGC (Open Geospatial Consortium). The group implemented the SWE standard of OGC as the standard for developing information collection, management, analysis and sharing systems from devices to build FAirNet system. This makes the network easily integrated with similar standard development systems.
+FairKit measures outdoor air quality placed in wooden boxes with ventilation lines on both sides and front to ensure air circulation for accurate measurement results
+FAirKit is capable of measuring basic air quality parameters (PM2.5, PM10, CO, NO2, SO2, O3) and temperature, relative humidity. However, in the framework of this project, the device is provided with sensors to measure the parameters of two fine dust PM2.5 and PM10, with CO parameters, temperature and relative humidity. The device uses flexible power, including solar or grid electricity. FIMO center says that FairKit uses low-cost sensors but does not disclose specific costs.
+Two types of FAirKit devices which measure indoor air quality and measures ambient air quality, differ from design due to the peculiar nature of each installation environment: indoor equipment has direct display screens for measurement parameters, while outdoor equipment is designed with protection box to avoid rain and sun and impact.
+In order to enhance accuracy, FairKit applies data adjustment algorithms, tests and alignments in labs before actual installations. The staffs of the schools and agencies are trained on operation and preservation skills by FIMO engineers. The device will be monitored daily and re-calibrated after 6 months of operation by FIMO center.
+The FairKit devices automatically connect (wirelessly) to the FairNet system 24/7 to store, process data and display information via the FairNet website and FairApp mobile application. It is known that FairNet and FairApp are expected to launch in April 2019. After FairNet and FairApp come into operation, the public can update air quality information and receive real-time air pollution alerts which support environmental managers and policy makers to make more effective air pollution control decisions and solutions.In the future, the group will complete the construction of intelligent algorithms to improve the quality of data further, creating air pollution maps in Hanoi city. The group will also design and build software applications to suit users’ tastes.
+(UET-News)
+By KHCN&HTPT
+|
+Cooperation
+.
+News & Events
+.
+Student research
+|
+5628 Views

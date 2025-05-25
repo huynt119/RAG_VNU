@@ -1,0 +1,102 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-co-ky-thuat-18_.txt
+
+Tóm tắt yêu cầu chương trình đào tạo
+Tổng số tín chỉ phải tích lũy: 61 tín chỉ, trong đó:
+Khối kiến thức chung: 07 tín chỉ
+Khối kiến thức cơ sở và chuyên ngành: 39 tín chỉ
++ Các học phần bắt buộc
+:                                                                   24
+tín chỉ
++ Các học phần lựa chọn
+:                                                                   15
+/42 tín chỉ
+Luận văn: 15 tín chỉ
+2. Khung chương trình đào tạo
+S
+TT
+Mã học phần
+Tên học phần
+Số tín chỉ
+Số giờ tín chỉ
+Mã số
+học phần
+tiên quyết
+Lý thuyết
+Thực hành
+Tự học
+I
+Khối kiến thức chung
+07
+1
+PHI 5001
+Triết học
+Phylosophy
+3
+30
+15
+0
+2
+ENG 5001
+Tiếng Anh chung
+English
+for
+General
+Purposes
+4
+30
+30
+0
+II
+Khối kiến thức cơ sở
+và chuyên ngành
+39
+II
+.1
+Các
+học phần bắt buộc
+24
+3
+INT 6001
+Phương pháp luận nghiên cứu khoa học và đổi mới sáng tạo*
+Scientific Research Methodology
+and Innovation
+3
+30
+0
+15
+4
+EMA 6001
+Cơ học kỹ thuật hiện đại
+Modern Engineering Mechanics
+3
+35
+10
+0
+5
+EMA 6120
+Kỹ thuật công trình
+Structural Engineering
+3
+26
+4
+15
+6
+EMA 6121
+Kỹ thuật điều khiển và tự động hóa
+Control & Automation Engineering
+3
+20
+10
+15
+7
+EMA 6122
+Kỹ thuật môi trường
+Environmental Engineering
+3
+26
+4
+15
+8
+EMA 6123
+Thực tập Cơ Kỹ thuật *
+Training for Eng.

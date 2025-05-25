@@ -1,0 +1,15 @@
+Nguồn: uet.vnu.edu.vn_~quyentc_publications.html.txt
+
+Dr. Tran Cao Quyen
+Publications
+Journal & International Conferene Paper
+[1]Tran Cao Quyen (2015), "Nghiên cứu điều chế không gian cho kênh nước biển nông giàu tán xạ và tán xạ yếu", Journal of science & technology-Hanoi University of Industry ,Đã chấp nhận đăng 12/2015
+[2]Tran Cao Quyen (2015), "Nâng cao tốc độ truyền tin trong một kênh nước biển nông thuộc vịnh Bắc Bộ của Việt Nam dùng điều chế OFDM", Hội thảo Quốc gia 2015 về Điện tử, Truyền thông và Công nghệ thông tin, Tháng 12.2015
+link here
+[3]Tran Ba Tan, Tran Cao Quyen (2015), "Thiết kế mạch khuếch đại công suất cho Modem thủy âm số dùng điều chế FSK", Journal of science & technology-Hanoi University of Industry ,Vol 28,pp.15-18,6/2015
+link here
+[4]Tran Cao Quyen (2014), “Một giải pháp điều khiển công suất cho hệ thông tin vô tuyến nhận thức hướng đến 5G”, Journal of science & technology-Hanoi University of Industry ,Vol 25,12/2014
+link here
+[5]Tran Cao Quyen (2014), “Target detection probability of a wideband passive radar using correlation method”, Journal of science & technology-Hanoi University of Industry , Vol 21, pp.51-54,4/2014. link here
+[6]Tran Cao Quyen, Pham Ngoc Linh (2013), “ Áp dụng lý thuyết trò chơi vào hệ thống 5G sử dụng MIMO kích thước lớn đa người dùng”, Hội nghị quốc gia về Điện tử-Truyền thông, pp.254-257
+[7]Tran Cao Quyen, Trinh Anh Vu (2012), “The application of a multibeam antenna for 4G”, The 2012 International Conference on Advanced Technologies for Communications (ATC2012), pp.

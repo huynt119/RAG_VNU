@@ -1,0 +1,10 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-vat-ly-ky-thuat-2_.txt
+
+Ứng dụng lý thuyết thống kê để giải quyết các bài toán thực tế liên quan, ứng dụng lý thuyết độ tin cậy trong các vấn đề kỹ thuật. Kiến thức của nhóm ngành
+Biết được các kiến thức cơ bản về các phương pháp toán – lý để vận dụng trong các bài toán vật lý cụ thể;
+Nắm được các kiến thức cơ bản về khoa học vật liệu và vật lý lượng tử và giải được một số bài toán ứng dụng về công nghệ micro-nano;
+Biết được các kiến thức thực hành vật lý đại cương và có thể ứng dụng trong một số phép đo đạc vật lý thực tiễn. Kiến thức ngành
+Hiểu được các kiến thức cơ bản và liên ngành về vật lý, hóa học, khoa học vật liệu, sinh học và công nghệ nano. Nắm được các quy luật, bản chất, nguyên lý, hiện tượng vật lý và ứng dụng về bán dẫn, từ tính, điện môi, quang và thông tin quang;
+Biết được các công cụ, có kiến thức về tin học và phương pháp mô phỏng vật lý; các phương pháp, kỹ thuật và vận hành được một số trang thiết bị khoa học kỹ thuật để chế tạo và nghiên cứu các vật liệu có cấu trúc/kích thước micro-nano. Nắm được các kiến thức và kỹ năng thực hành tổng hợp, chế tạo và phân tích đặc trưng tính chất của một số vật liệu cấu trúc micro-nano;
+Nắm được một số kiến thức định hướng chuyên sâu về Công nghệ nano/Công nghệ quang tử/Công nghệ nanno sinh học/Vật lý tính toán;
+Có kiến thức chuyên môn để triển khai được các công việc về vật lý, hóa học, khoa học vật liệu, sinh học và công nghệ nano.

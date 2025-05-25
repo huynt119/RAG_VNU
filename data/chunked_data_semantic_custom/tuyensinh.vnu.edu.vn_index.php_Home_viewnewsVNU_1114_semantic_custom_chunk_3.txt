@@ -1,0 +1,27 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_1114.txt
+
+Nguyên tắc cộng điểm ưu tiên khu vực, đối tượng
+Trường ĐHKT áp dụng cộng điểm ưu tiên khu vực, đối tượng như sau:
+- Mức điểm ưu tiên áp dụng cho khu vực: khu vực 1 (KV1) là 0,75 điểm, khu vực 2 nông thôn (KV2-NT) là 0,5 điểm, khu vực 2 (KV2) là 0,25 điểm; khu vực 3 (KV3) không được tính điểm ưu tiên;
+- Mức điểm ưu tiên áp dụng cho nhóm đối tượng: nhóm đối tượng UT1 (gồm các đối tượng 01 đến 04) là 2,0 điểm và cho nhóm đối tượng UT2 (gồm các đối tượng 05 đến 07) là 1,0 điểm;
+- Các mức điểm ưu tiên tương ứng với tổng điểm 3 môn (trong tổ hợp môn xét tuyển) theo thang điểm 10 đối với từng môn thi (không nhân hệ số);
+- Điểm ưu tiên đối với thí sinh đạt tổng điểm từ 22,5 trở lên (khi quy đổi về điểm theo thang 10 và tổng điểm 3 môn tối đa là 30) được xác định theo công thức sau:
+Điểm ưu tiên = [(30 – Tổng điểm đạt được)/7,5] × Mức điểm ưu tiên
+- Trường hợp phương thức tuyển sinh sử dụng thang điểm khác thì mức điểm ưu tiên được quy đổi tương đương. Cách tính điểm ưu tiên theo từng phương thức xét tuyển
+Nhà trường áp dụng cộng điểm ưu tiên khu vực, đối tượng đối với các phương thức xét tuyển cụ thể như sau:
+(1) PTXT kết quả thi tốt nghiệp THPT năm 2023:
+- Đối với thí sinh đạt tổng điểm dưới 22.5 điểm được xác định theo công thức sau:
+Điểm ưu tiên = Mức điểm ưu tiên x 4:3
+- Đối với thí sinh đạt tổng điểm từ 22,5 trở lên được xác định theo công thức sau:
+Điểm ưu tiên = [(30 – Tổng điểm đạt được)/7,5] × Mức điểm ưu tiên x 4:3
+(2) PTXT kết quả ĐGNL học sinh bậc THPT năm 2023:
+- Đối với thí sinh đạt tổng điểm dưới 112.5 điểm được xác định theo công thức sau:
+Điểm ưu tiên = Mức điểm ưu tiên x 5
+- Đối với thí sinh đạt tổng điểm từ 112,5 trở lên được xác định theo công thức sau:
+Điểm ưu tiên = [(150 – Điểm Đánh giá năng lực)/37,5] × Mức điểm ưu tiên x 5
+(3) PTXT chứng chỉ tiếng Anh kết hợp kết quả thi tốt nghiêp THPT năm 2023:
+- Đối với thí sinh đạt tổng điểm dưới 22.5 điểm được xác định theo công thức sau:
+Điểm ưu tiên = Mức điểm ưu tiên x 4:3
+- Đối với thí sinh có tổng điểm chứng chỉ Tiếng Anh quy đổi và 2 môn còn lại trong tổ hợp xét tuyển đạt từ 22,5 trở lên được xác định theo công thức sau:
+Điểm ưu tiên = [(30 – Tổng điểm đạt được)/7,5] × Mức điểm ưu tiên  x 4:3
+7.

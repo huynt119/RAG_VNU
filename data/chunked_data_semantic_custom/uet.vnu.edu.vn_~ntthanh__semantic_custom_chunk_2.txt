@@ -1,0 +1,41 @@
+Nguồn: uet.vnu.edu.vn_~ntthanh_.txt
+
+Pushpa publishing house (best paper award)
+Quang-Thuy Ha,Thi-Ngan Pham, Van-Quang Nguyen, Thi-Cham Nguyen, Thi-Hong Vuong, Minh-Tuoi Tran, and Tri-Thanh Nguyen
+A New Lifelong Topic Modeling Method and Its Application to Vietnamese Text Multi-label Classification
+10th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2018), (ISI conference) (200-210)
+2017
+Thi-Ngan Pham, Van-Quang Nguyen, Van-Hien Tran, Tri-Thanh Nguyen, and Quang-Thuy Ha
+A semi-supervised multi-label classification framework with feature reduction and enrichment
+Journal of Information and Telecommunication (TJIT), 1(2): (141-154)
+Thi-Ngan Pham, Van-Quang Nguyen, Duc-Trong Dinh, Tri-Thanh Nguyen, and Quang-Thuy Ha
+MASS: a semi-supervised multi-label classification algorithm with specific features
+Asian Conference on Intelligent Information and Database Systems ACIIDS 2017, (ISI conference) (37-47)
+Hong Hai Le, Ngoc Hoa Nguyen, Tri-Thanh Nguyen
+Automatic Detection of Singular Points in Fingerprint Images using Convolution Neural Network
+Asian Conference on Intelligent Information and Database Systems ACIIDS 2017, (ISI conference) (207-216)
+Thi-Ngan Pham, Van-Hien Tran, Tri-Thanh Nguyen, and Quang-Thuy Ha
+Exploiting Distance graph and Hidden Topic Models for Multi-label Text Classification
+Asian Conference on Intelligent Information and Database Systems ACIIDS 2017, (ISI conference) (321-331)
+2016
+Thuong Pham Thi, Xuan Hoai Nguyen, and Tri-Thanh Nguyen
+A study on fitness representation in Genetic Programming
+The Advanced of International Conference on Advances in Information and Communication Technology, (104-112)
+Quang-Thuy Ha, Hong-Nhung Bui, Tri-Thanh Nguyen
+A trace clustering solution based on using the distance graph model
+The 8th International Conference on Computational Collective Intelligence (ICCCI 2016) (313-322)
+Hong-Hai LE, Ngoc-Hoa NGUYEN, Tri-Thanh NGUYEN
+A complete fingerprint matching algorithm on GPU for a large scale identification system
+The 7th international conference on information science and applications, LNEE, Springer (ISI) (679-688)
+Hong-Hai LE, Ngoc-Hoa NGUYEN, Tri-Thanh NGUYEN
+Exploiting GPU for Large Scale Fingerprint Identification
+The 8th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2016), Lecture Notes in Computer Science, Springer (ISI) pp. 688-697
+2015
+Minh-Tien Nguyen, Quang-Thuy Ha, Thi-Dung Nguyen, Tri-Thanh Nguyen and Le-Minh Nguyen
+Recognizing Textual Entailment in Vietnamese Text: An Experimental Study
+KSE 2015, pp.108-113
+Minh-Tien Nguyen, Tri-Thanh Nguyen
+DESRM: a Disease Extraction System for Real-time Monitoring
+IJCVR, Vol.5, No.3, pp.282-301
+Minh-Tien Nguyen, Asanobu Kitamoto, Tri-Thanh Nguyen
+TSum4act: A Framework for Retrieving and Summarizing Actionable Tweets during a Disaster for Reaction, 19th Pacific-Asia Conference, PAKDD 2015, Ho Chi Minh City, Vietnam, May 19-22, 2015.

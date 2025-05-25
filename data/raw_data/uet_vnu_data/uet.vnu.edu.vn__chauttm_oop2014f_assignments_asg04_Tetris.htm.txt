@@ -1,0 +1,1285 @@
+Assignment 04 – Bài tập lớn số 4
+Tetris
+Bản
+gốc của Nick Parlante, CS108 Stanford 2012.
+Quy cách nộp
+bài:
+Nộp tại Bitbucket, project và
+repository có tên
+oop-asg04
+, quyền
+đọc dành cho uet-oop
+.
+Project dạng maven.
+Xem project mẫu tại
+https://bitbucket.org/chauttm/oop-asg04
+Lớp Piece Board, và các lớp
+test phải nằm trong package
+oop.asg04
+File README.txt đặt tại
+thư
+mục gốc của project với thông tin cá nhân (Họ và
+tên, ngày sinh, mã sinh viên, lớp, mô tả ngắn gọn về
+project)
+Hạn nộp
+(bổ
+sung chi tiết sau)
+:
+-4A: Hai lớp chưa hoàn thiện
+PieceTest và Piece.
+Demo tại lớp rằng
+có test và đã pass được ít nhất 01 test.
+Project đã đặt tại bitbucket.
+-4B: Với PieceTest cho sẵn sau
+4A, hoàn thiện Piece.
+Nộp tại bitbucket
+-4C: Hai lớp chưa hoàn thiện
+BoardTest và Board.
+Demo tại lớp rằng có test và
+đã pass được ít nhất 01 test
+-4D: Demo tại lớp rằng JTetris đã chạy
+được (chưa cần hết lỗi)
+-4E: Với BoardTest cho sẵn sau
+4C, hoàn thiện Board, JBrainTetris, Adversary.
+Nộp
+tại bitbucket.
+Lưu ý là JBrainTetris chỉ
+chiếm 2%, Adversary dành cho điểm thưởng.
+-4F: Demo tại lớp rằng
+JBrainTetris đã chạy được.
+Trong bài tập lớn số 4,
+bạn sẽ xây dựng một tập các lớp cho trò
+chơi Tetris.
+Bài này chú trọng vào thế
+mạnh Chia-để-trị của thiết kế hướng
+đối tượng – sử dụng chiến lược
+đóng gói để chia một bài toán lớn và rắc rối
+thành vài bài toán nhỏ đỡ rắc rối hơn và có
+thể test riêng được.
+Có ba phần việc là cài lớp Piece, lớp
+Board, và bổ sung một số phần thú vị khác.
+Bài này dài và phức tạp
+hơn nhiều so với các bài tập lớn khác.
+Piece (4AB)
+Trò Tetris chuẩn có 07 mảnh
+(piece).
+Mảnh "gậy" (stick
+)
+, mảnh
+L
+và đối xứng của nó, L2,
+, mảnh
+S
+và đối xứng của nó, S2,
+, mảnh
+vuông (square)
+,
+và mảnh kim tự tháp (pyramid)
+Mỗi mảnh chuẩn cấu
+tạo từ 04 khối.
+Các cặp mảnh
+L và S đối xứng nhau, nhưng ta vẫn coi là các mảnh
+khác nhau.
+Một mảnh có thể xoay 90
+o
+ngược chiều
+kim
+đồng hồ
+để thành một mảnh khác. Xoay đủ lần thì
+ta có lại mảnh ban đầu – chẳng hạn một
+mảnh S xoay hai lần sẽ quay lại trạng thái ban
+đầu. Ví dụ dưới đây là 4 trạng thái nếu
+xoay liên tiếp (ngược chiều
+kim
+đồng hồ) của mảnh L:
+Trong cách trừu tượng hóa
+của ta, một đối tượng Piece đại diện
+cho một mảnh tetris tại một trạng thái.
+Do
+đó hình trên là 4 trạng thái của mảnh L, tương
+ứng với 4 đối tượng Piece khác nhau. Ta gọi
+mỗi trạng thái này là một
+rotation
+.
+Body - thân:
+Mỗi mảnh được
+xác định bởi tọa độ của các khối
+tạo thành "thân" của mảnh đó.
+Mỗi
+đối tượng mảnh có một hệ tọa
+độ của riêng mình, với gốc tọa độ
+(0,0) đặt tại góc dưới bên trái và mảnh
+đó nằm ở vị trí sát góc, nghĩa là đáy mảnh
+chạm trục Y và mép bên trái nhất chạm trục Y.
+Minh họa về hình vuông như trong hình dưới
+đây:
+(0
+,0
+) <= khối dưới
+bên trái
+(0
+,1
+) <= khối trên bên
+trái
+(1
+,0
+) <= khối dưới
+bên phải
+(1
+,1
+) <= khối trên bên phải
+Trong một số trường hợp đặc
+biệt, một mảnh thậm chí không có khối nào ở
+tọa độ (0
+,0
+), ví dụ trạng
+thái sau của mảnh S có thân là {(0,1), (0,2), (1,0), (1,1)}
+Một mảnh được
+xác định hoàn toàn bởi thân của nó – tất cả
+các tính chất khác như chiều cao, chiều rộng có thể
+được tính từ thân mảnh.
+Ta sẽ đo "chiều cao" và "chiều
+rộng" của mảnh bởi các khối bên phải
+nhất và cao nhất của thân mảnh.
+Chẳng
+hạn, mảnh S ở trên có chiều rộng là 2 và chiều
+cao là 3.
+Một tính chất hữu ích khác cho việc
+chơi nhanh là
+skirt
+của một
+mảnh…
+Skirt của một mảnh là một mảng
+int[
+] có số phần tử bằng chiều
+rộng của mảnh đó.
+Skirt lưu trữ
+giá trị y nhỏ nhất của thân mảnh tương ứng
+với từng tọa độ x của mảnh.
+Các giá trị của x là chỉ số của mảng.
+Ví dụ, với mảnh S nói trên, skirt của nó là mảng
+{1
+,0
+}. Nghĩa là, với x = 0, tọa
+độ y thấp nhất của thân là y = 1, với x =1,
+tọa độ y thấp nhất là y = 0. Ta giả thiết
+rằng các mảnh không có lỗ thủng, nghĩa là với
+x nào trong mảng cũng có giá trị tương ứng của
+y cho x đó.
+Rotation, version 1
+Lớp Piece cần cung cấp
+cho client một cách truy nhập các rotation khác nhau.
+Lớp
+Piece hỗ trợ rotation
+theo
+hai cách. Cách
+dễ nhất là phương thức
+computeNextRotation(
+),
+khi được gọi từ một đối tượng
+Piece, nó tính toán và trả về một đối tượng
+Piece mới đại diện cho kết quả của việc
+xoay đối tượng đó 90
+o
+ngược
+chiều kim đồng hồ. Lưu ý là các đối
+tượng Piece thuộc diện bất biến, không có
+phương thức nào sửa đổi đối tượng
+chủ, thay vào đó, phương thức
+computeNextRotation(
+)
+tạo và trả về một đối tượng mới.
+Rotation code
+Bạn cần tìm ra một thuật toán với
+nhiệm vụ tính ra mảnh là kết quả
+thu
+được khi xoay một mảnh
+được cho trước 90
+o
+ngược chiều
+kim đồng hồ. Vẽ một mảnh và kết quả
+xoay nó rồi liệt kê các tọa độ x
+,y
+của thân mảnh.
+Rotation, version 2
+Rắc rối với
+computeNextRotation(
+)
+là chi phí cho nó hơi cao nếu ta muốn nhanh chóng duyệt
+qua tất cả các rotation của một mảnh. Đó là
+do mỗi lần nó lại tính lại thân mảnh, và lần
+nào cũng cấp phát một đối tượng mới.
+Do các đối tượng Piece bất biến, ta có thể
+tính trước tất cả các rotation rồi lưu tất
+cả chúng ở một chỗ nào đó.
+Để làm được điều
+đó, ta sẽ dùng một con trỏ ".next" tại mỗi
+đối tượng Piece trỏ tới rotation tiếp
+theo
+ngược chiều kim đồng hồ
+đã được tính từ trước. Phương
+thức
+fastRotation(
+) chỉ trả về
+con trỏ .next. Khi đó, xuất phát từ mảnh bất
+kì trong danh sách, ta có thể nhanh chóng duyệt tất cả
+các rotation với phương thức
+fastRotation(
+).
+Đối với một đối
+tượng Piece mới tạo, con trỏ .next có giá trị
+bằng null.
+Phương thức
+makeFastRotation(
+)
+cần bắt đầu từ một đối tượng
+Piece rồi tạo tất cả các mảnh trong danh sách và
+nối chúng lại với nhau quanh mảnh ban đầu.
+Lớp Piece chứa một mảng static tên
+là "pieces", nó chứa các rotation đầu tiên của
+từng mảnh trong số 7 mảnh. Mảng này được
+khởi tạo (xem trong mã cho sẵn) với một lời
+gọi tới
+makeFastRotations(
+) để
+tất cả các rotation của từng mảnh được
+nối với rotation đầu tiên của mảnh đó.
+Mảng được cấp phát khi client gọi
+getPieces(
+) lần đầu tiên.
+Tiểu xảo này được gọi là
+"lazy evaluation", nghĩa là chỉ tính khi thực sự
+được dùng.
+Piece.java
+Các file khởi động Piece.java có một
+số nội dung đơn giản đã được
+cho sẵn, trong đó có khuôn cho các phương thức
+public mà bạn cần cài.
+Không được
+sửa các khuôn public hoặc các hằng biến, có như vậy
+lớp Piece của bạn mới có thể lắp
+được với các thành phần khác trong chương
+trình.
+Bạn sẽ muốn bổ sung các phương
+thức trợ giúp của riêng bạn, các phương thức
+này nên là private và có khuôn tùy ý bạn.
+Dưới đây là một số lưu ý về
+các nội dung bạn sẽ thấy trong file khởi động
+Piece.java
+Lớp
+     TPoint cho sẵn là một cấu trúc đơn giản
+     chứa một tọa độ x
+,y
+và hỗ trợ equals() và toString().
+Các
+     constructor: Constructor chính lấy tham số là một mảng
+     TPoint và dùng mảng này để khởi tạo thân của
+     đối tượng Piece mới. Constructor này có thể
+     yên tâm là trong mảng TPoint không có hai điểm nào trùng
+     nhau. Còn có một constructor khác lấy tham số là một
+     xâu kí tự như "0 0 0 1 0 2 1 0" và tách lấy các
+     tọa độ từ đó rồi gọi constructor
+     chính. Phương thức
+parsePoints(
+)
+     được cung cấp sẵn phục vụ công việc
+     tách lấy tọa độ từ xâu ký tự.
+Piece.equals()
+     kiểm tra xem hai đối tượng có bằng nhau
+     hay không
+Tính tổng
+     quát: Chiến lược của ta là dùng một lớp
+     Piece để biểu diễn tất cả các loại
+     mảnh khác nhau tuy đều cùng gồm 4 khối. Mã
+     chương trình nên đủ tổng quát để có
+     thể xử lý các mảnh với kích thước khác
+     nhau –không nên dùng hằng số 4 trong mã chương
+     trình.
+Test
+Mục
+     tiêu của phần A: bạn hoàn thành một lớp
+     Piece tạo được mảng pieces với các
+     đối tượng piece.
+đã
+test tất cả các phương thức của Piece.
+Unit Testing
+Tạo một lớp PieceTest sử
+dụng JUnit (xem hướng dẫn sử dụng JUnit link
+từ website môn học).
+Kiểm tra tất cả các
+phương thức public mà Piece hỗ trợ:
+getWidth(
+), getHeight(), getSkirt(), fastRotation(),
+equals() – output của mỗi phương thức cần
+được kiểm tra vài lần. Thay vì kiểm tra
+output thô của
+getBody(
+), kiểm tra các giá
+trị dẫn xuất từ đó như chiều rộng,
+chiều cao, skirt thì dễ dàng hơn. Tương tự,
+test
+fastRotation(
+) cũng là để test
+ComputeNextRotation().
+Kế hoạch test căn bản: Lấy một
+vài mảnh xuất phát khác nhau – tạo một số bằng
+constructor và lấy một số khác từ mảng
+getPieces(
+). Test một số thuộc tính của
+các mảnh xuất phát.
+Sau đó lấy một
+số mảnh khác là kết quả của việc xoay vài lần
+các mảnh xuất phát, và kiểm tra các thuộc tính của
+mảnh đó.
+Ngoài ra, kiểm tra xem cấu trúc
+getPieces(
+) có đúng hay không, có chứa đủ
+số trạng thái cho một số mảnh hay không.
+Bạn có thể dùng các hằng, chẳng hạn
+PYRAMID, để truy nhập các mảnh trong mảng.
+Các hình vẽ ở đầu trang minh họa các mảnh
+xuất phát.
+Hãy viết các unit test
+trước
+khi đi quá sâu
+vào việc viết mã cho Piece.
+Việc viết test giúp
+bạn bắt đầu nghĩ về các phương thức
+của Piece và hình dung về các trạng thái xoay, skirt trước
+khi viết mã.
+Nhờ đó, bộ test đầy
+đủ sẽ tạo thuận lợi lớn cho việc
+kiểm tra xem code có chạy được hay không trong quá
+trình bạn viết code.
+Các unit-test của bạn là một trong các sản
+phẩm cần nộp, yêu cầu tối thiểu là các test
+cho Piece cần kiểm tra ít nhất 5 đối tượng
+mảnh khác nhau, cần gọi và kiểm tra kết quả
+của
+getWidth(
+), getHeight(), getSkirt(),
+fastRotation(), equals() ít nhất 5 lần mỗi phương
+thức.
+Board (4CDE)
+Trong hệ thống hướng
+đối tượng tạo nên trò Tetris, lớp Board
+đảm nhận hầu hết công việc.
+Lưu
+     trữ trạng thái hiện tại của một bảng
+     tetris
+hỗ
+     trợ các thao tác căn bản mà một mô đun
+     "player" cần để xây dựng phiên bản
+     giao diện đồ họa của trò chơi: thêm các
+     mảnh vào bảng, để cho các mảnh rơi từ
+     từ xuống dưới, phát hiện các điều
+     kiện khác nhau của bảng. Mã player được
+     cung cấp sẵn cho bạn. Nhưng bạn cần cài
+     Board.
+Thực
+     hiện các công việc trên một cách nhanh chóng. Bạn
+     sẽ thấy tốc độ đóng vai trò quan trọng.
+Board (bảng) đại diện
+cho trạng thái của một bảng tetris.
+Nó là một
+"lưới" – mảng hai chiều gồm các giá trị
+boolean
+ghi trạng thái về từng ô
+đã được lấp hay chưa. Tọa độ
+góc dưới bên trái là (0
+,0
+), với X
+tăng về phía bên phải và Y tăng theo chiều hướng
+lên trên.
+Các ô đã lấp được đại
+diện bởi một giá trị true trong lưới tại
+tọa độ tương ứng.
+Phương thức
+place(
+) thêm một mảnh vào lưới,
+còn clearRows() dọn bỏ các hàng đã được lấp
+đầy và tịnh tiến phần các ô đã lấp bên
+trên xuống dưới.
+Các cấu trúc phụ
+"widths" và "heights" giúp tăng hiệu quả của
+nhiều thao tác.
+Mảng widths chứa
+thông tin về số các ô đã lấp tại mỗi hàng.
+Nó cho
+clearRows(
+) biết khi một hàng
+đã được lấp kín.
+Mảng
+heights lưu chiều cao mà mỗi cột đã được
+lấp.
+Chiều cao sẽ là chỉ số hàng của
+ô còn trống nằm ngay trên đỉnh cột – vị trí
+tiếp
+theo
+cần lấp. Mảng
+heights cho phép
+dropHeight(
+) tính nhanh ra các tọa
+độ mà một mảnh sẽ rơi xuống khi
+được thả tại một cột cụ thể
+nào đó.
+Các phương thức chính của Board là
+constructor,
+place(
+), clearRows(), và dropHeight()…
+Constructor
+Constructor khởi tạo một
+bảng mới rỗng không.
+Bảng có
+thể có kích thước tùy chọn, tuy rằng bảng
+Tetris chuẩn có kích thước 10 cột 20 hàng.
+Mã
+client có thể tạo bảng cao hơn, chẳng hạn
+10x24, để có thêm không gian trên đỉnh cho các mảnh
+tetris rơi từ từ xuống (mã player của ta làm việc
+này)
+Trong Java, một mảng 2 chiều thực ra
+là một mảng 1 chiều gồm các con trỏ trỏ tới
+một tập hợp các mảng 1 chiều. Biểu thức
+"new
+boolean[
+width][height]" sẽ cấp
+phát toàn bộ lưới. Theo mô tả của phương
+thức
+undo(
+) bên dưới đây, bảng
+phải ở trạng thái committed khi nó được tạo
+ra.
+int
+place(piece, x,y)
+Phương thức
+place(
+)
+nhận đối số là một đối tượng
+Piece và một tọa độ (x,y), nó đặt mảnh
+đó vào lưới với gốc tọa độ riêng nằm
+tại tọa độ (x,y) trên bảng. Thao tác
+undo(
+) có thể hủy mảnh mới nhất
+được đặt vào bảng bởi hàm place().
+place(
+) trả về PLACE_OK
+nếu đặt mảnh thành công, trả về
+PLACE_ROW_FILLED nếu đặt thành công và đồng thời
+lấp đầy một hàng.
+Các trường hợp lỗi: Có thể xảy
+ra tình huống client yêu cầu thao tác place sai.
+Khi
+một phần của mảnh nằm ngoài bảng, trả
+về PLACE_OUT_BOUNDS.
+Nếu đè lên các
+khối trong bảng đã lấp từ trước (phát
+hiện ra trong khi sửa bảng) thì trả về PLACE_BAD.
+Một thao tác
+place(
+) sai có
+thể đưa bảng vào một tình trạng không hợp
+lệ - chỉ có một phần của mảnh được
+đặt vào bảng. Khi đó, client có thể gọi một
+lần
+undo(
+) để đưa bảng
+quay trở lại trạng thái hợp lệ. Bảng phải
+ở trạng thái committed trước khi có thể gọi
+place(
+).
+Trong quá trình
+place(
+) duyệt
+qua toàn bộ thân của mảnh, nó cần cập nhật
+widths[], heights[], và maxHeight. Cũng như vậy, để
+ý xem kết quả có là PLACE_ROW_FILLED trong khi cập nhật
+mảng
+widths[
+], chứ không phải sau
+đó mới quay lại kiểm tra mảng này.
+int
+clearRows()
+Phương thức này xóa từng
+hàng đã lấp đầy, làm cho các khối nằm trên tụt
+xuống, và trả về số hàng đã xóa.
+Các hàng mới xuất hiện trên đỉnh của
+bảng là các hàng rỗng.
+Có thể có vài
+hàng cùng đầy, và chúng không nhất thiết kề nhau.
+Lưu ý rằng trò tetris chuẩn không có
+"trọng lực", các khối không tiếp tục
+rơi xuống không gian rỗng bên dưới.
+Thay vào đó, mỗi hàng bên trên một hàng bị
+xóa dịch xuống đúng một hàng.
+Tuy rằng bạn có thể duyệt
+vài lần, giải pháp khôn khéo nhất là làm mọi việc
+trong một lần lặp – chép từng hàng tới vị
+trí đích của nó, bắt đầu từ hàng ở ngay
+bên trên hàng bị xóa, tiến dần lên hàng trên cùng.
+Nội
+dung của mảng width cũng cần dịch xuống
+theo
+.
+Còn các hàng rỗng cần
+được dịch lên đỉnh bảng.
+Do ta biết chiều cao của cột cao nhất,
+ta có thể tránh việc sao chép các không gian rỗng trên đỉnh
+bảng.
+Đây là việc tối ưu hóa rất
+hiệu quả, vì bảng tetris thường gần như
+là rỗng.
+int
+dropHeight(piece, x)
+Phương thức
+dropHeight(
+)
+tính giá trị y nơi gốc tọa độ (0,0) của
+một mảnh sẽ tới nếu mảnh được
+thả từ trên cao thẳng xuống khi gốc tọa
+độ của nó nằm tại cột x. dropHeight() cần
+dùng mảng heights và skirt của mảnh để tính giá trị
+y trong thời gian O(piece_width). Một vòng lặp for(x = 0; x <
+piece.width; x++) có thể kiểm tra skirt của mảnh và mảng
+heights của board để tính giá trị y mà gốc tọa
+độ của mảnh sẽ đến đậu tại
+đó.
+dropHeight(
+) giả thiết rằng
+mảnh rơi thẳng từ trên xuống chứ không tính
+đến việc di chuyển mảnh sang hai bên trong quá trình
+rơi.
+undo()
+Mã client không chỉ muốn thêm
+một chuỗi mảnh, Mã client còn muốn thí nghiệm với
+việc thêm các mảnh khác nhau.
+Để
+hỗ trợ trường hợp sử dụng này, bảng
+(board) cài một tiện ích undo độ sâu 1.
+Tiện ích này làm cho cài đặt bảng phức
+tạp hơn, nhưng lại làm cho công việc của
+client đơn giản hơn.
+Bảng có một trạng thái
+"committed" với giá trị true hoặc false. Giả
+sử tại một thời điểm nào đó, bảng
+được được commit. Ta gọi đây là trạng
+thái "gốc" (original) của bảng. Client có thể
+thực hiện một thao tác
+place(
+). Thao
+tác này thay đổi trạng thái của bảng và sửa
+committed thành false. Client có thể thực hiện một thao
+tác
+clearRow(
+). Bảng vẫn ở trạng
+thái committed = false. Đến đây, nếu client thực hiện
+undo(
+), bảng sẽ quay lại trạng
+thái gốc. Hoặc, client có thể thực hiện thao tác
+commit(
+), thao tác này đánh dấu trạng thái
+hiện tại là trạng thái committed mới của bảng
+và sửa committed thành true. Hành động
+commit(
+)
+có nghĩa rằng ta sẽ không bao giờ có thể cho bảng
+quay lại các trạng thái "gốc" cũ hơn.
+Các quy
+tắc :
+Bảng
+     khởi đầu ở trạng thái committed, cờ
+     committed==true, trong cả quá trình chỉ chuyển qua lại
+     giữa hai trạng thái committed==true và committed==false.
+place(
+) chỉ được thực hiện
+     khi bảng đang ở trạng thái committed(), thao tác
+     này chuyển trạng thái của bảng sang
+     committed==false.
+clearRow(
+) có thể được thực
+     hiện từ trạng thái bất kì của bảng, nó
+     đưa bảng về trạng thái committed==false.
+     Client có thể gọi
+place(
+) trước
+     khi clearRow() hoặc không. Nếu gọi
+clearRow(
+)
+     mà không gọi place() trước đó thì hơi ngớ
+     ngẩn, nhưng đôi chỗ trong lô-gic của client vẫn
+     có thể có việc này, và trách nhiệm của ta là cho kết
+     quả đúng ngay cả trong trường hợp
+     đó.
+commit(
+) và undo() có thể được thực
+     hiện từ trạng thái bất kì của bảng, nếu
+     được gọi từ trạng thái committed==true,
+     hai phương thức này lờ đi và không làm gì cả.
+     Việc này tiện cho client gọi
+commit(
+)
+     hoặc undo() cho chắc chắn trước khi gọi
+     place().
+Mã client muốn tạo hiệu ứng một
+mảnh đang rơi sẽ làm công việc đại loại
+như sau:
+place
+– đặt mảnh ở trên đỉnh bảng
+<
+pause
+>
+undo
+place
+– đặt mảnh thấp hơn một hàng
+<
+pause
+>
+undo
+place
+– đặt mảnh thấp hơn một hàng
+…
+phát
+hiện ra mảnh đã chạm đáy vì place()
+trả về PLACE_BAD hoặc PLACE_OUT_OF_BOUNDS
+undo
+place
+– đặt mảnh trở lại vị trí hợp
+lệ trước đó
+commit
+thêm
+một mảnh mới lên đỉnh bảng
+Cài đặt
+undo()
+undo(
+) rất tiện cho
+client, nhưng nó phức tạp hóa place() và clearRow(). Sau
+đây là một chiến lược cài:
+Backup - sao lưu
+Sử dụng
+System.arraycopy(
+source,
+0, dest, 0 length) để chép từ mảng chính sang mảng
+backup.
+System.arraycopy chắc đã được
+JVM tối ưu hóa nên sẽ chạy nhanh hơn là các đoạn
+code tự viết.
+Lưu ý rằng mảng hai chiều
+về bản chất là một mảng 1 chiều của
+các con trỏ tới các mảng 1 chiều.
+Undo – hoán đổi giá trị
+Đối với
+undo(
+),
+công việc dễ thấy là dùng arraycopy để chép lại
+giá trị sao lưu để khôi phục trạng thái cũ.
+Chiến lược tốt
+Một chiến lược tốt và
+đơn giản là chỉ sao lưu tất cả các cột
+khi mà
+place(
+) hoặc clearRow() đưa ta
+ra khỏi trạng thái committed.
+Chiến lược phức tạp hơn
+Chiến lược phức tạp hơn
+cho
+place(
+) là chỉ sao lưu các cột
+trong lưới mà mảnh nằm tại đó – số cột
+bằng chiều rộng của mảnh (bạn không cần
+cài chiến lược phức tạp này, tôi chỉ nói
+đến cho những ai quan tâm).
+Trong trường hợp này, bảng cần lưu những
+cột
+nào
+được
+backup, và do đó nó chỉ cần đổi giá trị của
+những cột đó khi
+undo(
+) (hai giá trị
+int là đủ để biết những cột nào cần
+backup). Với chiến lược này, nếu
+clearRows(
+) xảy ra, không chỉ những cột
+mà mảnh chiếm cần backup mà cả các cột ở
+bên trái và bên phải nó cũng cần.
+Các lựa chọn khác
+Bạn được tùy ý thử các chiến
+lược undo khác, miễn là nó chạy không chậm
+hơn "chiến lược tốt" nói ở trên. Lựa
+chọn "chính xác" là lưu mảnh đang chơi, và
+khi undo thì duyệt toàn bộ thân mảnh đó và cẩn thận
+undo phần diện tích mà mảnh đó chiếm.
+Cách này phức tạp hơn, nhưng có thể
+nhanh hơn.
+Đối với trường
+hợp clearRow, việc chép sạch tất cả mọi thứ
+có lẽ gần tối ưu – việc undo chính xác cho các
+hàng bị xóa đòi hỏi quá nhiều logic trong
+chương trình.
+Chuỗi
+place(
+)/undo()
+trong thực tế thông dụng hơn nhiều so với
+các tổ hợp như place()/clearRows()/undo(). Do đó, mục
+tiêu của ta là làm cho
+place(
+)/undo() nhanh hết
+mức có thể, và chỉ cần đảm bảo rằng
+tất cả các trường hợp khác chạy đúng.
+Hiệu quả chương trình
+Lớp Board (bảng) có hai mục tiêu thiết
+kế: (a) cung cấp dịch vụ tiện lợi cho
+client, và (b) chạy nhanh. Cụ thể:
+Các
+     hàm truy nhập:
+getRowWidth(
+),
+     getColumnHeight(), getWidth(), getHeight(), getGrid(), dropHeight(), và
+     getMaxHeight() – cần chạy với thời gian hằng
+     số (độ phức tạp O(1)).
+Các hàm này chỉ việc lấy
+     kết quả từ một biến được
+     tính sẵn như maxHeight hoặc heights. Các phương
+     thức
+place(
+) và clearRows() cần cập
+     nhật các biến thực thể một cách hiệu
+     quả
+khi chúng thay đổi
+     trạng thái của bảng.
+Hệ
+     thống
+place(
+)/clearRow()/undo() cần chép
+     tất cả các mảng để sao lưu và hoán
+     đổi giá trị các con trỏ khi undo(). Việc này
+     gần như là tối ưu.
+sanityCheck()
+Board có nhiều dữ liệu
+được lưu thừa giữa grid, widths, heights, và
+maxHeight.
+Viết hàm
+sanityCheck(
+) kiểm
+tra tính nhất quán của các cấu trúc dữ liệu của
+bảng: lặp toàn bộ grid để xem các giá trị
+trong mảng widths và heights có đúng hay không, xem maxHeight có
+đúng hay không. Ném ngoại lệ nếu bảng không nhất
+quán: ném new
+RuntimeException(
+"description").
+Gọi
+sanityCheck(
+) ở cuối mỗi
+phương thức place(), clearRows(), và undo(). Một hằng
+static DEBUG kiểu boolean trong lớp Board kiểm soát việc
+chạy
+sanityCheck(
+). Nếu DEBUG==true thì
+sanityCheck(
+) chạy qui trình kiểm tra, nếu
+không thì nó không làm gì cả. Bạn cần nộp bài với
+DEBUG=true. Viết nội dung
+sanityCheck(
+)
+ngay từ sớm, nó sẽ giúp bạn tìm lỗi
+chương trình. Có một điểm lắt léo: đừng
+gọi sanityCheck() tại place() nếu đặt mảnh
+không thành công – bảng có thể không ở trạng thái
+"sạch", nhưng nó được phép như vậy
+trong trường hợp đó.
+BoardUnitTest
+Tạo một lớp BoardTest
+dùng JUnit.
+Chiến lược đơn giản là tạo
+một bảng 3x6, đặt vào đó một vài trạng
+thái xoay của mảnh pyramid. Gọi
+dropHeight(
+)
+cho vài mảnh và các giá trị x khác nhau để xem có trả
+về kết quả đúng hay không. Gọi
+place(
+)
+một vài lần, rồi kiểm tra bảng kết quả
+qua kết quả trả về của getColumnHeight(),
+getRowWidth(), getMaxHeight(), getGrid().
+Thiết lập một bảng với một hai hàng
+đã đầy, gọi
+clearRow(
+), rồi
+kiểm tra bảng kết quả với các hàm get kể
+trên. Thực hiện một chuỗi
+place(
+)/clearRows(),
+rồi undo() để xem bảng có quay lại trạng
+thái đúng hay không.
+Bạn có thể thiết kế các unit-test
+tùy ý, miễn là tổng cộng có ít nhất 10 lần gọi
+mỗi hàm
+getColumnHeight(
+) và getRowWidth(), 5 lần
+gọi mỗi hàm dropHeight() và getMaxHeight(), và ít nhất 2 lần
+gọi mỗi hàm khác.
+Các test phức tạp hơn đối với
+Board cần nhiều thứ hơn là chỉ đặt một
+mảnh vào bảng. Hãy thực hiện một chuỗi thao
+tác, mỗi lần lại kiểm tra các chỉ số của
+bảng như
+getGrid(
+), getColumnHeight()…. Ví
+dụ: Đưa một pyramid vào bảng, thêm mảnh thứ
+hai, rồi xóa hàng.
+Kiểm tra tình trạng sau
+khi xóa xem có đúng không.
+Undo rồi kiểm tra lần
+nữa. Thử thêm mảnh thứ 3 cùng với undo và không
+có undo để đảm bảo là chuỗi undo/clearRows
+không phá hỏng một phần nào của cấu trúc bên
+trong. Khi gọi các hàm như
+getColumnHeight(
+),
+bạn không cần gọi triệt để mà chỉ cần
+kiểm tra một vài cột hay hàng, như vậy là đủ
+để làm lộ ra hầu hết lỗi chương
+trình. Việc rà lỗi "trực tiếp" trong khi
+chơi khó khăn hơn nhiều, do đó tập trung làm một
+vài unit test khó cho lớp Board là cách dễ nhất để
+rà lỗi hiệu quả. Lần bước khi chạy một
+unit test dễ hơn nhiều so với việc sử dụng
+debugger cho một trò chơi trực tiếp.
+Cũng lưu ý rằng lớp Board cho sẵn
+một phương thức
+toString(
+), do
+đó bạn có thể println trạng thái của
+bảng, việc này cũng tạo
+thuận lợi cho việc xem xét một chuỗi tình trạng
+bảng theo trình tự thời gian.
+JTetris
+Bạn được cung cấp
+sẵn lớp JTetris.
+Đây là một
+chương trình chơi Tetris sử dụng các lớp Piece
+và Board của bạn để hoạt động.
+Sử dụng các phím j, k, l, i để chơi.
+Bạn không cần sửa thay thêm gì vào mã của
+JTetris.
+Thanh trượt "speed" điều chỉnh
+tốc độ chơi. Trong mục tiếp
+theo
+, bạn sẽ tạo lớp con của
+JTetris để sử dụng một bộ óc trí tuệ
+nhân tạo (AI) tự động điều khiển các mảnh
+tetris đang rơi.
+Ở thời điểm
+này, bạn chỉ cần chơi tetris để test xem các
+lớp Piece và Board của mình có chạy đúng hay không.
+Trong khi chơi, bạn sẽ thấy lỗi,
+hãy bổ sung unit test với các phương thức liên quan
+thay vì debug trong khi chơi.
+Việc tổ chức
+unit test tốn nhiều công ở giai đoạn đầu,
+nhưng nó còn hiệu quả về mặt công sức
+hơn là để đến các giai đoạn sau mới
+tìm và sửa lỗi.
+Một trong các lý thuyết về unit test là:
+thay vì đổ công tìm lỗi khi thấy chương trình
+chạy sai – công sức này chỉ hữu dụng một lần
+rồi bị bỏ qua, ta nên đầu tư công sức
+đó vào việc viết một unit test cho lỗi
+chương trình mà ta đang muốn sửa.
+Unit
+test đó giúp sửa lỗi đó và sẽ tiếp tục
+hữu ích cho suốt thời gian sống của mã
+chương trình.
+Mốc quan trọng – chơi trò Tetris cơ bản
+Bạn cần phải rà soát lỗi
+cho các lớp Piece và Board đủ cản thận để
+có thể dùng JTetris để chơi tetris.
+Đến giai đoạn này thì bài tập lớn
+của bạn đã gần xong.
+Một khi đã sửa
+được hết lỗi, bạn có thể chuyển
+sang bước tiếp
+theo
+.
+Bộ óc (4EF)
+Phần này, bạn sẽ xây dựng
+một số tính năng thú vị trên cơ sở các chức
+năng cơ bản của Piece và Board.
+Hiểu JTetris
+Đọc qua mã JTetris.java vài lần
+để tạm hiểu hoạt động của nó.
+Bạn sẽ viết một lớp con của nó. Các điểm
+quan trọng trong JTetris:
+main(
+) tạo một đối tượng
+     JTetris và createFrame() tạo một khung màn hình cho trò
+     chơi.
+tick()
+     là nút cổ chai cho việc di chuyển mảnh hiện
+     hành
+computeNewPosition()
+     chỉ đóng gói phần tính toán tọa độ, và
+     rotation tiếp theo của mảnh hiện hành
+tick(
+) phát hiện ra một mảnh đã
+     "chạm đáy" khi nó không tiếp tục hạ
+     thấp xuống nữa. Mảnh được coi là hạ
+     cánh khi nó không thể di chuyển xuống nữa và
+     người chơi ngừng di chuyển nó.
+Nếu
+     checkbox "Test sequence" được tích khi một
+     ván chơi bắt đầu, trò chơi sẽ dùng một
+     chuỗi cố định gồm 100 mảnh rồi dừng
+     lại. Nếu lần nào cũng chơi cùng một chuỗi
+     như vậy thì tìm lỗi sẽ dễ hơn.
+JBrainTetris
+Tạo một lớp con JBrainTetris của
+JTetris, lớp con này sẽ tự động điều
+khiển các mảnh tetris khi chúng rơi, tóm lại là
+chơi tự động thay cho người. Như lệ
+thường của việc thừa kế, lớp con của
+bạn nên có tính năng mới nhưng vẫn sử dụng
+hành
+vi
+có sẵn của lớp cha hết
+mức có thể.
+Lớp DefaultBrain có sẵn
+đã hoạt động được, bạn có thể
+tự làm bộ óc khác nếu muốn.
+Bộ óc
+interface
+Brain định nghĩa
+thông điệp bestMove() tính toán nước đi mà nó cho là
+tốt nhất có thể trong tình trạng bảng và mảnh
+hiện hành.
+// Brain.java -- the
+interface for Tetris brains
+public
+interface Brain {
+// Move is used as a struct to store a
+single Move
+// ("static" here means it does
+not have a pointer to an
+// enclosing Brain object, it's just in the
+Brain namespace.)
+public
+static
+class Move {
+public
+int x;
+public
+int y;
+public
+Piece
+piece;
+public
+double
+score;
+// lower scores are better
+}
+/**
+Given a piece and a board, returns a move
+object that represents
+the
+best play for
+that piece, or returns null if no play is possible.
+The board should be in the committed state
+when this is called.
+limitHeight
+is
+the height of the lower part of the board that pieces
+must
+be inside
+when they land for the game to keep going
+--
+typically
+20
+(i.e. board.getHeight() - 4)
+If the passed in move is non-null, it is
+used to hold the result
+(
+just
+to save the
+memory allocation).
+*/
+public
+Brain.Move
+bestMove(Board board, Piece piece,
+int
+limitHeight, Brain.Move move);
+}
+Bộ óc mặc định – DefaultBrain
+Lớp DefaultBrain cho sẵn là một cài đặt
+đơn giản nhưng hoàn thiện về chức
+năng
+theo
+interface Brain. Hãy đọc qua
+DefaultBrain.java xem nó đơn giản đến mức nào.
+Cho một mảnh, nó thử xoay đủ các
+cách tại tất cả các cột có thể thử
+được.
+Với mỗi cách chơi, nó dùng một
+phương thức đơn giản
+rateBoard(
+)
+để đánh giá xem bảng kết quả tốt đến
+đâu – tạo khối là không tốt, lỗ hổng còn tồi
+hơn nữa. Các phương thức
+dropHeight(
+),
+place(), và undo() được bộ óc này dùng để duyệt
+toàn bộ các tổ hợp bảng.
+Lớp JBrainTetris của bạn cần làm
+được những việc sau:
+Viết lớp JbrainTetris dựa trên hiểu
+biết cơ bản về mã nguồn JTetris – đó là thực
+tế của quan hệ thừa kế phức tạp
+Bổ sung hàm
+main(
+) tạo
+một frame chứa một JbrainTetris thay vì một JTetris.
+Cài đè (override)
+createControlPanel(
+)
+để thêm một nhãn Brain và một JCheckBox để kiếm
+soát việc bật/tắt chế độ chơi tự
+động.
+Checkbox cần có giá trị mặc
+định là false.
+Chỉ cần dùng đoạn mã
+dưới đây (và xem qua mã tại JTetris làm mẫu)
+panel.add(
+new JLabel("Brain:"));
+brainMode
+= new JCheckBox("Brain active");
+panel.add(
+brainMode);
+Một đối tượng
+JBrainTetris cần sở hữu đúng một đối
+tượng DefaultBrain.
+Khi checkbox được
+đánh dấu, JBrainTetris sẽ dùng đối tượng
+DefaultBrain để chơi tự động.
+Dùng
+phương thức
+isSelected(
+) của
+đối tượng JCheckBox để kiểm tra xem nó
+có được đánh dấu hay không.
+Chiến lược là cài đè phương
+thức
+tick(
+), sao cho mỗi lần hệ
+thống gọi tick(DOWN) để hạ mảnh tetris xuống
+một hàng, JBrainTetris nắm lấy cơ hội này để
+di chuyển mảnh tetris trước đã. Quy tắc của
+ta là mỗi lần
+tick(
+DOWN) được
+gọi, bộ óc có thể thực hiện tối đa 01
+phép xoay kèm theo tối đa 01 phép dịch trái/phải.
+Trong chế độ tự động, bộ óc
+cần thao tác để mảnh trôi về vị trí
+đúng.
+Trong khi bộ óc đang chơi tự
+động, người dùng vẫn có thể sử dụng
+bàn phím để di chuyển mảnh tetris, nhưng bộ
+óc sẽ di chuyển mảnh về hướng đúng.
+Khi bảng bị đầy dần, có thể
+sẽ đến lúc bộ óc không thể kịp di chuyển
+mảnh tetris về vị trí.
+Đó là tình huống
+bình thường (ta có thể tạo chế độ mà bộ
+óc lập tức kéo mảnh về vị trí đúng sau chỉ
+một thao tác, nhưng xem chương trình chơi tự
+động như vậy thì không vui bằng)
+JBrainTetris cần phát hiện khi
+biến JTetris.count thay đổi để biết rằng
+một mảnh mới đã xuất hiện.
+Tại thời điểm này, nó cần dùng bộ
+óc để tính, một lần thôi, xem mảnh đó nên
+đi đến vị trí nào – đích.
+Bộ óc cần
+bảng ở trạng thái committed=true rồi mới thực
+hiện tính toán. Do đó, thực hiện
+board.undo(
+)
+trước khi dùng bộ óc. Bạn có thể thấy rằng
+việc này không phá rối logic của JTetris, do phương
+thức
+JTetris.tick(
+) tự gọi
+board.undo().
+Để có hiệu năng tốt,
+điều quan trọng là chỉ tính đích đúng một
+lần cho mỗi mảnh mới.
+Chơi khó – Adversary
+(Bonus)
+Ở bước cuối cùng
+này, sản phẩm của bạn sẽ là một ví dụ
+thú vị về việc tái sử dụng mã.
+Sửa
+     JBrainTetris.createControlPanel để thêm một nhãn
+     "Adversary:
+",
+một thanh trượt
+     có khoảng giá trị 0..100 và giá trị khởi tạo
+     là 0, và một nhãn trạng thái có nội dung "ok".
+//
+make a little panel, put a JSlider in it. JSlider responds to
+getValue()
+little
+= new JPanel();
+little.add(
+new JLabel("Adversary:"));
+adversary
+= new JSlider(0, 100, 0); // min, max, current
+adversary.setPreferredSize(
+new Dimension(100,15));
+little.add(
+adversary);
+//
+now add little to panel of controls
+Cài
+     đè
+pickNextPiece(
+).
+hoạt
+động như sau: Tạo một số ngẫu
+     nhiên giữa 1 và 99, nếu số đó lớn hơn hoặc
+     bằng giá trị của thanh trượt thì mảnh tiếp
+     theo được chọn ngẫu nhiên như bình
+     thường, nếu nhỏ hơn, adversary sẽ chọn
+     mảnh tiếp theo. Khi mảnh mới được
+     chọn ngẫu nhiên,
+setText(
+) nhãn trạng
+     thái thành "ok", nếu không, sửa nó thành
+     "*ok*" (ta không muốn quá lộ liễu).
+Có thể
+     xây dựng adversary với một chút mã JBrainTetris sử
+     dụng bộ óc. Duyệt qua mảng các mảnh tetris,
+     với mỗi mảnh, hỏi bộ óc xem nó nghĩ
+     nước tốt nhất là gì. Ghi nhớ mảnh mang
+     lại kết quả tồi nhất. Khi bạn tìm ra
+     đâu là mảnh tồi nhất – mảnh mà cách di chuyển
+     tốt nhất cho nó là tồi nhất, thì đó là mảnh
+     tiếp
+theo
+mà người chơi sẽ
+     nhận được! "Ối!
+lại
+S nữa! Quá tệ! Hy vọng là cái que sẽ chóng
+     ra."
+Thiết
+     kế tái sử dụng ở đây rất thú vị.
+     Interface Brain trông hợp lý và không có gì đặc biệt.
+     Bộ óc hầu như không nhận ra ngữ cảnh kì
+     cục mà nó sẽ được đem ra sử dụng
+     – đúng
+theo
+kiểu hoạt động
+     của thiết kế mô-đun. Và để ý xem tốc
+     độ xử lý của Board quan trọng đến
+     đâu. Có khoảng 25 cách đặt mỗi mảnh vào
+     bảng, do đó adversary cần có khả năng
+     đánh giá khoảng 7*25=175 bảng trong khoảng thời
+     gian ngắn ngủi từ sau khi một mảnh chạm
+     đáy và khi mảnh tiếp
+theo
+được chọn "ngẫu nhiên". Đó là
+     lý do tại sao hệ thống
+place(
+)/undo()
+     phải chạy nhanh.
+Sau
+     khi đã cài và chạy được adversary, bạn nhất
+     thiết phải test nó với bạn cùng phòng hay một
+     người ngây thơ vô tội nào đó. Hãy đặt
+     chế độ adversary ở khoảng 40% và tốc
+     độ chậm vừa phải, rồi dụ người
+     bạn
+kia
+"Này, tớ biết là
+     trò Tetris với cậu dễ không, cậu test cái này giúp
+     tớ được không? Chậm rì ấy mà."
+Và hài
+     hơn nữa, hãy cho bộ óc chơi chế độ
+     adversary.
+Trên đây là ví dụ về
+adversary tìm được mảnh khó hoàn hảo.
+Sản phẩm
+cần nộp
+Các lớp Piece và Board kèm
+theo
+các unit test
+Lớp Board cần có cấu trúc bên trong
+đúng theo yêu cầu – các phương thức
+place(
+), rowWidth(), undo()… hiệu quả và
+phương thức sanityCheck() chạy được.
+Có thể chơi tetris bằng bàn phím
+theo
+cách thông thường bằng cách chạy
+JTetris hoặc JBrainTetris
+Có thể dùng bộ óc và adversary
+trong JBrainTetris.
+Phụ lục:
+Trí tuệ nhân tạo
+Có lẽ bây giờ bạn không
+có thời gian nghĩ về chuyện này, nhưng một hôm
+nào đó bạn có thể hứng thú với việc tạo
+một bộ óc tetris thông minh hơn.
+Xây
+dựng một bộ óc tetris thông minh hơn là một bài
+toán thuật toán/trí tuệ nhân tạo rất thú vị.
+Nếu bạn muốn thử, hãy tự tạo
+lớp con của DefaultBrain và dùng nút Load Brain để nạp
+cho JTetris dùng nó.
+Có hai điểm mà chiến lược
+mặc định không làm đúng: (a) tránh tạo các khe sâu
+mà chỉ có mảnh hình que mới lọt, và (b) coi trọng
+những thứ nằm gần đỉnh hơn là những
+thứ ở dưới sâu.
+Còn có một vấn
+đề về tinh chỉnh trọng số.
+Nếu
+đây là khóa luận tốt nghiệp của bạn hay cái
+gì đó đại loại, bạn có thể sẽ muốn
+viết một chương trình riêng chỉ để tối
+ưu hóa trọng số - cái làm nên sự khác biệt.
+Dưới đây mà mã giao diện đồ họa cho nút
+Load Brain:
+JButton button =
+new
+JButton(
+"Load brain");
+button.addActionListener(
+new
+ActionListener() {
+public
+void
+actionPerformed(ActionEvent e) {
+try
+{
+Class bClass =
+Class.forName(
+brainText.getText());
+Brain newBrain = (Brain)
+bClass.newInstance(
+);
+// here change Brain ivar to use newBrain
+status.setText(
+brainText.getText()
++ " loaded");
+}
+catch
+(Exception
+ex) {
+ex.printStackTrace(
+);
+}
+}
+});

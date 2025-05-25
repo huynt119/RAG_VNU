@@ -1,0 +1,75 @@
+Nguồn: uet.vnu.edu.vn_hoi_nghi_sinh_vien_nghien_cuu_khoa_hoc_truong_dai_hoc_cong_nghe_lan_thu_17_nhieu_cong_trinh_co_chat_luong_cao_.txt
+
+Trần Công Minh
+Nguyễn Tiến Việt
+Nghiêm Ngọc Hùng
+K62-M1
+K62-M1
+K64-M1
+III
+VIỆN CÔNG NGHỆ HÀNG KHÔNG VŨ TRỤ
+1
+Nghiên cứu mô phỏng và mô hình hóa sự kết nối giữa ông xoáy và vòng xoáy trong việc nâng cao hiệu suất trôn ứng dụng trong buồng trộn, buồng cháy của động cơ hoặc các thiết bị chuyển đổi nhiệt
+Nguyễn Văn Đức
+K63-AE
+2
+Nghiên cứu cải tiến hiệu suất tua-bin gió savounious ở tỉ tốc cao
+Bành Đức Minh
+Hoàng Văn Tâm
+Trần Công Mạnh Hùng
+IV
+KHOA ĐIỆN TỬ VIỄN THÔNG
+1
+DDoS Detection in Software Defined Network using Support Vector Machine
+Lâm Xuân Toàn
+K62 ĐA CLC
+2
+Applied AI in surveillance camera systems for briefing, indexing and smart searching on video content
+Bùi Sơn Tùng
+Phùng Thế Ngọc
+Đỗ Duy Thanh
+K62 ĐA-CLC
+3
+Development of dielectrophoresis separation of platelets from blood cells using a novel microchannel-based device
+Nguyễn Minh Toàn
+Nguyễn Thanh
+Tùng
+Trần Minh Đức
+K63 ĐA CLC
+K64 ĐA CLC
+K64 ĐA CLC
+4
+Nghiên cứu xây dựng hệ thống định vị và dẫn đường trong mobile Robot sử dụng ROS và Hector SLAM
+Nguyễn Cảnh
+Thanh
+Đào Huyền Trang
+Nguyễn Thế
+Hưởng
+Trần Đức Sơn
+K63R
+5
+Arduino application in post-accident detection and rescue system
+Lương Đức Huy
+Nguyễn Việt Hưng
+K63 ĐA CLC
+6
+Development of microchannel-based mixer module to improve the mixing efficiency of biomarkers conjugated magnetic beads in bio-separated applications
+Nguyễn Đình Tới
+Nguyễn Thị Thanh Huyền
+Phạm Đức Trung
+Nguyễn Đức Kiên
+K63 ĐA CLC
+K62 ĐB
+K64 ĐA CLC
+K64 ĐA CLC
+7
+An automatic microinjection syringe pump for biomedical applications. Nguyễn Đình Dương
+Nguyễn Phúc Vinh
+Tống Trần Hoàng
+K63R
+K64R
+K62ĐA
+V
+BỘ MÔN CÔNG NGHỆ XÂY DỰNG – GIAO THÔNG
+1
+Nghiên cứu tính toán tối ưu hóa kết cấu hệ thanh sử dụng CALFEM và thuật giải tối ưu Rao.

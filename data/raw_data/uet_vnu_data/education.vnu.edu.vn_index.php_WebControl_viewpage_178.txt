@@ -1,0 +1,207 @@
+
+
+
+
+Giới thiệu dự án
+I. Giới thiệu chung
+Trường Đại học Giáo dục (tiền thân là Khoa Sư phạm-ĐHQGHN, thành lập năm 1999) được nâng cấp thành trường đại học theo Quyết định số 441/QĐ-TTg, ngày 03 tháng 4 năm 2009 của Thủ tướng Chính phủ, là một đơn vị thành viên của ĐHQGHN với sứ mạng phấn đấu trở thành cơ sở giáo dục đại học theo định hướng đại học nghiên cứu nhằm đào tạo đội ngũ giảng viên, giáo viên cho các bậc học; cán bộ quản lý giáo dục; cán bộ giáo dục và cán bộ nghiên cứu về khoa học giáo dục trên cơ sở liên kết với các chuyên gia, cơ sở giáo dục trong và ngoài nước đạt chuẩn khu vực, trong đó có bộ phận đạt chuẩn quốc tế.
+Kế hoạch chiến lược và tầm nhìn 2020 của Trường ĐHGD nêu rõ: Trường ĐHGD phấn đấu trở thành một cơ sở đào tạo đại học, sau đại học, nghiên cứu khoa học theo định hướng đại học nghiên cứu - nhằm đào tạo đội ngũ giảng viên các trường đại học, cao đẳng, trung cấp và giáo viên bậc Trung học phổ thông, cán bộ quản lí giáo dục, cán bộ giáo dục và nghiên cứu khoa học giáo dục đạt chuẩn khu vực, trong đó có bộ phận đạt trình độ quốc tế.
+Trong lộ trình thực hiện các nhiệm vụ chiến lược 2010-2020, tầm nhìn đến năm 2030, với bộ máy, cơ cấu tổ chức mang tính mở và linh hoạt, trên cơ sở huy động sức mạnh tổng hợp và nguồn lực của Đại học Quốc gia Hà Nội, Trường ĐHGD xác định những mục tiêu cụ thể sau:
+-    Phấn đấu trở thành cơ sở đào tạo đại học theo định hướng nghiên cứu, chú trọng đào tạo đội ngũ giảng viên, giáo viên chất lượng cao (các trường THPT chuyên, trường quốc tế), cán bộ quản lí giáo dục và nghiên cứu khoa học giáo dục đạt trình độ quốc tế;
+-    Triển khai nghiên cứu khoa học giáo dục đỉnh cao, thực hiện các chương trình, dự án qui mô, có tác động đến chính sách vĩ mô về giáo dục, đào tạo, khoa học quản lí đối với toàn hệ thống giáo dục Việt Nam; nâng cao tính cạnh tranh của các sản phẩm đào tạo và nghiên cứu khoa học giáo dục theo hướng chuyên nghiệp hóa, hiện đại hóa, tiến tới đạt chuẩn quốc tế, đáp ứng yêu cầu hội nhập quốc tế trong giáo dục.
+-    Gắn chặt nghiên cứu khoa học giáo dục với công tác đào tạo và phục vụ cộng đồng, đóng góp vào quá trình đổi mới căn bản và toàn diện nền giáo dục Việt Nam, góp phần nâng cao vị thế của Trường ĐHGD và tầm ảnh hưởng của ĐHQGHN trong hệ thống giáo dục đại học trong nước và quốc tế.
+Trong lộ trình phát triển của Trường ĐHGD, theo Luật Giáo dục, Nhà trường chuẩn bị các nguồn lực để xây dựng  trường thực hành sư phạm với các điều kiện đảm bảo là cơ sở thực hành và phát triển công nghệ, phương pháp dạy học. Định hướng phát triển Trường ĐHGD tiếp cận chuẩn khu vực, trong đó có bộ phận đạt chuẩn quốc tế cũng đặt ra vấn đề xây dựng các trung tâm sáng tạo và đổi mới trong đào tạo giáo viên (mô hình trung tâm xuất sắc – COE).
+Trong 15 xây dựng và phát triển, Trường Đại học giáo dục đã thực hiện hàng chục dự án lớn, nhỏ cấp nhà nước, liên chính phủ với các đối tác trong và ngoài nước, có mạng lưới kết nối nghiên cứu với các viện nghiên cứu, trường đại học nghiên cứu và các tổ chức phi chính phủ tại nhiều quốc gia như Pháp, Hà Lan, Hoa Kì, Hongkong, Trung Quốc...
+Trong bối cảnh cuộc cách mạng công nghiệp 4.0 đang có ảnh hưởng mạnh mẽ tới mọi lĩnh vực trong đời sống nói chung và giáo dục nói riêng, việc sử dụng công nghệ hình ảnh trong giảng dạy đã và đang trở thành vấn đề nóng đối với việc đổi mới phương pháp dạy học. Đón đầu xu thế này, trường Đại học Giáo dục- ĐHQGHN đã gửi thuyết minh đề xuất tài trợ cho Chương trình khoa học, công nghệ và đổi mới sáng tạo thuộc dự án FIRST thuộc Bộ Khoa học và Công Nghệ (vốn vay từ Ngân hàng Thế giới).
+Ngày 6/3/ 2018, Trường Đại học Giáo dục đã chính thức nhận tài trợ thông qua Lễ ký thỏa thuận tài trợ cho dự án nghiên cứu mang tên “Chương trình đào tạo giáo viên - học giả nghiên cứu cho khu vực Thái Bình Dương: Ứng dụng công nghệ hình ảnh trong nghiên cứu giảng dạy và học tập”. Các giảng viên của trường Đại học Giáo dục sẽ cùng với các chuyên gia hàng đầu về công nghệ hình ảnh trong dạy học của Hoa Kỳ thực hiện dự án nhằm số hóa các tư liệu dạy học thông qua các phần mềm như: StoryMap, AR, FreshAIR, GIS và 3D Lidar.
+II. Mục tiêu dự án
+Trên cơ sở các yêu cầu của Chương trình FIRST, trường ĐH Giáo dục thực hiện nghiên cứu nhằm thiết lập sự kết nối mang tính học thuật, sáng tạo và bền vững, được tích hợp giữa công nghệ thực địa và tình huống thực tế với việc giảng dạy và học tập. Nhóm nghiên cứu gồm chuyên gia của các trường đại học, các học giả nghiên cứu và đội ngũ giáo viên giàu kinh nghiệm ở trường phổ thông sẽ thực hiện một số mục tiêu sau:
+Lựa chọn các nội dung giàu thông tin, kiến thức mang tính chủ đề phục vụ cho các nghiên cứu xuyên quốc gia, tập trung vào giáo dục công dân, đất nước, tổ quốc…gắn với thực địa và thực tế;
+Thiết kế hệ thống các câu hỏi nghiên cứu khởi đầu, thực hiện nghiên cứu theo lĩnh vực đã nêu và công bố trên ấn phẩm truyền thống và số
+Thu hút và tuyển lựa được nhóm giáo viên có kinh nghiệm dạy học các môn Khoa học, Công nghệ, Kĩ thuật và Toán, các môn khoa học xã hội nhân văn để làm việc cùng với các chuyên gia, các nhà nghiên cứu theo lĩnh vực. Qua đó, họ sẽ được đào tạo để tích hợp các công nghệ mới, sáng tạo, tổ chức các hoạt động dạy học thực hành, thực địa, gắn với thực tế cho lớp học của mình
+Phổ biến, truyền bá rộng rãi các kết quả nghiên cứu đạt được như một mô hình được số hóa để hướng dẫn, gợi mở cho các nghiên cứu chủ đề và môn học khác
+Đưa ra các khuyến nghị, đề xuất cho việc tích hợp và nâng cao sử dụng công nghệ trong giáo dục đại học và giáo dục phổ thông theo chu trình liên tục, thường xuyên.
+Tóm lại, mô hình được đề xuất trong nghiên cứu này sẽ giải thích rõ lí do
+Vì sao
+công nghệ mới lại đóng vai trò là bộ phận quan trọng trong nghiên cứu và giảng dạy,
+Công nghệ mới nào
+là phù hợp để hiểu hơn về văn hóa, lịch sử,
+Làm thế nào
+để ứng dụng các công nghệ này một cách tương thích và hiệu quả.
+III. Các nội dung chính của dự án
+Để thực hiện mục tiêu của dự án, chúng tôi tập trung vào  các nội dung chính như sử dụng công nghệ trong dạy học các môn Khoa học tự nhiên, Khoa học xã hội và mô hình STEM.
+Khoa học, công nghệ, k
+ĩ
+thuật và
+T
+oán (STEM) ngày càng trở nên quan trọng trong
+bối cảnh
+nền kinh tế tăng trưởng
+mạnh
+và cạnh tranh toàn cầu. Trong những năm gần đây, tuy học sinh Mĩ đạt ở mức trung khi so sánh với học sinh ở các quốc gia khác. Lí do cho điều này bao gồm sự chuẩn bị của học sinh không đầy đủ về toán, khoa học hoặc chất lượng GV của hệ thống giáo dục phổ thông còn thấp và thiếu sự quan tâm chung trong lĩnh vực dạy học các môn Khoa học, Công nghệ, Kĩ thuật và Toán (STEM) của nhiều học sinh. Trong một báo cáo năm 2010 với tiêu đề: “Đào tạo và khơi nguồn cảm hứng: Giáo dục phổ thông 12 năm với các môn Khoa học, Công nghệ, Kĩ thuật và Toán học cho tương lai nước Mĩ”, Hội đồng cố vấn của Tổng thống về Khoa học và Công nghệ  đã đưa ra những kiến nghị  sau:
+-
+Cần t
+uyển dụng và đào tạo 100.000 giáo viên giỏi
+dạy các môn
+STEM trong thập kỉ tới
+đây để
+có thể
+dạy học
+và
+truyền cảm hứng
+học sinh.
+- Tạo cơ hội
+thúc đẩy và truyền cảm hứng học tập cho học sinh thông
+qua những trải nghiệm cá nhân/nhóm ngoài lớp  học
+Tuy nhiên, trên thực tế
+các môn khoa học cơ  bản
+, khoa học tự nhiên
+và khoa học xã hội thường được dạy
+một cách
+riêng rẽ
+. Điều này dẫn đến việc
+hạn chế cơ hội
+tích hợp các môn học đó trong chương trình đào tạo đối với cả
+giáo viên
+và
+học sinh
+.
+Trên thực tế, nhiều nhà giáo dục, xây dựng phát triển chương trình, các nhà sư phạm học đều nhất trí một quan điểm rằng, nếu có một cơ hội để tích hợp kiến thức của nhiều lĩnh vực khác nhau vào bài dạy, nguời học sẽ cần nhiều hơn một loại kiến thức, kĩ năng hoặc công cụ để thực hiện nhiệm vụ đó…thì điều đó là điều đáng phải làm. Theo tinh thần đó, việc tích hợp dạy học các môn STEM với lịch sử môi trường và
+công nghệ không gian địa lý
+là một ví dụ tốt
+.
+Việc sử dụng công nghệ không gian địa lí (Geospatial technologies) được phát triển và phổ biến mạnh mẽ tại Mĩ trong các hướng ứng dụng khác nhau. Bộ Lao động Mĩ đã thống kê và đưa ngành công nghệ này vào danh sách các công nghệ tiềm năng trong tương lai với chỉ số tăng trưởng 35% hàng năm. Trong giáo dục, nếu công nghệ này được phổ biến rộng rãi, việc thiết kế và thực thi chương trình giáo dục nhà trường, hỗ trợ giáo viên và học sinh thực hiện các khám phá, phân tích dữ liệu, đưa ra các kết luận, nhận xét, dự báo v.v. sẽ được thực hiện hoàn toàn theo một cách mới, đầy sáng tạo.
+Tuy vậy, công nghệ không gian địa lí vẫn còn khá xa lạ với hầu hết các giáo viên hiện nay. Đều này được thể hiện dưới 2 khía cạnh: số người sử dụng, tích hợp công nghệ này trong bài dạy các môn và sự dè dặt hoặc chưa khai thác được những tính năng cơ bản của công nghệ này (chủ yếu vẫn chỉ dùng để minh họa!). Thực tế trên đã gợi mở ra một ý tưởng thiết kế một mô hình nghiên cứu-đào tạo-chuyển giao công nghệ cho giáo viên ở trình độ thạc sĩ (K-16), đảm bảo cho họ có được các kĩ năng cần thiết để tích hợp sử dụng công nghệ này trong lớp học và các nghiên cứu khác.
+Tháng 1 năm 2012, tại Hội thảo quốc gia về sự kết nối của Khoa học Toán sư phạm với các Chuẩn chung về Khoa học do Bộ Giáo dục Mĩ tổ chức, ý tưởng và cách tiếp cận nói trên đã được chấp thuận và khuyến khích triển khai. Sự kết nối này cần được hiểu không chỉ đơn thuần là việc gắn kết cơ học mà còn bao hàm việc xây dựng chuẩn mới thể hiện sự phụ thuộc và ảnh hưởng lẫn nhau giữa khoa học tự nhiên và xã hội bằng việc: áp dụng các tri thức, thành quả nghiên cứu của khoa học tự nhiên để giải quyết các vấn đề xã hội (
+http://www.nextgenscience.org
+).
+Công nghệ địa không gian (Geospatial Technologies) có thể hỗ trợ thực hiện các nghiên cứu trong phòng thí nghiệm hoặc ngoài thực địa. Các nhà khoa học lịch sử hoặc môi trường có thể nghiên cứu, khám phá các yếu tố vượt thời gian, không gian (địa điểm) trong sự phát triển bản thể và thay đổi của chính chúng. Từ đó, các kết quả sẽ được lựa chọn và tích hợp vào trong giảng dạy với sự hỗ trợ của công nghệ này. Bằng cách đó, công nghệ không gian địa lí có thể thực hiện cả 3 chức năng: số hóa, qui trình hóa các quá trình công nghệ; công cụ để nghiên cứu và khám phá; công cụ để chuyển giao các sản phẩm
+Ngoài ra, nghiên cứu này còn thúc đẩy sự hợp tác quốc tế trong nghiên cứu để tìm kiếm sự hiểu biết ở những khía cạnh mang tính văn hóa, tinh thần, đặc điểm dân tộc như cách hiểu về không gian và khoảng cách, sự tương tác giữa cư dân qua hệ khái niệm khoảng cách v.v. Cụ thể, dựa trên những kết quả nghiên cứu về thiên nhiên, đất nước và sự phát triển các công đồng xã hội loài người ở Việt Nam, nhóm chuyên gia của 2 bên sẽ thiết kế trang dữ liệu điện tử (sau đó sẽ phát triển thành mô hình mẫu) liên môn giữa STEM và khoa học xã hội, nhân văn.
+Hệ thống thông tin địa lí (Geographic Information System - GIS) và Công nghệ tương tác thực tế (Augmented Reality - AR) chính là ví dụ điển hình về việc đưa khái niệm
+không gian
+vào lớp học. Công nghệ tương tác thực tế (ngược với Công nghệ hiện thực ảo: Virtual Relaity – VR) là công cụ gắn
+nhãn thông tin
+cho địa điểm thực tế. Còn Hệ thống GIS cho phép người học tiếp cận với cách học và tự học, tự nghiên cứu, trải nghiệm, phát triển tư duy phê phán, giải quyết vấn đề với các dữ liệu của địa điểm thực tế (Placed-based Learning), vượt ra khỏi lời thuyết giảng hoặc minh họa của người dạy, mở rộng không gian học tập ra khỏi 4 bức tường lớp học. Công nghệ gắn thẻ địa lí (Geo-tag) cho phép tạo ra các nội dung bài giảng sinh động, kích thích tư duy sáng tạo cho người học. Dựa trên những kết quả, dữ liệu thu được từ nghiên cứu, các bản đồ lịch sử sẽ có tính tương tác cao, được bổ sung chức năng tổ chức và trình bày lại thông tin, sự kiện với các dữ liệu chi tiết về bối cảnh không gian, thời gian, yếu tố tác động đến sự kiện v.v. bằng văn bản, tranh ảnh, video, âm thanh.
+Công nghệ địa không gian và AR sẽ được ứng dụng trong nghiên cứu này để xây dựng cơ sở dữ liệu, tài nguyên liên môn (phục vụ cho 4 mục đích: dùng chung; tích hợp vào nội dung các môn học liên môn; thiết kế đề xuất chương trình Thạc sĩ; và thiết kế mô hình M-Learning).
+IV. Các hoạt động chính và khung thời gian thực hiện dự án
+Dự án
+hướng đến nhiều mục tiêu
+, không chỉ
+thuần túy
+là
+việc
+đánh dấu các di tích lịch sử tiêu biểu nhất của Viêt Nam
+để sử dụng tích hợp với các môn học,
+lĩnh vực
+nghiên cứu khác
+. Nhóm nghiên cứu sẽ xây dựng bộ tài liệu hướng dẫn về sử dụng công nghệ để nâng cao khả năng tích hợp Khoa học Công nghệ, Kĩ thuật và Toán (STEM) với các nội dung khoa học xã hội nhân văn một cách sáng tạo, đổi mới và toàn diện. Bằng cách đó, dự án sẽ góp phần đổi mới nội dung dạy học các môn học trong chương trình hiện hành, đồng thời đưa ra được mô hình thiết kế các chương trình theo hướng tích hợp liên môn, xuyên môn.
+Theo nguyên tắc này, trong khuôn khổ của Dự án, nhóm nghiên cứu đề xuất thiết lập mạng lưới giáo viên, các học giả nghiên cứu liên môn trong vùng Thái Bình Dương để đề xuất các phương pháp chuyển giao và tích hợp công nghệ mới vào lớp học. Các dữ liệu, tài nguyên và tài liệu hướng dẫn chủ yếu được thực hiện trên cơ sở khảo sát, nghiên cứu tập trung vào 4 địa điểm vùng quan trọng, gắn với các sự kiện lịch sử của Việt Nam. Mô hình làm việc, chia sẻ kinh nghiệm, hợp tác nghiên cứu của các chuyên gia trong nhóm nghiên cứu hoặc đối với từng cá nhân sẽ được đúc rút, rút kinh nghiệm để đề xuất mô hình đào tạo, tập huấn cho giáo viên sau này. Cách tiếp cận trong nghiên cứu khi thực hiện dự án cũng được xem xét để đề xuất các phương án tích hợp, liên môn, liên ngành trong thiết kế, phát triển và triển khai chương trình đào tạo.
+Giai đoạn 1: Lập kế hoạch & Thiết kế
+Trong giai đoạn này, dự án sẽ tập hợp các học giả, các nhà giáo dục thuộc nhiều lĩnh vực để thành lập nhóm khởi xướng Chương trình học giả, giáo viên thuộc các lĩnh vực địa lí, khoa học môi trường, lịch sử và các chuyên gia giáo dục (có thể mở rộng cho các lĩnh vực khác). Hoạt động này đóng vai trò quan trọng trong tiến trình thực hiện dự án bởi 2 lí do sau: cần phải có nhóm chuyên gia mạnh về các công nghệ hỗ trợ và các chuyên gia hiểu biết sâu về các khoa học liên ngành; phải có một kế hoạch rõ ràng, lộ trình thực hiện hợp lí để tránh tình trạng mất cân đối giữa 2 lĩnh vực giáo dục và công nghệ, kĩ thuật.
+Trên cơ sở đó, dự án sẽ thu hút khoảng 6 giáo viên tại nhiệm (của mỗi bên, phía Mĩ và Việt Nam) thông qua quá trình tuyển lựa, chọn lọc đảm bảo chất lượng, được các đối tác đề xuất và có cam kết mở rộng, phát triển các nghiên cứu trong giai đoạn tiếp theo.
+Giai đoạn 2: Nghiên cứu thực địa và thu thập dữ liệu
+Các thành
+viên nhóm
+nghiên cứu
+Việt Nam và
+Mĩ
+sẽ làm việc với nhau để đạt được mục tiêu đề ra trong các chuyến đi nhiều ngày đến các địa danh lịch sử đã đ
+ư
+ợc xác định truớc. Từng công việc cụ thể sẽ được bàn thảo chi tiết trước mỗi chuyến đi. Nhiệm vụ nghiên cứu thực địa sẽ bao gồm: tham khảo địa lý (tham chiếu địa lý và các công nghệ lập bản đồ), nghiên cứu tại chỗ các cảnh quan và tòa nhà (tích hợp công nghệ tương tác thực tế-AR), quét laser cấu trúc và đặc điểm địa hình và nghiên cứu cá thể (Mô phỏng Wizard). Lãnh đạo dự án sẽ có mặt để tư vấn và xem xét, bao gồm hỗ trợ tại chỗ theo yêu cầu.
+Kết thúc giai đoạn nghiên cứu thực địa, các kết quả, báo cáo sẽ được tập hợp lại và trình bày trước cả nhóm (hoặc trong hội thảo chuyên đề), được đánh giá, nhận xét theo quan điểm tiếp cận tổng thể và định hướng phát triển. Nhóm nghiên cứu sẽ đưa ra các khuyến nghị, đề xuất, điều chỉnh sửa đổi cần thiết để tăng cường khả năng tích hợp giữa nội dung và công cụ công nghệ, xác định các bước triển khai tiếp theo có tính đến các yếu tố hỗ trợ, kể cả vấn đề liên quan đến trang thiết bị lớp học, việc sử dụng các tài liệu, học liệu  giảng dạy cho học sinh. Toàn bộ những thông tin này sẽ được lưu trữ trong một định dạng có thể dễ dàng  truy cập được bởi các nền tảng kỹ thuật số hiện tại và trong tương lai.
+Giai đoạn 3: Xuất bản và phổ biến rộng rãi
+Các tài nguyên, thông tin, dữ liệu được khai thác từ giai đoạn 2 không còn mang tính “mô phỏng” hay giả định. Trái lại, chúng được đưa ngay vào lớp học, trong các giờ dạy thực nghiệm, được giáo viên tích hợp vào các phương pháp, hình thức tổ chức dạy học phù hợp. Tính hữu dụng được đặt trọng số cao trong việc đánh giá chất lượng các thông tin, dữ liệu, tài nguyên đã nêu ở trên. Mặc dù vậy, các nội dung thông tin dữ liệu, tài nguyên vẫn bảo toàn được đặc tính hoài nghi, luôn là đối tượng để cho các nghiên cứu khám phá tiếp theo. Kết quả nghiên cứu và tài liệu hướng dẫn sẽ được công bố trên các định dạng khác nhau như website, giáo trình số, các trình ứng dụng thân thiện trên thiết bị di động, cũng như các định dạng truyền thống như hội thảo, bài báo khoa học, bài viết nghiên cứu…
+Đối tượng đích sử dụng kết quả của dự án là các nhà giáo dục chuyên nghiệp bậc phổ thông, cao đẳng, đại học, cũng như sinh viên đại học, sau đại học có quan tâm đến việc sử dụng công nghệ trong các lĩnh vực chuyên môn của họ
+Giai đoạn
+kế
+tiếp -
+Tính bền vững
+Việc triển khai Dự án sẽ thúc đẩy hình thành một mạng lưới toàn cầu kết nối chặt chẽ các nhà giáo dục và các giáo viên, những người đang khám phá lịch sử của đất nước họ với mục tiêu rõ ràng nhằm hiểu biết, chia sẻ và học tập. Công việc này được duy trì và hỗ trợ trong tương lai theo các cách sau:
+- Tạo sự hiểu biết sâu sắc về các vấn đề phức tạp, có mối liên hệ mật thiết trong các lĩnh vực giữa Mĩ và Việt Nam thông qua việc sử dụng các dữ liệu địa lý;
+- Tích hợp quá trình phân tích nguồn dữ liệu thô vào việc giảng dạy và thử nghiệm trong các trường
+- Thúc đẩy hợp tác giữa các trường phổ thông, đại học, các nhà giáo dục và lịch sử dựa trên sự liên kết công việc.
+- Mở đường cho quá trình phát triển tư duy phản biện vào lớp học và tác động đến việc học thông qua việc tạo ra các chương trình tương tác và dựa trên dạy học khám phá
+- Đề xuất mô hình dạy học sáng tạo của giáo dục toàn cầu trong thế kỉ XXI
+- Đề xuất bộ tài liệu hướng dẫn dạy học các môn STEM có thể sử dụng cho công việc phát triển nghề nghiệp chuyên môn của giáo viên trong tương lai.
+Trên cơ sở phối hợp nghiên cứu, kết quả đầu ra của Dự án sẽ bao gồm:
+Các xuất bản phẩm học thuật được đăng trên các tạp chí Khoa học xã hội nhân văn, Khoa học, Công nghệ, Kĩ thuật và Toán (STEM)
+Các cơ hội kinh doanh hợp tác với các đơn vị phụ trách quản lí địa điểm danh thắng, đơn vị lưu trữ, thư viện của các địa phương và quốc gia
+Sách, giáo trình về sử dụng công nghệ mới trong dạy học
+Số hóa và lưu trữ các tư liệu thẻ địa lí, các nguồn dữ  liệu dùng trong nghiên cứu
+Tóm tắt và luận án tiến sĩ của NCS Ngô Văn Định trước bảo vệ
+Thông tin về luận án tiến sĩ của NCS Ngô Văn Định
+Thông báo về việc giới thiệu danh sách thành viên Hội đồng Giáo sư cơ sở Trường Đại học Giáo dục, ĐHQGHN năm 2025
+Thông báo tổ chức buổi bảo vệ luận án cấp Đại học Quốc gia của NCS Nguyễn Công Ước
+Thông báo tổ chức đánh giá luận án tiến sĩ của nghiên cứu sinh Lê Phương Thúy
+Thông báo về việc thu hồ sơ xét tốt nghiệp đợt tháng 6 năm 2025
+Thông báo thu học phí học kỳ II năm học 2024 - 2025 chương trình đào tạo cử nhân khóa QH2023S ngành
+Thông báo thu học phí học kỳ II năm học 2024-2025 chương trình đào tạo cử nhân khoá QH2021-S ngành GD3
+Tuyển sinh
+Đại học
+Sau đại học
+Chương trình bồi dưỡng
+Đào tạo
+Cử nhân Sư phạm Toán
+Cử nhân Sư phạm Vật lý
+Cử nhân Sư phạm Hóa học
+Cử nhân Sư phạm Sinh học
+Cử nhân Sư phạm Ngữ văn
+Cử nhân Sư phạm Lịch sử
+Cử nhân Sư phạm Khoa học Tự nhiên
+Cử nhân Quản trị trường học
+Cử nhân Quản trị Công nghệ Giáo dục
+Cử nhân Quản trị Chất lượng giáo dục
+Cử nhân Tham vấn học đường
+Cử nhân Khoa học Giáo dục
+Cử nhân Giáo dục mầm non
+Cử nhân Giáo dục tiểu học
+Cử nhân Sư phạm Lịch sử và Địa lý
+Cử nhân Tâm lí học
+Thạc sĩ Quản lý giáo dục
+Thạc sĩ LL&PPDH bộ môn (Toán, Vật lý, Hóa học, Sinh học, Ngữ văn, Lịch sử)
+Thạc sĩ Tâm lý học Lâm sàng TE&VTN
+Thạc sĩ Đo lường & Đánh giá trong GD
+Thạc sĩ Quản trị trường học
+Thạc sĩ Tham vấn học đường
+Thạc sĩ Giáo dục mầm non, giáo dục tiểu học
+Thạc sĩ Quản trị Công nghệ Giáo dục
+Tiến sĩ Quản lý Giáo dục
+Tiến sĩ Tâm lý học Lâm sàng TE&VTN
+Tiến sĩ Đo lường & Đánh giá trong GD
+Tiến sỹ Lý luận, phương pháp và công nghệ dạy học
+Giới thiệu
+Cơ cấu tổ chức
+Hội đồng Khoa học và Đào tạo
+Ban Giám hiệu
+Lịch sử hình thành
+Sứ mạng - Tầm nhìn
+Kế hoạch chiến lược
+Quy chế hoạt động
+Sơ đồ tổ chức
+Hội đồng trường
+Hội đồng Khoa học và Đào tạo
+Hội đồng Đảm bảo chất lượng
+Ban Giám hiệu
+Đảng ủy
+Công Đoàn
+Đoàn Thanh niên
+Ba công khai
+Tài nguyên
+Cổng thông tin việc làm
+Tra cứu tài liệu thư viện ĐHQGHN
+Tra cứu luận văn, luận án
+Thư viện
+Tạp chí Khoa học
+Cổng thông tin người học
+Cổng thông tin tuyển sinh
+Biểu mẫu dành cho học viên, sinh viên
+Thiết kế website
+Trường đại học giáo dục
+Địa chỉ
+: Nhà G7, số 144 Xuân Thủy
+Điện thoại
+: (024) 7301 7123
+Email
+: education@vnu.edu.vn
+© UED. All Rights Reserved.
+Quay trở lại website cũ

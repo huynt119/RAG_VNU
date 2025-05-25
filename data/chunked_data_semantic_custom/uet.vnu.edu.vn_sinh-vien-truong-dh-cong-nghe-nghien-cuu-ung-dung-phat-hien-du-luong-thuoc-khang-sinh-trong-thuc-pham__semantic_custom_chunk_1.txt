@@ -1,0 +1,36 @@
+Nguồn: uet.vnu.edu.vn_sinh-vien-truong-dh-cong-nghe-nghien-cuu-ung-dung-phat-hien-du-luong-thuoc-khang-sinh-trong-thuc-pham_.txt
+
+Nguyễn Thị Minh Hồng (bên trái ảnh) – Giảng viên Khoa Vật lý Kỹ thuật và Công nghệ Nano hướng dẫn
+Để giải quyết bài toán phát hiện và kiểm soát được dư lượng thuốc kháng sinh CAP trong thực phẩm, đề tài tập trung vào việc chế tạo các hạt nano siêu thuận từ Fe
+3
+O
+4
+dùng để biến tính điện cực làm việc của cảm biến điện hóa nhằm nâng cao hiệu suất điện hoá và tăng cường tín hiệu phát hiện dư lượng thuốc kháng sinh CAP trong thực phẩm. Các hạt nano siêu thuận từ Fe
+3
+O
+4
+có tính chất truyền dẫn điện tửcao (khả năng hút và giải phóng các ion như Fe
+2+
+và Fe
+3+
+), độ ổn định hóa học và hiệu suất điện hoá vượt trội. Đặc biệt, hạt Fe
+3
+O
+4
+có tương thích sinh học tốt, khả năng hấp phụ các chất hữu cơ như thuốc kháng sinh Chloramphenicol (CAP) trong thực phẩm và chi phí sản xuất thấp. Do đó, hạt nano siêu thuận từ Fe
+3
+O
+4
+được các nhà khoa học quan tâm nghiên cứu trong lĩnh vực cảm biến điện hóa, được biết đến là vật liệu tiềm năng biến tính cho các điện cực làm việc của cảm biến điện hoá. Nội dung nghiên cứu trong đề tài này bao gồm: (1) Hoàn thiện quy trình tổng hợp chế tạo vật liệu nano siêu thuận từ Fe
+3
+O
+4
+, (2) Khảo sát tính chất của vật liệu được chế tạo. (3) Biến tính điện cực làm việc của cảm biến điện hoá bằng vật liệu Fe
+3
+O
+4
+. (4) Nghiên cứu tính chất của cảm biến điện hóa có điện cực làm việc được biến tính bằng vật liệu Fe
+3
+O
+4
+, từ đó xác định tính chọn lọc, độ nhạy, độ phân giải, độ bền của cảm biến trong việc xác định dư lượng thuốc kháng sinh CAP trong các mẫu thực phẩm.

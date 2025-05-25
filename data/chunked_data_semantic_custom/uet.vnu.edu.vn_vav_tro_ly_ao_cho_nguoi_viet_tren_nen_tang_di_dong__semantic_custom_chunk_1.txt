@@ -1,0 +1,10 @@
+Nguồn: uet.vnu.edu.vn_vav_tro_ly_ao_cho_nguoi_viet_tren_nen_tang_di_dong_.txt
+
+Ứng dụng VAV phiên bản 1 ra mắt trên chợ ứng dụng Google Play ngày 18/11/2015
+Anh có thể cho biết Trợ lý ảo VAV có thể giúp gì cho người dùng Việt? VAV là ứng dụng trợ lý ảo dành riêng cho người Việt để giúp người dùng di động có thể giao tiếp với điện thoại của mình bằng các khẩu lệnh một cách tiện dụng nhất có thể. Cụ thể hơn, VAV cho phép người dùng tương tác với smartphone bằng giọng nói hoàn toàn tiếng Việt để thực hiện các tác vụ cần thiết hàng ngày. Với VAV, bạn có thể dễ dàng hẹn chuông báo thức, đặt lịch cho một cuộc họp, bật/tắt định vị, gọi điện, nhắn tin cho ai đó, gọi taxi, mở một ứng dụng trên máy, duyệt web, tìm đường trên bản đồ, tìm cây ATM gần bạn, tra từ điển, tra cứu Wikipedia, hay mở một bản nhạc yêu thích … chỉ đơn giản bằng các mệnh lệnh hay câu hỏi hết sức tự nhiên. Bạn thử tưởng tượng, thay vì phải bật ứng dụng bản đồ Google, tìm chức năng tìm đường và gõ đích đến là “
+144 Xuân Thủy
+” rồi nhấn nút tìm kiếm thì với VAV bạn chỉ cần hỏi “
+tìm đường đến 144 Xuân Thủy
+” hoặc “
+đến 144 Xuân Thủy thì đi thế nào
+”.

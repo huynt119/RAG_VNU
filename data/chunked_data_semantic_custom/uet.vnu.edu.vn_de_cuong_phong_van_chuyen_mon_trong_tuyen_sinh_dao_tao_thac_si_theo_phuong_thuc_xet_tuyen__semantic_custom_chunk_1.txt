@@ -1,0 +1,23 @@
+Nguồn: uet.vnu.edu.vn_de_cuong_phong_van_chuyen_mon_trong_tuyen_sinh_dao_tao_thac_si_theo_phuong_thuc_xet_tuyen_.txt
+
+ĐỀ CƯƠNG PHỎNG VẤN CHUYÊN MÔN TRONG TUYỂN SINH ĐÀO TẠO THẠC SĨ THEO PHƯƠNG THỨC XÉT TUYỂN
+A. CÁC CHUYÊN NGÀNH ĐÀO TẠO THUỘC KHOA CÔNG NGHỆ THÔNG TIN
+Phần I. Đánh giá động cơ và mục đích học tập của thí sinh
+Lý do tiếp tục theo học bậc thạc sĩ theo chuyên ngành đăng ký;
+Lý do chọn Trường Đại học Công nghệ, Khoa Công nghệ Thông tin là địa chỉ học tập bậc thạc sĩ;
+Định hướng nghiên cứu mong muốn được thực hiện trong thời gian học tập bậc thạc sĩ;
+Sự tìm hiểu của thí sinh về nội dung chương trình đào tạo chuyên ngành đăng ký;
+Kinh nghiệm thực tiễn của thí sinh trong quá trình công tác tại các lĩnh vực liên quan đến chuyên ngành dự tuyển;
+Kiến thức, kỹ năng thí sinh đã được trang bị/chuẩn bị cho quá trình học tập bậc thạc sĩ;
+Kiến thức, kỹ năng thí sinh mong muốn được trang bị trong quá trình học và định hướng nghề nghiệp của thí sinh;
+Kế hoạch học tập của thí sinh dự kiến trong thời gian đào tạo để hoàn thành chương trình học đúng hạn (về việc sắp xếp thời gian tham gia học tập theo kế hoạch của Nhà trường, khả năng nghiên cứu khoa học, …). Đánh giá kiến thức, năng lực chuyên môn
+Kiến thức cơ bản, cơ sở
+Hiểu biết kiến thức cơ bản trong lĩnh vực Công nghệ Thông tin, gồm:
+Cấu trúc dữ liệu và giải thuật (các cấu trúc dữ liệu cơ bản, các thuật toán cơ bản như sắp xếp, tìm kiếm, … đánh giá độ phức tạp tuật toán);
+Các nguyên lý cơ bản của lập trình hướng đối tượng (tính đóng gói, kế thừa, đa hình), các quy tắc cơ bản của phong cách lập trình chuyên nghiệp (đặt tên, cấu trúc chương trình, viết câu lệnh, chú thích, bắt và xử lý lỗi);
+Lý thuyết cơ sở dữ liệu (Mô hình thực thể – liên kết (mô hình ER), mô hình quan hệ, các ràng buộc quan hệ, chuyển đổi mô hình ER thành mô hình quan hệ, ngôn ngữ SQL). Các hiểu biết cơ bản liên quan đến định hướng nghiên cứu dự định thực hiện;
+Đánh giá khả năng nhận diện, phân tích vấn đề, giải quyết vấn đề, năng lực tư duy logic, năng lực phản biện của thí sinh. Kiến thức chuyên ngành
+Kiến thức, kỹ năng về chuyên ngành thí sinh mong muốn được trang bị trong quá trình học và định hướng nghề nghiệp của thí sinh;
+Hiểu biết của thí sinh về định hướng nghiên cứu mong muốn, kinh nghiệm thực tiễn của thí sinh trong quá trình công tác tại các lĩnh vực liên quan đến chuyên ngành dự tuyển;
+Các kiến thức mở rộng, xu hướng phát triển, tương lai phát triển của chuyên ngành mà thí sinh đăng ký dự tuyển;
+Đánh giá khả năng nghiên cứu độc lập, phát hiện tố chất có thể phát triển và cần bồi đắp thêm trong quá trình học tập bậc thạc sĩ của thí sinh.

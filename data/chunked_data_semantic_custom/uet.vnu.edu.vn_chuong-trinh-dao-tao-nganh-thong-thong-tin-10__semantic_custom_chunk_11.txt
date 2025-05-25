@@ -1,0 +1,12 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-thong-thong-tin-10_.txt
+
+Khả năng lập luận tư duy và giải quyết vấn đề
+Xác định vấn đề và phạm vi: thu thập dữ liệu và biện minh, hình thành giả thiết và các trường hợp ngoại lệ, xác định đích tổng thể và phân độ ưu tiên theo ngữ cảnh, lên phương án xử lý;
+Mô hình hóa: Xác định giả thiết để đơn giản hóa hệ thống và môi trường phức tạp, xác định cấp độ quy mô, ranh giới các cấp độ và xu hướng chuyển hóa giữa các cấp độ quy mô, kiểm tra tính nhất quán của mô hình hóa và phát hiện lỗi mô hình hóa, tổng quát hóa giải pháp phân tích mô hình hóa;
+Phân tích ước lượng và định lượng: Cấp độ của quy mô, ranh giới giữa các cấp độ, xu hướng chuyển dịch theo các cấp độ quy mô (quan hệ lượng – chất), tính nhất quán và lỗi liên quan tới tính nhất quán, tổng quá hóa giải pháp phân tích;
+Phân tích sự hiện diện của các yếu tố bất định: Thông tin không chắc chắn và sự nhập nhằng, các mô hình thống kê và mô hình dãy sự kiện khả năng, phân tích rủi ro, phân tích chi phí – lợi nhuận, phân tích quyết định và sự phòng ngừa đối với ngoại lệ;
+Kết thúc vấn đề: Giải pháp cho bài toán. Khả năng nghiên cứu và khám phá tri thức
+Nguyên tắc nghiên cứu và điều tra: Các câu hỏi quan trọng cần phải kiểm tra, Giả thiết để kiểm thử, giám sát và nhóm giám sát;
+Điều tra thực nghiệm: Khái niệm và chiến lược thực nghiệm, điều tra xã hội học, xây dựng thực nghiệm và mô tả, kiểm thử và đánh giá kết quả;
+Khảo sát qua tài liệu và thông tin điện tử: Xác định và tìm kiếm thông tin sử dụng thư viện, các công cụ tìm kiếm trực tuyến, Sắp xếp và phân loại thông tin, Độ tin cậy của chất lượng thông tin, các vấn đề mở, trích dẫn tài liệu tham khảo;
+Kiểm thử và bảo vệ giả thiết: Thẩm định thống kê về dữ liệu, nắm bắt và khắc phục hạn chế của dữ liệu thực nghiệm, kết luận về kết quả rút ra từ thực nghiệm và điều tra.

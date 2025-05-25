@@ -1,0 +1,134 @@
+INT1006 Tin học cơ sở 4 (Học kỳ 1, 2017/2018)
+INT1006 6 - INT1006 20 - INT1006 22
+Giảng viên:
+Trần Quốc Long
+(tqlong at vnu.edu.vn)
+Hướng dẫn thực hành: ThS. Vũ Bá Duy, TS. Trần Quốc Long, TS. Ngô Thị Duyên, CN. Nguyễn Đức Cảnh, CN. Nguyễn Minh Trang
+Thời gian
+Lớp INT1006-6
+Lý thuyết (11 tuần)
+:
+13h-15h Thứ 6, phòng 107-G2
+Thực hành (nhóm 1) - từ tuần 2
+:
+7h-10h Thứ 7, phòng máy 405-E3
+Thực hành (nhóm 2) - từ tuần 2
+:
+10h-13h Thứ 7, phòng máy 405-E3
+Thực hành (nhóm 3) - từ tuần 2
+:
+10h-13h Thứ 4, phòng máy 208-G2
+Lớp INT1006-20
+Lý thuyết (11 tuần)
+:
+7h-9h Thứ 4, phòng 303-G2
+Thực hành (nhóm 1) - từ tuần 2
+:
+13h-16h Thứ 4, phòng máy 305-G2
+Thực hành (nhóm 2) - từ tuần 2
+:
+16h-19h Thứ 4, phòng máy 305-G2
+Lớp INT1006-22
+Lý thuyết (11 tuần)
+:
+13h-15h Thứ 4, phòng 304-G2
+Thực hành (nhóm 1) - từ tuần 2
+:
+16h-19h Thứ 5, phòng máy 305-G2
+Thực hành (nhóm 2) - từ tuần 2
+:
+9h-12h Thứ 4, phòng máy 405-E3
+Giờ thảo luận với giảng viên
+10h-11h30 Thứ 4, phòng 315-E3
+Giới thiệu
+Tin học cơ sở 4 (INT1006) là môn học giúp các bạn bắt đầu học cách giải quyết vấn đề bằng máy tính. Chúng ta sẽ sử dụng
+ngôn ngữ C++
+để minh họa các ý tưởng, cách tư duy và các kỹ thuật lập trình.
+Thông báo
+(27/09) CodeHub đã có
+nick đỏ - Bạn Nguyễn Vũ Thịnh
+(15/09) Website bài tập đang có lỗi DNS, các bạn sử dụng link này
+CODEHUB
+(30/08) Chào mừng các bạn đến với Tin học cơ sở 4 (INT1006).
+Tài liệu
+Lập trình cơ bản với C++, Hồ Sỹ Đàm, Lê Sỹ Vinh, Trần Minh Châu
+Slide bài giảng của giáo viên
+Website bài tập
+Các đoạn mã / dự án mẫu
+Hướng dẫn
+Lưu ý
+Sinh viên
+có gian lận trong học tập
+(ví dụ: điểm danh hộ, lấy bài của người khác, ...)
+sẽ bị trượt
+môn học ngay lập tức, không có thi lại hay làm bài lại.
+Nộp bài muộn sẽ
+không được chấp nhận
+. Sinh viên không đi học hay làm bài đầy đủ sẽ không được dự thi cuối kỳ (theo quy chế chung).
+Sinh viên làm các bài tập ở nhà
+. Giờ thực hành chủ yếu dành cho việc trả lời câu hỏi và kiểm tra.
+Đánh giá
+Chuyên cần điểm danh đầy đủ:
+10%
+Thi giữa kỳ:
+30%
+Thi cuối kỳ:
+60%
+Tích cực đóng góp cho bài giảng:
+10%
+Lịch học
+Tuần
+Bài giảng / Tài liệu đọc
+Bài tập về nhà
+Trong buổi thực hành
+1
+: 28/08 - 03/09
+Giới thiệu.
+Website bài tập tuần 1
+Bài tập thực hành tuần 1
+2
+: 04/09 - 10/09
+Kiểu, biến, biểu thức.
+Website bài tập tuần 2
+Bài tập thực hành tuần 2
+3
+: 11/09 - 17/09
+Cấu trúc điều khiển 1 (tuần tự, rẽ nhánh).
+Website bài tập tuần 3
+Bài tập thực hành tuần 3
+4
+: 18/09 - 24/09
+Cấu trúc điều khiển 2 (lặp).
+Website bài tập tuần 4
+Bài tập thực hành tuần 4
+5
+: 25/09 - 01/10
+Mảng: khai báo, truy xuất, duyệt mảng.
+Website bài tập tuần 5
+Bài tập thực hành tuần 5
+6
+: 02/10 - 08/10
+Các thao tác với mảng.
+Website bài tập tuần 6
+Bài tập thực hành tuần 6
+7
+: 09/10 - 22/10
+Ôn tập, củng cố kiến thức.
+Website bài tập tuần 7
+Giảng viên chữa bài tập trên lớp và trong các buổi thực hành
+8
+: 23/10 - 29/10
+Truy xuất tệp văn bản.
+Website bài tập tuần 8
+Thực hành các bài tập truy xuất file trên website bài tập (tuần 8)
+9
+: 30/10 - 11/11
+Con trỏ, tệp nhị phân.
+Website bài tập tuần 8, 9
+Đọc file WAV (xem slide bài giảng)
+10
+: 12/10 - 18/11
+Lập trình sử dụng thư viện, sử dụng lại mã lệnh đã có sẵn.
+Website bài tập tuần 9
+Vẽ sóng âm từ file WAV ra màn hình đồ họa
+(video)

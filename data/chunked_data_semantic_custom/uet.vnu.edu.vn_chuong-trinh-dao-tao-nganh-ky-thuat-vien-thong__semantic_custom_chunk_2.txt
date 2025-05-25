@@ -1,0 +1,64 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-vien-thong_.txt
+
+Danh mục các học phần bổ túc kiến thức:
+STT
+Mã học phần
+Tên học phần
+Số
+tín chỉ
+1
+ELT2033
+Điện tử tương tự
+3
+2
+ELT2034
+Điện tử số
+3
+3
+ELT3044
+Xử lý tín hiệu số
+4
+Tổng
+10
+|
+24/10/2022
+|
+ĐTSĐH
+|
+1194 Views
+Trước
+Chương trình đào tạo ngành Kỹ thuật điện tử
+Sau
+Chương trình đào tạo ngành Kỹ thuật viễn thông
+Bài viết liên quan
+Chương trình đào tạo ngành Vật liệu và linh kiện nano
+Chương trình đào tạo ngành Vật liệu và linh kiện nano
+Chương trình đào tạo ngành Vật liệu và linh kiện nano
+Chương trình đào tạo ngành Khoa học máy tính
+Chương trình đào tạo ngành Khoa học máy tính
+Chương trình đào tạo ngành Kỹ thuật viễn thông
+1. Một số thông tin về chương trình đào tạo
+Tên chuyên ngành đào tạo:
+Tiếng Việt: Kỹ thuật viễn thông
+Tiếng Anh: Communications Engineering
+Mã số chuyên ngành đào tạo:
+60520208
+Tên ngành đào tạo:
+Tiếng Việt: Công nghệ kỹ thuật điện tử, truyền thông
+Tiếng Anh: Electronics and Communications Engineering
+Trình độ đào tạo
+: Thạc sĩ
+Thời gian đào tạo
+: 02 năm
+Tên văn bằng tốt nghiệp:
+Tiếng Việt: Thạc sĩ ngành Công nghệ kỹ thuật điện tử, truyền thông
+Tiếng Anh: The Degree of Master in Electronics and Communications Engineering
+2. Mục tiêu của chương trình đào tạo
+a. Mục tiêu chung
+:
+Chương trình đào tạo thạc sĩ chuyên ngành Kỹ thuật viễn thông nhằm phát triển nguồn nhân lực có trình độ cao, có nền tảng mạnh về khoa học và công nghệ liên quan, có khả năng tự nghiên cứu suốt đời, có khả năng tiếp tục học tập ở bậc đào tạo tiến sĩ tại các cơ sở đào tạo tiên tiến trên thế giới, đóng góp cho sự phát triển quốc gia và kinh tế toàn cầu. b. Mục tiêu cụ thể:
+Về kiến thức:
+Học viên được trang bị các kiến thức chuyên sâu liên quan đến lĩnh vực Kỹ thuật Điện, Điện tử và Viễn thông nói chung và chuyên ngành Kỹ thuật viễn thông nói riêng. Về kỹ năng:
+Học viên được củng cố và thành thục một số kỹ năng về phân tích, thiết kế và mô phỏng hệ thống, kỹ năng thực hành, làm việc theo nhóm, kỹ năng thuyết trình các vấn đề khoa học trong lĩnh vực liên quan. Về năng lực:
+Học viên được trang bị các kiến thức chuyên sâu về chuyên ngành Kỹ thuật viễn thông, đồng thời có khả năng vận dụng thành thục kiến thức đó vào các hoạt động thực tiễn nghề nghiệp; có khả năng làm việc độc lập, có thể tự cập nhật và nâng cao kiến thức thuộc chuyên ngành đào tạo sau khi tốt nghiệp. Về nghiên cứu:
+Học viên được giảng về phương pháp luận nghiên cứu khoa học, được hướng dẫn các cách tiếp cận nghiên cứu, tư duy sáng tạo nhằm phát hiện những điểm mới và hướng giải quyết các vấn đề phát sinh thuộc chuyên ngành Kỹ thuật viễn thông.

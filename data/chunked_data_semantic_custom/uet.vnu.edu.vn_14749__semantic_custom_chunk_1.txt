@@ -1,0 +1,14 @@
+Nguồn: uet.vnu.edu.vn_14749_.txt
+
+2
+Chuyên viên an ninh mạng (5 người)
+– Quản trị, vận hành các hệ thống bảo mật ISP: DDoS Detection&Mitigation, Endpoint Protection, PAM, SIEM, FW, IDS/IPS …;
+– Xây dựng, triển khai các giải pháp đảm bảo ATTT hạ tầng mạng của ISP và dịch vụ khách hàng;
+– Phát triển các sản phẩm dịch vụ, giải pháp về ATTT trên hạ tầng ISP cho khách hàng;
+– Đánh giá bảo mật hệ thống ứng dụng, rà quét lỗ hổng, triển khai giải pháp khắc phục;
+– Rà soát, phân tích mã độc; điều tra, xử lý, ứng cứu sự cố mã độc. – Hiểu biết về các giao thức mạng: TCP/IP, DNS, SMTP, BGP…
+– Hiểu biết về bảo mật mạng, bảo mật hệ thống máy chủ, bảo mật ứng dụng …
+– Hiểu biết về lỗ hổng ATTT, các kỹ thuật tấn công, khai thác lỗ hổng ATTT
+-Kiến thức về các giải pháp ATTT: SIEM, Firewall, IDS/IPS, DDOS…
+– Hiểu biết về dịch ngược, phân tích, điều tra xử lý mã độc; Audit, pentest các ứng dụng web; tấn công, khai thác lỗ hổng bảo mật hệ thống và ứng dụng; điều tra xử lý mã độc. – Kiến thức đánh giá điểm yếu và kiểm thử xâm nhập: Web acrunetix, Rapid7, Metasploit, Burpsuite…
+– Thành thạo một trong các ngôn ngữ lập trình: Java, C#, C/C++, Python, php.

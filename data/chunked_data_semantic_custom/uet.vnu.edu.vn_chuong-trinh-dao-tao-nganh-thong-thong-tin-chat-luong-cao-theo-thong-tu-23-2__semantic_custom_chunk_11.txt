@@ -1,0 +1,11 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-thong-thong-tin-chat-luong-cao-theo-thong-tu-23-2_.txt
+
+Tích hợp kế hoạch chiến lược phát triển với kế hoạch HTTT;
+–         Quản lý dữ liệu và thông tin: quản lý HTTT (bao gồm cả việc quản lý, điều hành, và đảm bảo cơ sở hạ tầng CNTT) hoạt động liên tục trong tổ chức;
+–         Phân tích và thiết kế hệ thống (Phân tích thỏa hiệp: trade-offs): thiết kế và so sánh các giải pháp, tìm nguồn cung ứng cho các phương án (giải pháp) thay thế; Thiết kế và thi hành giải pháp HTTT: tích hợp trong thiết kế và thi hành giải pháp tích hợp mạnh với yếu tố kinh doanh đạt hiệu suất cao;
+–         Quản lý dự án HTTT: Chuẩn quản lý dự án, các khái niệm, vòng đời dự án, mười vùng tri thức quản lý (tích hợp, phạm vi, thời gian, chi phí, chất lượng, tài nguyên con người, truyền thông, rủi ro, mua sắm, bên liên quan) và 49 quy trình quản lý dự án;
+–         Kiến trúc doanh nghiệp: Khung kiến trúc doanh nghiệp, mô hình dữ liệu doanh nghiệp, kiến trúc hướng dịch vụ, tích hợp dịch vụ, quản lý rủi ro, quản lý nội dung, quản trị hệ thống, …;
+–         Khai thác và sử dụng tri thức người dùng: Các yếu tố ảnh hưởng đến trải nghiệm người dùng, Kinh nghiệm người dùng trong ngữ cảnh thiết kế, tích hợp vấn đề an ninh và kinh nghiệm người dùng, …;
+–         Thực tập về quản lý dự án: Kiến thức, kỹ năng (cứng và mềm) về quản lý dự án trong thực tiễn;
+–          Kiến thức miền ứng dụng (doanh nghiệp và ngân hàng, dịch vụ công và giáo dục, chăm sóc sức khỏe, hoạt động phi lợi nhuận, …); Mô hình tổng quát cho miền ứng dụng (chẳng hạn như đối với miền ứng dụng kinh doanh: mô hình kinh doanh, thiết kế và quản lý quy trình kinh doanh, lý thuyết tổ chức, chiến lược kinh doanh); Đặc tả cốt lõi về miền ứng dụng (chẳng hạn, miền ứng dụng kinh doanh: tài chính, kế toán, tiếp thị, khoa học dịch vụ, hành vi tổ chức, luật kinh doanh); Đo lường đánh giá hiệu suất đối với miền ứng dụng (chẳng hạn như đối với miền ứng dụng kinh doanh: phân tích hiệu năng của tổ chức, phân tích hiệu năng của cá nhân và đội, phân tích kinh doanh, thông minh kinh doanh, các độ đo liên quan); Kiến thức Tích hợp dịch vụ và quản lý dữ liệu lớn, Khoa học dữ liệu và phân tích kinh doanh;
+–          Khóa luận tốt nghiệp: Nghiên cứu và đề xuất mô hình, giải pháp và thi hành các bài toán thời sự của HTTT ở quy mô phù hợp.

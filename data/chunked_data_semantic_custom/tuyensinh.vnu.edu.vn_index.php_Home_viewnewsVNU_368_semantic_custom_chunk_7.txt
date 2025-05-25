@@ -1,0 +1,127 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_368.txt
+
+Thông tin về ngành/nhóm ngành, chỉ tiêu, tổ hợp xét tuyển
+TT
+Mã trường
+Mã xét tuyển
+Tên nhóm ngành
+Tên ngành/chương trình đào tạo
+Chỉ tiêu
+(
+Dự kiến
+)
+Tổ hợp môn xét tuyển 1
+Tổ hợp môn xét tuyển 2
+Tổ hợp môn xét tuyển 3
+Theo KQ thi THPT QG
+Theo phương thức khác
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+I
+CÁC CHƯƠNG TRÌNH ĐÀO TẠO CHUẨN
+1
+QHI
+CN1
+Công nghệ thông tin
+Công nghệ thông tin
+180
+70
+A00
+A01
+Công nghệ thông tin định hướng thị trường Nhật Bản
+55
+5
+Mạng máy tính và truyền thông dữ liệu
+57
+3
+2
+QHI
+CN2
+Máy tính và Robot
+Kỹ thuật máy tính
+97
+3
+Kỹ thuật Robot
+58
+2
+3
+QHI
+CN3
+Vật lý kỹ thuật
+Kỹ thuật năng lượng
+58
+2
+Vật lý kỹ thuật
+58
+2
+4
+QHI
+CN4
+Cơ kỹ thuật
+78
+2
+5
+QHI
+CN5
+Công nghệ kỹ thuật xây dựng
+98
+2
+6
+QHI
+CN7
+Công nghệ Hàng không vũ trụ
+58
+2
+7
+QHI
+CN11
+Kỹ thuật điều khiển và tự động hóa
+57
+3
+8
+QHI
+CN10
+Công nghệ nông nghiệp
+58
+2
+A00
+A01
+B0
+0
+II
+CÁC CHƯƠNG TRÌNH ĐÀO TẠO CHẤT LƯỢNG CAO ĐÁP ỨNG THÔNG TƯ 23 CỦA BỘ GDĐT
+9
+QHI
+CN6
+Công nghệ kỹ thuật cơ điện tử
+113
+7
+A00
+(Toán, Lý) hệ số 2
+A01
+(Toán, Tiếng Anh) hệ số 2
+10
+QHI
+CN8
+Công nghệ thông tin (CLC theo TT23)
+Khoa học Máy tính
+115
+35
+Hệ thống thông tin
+57
+3
+11
+QHI
+CN9
+Công nghệ kỹ thuật điện tử - viễn thông
+113
+7
+Tổng
+: 1.460 chỉ tiêu
+1.310
+150
+IV.

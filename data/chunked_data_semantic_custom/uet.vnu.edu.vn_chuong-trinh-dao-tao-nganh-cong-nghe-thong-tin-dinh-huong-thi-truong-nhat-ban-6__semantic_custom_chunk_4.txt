@@ -1,0 +1,23 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-thong-tin-dinh-huong-thi-truong-nhat-ban-6_.txt
+
+1.1.2  Kiến thức theo lĩnh vực
+Trình bày được các kiến thức cơ bản về vật lý; Trình bày được các hiện tượng và quy luật vật lý và các ứng dụng liên quan trong khoa học kỹ thuật và đời sống;
+Trình bày được các kiến thức cơ bản liên quan đến Toán;
+1.1.3  Kiến thức theo khối ngành
+Vận dụng được các kiến thức liên quan đến cấu trúc dữ liệu về mảng, danh sách liên kết, hàng đợi, ngăn xếp, cây nhị phân, bảng băm;
+Vận dụng được các thuật toán cơ bản liên quan đến sắp xếp, tìm kiếm và các thuật toán khác trên các cấu trúc dữ liệu;
+Vận dụng được các khái niệm cơ bản của lý thuyết xác suất;
+Vận dụng được các kiến thức cơ bản về Toán rời rạc để xây dựng các thuật toán, tối ưu các giải pháp trong công nghệ. 1.1.4  Kiến thức theo nhóm ngành
+Vận dụng thành thạo các kiến thức và kỹ thuật cơ bản của một số ngôn ngữ lập trình thủ tục và hướng đối tượng thông dụng;
+Giải thích được cơ chế hoạt động chung của hệ thống máy tính, các bộ phận, cấu trúc của máy tính; vận dụng được các nguyên lý cơ bản chung hệ điều hành của máy tính;
+Vận dụng được các khái niệm cơ bản về mạng máy tính, các bộ phận, các giao thức, cách thức truyền dữ liệu trên mạng;
+Vận dụng được các khái niệm về cơ sở dữ liệu trong hệ thống, các phương pháp xây dựng và tối ưu hóa cơ sở dữ liệu của hệ thống;
+Vận dụng được các khái niệm chung về quy trình phát triển phần mềm, các kỹ thuật xây dựng một hệ thống phần mềm có chất lượng. 1.1.5  Kiến thức ngành
+Vận dụng được phương pháp cập nhật các kiến thức về công nghệ hiện đại trong ngành CNTT nói chung và tại Nhật Bản;
+Vận dụng được các kiến thức về phân tích thiết kế để xây dựng yêu cầu, tiến hành phân tích và thiết kế các hệ thống phần mềm theo quy trình phù hợp với thị trường Nhật Bản;
+Vận dụng được các kiến thức về văn hóa doanh nghiệp CNTT Nhật Bản vào thực tế;
+Xây dựng được cơ sở dữ liệu cho hệ thống, sử dụng được các công cụ để quản trị các hệ cơ sở dữ liệu;
+Vận dụng được các kiến thức và kỹ thuật trong xây dựng các ứng dụng trên môi trường web và điện thoại thông minh;
+Trình bày được tổng thể về kiến trúc ứng dụng, kiến trúc tích hợp, kiến trúc hạ tầng; làm chủ kiến thức về quản lý dự án và dịch vụ CNTT;
+Trình bày được sự quan trọng của các kiến thức bổ trợ từ các ngành khác liên quan đến CNTT;
+Vận dụng được các kiến thức, kỹ thuật từ cơ bản đến chuyên sâu và các công nghệ mới trong ngành CNTT trong xử lý dữ liệu, phát triển các phần mềm, tích hợp dịch vụ, bảo đảm chất lượng và an toàn, an ninh cho hệ thống.

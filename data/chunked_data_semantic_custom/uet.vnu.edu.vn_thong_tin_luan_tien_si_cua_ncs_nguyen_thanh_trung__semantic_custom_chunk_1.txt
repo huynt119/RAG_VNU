@@ -1,0 +1,6 @@
+Nguồn: uet.vnu.edu.vn_thong_tin_luan_tien_si_cua_ncs_nguyen_thanh_trung_.txt
+
+Tóm tắt các
+kết quả mới
+của luận án: luận án có hai đóng góp chính
+1) Kết hợp được bộ lọc truyền thống (khử nhiễu hiệu quả ở vùng đồng nhất) và khử nhiễn dựa trên biểu diễn thưa để khử nhiễu ảnh CT liều thấp hiệu quả trong khi bảo toàn tốt các chi tiết ảnh nhỏ có thể mang thông tin y học quan trọng. 2) Xuất phát từ mạng CNN khử nhiễu cho loại ảnh không phải ảnh CT liều thấp và dữ liệu các cặp ảnh {CT liều thấp, CT liều thường}, áp dụng hàm mất mát phù hợp, phương án sử dụng dữ liệu phù hợp, cấu trúc mạng phù hợp để khử nhiễu ảnh CT liều thấp hiệu quả cao. Kết quả nghiên cứu cho thấy việc ứng dụng CNN vào khử nhiễu ảnh CT liều thấp có thể giúp giảm liều lượng phóng xạ xuống 25%  so với liều lượng tiêu chuẩn mà chất lượng hình ảnh gần như không thay đổi. Khả năng ứng dụng trong thực tiễn: Có thể ứng dụng trong nâng cao chất lượng hình ảnh CT phục vụ chẩn đoán. Những hướng nghiên cứu tiếp theo: Nghiên cứu phát triển mô hình tích hợp được các kiến thức về giải phẫu và bệnh lý học của các chuyện gia y tế vào việc huấn luyện mạng CNN khử nhiễu ảnh CT liều thấp.

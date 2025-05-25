@@ -1,0 +1,13 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-truyen-du-lieu-va-mang-may-tinh-2_.txt
+
+b. Kiến thức cơ sở và chuyên ngành
+Làm chủ kiến thức chuyên ngành, có thể đảm nhiệm công việc của chuyên gia trong lĩnh vực được đào tạo; có tư duy phản biện; có kiến thức lý thuyết chuyên sâu để có thể phát triển kiến thức mới và tiếp tục nghiên cứu ở trình độ tiến sĩ; có kiến thức tổng hợp về pháp luật, quản lý và bảo vệ môi trường liên quan đến lĩnh vực Máy tính và công nghệ thông tin nói chung cũng như lĩnh vực mạng và truyền thông máy tính nói riêng;
+Hiểu và vận dụng được các khái niệm cơ bản về mạng máy tính, các bộ phận, các giao thức, cách thức truyền dữ liệu trên mạng;
+Hiểu và vận dụng được các khái niệm về cơ sở dữ liệu trong hệ thống, các phương pháp xây dựng và tối ưu hóa cơ sở dữ liệu của hệ thống;
+Hiểu và vận dụng các khái niệm chung về quy trình phát triển phần mềm, các kỹ thuật xây dựng một hệ thống phần mềm có chất lượng. Hiểu và vận dụng các khái niệm chung liên quan đến kiến thức về các lĩnh vực cơ bản của Công nghệ thông tin như Trí tuệ nhân tạo, Tương tác người máy, Mật mã và an toàn dữ liệu,…
+Hiểu và vận dụng được các kiến thức liên quan đến Truyền dữ liêu và mạng máy tính. Biết cách cập nhật các kiến thức hiện đại trong chuyên ngành Truyền dữ liệu và mạng máy tính. Biết và vận dụng các kỹ thuật, các công nghệ mới trong ngành Công nghệ thông tin, ứng dụng trong phát triển các hệ thống mạng;
+Có thể đọc hiểu được các tài liệu tiếng Anh chuyên ngành;
+Hiểu và vận dụng được các kiến thức nâng cao trong chuyên ngành Truyền dữ liệu và Mạng máy tính như An ninh mạng, Quản trị mạng, Lập trình mạng, Truyền thông không dây và di động, Các hệ thống phân tán, Thiết kế và phân tích các giao thức mạng, …
+c. Yêu cầu đối với luận văn
+Tổng hợp, vận dụng các kiến thức chuyên môn để nghiên cứu, xây dựng sản phẩm phục vụ cho mục đích khoa học và đời sống;
+Biết trình bày ‎ý tưởng nghiên cứu, trình bày sản phẩm dưới dạng một báo cáo khoa học.

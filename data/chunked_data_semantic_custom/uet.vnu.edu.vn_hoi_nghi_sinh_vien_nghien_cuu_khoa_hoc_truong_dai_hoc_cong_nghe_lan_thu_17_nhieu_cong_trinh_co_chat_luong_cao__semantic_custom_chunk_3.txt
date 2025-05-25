@@ -1,0 +1,172 @@
+Nguồn: uet.vnu.edu.vn_hoi_nghi_sinh_vien_nghien_cuu_khoa_hoc_truong_dai_hoc_cong_nghe_lan_thu_17_nhieu_cong_trinh_co_chat_luong_cao_.txt
+
+Nguyễn Trọng Sơn
+Hoàng Văn Đức
+K63-XD
+K64-XD
+3
+Ứng dụng phần mềm Seep/W phân tích thấm dưới nền công trình
+Vũ Trung Kiên
+K64-XD
+VI
+KHOA CÔNG NGHỆ NÔNG NGHIỆP
+1
+Nghiên cứu ảnh hưởng của từ trường nam châm vĩnh cửu lên sinh trưởng và phát triển của cây hoa đồng tiền và cây hoa dạ yến thảo có nguồn gốc nuôi cấy mô
+Nguyễn Thị Hồng
+Nguyễn Hữu Miện
+Nguyễn Thế Ngọc
+Phượng
+K64-AG
+K64-AG
+K64-AG
+2
+Nghiên cứu ảnh hưởng của từ trường nam châm vĩnh cửu lên quá trình sinh trưởng và phát triển của cây sắn nuôi cấy mô
+Dương Kim Trung
+Hoàng Thị Hồng Nga
+Lê Tiến Vượng
+K64-AG
+K64-AG
+K64-AG
+3
+Nghiên cứu, ứng dụng công nghệ IoT cho hệ thống nhà trồng lan
+Nguyễn Thành Long
+Trương Thành Huy
+Lê Ngọc Toản
+K64-AG
+K62-M3
+K64-ĐA-CLC2
+4
+Nghiên cứu chế tạo hạt nano bạc chitosan và thử nghiệm hoạt tính
+in-vitro
+với vi khuẩn gây bệnh bạc lá trên cây lúa
+Lê Trọng Đức
+Nguyễn Thị Phương Huê
+Lê Thị Vân
+K64-AG
+K64-AG
+K65-AG
+VII
+KHOA CÔNG NGHỆ THÔNG TIN
+1
+Bài toán phát hiện tin giả trên mạng xã hội tiếng Việt
+Phạm Ngọc Đông
+Vương Thành Toàn
+Lê Thị Hạnh
+Đỗ Thành Đạt
+K62-CC
+K63-J
+K63-T
+K65-CC
+2
+Nhận dạng người ảnh hưởng trên mạng xã hội sử dụng tiếp cận đồ thị
+Cao Cẩm Nhung
+Ngô Doãn Thịnh
+Trần Đức Anh
+Ngô Xuân Bách
+Nguyễn Tiến Đạt
+K63-CA-CLC3
+K63-CA-CLC3
+K63-CA-CLC3
+K64-CA-CLC2
+K63-CA-CLC3
+3
+A new constraint programming model and a linear programming-based adaptive large neighborhood search for the vehicle routing problem with synchronization constraints
+Nguyễn Tất Đạt
+K63-CACLC1
+4
+Phương pháp sinh dữ liệu Kiểm thử tự động cho con trỏ void và con trỏ hàm trong các thư viện và dự án nhúng C/C++
+Nguyễn Tùng Lâm
+K62-C-CLC
+5
+Gợi ý tham số cho API dựa trên phân tích mã nguồn và mô hình ngôn ngữ
+Trần Mạnh Cường
+Nguyễn Minh Tân
+Trần Trung Kiên
+K62-CLC
+K63-CA-CLC2
+K63-CA-CLC2
+6
+Cải tiến hệ thống dịch máy ít tài nguyên cho cặp ngôn ngữ tiếng Trung – tiếng Việt
+Nguyễn Hoàng Minh Công
+K62-J
+7
+Aspect-oriented Vietnamese E-commerce sentiment analysis
+Lê Thị Phương
+Lê Minh Bình
+Trần Khánh Hùng
+Bùi Khánh Huyền
+K63-CA-CLC2
+K63-CA-CLC1
+K64-CA-CLC2
+K64-CA-CLC1
+8
+Chuẩn hoá văn bản mạng xã hội
+Nguyễn Hải Long
+Nguyễn Thị Minh
+Tâm
+Lưu Hoài Linh
+K63-CA-CLC3
+K63-CA-CLC3
+K62-CA-CLC2
+9
+Các mô hình học sâu tiên tiến cho bài toán xác định khía cạnh trên dữ liệu bình luận của các trang thương mại điện tử Việt Nam
+Nguyễn Ngọc Tú
+Hà Đông Giang
+Nguyễn Trọng Đạt
+K63-CA-CLC3
+K64-CA-CLC4
+K64-CA-CLC3
+10
+Các mô hình phân lớp khía cạnh giải quyết vấn đề mất cân bằng của dữ liệu bình luận trên các trang thương mại điện tử Việt Nam
+Công Minh Sơn
+Đàm Tuấn Minh
+Nguyễn Thị Quyên
+Phương Anh Mỹ
+K63-CA-CLC3
+K63-CA-CLC3
+K63-CA-CLC3
+K63-CA-CLC3
+11
+Multi-Answer Summarization for the biomedical question and answer system
+Nguyễn Quốc An
+Dương Quốc Hưng
+Nguyễn Huy Sơn
+Nguyễn Minh Quang
+K63-CA-CLC2
+K63-CA-CLC2
+K63-CA-CLC3
+K64-C-CLC
+12
+Nghiên cứu song song hóa thuật toán MPBoot để phân tích dữ liệu COVID-19
+Phạm Tuấn Nghĩa
+K63-CQ-CE
+13
+Tính toán thông minh cho bài toán tìm motif DNA
+Đỗ Hoàng Khánh
+Nguyễn Tuấn Hoàng
+Đào Quang Thái
+Dương
+K62-CA-C
+K65-CB
+14
+Phân loại quan hệ giữa các thực thể trong văn bản y sinh học sử dụng mô hình Long Short – Term Memory trên đồ thị
+Đào Quang Huy
+Ngô Đức Huy
+Nguyễn Trần Anh
+Đức
+Nguyễn Anh Đức
+K62-C-E
+K63-C-CLC
+K64-C-CLC
+K64-C-CLC
+– Đăng Hoàng (UET-News)
+|
+10/05/2021
+|
+Tin Tổng Hợp
+|
+Tags:
+nghiên cứu khoa học
+,
+sinh viên nghiên cứu
+3996 Views

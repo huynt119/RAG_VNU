@@ -1,0 +1,6 @@
+Nguồn: uet.vnu.edu.vn_event_che_tao_robot_thuc_chien_trai_nghiem_thu_vi_cua_sinh_vien_uet_tai_truong_dai_hoc_cong_nghe_chiba_nhat_ban_.txt
+
+Ken Tomiyama (áo vàng) – Trung tâm nghiên cứu robot tương lai (Furo) hướng dẫn các đội thiết kế, chế tạo robot đá bóng
+Sau 5 ngày tập trung chế tạo và lập trình thi đấu cho các robot, các đội sinh viên 2 trường UET và CIT tiến hành thi đấu với nhau, để chọn ra 01 đội có thành tích tốt nhất thi đấu chung kết với đội các học viên cao học, giảng viên phòng thí nghiệm robot. Bên cạnh việc thiết kế và chế tạo sao cho các robot có khả năng linh hoạt nhất thì các thành viên trong đội còn cần phải phối hợp với nhau nhịp nhàng và ăn ý để có thể điều khiển robot tấn công và phòng thủ trong khi thi đấu. Các đội tham gia thi đấu robot đá bóng
+Lần đầu tiên được trải nghiệm môi trường đào tạo và nghiên cứu tại Nhật Bản, sinh viên Dương Nhật Minh, QH-2022, ngành Công nghệ kỹ thuật điện tử – viễn thông chia sẻ: “
+Đây là lần đầu tiên em có cơ hội xây dựng và thiết kế một Robot hoàn chỉnh, vì vậy em cảm thấy rất háo hức khi được học tập thêm kiến ​​thức mới và trau dồi các kỹ năng, làm việc với một số máy móc chuyên dụng để thiết kế và chế tạo Robot. Trong quá trình chế tạo robot, chúng em được hướng dẫn bởi các thực tập sinh tại các phòng lap của CIT.

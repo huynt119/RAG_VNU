@@ -1,0 +1,27 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_379.txt
+
+Sinh viên được đào tạo theo nguyên tắc “học bằng làm”, được thực hành tại các phòng thí nghiệm công nghệ tiên tiến và Trung tâm thực nghiệm Nông nghiệp thông minh. Các định hướng đào tạo:
+Nông nghiệp kỹ thuật số
+Công nghệ sinh học nông nghiệp
+Vị trí việc làm sau khi ra trường:
+Kỹ sư công nghệ nông nghiệp kỹ thuật số tại các doanh nghiệp sản xuất, kinh doanh và sử dụng các thiết bị nông nghiệp công nghệ cao: chuyên thiết kế, chế tạo, lập trình, lắp đặt, vận hành hệ thống và thiết bị nông nghiệp công nghệ cao dựa trên nền tảng kỹ thuật điều khiển, công nghệ thông tin và truyền thông. Kỹ sư công nghệ sinh học nông nghiệp
+sử dụng các công nghệ cao để
+nhân giống, trồng cây trong vườn ươm,
+chuyển giao công nghệ,
+tạo các chế phẩm sinh học nông nghiệp công nghệ mới, bảo quản chế biến nông sản, kiểm định chất lượng nông sản. Cán bộ quản lý
+dự án nông nghiệp công nghệ cao
+,
+cán bộ quản lý và tư vấn chính sách về nông nghiệp công nghệ cao ở các sở/ bộ Khoa học Công nghệ và sở/bộ Nông nghiệp và phát triển nông thôn. Nghiên cứu viên và giảng viên về lĩnh vực công nghệ và công nghệ nông nghiệp trong các cơ sở giáo dục và cơ sở nghiên cứu về nông nghiệp và công nghệ. Khởi nghiệp đổi mới sáng tạo trong lĩnh vực công nghệ và công nghệ nông nghiệp. Các vị trí khác liên quan đến lĩnh vực Công nghệ thông tin, điện tử viễn thông, điều khiển tự động và  Công nghệ sinh học
+Một số đặc trưng nền nông nghiệp thông minh (nông nghiệp công nghệ cao, nông nghiệp kỹ thuật số):
+Số hóa các hoạt động sản xuất kinh doanh từ trang trại, vận chuyển, chế biến, marketing và tiêu dùng thông qua hệ thống IoT;
+Sử dụng kết hợp các công nghệ điều hành, điều khiển, công nghệ vật liệu và công nghệ sinh học trong tổ chức trang trại;
+. Tự động hóa và thông minh hóa các hệ thống điều hành hoạt động trong chuỗi giá trị thực phẩm nông sản từ nông trại đến bàn ăn để đảm bảo cho chuỗi thực phẩm nông sản diễn ra liên tục hiệu quả và bền vững. Ví dụ công việc cụ thể như:
+Trong trồng trọt: - thiết kế điều khiển tự động hệ thống nhà lưới, lập trình điều khiển tự động các hệ thống tưới nước và cung cấp phân bón cho cây trong nhà lưới bằng smartphone tùy theo nhiệt độ, độ ẩm môi trường và nhu cầu của cây trồng,
+thiết kế chế tạo cảm biến nhiệt độ, độ ẩm, dinh dưỡng,
+chế tạo phân bón thông minh, bảo vệ thực vật;
+nhân giống các cây trồng cho các loại đối tượng có giá trị kinh tế cao như: rau, hoa, cây giống, nấm ăn và nấm dược liệu. Trong chăn nuôi và thủy sản: gắn thiết bị cảm biến lên từng vật nuôi để theo dõi, thu thập và xử lý dữ liệu để đưa ra khuyến cáo; xử lý chuồng trại, môi trường bằng công nghệ cao
+Trong khuyến nông: số hóa các thông tin về giá, đặc điểm các loại nông sản, kỹ thuật trong trồng trọt, chăn nuôi, các thông tin về dịch hại, quản lý thông tin qua IoTs và cung cấp cho nông dân thông tin qua di động để giảm thiểu vấn đề được mùa mất giá;
+Trong khâu marketing và tiêu thụ: marketing trực tuyến, truy xuất nguồn gốc trực tuyến
+Trong chăn nuôi và thủy sản: gắn thiết bị cảm biến lên từng vật nuôi để theo dõi, thu thập và xử lý dữ liệu để đưa ra khuyến cáo; xử lý chuồng trại, môi trường bằng công nghệ cao
+Trong quản lý nông nghiệp: làm các phần mềm quản lý kết hợp quản trị, công nghệ quản lý chuỗi thực phẩm nông sản thông minh, ứng dụng phân tích dữ liệu lớn và điện toán đám mây giúp giám sát, quản lý nông nghiệp chính xác và hiệu quả hơn
+Trong quản lý môi trường nông nghiệp: ứng dụng công nghệ viễn thám để theo dõi môi trường, cảnh báo sớm thiên tai, giảm rủi ro cho sản xuất nông nghiệp.

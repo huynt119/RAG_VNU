@@ -1,0 +1,195 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-may-tinh-7_.txt
+
+Khung chương trình đào tạo
+Số
+TT
+Mã
+số
+Học phần
+Số tín chỉ
+Số
+giờ tín chỉ
+M
+ã Học phần
+tiên quyết
+Lý thuyết
+Thực hành
+Tự học
+I
+Khối kiến thức chung
+(
+không tính các Học phần từ 10-12
+)
+29
+1
+PHI1004
+Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin 1
+Fundamental principles  of Marxism-Leninism 1
+2
+24
+6
+2
+PHI1005
+Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin 2
+Fundamental  principles of Marxism-Leninism 2
+3
+36
+9
+PHI1004
+3
+POL1001
+Tư tưởng Hồ Chí Minh
+Ho Chi Minh Ideology
+2
+20
+10
+PHI1005
+4
+HIS1002
+Đường lối cách mạng của Đảng Cộng sản Việt Nam
+The revolutionary  Line of the Communist Party of Vietnam
+3
+42
+3
+PHI1005
+5
+INT1003
+Tin học cơ sở 1
+Introduction to IT 1
+2
+10
+20
+6
+INT1006
+Tin học cơ sở 4
+Introduction to IT 4
+3
+20
+23
+2
+INT1003
+7
+FLF2101
+Tiếng Anh cơ sở 1
+General English 1
+4
+16
+40
+4
+8
+FLF2102
+Tiếng Anh cơ sở 2
+General English 2
+5
+20
+50
+5
+FLF2101
+9
+FLF2103
+Tiếng Anh cơ sở 3
+General English 3
+5
+20
+50
+5
+FLF2102
+10
+Giáo dục thể chất
+Physical Education
+4
+11
+Giáo dục quốc phòng – an ninh
+National Defence Education
+8
+12
+Kỹ năng bổ trợ
+Soft Skills
+3
+II
+Khối kiến thức theo lĩnh vực
+16
+13
+MAT1093
+Đại số
+Algebra
+4
+45
+15
+14
+MAT1041
+Giải tích 1
+Calculus 1
+4
+45
+15
+15
+MAT1042
+Giải tích 2
+Calculus 2
+4
+45
+15
+MAT1041
+16
+EPN1095
+Vật lý đại cương 1
+General Physics 1
+2
+30
+17
+EPN1096
+Vật lý đại cương 2
+General Physics  2
+2
+30
+III
+Khối kiến thức
+theo
+khối ngành
+(Công nghệ Thông tin và Công nghệ Điện tử – Viễn thông)
+9
+III
+.1
+Các học phần bắt buộc
+6
+18
+ELT2035
+Tín hiệu và hệ thống
+Signals and systems
+3
+45
+MAT1093
+19
+INT2203
+Cấu trúc dữ liệu và giải thuật
+Data structure and algorithms
+3
+30
+15
+INT1006
+III
+.2
+Các học phần tự chọn
+3/6
+20
+ELT2029
+Toán trong Công nghệ
+Engineering Mathematics
+3
+45
+MAT1093
+21
+MAT1101
+Xác suất thống kê
+Probability and Statistics
+3
+45
+MAT1041
+IV
+Khối kiến thức
+theo
+nhóm ngành
+38
+IV
+.

@@ -1,0 +1,111 @@
+Le Sy Vinh
+Personal information
+Office:
+Department of Computer Science
+University of Engineering and Technology
+Vietnam National University, Hanoi
+306-E3, 144 Xuan Thuy, Cau Giay,
+Hanoi
+Phone:
+04 37547812
+Email:
+vinhls@vnu.edu.vn
+;
+vinhbio@gmail.com
+Teaching
+·
+Data
+structures and algorithms
+·
+Advanced
+programming languages
+·
+Bioinformatics
+·
+Advanced
+topics in Computer Sciences
+Reseaches
+·
+Bioinformatics
+·
+Natural Languages processing
+·
+Social networks
+Projects:
+·
+Bioinformatics tools and applications (granted
+by Ministry of Science and Technology)
+·
+Amino acid substitution modeling (granted by
+Nafosted)
+·
+Trends analysis (granted by Ministry of Science
+and Technology)
+Publications:
+1.
+Dang Cao Cuong, Vincent Lefort, Le Sy
+Vinh, Le Si Quang, Olivier Gascuel,
+ReplacementMatrix: a Web Server for
+Maximum Likelihood Estimation of Amino Acid Replacement Rate Matrices,
+Bioinformatics, 2011 (ISI).
+2.
+FLU,
+an amino acid substitution model for influenza proteins,
+Cuong Cao Dang
+,
+Quang Si Le
+,
+Olivier Gascuel
+and
+Vinh Sy Le
+,
+BMC
+Evolutionary Biology
+2011,
+10:
+99 (ISI).
+Le Sy Vinh, Andrea Fuehrer, Arndt von Haeseler, Random tree puzzle
+     leads to Yule Harding distribution, Molecular Biology and Evolution,
+     28:873-877, 2010 (ISI).
+Dang Cao Cuong, Le Sy Vinh,
+Olivier Gascuel, Le Si Quang, Flu, an
+     amino acid substitution model for Influenza proteins, BME Evolutionary
+     Biology, 10:99, 2010
+(ISI)
+.
+Andres Varon, Le Sy Vinh, Ward Wheeler,
+POY
+     version 4: phylogenetic analysis using dynamic homologies, Cladistics,
+     26:72-85, 2010 (
+ISI)
+.
+Michael Tillich
+,
+Vinh Le Sy
+,
+Katrin Schulerowitz
+,
+Arndt von Haeseler
+,
+Uwe G Maier
+and
+Christian
+     Schmitz-Linneweber
+,
+     Frequent Losses and a Rare Gain of Chloroplast RNA Editing Sites in Seed
+     Plants,
+BME Evolutionary Biology, 9:210, 2009
+(ISI)
+.
+Le Sy Vinh, Arndt von Haeseler, Bookreview on “Computational
+     Molecular Biology by Ziheng Yang Oxford University Press, Oxford,
+     Systematic Biology, 56:1024-1026, 2007 (ISI).
+Bui Quang Minh, Le Sy Vinh, Arndt von Haeseler, pIQPNNI-Parallel
+     reconstruction of large maximum likelihood phylogenies, Bioinformatics,
+     21:3794-3796 (ISI).
+Le Sy Vinh, Arndt von Haeseler, Shortest triplet clustering:
+     reconstructing large phylogenies using representative sets, BMC
+     Bioinformatics, 6:92, 2005 (ISI).
+Le Sy Vinh, Arndt von Haeseler, IQPNNI: moving fast through tree
+     space and stopping in time,
+Molecular Biology and Evolution, 21:1565-1571, 2004 (ISI).

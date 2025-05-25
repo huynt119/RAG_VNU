@@ -1,0 +1,1105 @@
+First name(s) / Surname(s)
+Thanh T.N. Nguyen
+Address(es)
+University of Engineering and
+Technology, Vietnam National University Hanoi (VNU UET).
+408, E3, 144 Xuan Thuy,
+Cau
+Giay
+, Hanoi, Vietnam
+Telephone(s)
++84 908 201 880
+E-mail
+thanhntn@vnu.edu.vn
+Nationality
+Vietnamese
+Google Scholar
+Nguyen
+Thi
+Nhat
+Thanh - Google
+Scholar
+EDUCATION
+January 2009 - March 2012:
+PhD in Mathematics and Computer Science, University of
+Ferrara, Italy
+December 2002 - March 2005:
+MSc in Information Technology,
+Vietnam National University, Hanoi
+September 1997 - June 2001:
+BSc in Information Technology,
+Vietnam National University, Hanoi
+WORKING
+EXPERIENCE
+June, 2018-present:
+Assoc.
+Proffesor
+, University of Engineering
+and Technology, Vietnam National University Hanoi, E3,144
+XuanThuy
+,
+Cau
+Giay
+, Hanoi, Vietnam.
+August 2019:
+KTP
+Visiting Fellow at the School of Electrical and Data Engineering,
+PILab
+(Perceptual Imaging Lab)
+, University
+of Technology Sydney, Australia.
+January 2018
+: Visiting
+Proffessor
+at Department of Geography, Université
+Toulouse - Jean
+Jaurès
+(UT2J), France.
+July 2001 - May 2007; April 2008 - December 2008;
+April 2012 - February 2018:
+Lecturer,
+University of Engineering and Technology, Vietnam National University Hanoi,
+E3,144
+XuanThuy
+,
+Cau
+Giay
+, Hanoi, Vietnam
+January 2009 - December 2011:
+Developer/Researcher, Meteorological and Environmental
+Earth Observation (MEEO)
+s.r.l
+, Via
+Saragat
+9, I-44122 Ferrara, Italy.
+December 2009, November 2010:
+Intern, SISTEMA GmbH,
+Währingerstraße
+61, A-1090, Vienna, Austria
+June 2007 - March 2008:
+Intern, NTT Cyber Solutions Laboratories, Nippon Telegraph and Telephone
+Corporation,1-1
+Hikarinooka
+, Yokosuka
+shi
+, Kanagawa, 239-0847, Japan.
+TEACHING
+Artificial Intelligence, Data Structure and Algorithms
+Human Computer Interaction, Digital Image Processing
+Research Project, Advance Topics in Computer Science
+RESEARCH
+INTERESTS
+Data Science, Machine Learning
+Remote Sensing, Internet of Thing (IoT),
+Environment and Earth applications
+Geographical Information System
+PROJECTS
+Principal
+Investigator/Co-Investigator
+Improving air pollution monitoring and management
+of Vietnam with satellite PM2.5 observation, 2020 - 2022, funded by USAID in
+the LASER PULSE program,
+The
+LASER PULSE project link
+.
+Research and development of a precipitation
+estimation methodology using
+INtergrateD
+RAinfall
+measurements platform for agriculture (INDRA),
+2021 - 2023, a bilateral research project between Vietnam - Italy, funded by
+Ministry of Science and Technology,
+INDRA
+link
+.
+Nation-wide NO2 modelling using Land use
+regression and Burden of Diseases, 2019-2021, funded by National Foundation for
+Science and Technology (NAFOSTED), Vietnam.
+Master On New Technologies Using Services -
+MONTUS, 2/2019 - 2/2021, funded by European Commission (
+Eramus
++).
+Development of a Nation-wide Air Quality report
+for Vietnam using multi-source open datasets, 2020, funded by USAID in the
+Clean Air - Green City program by
+Live&Learn
+,
+Vietnam.
+Improving air monitoring network in Hanoi city
+using low cost sensors, 9/2018 - 12/2019, funded by Vietnam National University
+Hanoi, GIZ, and
+Live&Learn
+Vietnam.
+Determination of emission factors of rice straw
+burning for emission inventory and impact assessment on air quality in Hanoi,
+Vietnam, 2/2018 - 2/2020, funded by National Foundation for Science and
+Technology (NAFOSTED), Vietnam
+Air Pollution and Health Impact: integrated
+approach from Satellite Technology (APHIST), 4/2017 - 4/2019, funded by
+National Foundation for Science and Technology (NAFOSTED), Vietnam.
+Validation of GOSAT data in Vietnam, 2017-2019,
+collaboration with National Institute for Environmental Studies, Japan.
+Periodic monitoring of paddy rice changes in the
+Red River Delta using satellite images, 2/2017 - 2/2019, funded by Vietnam
+National University Hanoi.
+Toward an open resources upon services: Cloud
+Computing of Environmental Data, 2016 - 2018, funded by European Commission (
+Eramus
++).
+Urban
+Air Pollution and Cloud computing
+, 2016 - 2018, data acquisition
+project in the program
+Joint Israeli
+- French Micro
+-Spacecraft for Earth Observation Mission -
+Venµs
+Air pollution monitoring and warning system
+using satellite images, 1/2014 - 6/2015, funded by Vietnam National University
+Hanoi.
+Air pollution modeling using multi-source,
+multi-date, and multi-spatial resolution satellite imagery and ground ­based
+measurements, 1/2014 - 12/2014, funded by Asia Research Center, Vietnam
+National University Hanoi
+Analytical methods of
+satellite image processing for air pollution estimation in Vietnam, 1/2013 ­-
+1/2014, funded by Asia Research Center, Vietnam National University Hanoi
+Member
+Using
+a multi-hazard and catchment-based approach to understand and increase resilience
+in hyper-expanding cities in Vietnam and the
+s
+Philippines
+, 2019 - 2022, T
+he GCRF Royal Society Challenge
+led Grant CHL/R1/180192
+Develop FIMO Air Pollution Monitoring Network (
+FAirNet
+) using low cost sensors, 9/2017 - 10/2018, funded
+by Vietnam Ministry of Science and Technology (MOST) and World Bank.
+Determination of PM
+10
+and PM
+2.5
+sources in the Northern, Vietnam - Case studies in Ha
+Noi
+,
+Quang
+Ninh
+, and
+Phu
+Tho
+, 2018 - 2020, funded by Ministry of Natural Resources
+and Environment.
+The Extension of the
+Air-Quality model for Austria with satellite based Particulate Matter estimates
+(AQA-PM), 4/2011 - 3/2013, funded by Austrian Space Applications
+Programme
+(ASAP-7).
+SENSORER-
+SENSing
+,
+mOdeling
+, and
+distribution of
+EnviRonmental
+data, 06/2009 -
+04/2010, funded by
+Regione
+Emilia­ Romagna, Italy.
+PRODUCTS
+Particulate Matter concentration (PM
+2.5
+)
+datasets at 3km x 3km for Vietnam from 2012 - 2021.
+PUBLICATIONS
+Articles
+in International journals:
+1.
+Nhung NTT,
+Jegasothy
+E, Ngan NTK, Truong NX,
+Thanh NTN
+, Marks GB and Morgan GG (2022)
+Mortality Burden due to Exposure to Outdoor Fine Particulate Matter in Hanoi,
+Vietnam: Health Impact Assessment.
+Int J Public Health
+67:1604331.
+doi
+: 10.3389/ijph.2022.1604331
+2.
+Nguyen, T.T.A., Tran, C.T., Ly, T.B.,
+Nguyen T.T.N
+. Developing
+a provincial environmental performance index for the environmental health of
+Vietnam.
+Environ Dev Sustain (2022)
+.
+https://doi.org/10.1007/s10668-021-02072-x
+3.
+Anh
+Phan
+, Hung Q. Bui,
+Thanh T.N. Nguyen
+(2021). Potential of Satellite Image in the End-To-End
+3D City Modelling for Developing Regions: A Case Study for
+Cau
+Giay
+District, Hanoi, Vietnam. International Journal
+of Geoinformatics, Vol. 17, No. 4, August 2021, ISSN 2673-0014 (Online).
+4.
+Truong X. Ngo, Ngoc T.N. Do,
+Hieu
+D.T. Phan,
+Vinh T. Tran,
+Tra
+T.M. Mac, Anh H. Le, Nguyet V. Do,
+Hung Q. Bui,
+Thanh T.N. Nguyen
+(2021). Air pollution in Vietnam during
+the COVID-19 social isolation, evidence of reduction in human activities.
+International Journal of Remote Sensing, Vol. 42, Issue 16,
+https://doi.org/10.1080/01431161.2021.1934911
+5.
+Do, T.N.N., Ngo, X.T., Pham, V.H.,
+Vuong
+,
+N.L., Le, H.A., Pham, C.T., Bui, Q.H.,
+Nguyen, T.N.T.
+,
+(2020). Application of WRF-Chem to simulate air quality over Northern
+Vietnam. Environ Sci
+Pollut
+Res (2020).
+https://doi.org/10.1007/s11356-020-08913-y
+.
+6.
+Nguyen
+Thi
+Trang Nhung, Christian Schindler,
+Ngo
+Quy
+Chau, Phan
+Thi
+Hanh, Le Tu Hoang, Tran Minh
+Dien
+,
+Nguyen
+Thi
+Nhat
+Thanh
+, Nino
+Kunzli
+(2019). Exposure to air pollution and risk of hospitalization
+for cardiovascular diseases amongst Vietnamese adults: Case-crossover study.
+Science
+of The Total Environment 703
+, 134637,
+https://doi.org/10.1016/j.scitotenv.2019.134637
+7.
+Anh Phan, Duong N. Ha,
+Chuc
+D. Man, Thuy T.
+Nguyen, Hung Q. Bui,
+Thanh T.N. Nguyen
+(2019). Rapid Assessment of Flood
+Inundation and Damaged Rice Area in Red River Delta from Sentinel 1A Imagery.
+Remote
+Sensing 11(17):2034
+https://doi.org/10.3390/rs11172034
+8.
+Thanh T.N. Nguyen
+, Ha V. Pham,
+Kristofer
+Lasko
+, Mai T. Bui, Dominique
+Laffly
+, Astrid Jourdan, Hung Q. Bui (2019) Spatiotemporal
+analysis of ground and satellite-based aerosol for air quality assessment in
+the Southeast Asia region.
+Environmental Pollution,
+https://doi.org/10.1016/j.envpol.2019.113106
+9.
+Viet Hung
+Luu
+, Van
+Kiet
+Dinh
+, Nguyen Hoang
+Hoa
+Luong, Quang Hung Bui, and
+Thi
+Nhat
+Thanh Nguyen
+(2019). Improving the Bag-of-Words
+model with Spatial Pyramid matching using data augmentation for fine-grained
+arbitrary-oriented ship classification.
+Remote Sensing Letters, 10 (9),
+826-834.
+https://doi.org/10.1080/2150704X.2019.1616123
+10.
+Thi Nhat Thanh Nguyen
+, Hoang Anh Le, Thi Minh Tra Mac, Thi
+Trang Nhung Nguyen, Van Ha Pham, Quang Hung Bui (2018).
+Current
+Status of PM
+2.5
+Pollution and its Mitigation in Vietnam .
+Global Environmental
+Research, vol.22, no.1&2.
+11.
+Lasko K, Vadrevu KP,
+Nguyen TTN
+(2018).
+Analysis of air pollution over Hanoi, Vietnam using
+multi-satellite and MERRA reanalysis datasets .
+PLoS
+ONE 13(5): e0196629
+.
+https://doi.org/10.1371/journal.pone.0196629
+12.
+Chuc
+Duc Man, Thuy Thanh Nguyen,
+Hung Quang Bui, Kristofer
+Lasko
+&
+Thanh
+Nhat
+Thi
+Nguyen
+, 2017.
+Improvement of
+land-cover classification over frequently cloud-covered areas using Landsat 8
+time-series composites and an ensemble of supervised classifiers,
+International
+Journal of Remote Sensing,
+39:4,
+1243-1255
+,
+DOI:
+10.1080/01431161.2017.1399477
+13.
+Kristofer
+Lasko
+,
+Krishna P
+Vadrevu
+, Vinh T Tran, Evan Ellicott,
+Thanh
+T N Nguyen
+, Hung Q Bui and Christopher Justice, 2017.  Satellites may
+underestimate rice residue and associated burning emissions in Vietnam ,
+Environmental Research Letters
+2017,
+12
+,
+8
+14.
+Luu
+, V .H., Pham, V .M.,
+Man, D.C., Bui, Q.H. and
+Nguyen, T.N.T
+,
+Comparison of Various Image Fusion Methods for Impervious
+Surface Classification from
+VNREDSat
+­ 1,
+International Journal of Advanced Culture Technology (IJACT), Vol. 4 Num. 2,
+pp.1-6, 2016.
+15.
+Thanh T N Nguyen
+, Hung Q Bui, Ha V
+Pham, Hung V
+Luu
+,
+Chuc
+D Man, Hai N Pham, Ha T Le, Thuy T Nguyen, Particulate matter
+concentration mapping from MODIS satellite data: a Vietnamese case study,
+Environmental
+Research Letters, 2015, 10, 9, 095016
+16.
+Khac
+Phong
+Do,
+Ba Tung Nguyen, Xuan Thanh Nguyen, Quang Hung Bui, Nguyen Le Tran,
+Thi
+Nhat
+Thanh Nguyen
+,
+Van Quynh
+Vuong
+, Thanh Ha Le, Spatial interpolation and
+assimilation methods for satellite and ground meteorological data in Vietnam.
+Journal
+of Information Processing Systems, 2015
+17.
+Xuan Thanh Nguyen, Ba Tung Nguyen,
+Khac
+Phong
+Do, Quang Hung Bui,
+Thi
+Nhat
+Thanh Nguyen
+,
+Van Quynh
+Vuong
+and Thanh Ha Le, Spatial
+Interpolat
+ion
+of Meteorologic Variables in Vietnam using the Kriging Method,
+Journal of
+Information Processing Systems, vol. 11, no. 1, pp. 134~147, 2015
+18.
+T. H. Le,
+T. T.N. Nguyen
+, K.
+Lasko
+, S.
+Ilavajhala
+,  K. P.
+Vadrevu
+and C. Justice,  Vegetation fires and
+air pollution in Vietnam ,
+Environmental Pollution, 2014.
+19.
+Q. K. Le, S. T. Nguyen,
+T. N. T.
+Nguyen
+, and T. H. Le,   Burned Area Detection After Wildfire
+Using Landsat 7 ETM+ SLC-off Images ,
+IEEK Transactions on Smart Processing
+& Computing, vol. 2, no. 3, pp. 117-129, Jun. 2013.
+Articles
+in National journals:
+1.
+Pham Tuan Dung, Man
+Duc
+Chuc
+,
+Nguyen
+Thi
+Nhat
+Thanh
+, Bui Quang Hung, Doan Minh Chung (2018)
+,
+Comparison of
+resampling methods on different remote sensing images for Vietnam urban
+classification.
+Tạp
+chí
+Công
+nghệ
+và
+thông
+tin
+truyền
+thông
+.
+pp.
+1859-3534
+.
+2.
+T. N. T. Nguyen
+and T. D. Bui,
+(2018).
+A New Framework for Automated Gesture Segmentation
+in Vietnamese Sign Language ,
+VNU Journal of Science, Natural Sciences and
+Technology, vol. 24, no. 3S, pp.82-89.
+Book
+chapters
+1.
+Kristofer
+Lasko
+, Krishna Prasad
+Vadrevu
+,
+Varaprasad
+Bandaru
+,
+Thanh
+Nhat
+Thi
+Nguyen
+, Hung Quang Bui, (2021). PM2.5 Emissions
+from Biomass Burning in South/Southeast Asia - Uncertainties and Trade-Offs.
+Biomass Burning in South and Southeast Asia, Impacts on the Biosphere, Volume
+Two.
+2.
+Van Ha PHAM, Viet Hung LUU, Anh PHAN, Dominique LAFFLY, Quang Hung BUI
+and
+Thi
+Nhat
+Thanh NGUYEN
+(2020), Remote Sensing Products, TORUS 2 - Toward an Open
+Resource Using Services
+,
+ISBN:
+9781786306005, Wiley.
+3.
+Van Ha PHAM,
+Thi
+Nhat
+Thanh NGUYEN
+and Dominique LAFFLY (2020), Remote Sensing Case studies,
+TORUS 2 - Toward an Open Resource Using Services, ISBN: 9781786306005, Wiley.
+4.
+Thi
+Nhat
+Thanh Nguyen
+, Viet Hung
+Luu
+, Van Ha Pham, Quang
+Hung Bui,
+Thi
+Kim
+Oanh
+Nguyen (2020),
+Particulate
+Matter Concentration Mapping from Satellite Imagery, TORUS 3 - Toward an Open
+Resource Using Services, ISBN: 9781786306005, Wiley.
+5.
+Tran, T.V.; Pham, V.H.; Pham,
+Nguyen, T.N.T
+.; X. T.; Bui, Q.H.;
+Nguyen, X.A.; Nguyen, T.T (2018).  Satellite Aerosol Optical Depth over
+Vietnam - An analysis from VIIRS and CALIOP aerosol products. In:
+Land-Atmospheric
+Research Application in South and Southeast Asia, Springer Remote
+Sensing/Photogrammetry. Springer, Cham.
+6.
+Ba Tung Nguyen,
+Khac
+Phong
+Do, Nguyen Le Tran, Quang Hung Bui,
+Thi
+Nhat
+Thanh Nguyen
+, Van Quynh
+Vuong
+, Thanh Ha Le (2018).
+Enhancement of Fire Early Warning
+System in Vietnam Using Spatial Data and Assimilation .
+In:
+Land-Atmospheric
+Research Applications in South and Southeast Asia. Springer Remote
+Sensing/Photogrammetry. Springer, Cham.
+Papers
+in international peer-review conferences
+1.
+Tran Tuan Vinh, Pham Van Ha, Nguyen Thanh Thuy and
+Nguyen
+Thi
+Nhat
+Thanh
+(2020),
+Analysis of CALIPSO satellite imagery for air pollution source identification
+in Hanoi, Vietnam. In: 2020 12th International Conference on Knowledge and
+Systems Engineering (KSE).
+2.
+Bui Ba Nam, Phan Anh,
+Nguyen
+Thi
+Nhat
+Thanh
+(2020), Land-Cover Mapping from Sentinel
+Time-Series Imagery on the Google Earth Engine: A Case Study for Hanoi. In:
+2020 7th NAFOSTED Conference on Information and Computer Science (NICS).
+3.
+Luu
+, Viet Hung and Dao, Minh
+Son and
+Nguyen,
+Thi
+Nhat
+Thanh
+and Perry, Stuart and
+Zettsu
+,
+Koji (2019)
+Semi-supervised
+Convolutional Neural Networks for Flood Mapping using Multi-modal Remote
+Sensing Data.
+In: 6th NAFOSTED Conference on Information and
+Computer Science, 12-13 December 2019, Hanoi.
+4.
+Nguyen, Hoang Anh and
+Luu
+, Viet
+Hung and Phan, Anh and Bui, Quang Hung and
+Nguyen,
+Thi
+Nhat
+Thanh
+(2019)
+Cau
+Giay
+: A Dataset
+for
+Very Dense Building Extraction from Google Earth Imagery.
+In:
+6th NAFOSTED Conference on Information and Computer Science, 12-13 December
+2019, Hanoi, Vietnam.
+5.
+T.N.T. Nguyen
+, D.V. Ha, T.N.N. Do, V.H. Nguyen, X.T. Ngo,
+V.H. Phan, N.D. Nguyen and Q.H. Bui (2019).  Air pollution monitoring
+network using low-cost sensors, a case study in Hanoi, Vietnam .
+IOP
+Conference Series: Earth and Environmental Science, Volume 266, conference 1
+.
+6.
+T.D. Pham, V.H. Pham, Q.T.
+Luu
+, X.T. Ngo,
+T.N.T.
+Nguyen
+and Q.H. Bui (2019).  Analyzing the impacts of urban expansion
+on air pollution in Vietnam using the SEAP platform .
+IOP Conference Series:
+Earth and Environmental Science
+, Volume 266, conference 1.
+7.
+Van Ha Pham
+,
+Thi
+Nhat
+Thanh Nguyen
+,
+Quang
+Hung Bui
+,
+Pascal Klein
+,
+Jourdan Astrid
+,
+Laffly
+Dominique
+(2018).
+Assessment of georeferencing methods
+on MODIS Terra/Aqua and VIIRS NPP satellite images in Vietnam.
+In: 2018 the 10th International Conference on
+Knowledge and Systems Engineering (KSE), 01-03 November 2018, Ho Chi Minh city,
+Vietnam. (In Press)
+8.
+Anh Phan,
+Thua Vu Chu
+,
+Quang
+Hung Bui
+,
+Thi
+Nhat
+Thanh Nguyen
+,
+Viet
+Ha Nguyen
+(2018).
+Preliminary Result of 3D City
+Modelling for Hanoi, Vietnam.
+In:
+2018 The 5th NAFOSTED Conference on Information and Computer Science (NICS),
+23-24 November 2018, Ho Chi Minh city, Vietnam. (In Press)
+9.
+M. D.
+Chuc
+, N. H.
+Anh, N. T. Thuy, B. Q. Hung and
+N. T. N. Thanh
+,  Paddy rice mapping
+in red river delta region using Landsat 8 images: Preliminary results,
+2017
+9th International Conference on Knowledge and Systems Engineering (KSE)
+,
+Hue, 2017, pp.209-214,
+doi
+: 10.1109/KSE.2017.8119460
+10.
+T. L. Quang,
+Nhat
+, T.
+N. Thanh
+and H. B. Quang,  TMACT: A thematic map automatically
+creating tool for maintaining
+WebGIS
+systems,
+2017
+9th International Conference on Knowledge and Systems Engineering (KSE)
+,
+Hue, 2017, pp. 245-250.
+doi
+: 10.1109/KSE.2017.8119466
+11.
+P. Anh, M. D.
+Chuc
+, B. Q. Hung
+and
+N. T. N. Thanh
+,  Development of virtual campus using GIS data
+and 3D GIS technology: A case study for Vietnam National University, Hanoi,
+2017 9th International Conference on Knowledge and Systems Engineering
+(KSE)
+, Hue, 2017, pp. 281-286.
+doi
+:
+10.1109/KSE.2017.8119472
+12.
+L. N. Duc, M. D.
+Chuc
+, B. Q. Hung
+and
+N. T. N. Thanh
+,  Standardization procedure for automatic
+environmental data: A case study in Hanoi, Vietnam,
+2016 Eighth
+International Conference on Knowledge and Systems Engineering (KSE)
+,
+Hanoi, 2016, pp. 321-326.
+doi
+:
+10.1109/KSE.2016.7758074
+13.
+P. T. Dung, M. D.
+Chuc
+,
+N. T.
+N. Thanh
+, B. Q. Hung and D. M. Chung,  Optimizing GLCNMO version 2
+method to detect Vietnam's urban expansion,
+2016 Eighth International
+Conference on Knowledge and Systems Engineering (KSE)
+, Hanoi, 2016, pp.
+309-314.
+doi
+: 10.1109/KSE.2016.7758072
+14.
+Bui Quang Hung,
+Nguyen
+Thi
+Nhat
+Thanh
+, Nguyen Hai Chau.
+Application of ICT to environment management and monitoring ,
+In:
+Proc. of The 2nd International Joint Conference IJCC, 2016, pp. 125 - 130.
+15.
+Hung V.
+Luu
+,
+Chuc
+D. Man,
+Ke
+C. Luong,
+Hung Q. Bui,
+Thanh T.N. Nguyen
+.  Air pollution mapping from high spatial
+resolution satellite images: a case study in Hanoi .
+In: Proc. of The 2nd
+International Joint Conference IJCC, 2016, pp. 130 - 135.
+16.
+Duc
+Chuc
+Man, Viet Hung
+Luu
+, Van Thang Hoang, Quang Hung Bui,
+and
+Thi
+Nhat
+Thanh Nguyen
+, 2014. Cloud Detection Algorithm for
+LandSat
+8 Image using Multispectral Rules and Spatial Variability.
+Knowledge and
+Systems Engineering
+, Advances in Intelligent Systems and Computing, vol. 326, pp. 247 - 259
+.
+17.
+Thi
+Nhat
+Thanh Nguyen
+, Viet
+Cuong
+Ta, Thanh Ha Le, Simone
+Mantovani
+,
+2013. Particulate  Matter concentration  Estimation from
+satellite  aerosol  and meteorological  parameters, data-driven
+approaches, In:
+Proc. of The  fifth  international conference
+on  knowledge and  system  engineering (KSE 2013), pp. 351-362
+.
+18.
+Thi
+Nhat
+Thanh Nguyen
+,
+Simone
+Mantovani
+, Piero
+Campalani
+,
+and Gian Piero
+Limone
+, 2012, Downscaling Aerosol
+Optical Thickness to 1 km
+2
+Spatial Resolution Using Support Vector
+Regression Replied on Domain Knowledge. In:
+Proc. of the 1st International
+Conference on Pattern Recognition Applications and Methods (ICPRAM 2012), pp.
+230-239.
+19.
+Piero
+Campalani
+,
+Thi
+Nhat
+Thanh
+Nguyen
+, Simone
+Mantovani
+, and Gianluca Mazzini,
+2011. On the Automatic Prediction of PM10 with In-situ Measurements, Satellite
+AOT Retrievals and Ancillary Data. In:
+Proc. of The11th IEEE International
+Symposium on Signal Processing and Information Technology (ISSPIT 2011), pp.
+93-98.
+20.
+Thi
+Nhat
+Thanh Nguyen
+,
+Simone
+Mantovani
+,
+Piero
+Campalani
+, 2011. Validation of Support Vector Regression in deriving aerosol
+optical thickness maps at 1 km
+2
+spatial resolution from
+satellite observations. In:
+Proc. of The11th IEEE International
+Symposium on Signal Processing and Information Technology (ISSPIT 2011), pp.
+551-556.
+21.
+Campalani
+, P.,
+Nguyen, T.N.T
+,
+Mantovani
+, S.,
+Bottoni
+, M., and
+Mazzini, G.,2011. Validation of PM MAPPER aerosol optical thickness retrievals
+at 1x1km
+2
+of spatial resolution. In:
+Proc. of The 19th
+International Conference on Software, Telecommunications and Computer Networks
+(
+SoftCOM
+2011), pp.1 - 5.
+22.
+Thi
+Nhat
+Thanh Nguyen
+,
+Simone
+Mantovani
+, Piero
+Campalani
+,
+Mario
+Cavicchi
+, and Maurizio
+Bottoni
+,
+2010. Aerosol Optical Thickness Retrieval from Satellite Observation using
+Support Vector Regression. In:
+Progress in Pattern Recognition, Image
+Analysis, Computer Vision and Applications, Lecture Notes in Computer Science,
+2010, Vol. 6419/2010, pp. 492-499.
+23.
+T.N.T. Nguyen
+, S.
+Mantovani
+,
+and M.
+Bottoni
+, 2010. Estimation of Aerosol
+andAir
+Quality Fields with PM MAPPER - An Optical
+Multispectral Data
+ProcessingPackage
+. In:
+ISPRS
+Technical Commission VII Symposium,100 Years ISPRS Advancing Remote Sensing
+Science, Vienna, Austria, Vol. XXXVIII, Part 7A,pp. 257-262.
+24.
+Thi
+Nhat
+Thanh Nguyen
+,
+Maurizio
+Bottoni
+and Simone
+Mantovani
+,
+2010. PM MAPPER: An air quality monitoring system with fine spatial resolution
+product and integrated surface information. In:
+Proc. of Hyperspectral 2010
+Workshop, Frascati, Italy, 17-19 March 2010 (ESA SP-683, May 2010)
+.
+25.
+Nhat
+Thanh Nguyen
+and The
+Duy
+Bui, 2010. Automated Posture Segmentation in Continuous Finger Spelling
+Recognition. In:
+HumanCom
+2010, IEEE
+Computer Society Press
+.
+26.
+Thi
+Nhat
+Thanh Nguyen
+, Kota
+Hidaka, Uwe
+Kowalik
+,
+Irie
+Go, Takashi
+Satou
+and
+Yubuki
+Taniguchi, 2008. A new video editing interface based on automatic extraction of
+emphasis speech and laughter scenes. In:
+Proc. Of The IEICE General
+Conference, Japan, 2008, pp. 296
+.
+27.
+Thi
+Nhat
+Thanh Nguyen
+, Kota
+Hidaka, Uwe
+Kowalik
+,
+Irie
+Go, Takashi
+Satou
+and
+Yubuki
+Taniguchi, 2008. A new video editing interface based on automatic extraction of
+emphasis speech and laughter scenes. In:
+IEICE technical report. Image
+engineering 107(489), 83-86, 2008-02-12
+.
+28.
+Da
+Phuc
+Phan,
+Thi
+Nhat
+Thanh Nguyen
+and The
+Duy
+Bui (2007). A 3D Conversational Agent for
+Presenting Digital Information for Deaf People. In:
+Agent Computing and
+multi-agent systems, Lecture Note in Computer Science, 2009, Vol. 5044/2009,
+pp. 319-328
+.
+29.
+The
+Duy
+Bui and
+Thi
+Nhat
+Thanh Nguyen
+(2006). Multimedia enabled 3D learning environment to enhance
+electronic lessons. In:
+Proceedings of IEEE International Conference on
+Research, Innovation and Vision for the Future.
+Papers
+in National peer review conferences
+1.
+Xuân Trường Ngô, Văn Hải
+Nguyễn, Trung Kiên Trần, Thành Công Đỗ, Đức Văn
+Hà, Quang Thắng Lưu, Việt Hưng Lưu, Quang Hưng
+Bùi,
+Thị Nhật Thanh Nguyễn
+. Thiết kế và chế
+tạo vệ tinh FIMO CANSAT. Kỷ yếu Hội nghị quốc
+gia lần thứ XXI về Điện tử, Truyền thông
+và Công nghệ thông tin (REV-ECIT).
+2.
+Hà Đức Văn,
+Nguyễn
+Thị Nhật Thanh
+, Nguyễn Thanh Thủy, Vũ Duy Lợi,
+Bùi Quang Hưng. Xây dựng mạng cảm biến giá rẻ
+không dây FAirNet giám sát nồng độ bụi PM2.5 sử dụng
+bộ chuẩn OGC SWE, Hội thảo Quốc gia lần thứ
+XX về Điện tử, Truyền thông và Công nghệ
+Thông tin, 2017
+3.
+Mẫn Đức Chức,
+Lưu Quang Thắng,
+Nguyễn Thị Nhật Thanh
+, Nguyễn
+Thanh Thủy, Bùi Quang Hưng. SHRIMP: Hệ thống thu nhận,
+quản lý và chia sẻ dữ liệu ảnh vệ tinh từ
+trạm thu mặt đất. Hội thảo Quốc gia lần
+thứ XX về Điện tử, Truyền thông và Công nghệ
+Thông tin, 2017
+4.
+Lưu Quang Thắng, Phan Anh,
+Lưu Việt Hưng,
+Nguyễn Thị Nhật Thanh
+,
+Bùi Quang Hưng, Sử dụng công nghệ Hadoop và Spark để
+lưu trữ và xử lý phân tán ảnh vệ tinh VNREDSat-1,
+Kỷ yếu Hội thảo khoa học ứng dụng GIS
+toàn quốc; pp. 883-892; 2017
+5.
+Lưu Quang Thắng, Phan Anh,
+Nguyễn
+Thị Nhật Thanh
+, Bùi Quang Hưng, SEAP: nền tảng
+mới cho việc khai thác và phân tích dữ liệu không gian
+lớn, Kỷ yếu Hội thảo khoa học ứng dụng
+GIS toàn quốc; pp. 874-882; 2017
+6.
+Nguyen Quoc Huy, Pham Huu Bang,
+Nguyen
+Thi Nhat Thanh
+, Pham Van Cu, Bui Quang Hung. Xây dựng hệ thống
+WebGIS hỗ trợ quản lý và chia sẻ dữ liệu ảnh
+viễn thám mã nguồn mở: áp dụng cho dữ liệu ảnh
+MODIS. Kỷ yếu Hội thảo ứng dụng GIS toàn quốc;
+pp. 855-862; 2014
+7.
+Nguyễn Thị Nhật Thanh
+, Bùi Quang Hưng, Lương
+Chính Kế, Lưu Việt Hưng, Phạm Văn Hà, Đào
+Ngọc Thành, Phạm Hữu Bằng, Mẫn Đức Chức,
+Lê Thanh Hà, Nguyễn Nam Hoàng, Nguyễn Hải Châu, Nguyễn
+Thanh Thủy, 2014.  Nghiên cứu và phát triển hệ thống
+giám sát và cảnh báo mức độ ô nhiễm không khí tại
+Việt Nam .
+Kỷ yếu Hội thảo GIS toàn quốc
+2014, 28-29/11/2014
+.
+8.
+Ha Duc Van, Nguyen Thi Nhat Thanh, Nguyen
+Thanh Thuy, Vu Duy Loi, and Bui Quang Hung (2017).
+Developing low-cost wireless sensors
+network for PM2.5 monitoring using OGC SWE standard. In:
+Proc. of the 20
+th
+National Conference in Electronic, Communication and Information Technology
+.

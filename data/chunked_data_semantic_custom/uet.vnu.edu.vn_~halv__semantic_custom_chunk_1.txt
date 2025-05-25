@@ -1,0 +1,60 @@
+Nguồn: uet.vnu.edu.vn_~halv_.txt
+
+doi:10.1117/12.733533
+[
+pdf (pre-print)
+]
+Ha Vu Le,
+"A Structure-from-motion Method for 3-D Reconstruction of Moving Objects from Multiple-view Image Sequences,"
+In
+Proceedings of the 2004 IEEE International Conference on Image Processing
+,
+Vol.3, pp.1955-1958, October 2004, Singapore. doi:10.1109/ICIP.2004.1421463
+[
+pdf (pre-print)
+]
+Guna Seetharaman, Ha V. Le, S. S. Iyengar, R. Logananthraj,
+"SmartSAM: A Multisensor Network Based Framework for Video Surveillance and Monitoring,"
+In
+Proceedings of the International Symposium on Mathematical Theory of Networks and Systems
+,
+July 2004, Leuven, Belgium. [
+pdf (pre-print)
+]
+Ha V. Le, Guna Seetharaman, Bertrand Zavidovique,
+"A Multiscale Technique for Optical Flow Computation Using Piecewise Affine Approximation,"
+In
+Proceedings of the IEEE International Workshop on Computer Architectures for Machine Perception
+,
+pp.221-230, May 2003, New Orleans, LA, USA. doi:10.1109/CAMP.2003.1598167
+[
+pdf (pre-print)
+]
+Anant Utgikar, Guna Seetharaman, Ha Le,
+"VLSI Architecture for Video-Assisted Global Positioning,"
+In
+Proceedings of the IEEE International Workshop on Computer Architectures for Machine Perception
+,
+pp.249-255, May 2003, New Orleans, LA, USA. doi:10.1109/CAMP.2003.1598170
+Ha V. Le, Guna Seetharaman,
+"A Superresolution Imaging Method Based on Dense Subpixel-Accurate Motion Fields,"
+In
+Proceedings of the International Workshop on Digital and Computational Video
+,
+pp.35-42, November 2002, Clearwater Beach, FL, USA. doi:10.1109/DCV.2002.1218741
+Ha V. Le, Guna Seetharaman, Harold Szu,
+"Video-Assisted Global Positioning in Terrain Navigation: Hough Transform Solution,"
+In
+Proceedings of the Indian Conference on Computer Vision, Graphics and Image Processing
+,
+December 2003, Ahmedabad, India. [
+pdf
+]
+Book chapter
+s
+Guna Seetharaman, S.S. Iyengar, Ha V. Le, N. Balakrishnan, R. Logananthraj (2005),
+"Multisensor Network-Based Framework for Video Surveillance: Real-Time Superresolution Imaging,"
+In
+Sensor Network Operations
+(
+eds.

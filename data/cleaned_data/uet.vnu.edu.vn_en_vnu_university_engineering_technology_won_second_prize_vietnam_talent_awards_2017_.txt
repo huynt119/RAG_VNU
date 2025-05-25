@@ -1,0 +1,21 @@
+VNU University of Engineering and Technology won the second prize at the Vietnam Talent Award 2017
+On November 16, 2017, the Vietnam Talent Awards 2017 was held in Hanoi. This is a prestigious award run by Dan Tri Newspaper, the Vietnam Association for Promoting Education, Vietnam Television and Vietnam Post and Telecommunications, bringing together the talents in the fields of science and information technology.
+DoIT, a Vietnamese spell checker developed by a research team from VNU University of Engineering and Technology, won the second prize in IT.
+DoIT has two basic functions: spell checking and duplicate detecting for Vietnamese documents. The system can process documents in many common formats: doc, docx, pdf, ppt, etc. With the spell checker function, DoIT not only points out misspelled words but also suggests their correct replacements.
+DoIT’s duplicate detection indicates whether certain sentences/paragraphs in the document being checked duplicate the sentences/paragraphs of the documents in the system’s database. There are three levels of overlapping, represented by three colours, including high, low and medium. Users can share and send documents through the system. Duplicate detection also helps to check if the content of a document matches the content of a previously published one (anti-plagiarism).
+DoIT helps users create high-quality texts avoiding unwanted spelling mistakes. More importantly, the product is an effective tool to support training institutions in controlling plagiarism (especially in theses and dissertations). Instead of using memory or search engines, faculty can now use DoIT to improve the accuracy of text evaluation.
+Currently, DoIT is being applied at VNU with about 3,000 users and around 7,000 documents in the database to check for duplications. The users of the system are mostly from the VNU affiliates and other universities including the University of Water Resources, the Posts and Telecommunications Institute of Technology, Thai Nguyen University…
+VNU-UET group of authors won the second prize in IT at the Vietnam Talent Awards 2017
+DoIT, a web-based product, can be used with any device, provided that it (the device) is internet-connected. DoIT can be experienced at either http://doit.uet.vnu.edu.vn or
+http://doit.lic.vnu.edu.vn
+.
+The first prize in IT at the Vietnam Talent Awards 2017 was awarded to the product “An application of 3D virtual reality simulation technology in building a human body for teaching, learning and researching in the field of health science” by a research team from Duy Tan University.
+The other second prize in IT came to Rada – app service connection by the Rada Company, belonging to the IT Startup product system.
+The Third Prize in IT was awarded to 4 products: Giasan.vn – a website for compiling and analyzing the local real estate market; APT attack prevention device by Cyberlab; Campus Plus by BEE TECH Vietnam Company; and GOnJOY by M&AI Company – A virtual assistant to help with business and collect users’ experience data in entertainment and food services.
+By KHCN&HTPT
+|
+News & Events
+|
+Tags:
+DoIT
+4325 Views

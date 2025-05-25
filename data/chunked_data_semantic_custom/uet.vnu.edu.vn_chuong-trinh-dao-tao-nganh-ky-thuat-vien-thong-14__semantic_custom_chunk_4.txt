@@ -1,0 +1,102 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-vien-thong-14_.txt
+
+LUẬN ÁN TIẾN SĨ
+21
+ELT 9001
+Luận án tiến sĩ
+80
+Tổng cộng:
+106
+Khung chương trình dành cho NCS có bằng thạc sĩ ngành đúng hoặc phù hợp
+STT
+Mã học phần
+Tên học phần
+(tiếng Việt và tiếng Anh)
+Số
+tín chỉ
+Số giờ tín chỉ
+Mã số các học phần tiên quyết
+Lý thuyết
+Thực hành
+Tự học
+PHẦN 1: CÁC HỌC PHẦN, CHUYÊN ĐỀ TIẾN SĨ VÀ TIỂU LUẬN TỔNG QUAN
+I
+Các học phần tiến sĩ
+9
+I.1
+Các học phần bắt buộc
+7
+1
+INT 8030
+Phương pháp nghiên cứu và kỹ năng viết báo cáo khoa học
+Research Methods and Technical Writing
+3
+30
+0
+15
+2
+ELT 8030
+Các chủ đề lựa chọn của Kỹ thuật Viễn thông
+Selected Topics in Communication Engineering
+4
+40
+0
+20
+I.2
+Các học phần tự chọn
+2/4
+3
+ELT 8031
+Mạng truyền thông vô tuyến tiên tiến
+Advanced Wireless Communication Networks
+2
+30
+0
+0
+4
+ELT 8032
+Mạng truyền thông hiệu năng cao
+High-Performance Communication Networks
+2
+30
+0
+0
+II
+Các chuyên đề tiến sĩ
+6
+5
+ELT 8027
+Chuyên đề nghiên cứu 1
+Sub-theme 1
+2
+0
+0
+30
+6
+ELT 8028
+Chuyên đề nghiên cứu 2
+Sub-theme 2
+2
+0
+0
+30
+7
+ELT 8029
+Chuyên đề nghiên cứu 3
+Sub-theme 3
+2
+0
+0
+30
+III
+Tiểu luận tổng quan
+2
+8
+ELT 8018
+Tiểu luận tổng quan
+Research perspective report
+2
+0
+0
+30
+PHẦN 2.

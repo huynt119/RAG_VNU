@@ -1,0 +1,243 @@
+Assoc. Prof. Nguyễn Hải Châu, PhD
+Contact
+Office:
+Department of
+Information System, Faculty of Information
+Technology
+University of Engineering and Technology,
+Vietnam National University
+Address:
+311, E3
+building, 144 Xuan Thuy, Hanoi, Vietnam
+Phone:
+04-37547813
+Fax:
+04-37547460
+Email:
+chaunh at
+vnu.edu.vn
+Curriculum vitae
+CV (English)
+CV (Vietnamese)
+Education
+1991.
+BSc in Mathematics, Hanoi University
+1999.
+PhD in Computer Science, Vietnam National
+University
+Teaching
+Introduction
+to database systems [
+slide
+] [
+video
+]
+Advanced
+topics in information systems/information
+technology
+Analysis
+and evaluation of computer systems performance [
+video
+]
+Design
+and analysis of experiments
+Operating
+systems concepts
+Advanced
+in database systems
+C/C++ programming
+Management information systems (
+in
+English
+)
+Introduction to computer systems and applications
+(
+in
+English
+)
+Database management for business (
+in
+English
+)
+Research interests
+Causal inference
+Materials informatics
+Design of
+experiments (DoE) applications in computer science
+Internet of Things (IoT)
+[video
+]
+Geographic
+information systems (GIS)
+Selected publications
+Nguyen Hai Chau, Tomoyuki Yamamoto,
+"Effects of Changing Atomic Concentration of a Single
+Element on the Yield Strength of High-Entropy Alloys:
+A Causal Inference Study",
+Journal of Electronic
+Materials
+, vol. 54, pp. 3663-3674, 2025, (DOI:
+https://doi.org/10.1007/s11664-025-11852-4
+,
+View-only PDF:
+https://rdcu.be/eeqEB
+).
+Haruki Hiraishi, Hai Chau Nguyen,
+Mikhail Brik, Tomoyuki Yamamoto, "Prediction of Physical
+Properties of Garnet-Type Structured Compounds by Machine
+Learning",
+34th Annual Meeting of the Material Research
+Society of Japan (MRS-J)
+, 16-18 Dec, 2024, Yokohama, Japan.
+https://www.mrs-j.org/meeting2024/en/prg/programList.php?sid=A-2&mode=2&wday=16, 2024
+S. Osaki, N. H. Chau, M. G. Brik, T. Yamamoto,
+"Estimation of luminescence properties of red phosphors doped with
+3D transition metals by machine learning",
+The 11th international
+workshop on advanced materials science and nanotechnology
+,
+September 22-25, 2024, Furama Resort, Da Nang, Vietnam.
+Dinh Tu Bui, Anh Tuan Nguyen, Van Hiep Vuong,
+Hai Chau Nguyen, Nam Nhat Hoang.
+"Coil Induction of Ion Solution",
+AIP Conf. Proc.
+2023/American Institute of Physics
+, ISSN 0094243X, 15517616,
+2024 (accepted).
+N. H. Chau, T. Yamamoto,
+"Uncertainty quantification for prediction of high-entropy alloy’s
+yield strength",
+7th International Symposium on Frontiers in
+Materials Science (FMS 2024)
+, National Yang Ming Chiao Tung
+University, Jan 21-24, 2024, Hsinchu, Taiwan.
+Chau, N. H., Sato, G., Utsugi, K., Yamamoto, T. (2023).
+"A new data transformation and resampling approach for prediction
+of yield strength of high-entropy alloys". In:
+Nguyen, N.T., et al.
+Intelligent Information and Database Systems. ACIIDS 2023.
+Lecture Notes in Computer Science
+, vol 13996. Springer, Singapore.
+DOI:
+10.1007/978-981-99-5837-5_1
+.
+T. Yamamoto, R. Oonaga, N. H. Chau,
+V. V. Hiep, N. A. Tuan, B. D. Tu, H. N. Nhat, N. N. Dinh,
+"First-Principles Investigation of Divalent Ion Sensing with
+Cesium Lead Trihalides",
+Optical Materials: X
+, 100253, 2023,
+DOI:
+10.1016/j.omx.2023.100253
+N. H. Chau, M. Kubo, L. V.
+Hai, T. Yamamoto, "Support Vector Machine-based Phase
+Prediction of Multi-principal Element Alloys",
+Vietnam Journal of Computer Science
+, 10 (1), 101–116, 2023,
+DOI:
+10.1142/S2196888822500312
+.
+N. H. Chau, M. Kubo, L. V.
+Hai, T. Yamamoto, "Phase Prediction of
+Multiprincipal Element Alloys Using Support
+Vector Machine and Bayesian Optimization",
+In:
+Nguyen N.T., Chittayasothorn S., Niyato
+D., Trawiński B. (eds) Intelligent Information
+and Database Systems. ACIIDS 2021. Lecture
+Notes in Computer Science
+, vol 12672.
+Springer, Cham, 2021, pp. 155–167, DOI:
+10.1007/978-3-030-73280-6_13
+.
+M. Kubo, M. Brik, Hai-Chau
+Nguyen, T. Yamamoto, "Modelling of
+Lattice Constants of the Garnet Structured
+Compounds using Machine Learning", 30th
+Annual Meeting of the Material Research
+Society of Japan (MRS-J), 9-11 Dec, 2020
+(online meeting)
+Nguyen Hai Chau, "Estimation
+of Air Temperature Using Smartphones in
+Different Contexts",
+Journal of
+Information and Telecommunication
+, 3 (4), 2019,
+494-507, DOI:
+10.1080/24751839.2019.1634869
+. [
+Android app
+]
+Nguyen Hai Chau, "A New
+Approach to Estimate Urban Air Temperature
+Using Smartphones", in
+Proceedings of the
+10th Asian Conference on Intelligent
+Information and Database Systems (ACIIDS
+2018)
+, 19-21 March 2018, Dong Hoi, Quang Binh,
+Vietnam, 633–641.
+Phuong Hanh Du, Hai-Chau
+Nguyen, Kim Khoa Nguyen, Ngoc Hoa Nguyen, "An
+Efficient Parallel Algorithm for Computing
+the Closeness Centrality in Social Networks",
+in
+Proceedings of the 9th International
+Symposium on Information and Communication
+Technology (SoICT)
+, 6-7 December 2018, Da Nang
+City, Viet Nam.
+Nguyen Hai Chau, "Enhancing
+Cholera Outbreaks Prediction Performance in
+Hanoi, Vietnam Using Solar Terms and
+Resampling Data", In
+Nguyen N., Papadopoulos
+G., Jedrzejowicz P., Trawiński B., Vossen G.
+(eds) Computational Collective Intelligence.
+ICCCI 2017. Lecture Notes in Computer Science
+,
+vol 10448. Springer, Cham, 2017, 266–276. [
+daily case video
+]
+[monthly case video
+]
+Nguyen Hai Chau, Le Thi Ngoc
+Anh, "Using local weather and geographical
+information to predict cholera outbreaks in
+Hanoi, Vietnam",
+Advanced Computational
+Methods for Knowledge Engineering, Advances in
+Intelligent Systems and Computing
+453,
+Springer, 2016, 195–212.
+N. H. Chau, "Parallelization
+of the Fast Multipole Method for Molecular
+Dynamics Simulations on Multicore Computers",
+Advanced Computational Methods for Knowledge
+Engineering, Studies in Computational
+Intelligence
+479, Springer, 2013, 209–224.
+N. H. Chau, A. Kawai, T.
+Ebisuzaki, "Acceleration of fast multipole
+method using special-purpose computer GRAPE",
+International Journal of High Performance
+Computing Applications
+, 22 (2), 2008,
+194–205.
+N. H. Chau, A. Kawai, T.
+Ebisuzaki, "Implementation of fast
+multipole algorithm on special-purpose
+computer MDGRAPE-2",
+Proceedings of World
+Multiconference on Systemics, Cybernetics and
+Informatics SCI 2002
+, July 14–18, 2002,
+Orlando, Florida, USA, Vol XVI, 477–481.
+N. C. Ho, H. V. Nam, T. D.
+Khang, N. H. Chau, "Hedge algebras,
+linguistic- valued logic and their
+applications to fuzzy reasoning",
+International Journal of Uncertainty,
+Fuzziness and Knowledge-based Systems
+, 1999, 7
+(4), 347–361.

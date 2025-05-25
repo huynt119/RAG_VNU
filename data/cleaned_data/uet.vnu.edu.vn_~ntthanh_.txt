@@ -1,0 +1,211 @@
+Tri-Thanh
+NGUYEN
+Tel: (84+)2437.547.813
+ntthanh AT vnu DOT edu DOT vn
+https://uet.vnu.edu.vn/~ntthanh/
+Google scholar
+Information
+Assoc. Prof. Tri-Thanh NGUYEN, PhD
+Lecturer of the Department of Information Systems
+Faculty of Information Technology
+VNU University of Engineering and Technology (UET)
+Vietnam National University, Hanoi (VNU)
+Add: E3 Building, 144 Xuan Thuy street, Cau Giay district, Hanoi, Vietnam
+Education
+Doctor of Phylosophy
+in Information Science
+Japan Advanced Institute of Science and Technology (JAIST)
+Ishikawa, Japan
+March 2008
+Master of Science
+in Computer Science
+Asian Institute of Technology (AIT)
+Pathumthani, Thailand
+December 2002
+Bachelor of Science
+in Information Technology
+VNU University of Science
+Hanoi, Vietnam
+June 1999
+Courses
+Object Oriented Programming with C++
+Advanced Linux Programming
+Business Intelligence (BI)
+Text/web mining
+Online Analytical Processing (OLAP)
+Information Retrieval (IR)
+Parallel processing
+Fundamental of Operating Systems
+Computer Architecture
+Data mining
+Linux operating system
+Text books
+Nguyen Tri Thanh
+(2015).
+Advanced Linux Programming
+. VNU- Publishing House, Vietnam (
+in Vietnamese
+).
+Nguyen Ha Nam,
+Nguyen Tri Thanh
+, and Ha Quang Thuy(2013).
+Introduction to Data Mining
+. VNU- Publishing House, Vietnam (
+in Vietnamese
+).
+Ha Quang Thuy, Phan Xuan Hieu, Doan Son,
+Nguyen Tri Thanh
+, Nguyen       Thu Trang, Nguyen Cam Tu (2009).
+Text/web Mining
+. Education Publishing House, Vietnam (
+in Vietnamese
+).
+Ha Quang Thuy and
+Nguyen Tri Thanh
+(2009).
+UNIX and Linux       Operating Systems
+. Education Publishing House, Vietnam (
+in Vietnamese
+).
+Publications
+2022
+Thanh-Huyen Pham, Van-Tuan Phan, Thi-Ngan Pham, Thi-Hong Vuong, Tri-Thanh Nguyen & Quang-Thuy Ha
+A multi-label classification framework using the covering based decision table
+ACIIDS 2022: Intelligent Information and Database Systems
+2021
+Minh-Tien Nguyen, Tri-Thanh Nguyen, Asanobu Kitamoto, Van-Hau Nguyen
+Exploiting Social Networks as a Live Mass Media Channel During Disasters for Reactions
+International Journal on Artificial Intelligence Tools @World Scientific Publishing Company
+Thanh-Huyen Pham,Thi-Ngan Pham, Thuan Ho, Thi-Hong Vuong, Tri-Thanh Nguyen, Quang-Thuy Ha
+Solving Reduction Problems in Cover Lattice Based Decision Tables
+ACIIDS 2021: Recent Challenges in Intelligent Information and Database Systems pp 55-64
+2020
+Hong-Nhung Bui, Trong-Sinh Vu, Hien-Hanh Nguyen, Tri-Thanh Nguyen, and Quang-Thuy Ha
+Exploiting CBOW and LSTM Models to Generate Trace Representation for Process Mining
+12th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2020), (ISI conference)
+2019
+Ngoc-Vu Nguyen, Thi-Lan Nguyen, Cam-Van Nguyen Thi, Mai-Vu Tran, Tri-Thanh Nguyen, and Quang-Thuy Ha
+Improving Named Entity Recognition in Vietnamese Texts by a Character-level Deep Lifelong Learning Model
+Journal of Computer Science, World Scientific Publishing Company, Vol. 06, No. 04, pp. 489-491 (2019)
+Thi-Ngan Pham, Quang-Thuy Ha, Minh-Chau Nguyen, and Tri-Thanh Nguyen
+A probability-based close domain metric in lifelong learning for multi-label classification
+The 6th International Conference on Computer Science, Applied Mathematics and Applications (ICCSAMA 2019), LNAI, Springer
+Thi-Hong Vuong, Thanh-Huyen Pham, Tri-Thanh Nguyen, and Quang-Thuy Ha
+An Adversarial Learning and Canonical Correlation Analysis based Cross-Modal Retrieval Model
+11th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2019), (ISI conference) (pp 153-164)
+2018
+Nguyễn Thanh Thủy - Hà Quang Thụy - Phan Xuân Hiếu - Nguyễn Trí Thành
+Trí tuệ nhân tạo trong thời đại số: Bối cảnh thế giới và liên hệ với Việt Nam
+Tạp chí công thương
+Hong-Nhung BUI, Thi-Cham NGUYEN, Quang-Thuy HA,  Tri-Thanh Nguyen
+A new trace clustering algorithm based on context in process mining
+International Joint Conference on Rough Sets 2018, Springer’s LNAI series, (ISI conference), pp. 644-657 (best paper candidate)
+Quang-Thuy Ha, Thi-Ngan Pham, Van-Quang Nguyen, Minh-Chau Nguyen, Thanh-Huyen Pham, Tri-Thanh Nguyen
+A new text semi-supervised multi-label learning model based on using the label-feature relations
+10th International Conference on Computational Collective Intelligence (ICCCI 2018), (ISI conference), pp. 200--210
+Hà Quang Thụy, Nguyễn Trí Thành
+Khoa học dữ liệu, tiền hóa dữ liệu và khả năng thực thi tại Việt nam
+Tạp chí công thương – Các kết quả nghiên cứu khoa học và Ứng dụng công nghệ, pp. 160-165
+Hong Hai Le, Ngoc Hoa Nguyen, Tri-Thanh Nguyen
+Speeding up and enhancing a large-scale fingerprint identification system on GPU
+Journal of Information and Telecommunication (TJIT), 2(2):(147-162)
+Hong-Nhung Bui, Quang-Thuy Ha,  Tri-Thanh Nguyen
+A novel similarity measure for trace clustering based on normalized Google distance
+2018 International Conference on Information and Communication Technology and Digital Convergence Business (ICIDB-2018). JP Journal of Heat and Mass Transfer, Special Volume, Issue III, pp.  341 - 346. Pushpa publishing house (best paper award)
+Quang-Thuy Ha,Thi-Ngan Pham, Van-Quang Nguyen, Thi-Cham Nguyen, Thi-Hong Vuong, Minh-Tuoi Tran, and Tri-Thanh Nguyen
+A New Lifelong Topic Modeling Method and Its Application to Vietnamese Text Multi-label Classification
+10th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2018), (ISI conference) (200-210)
+2017
+Thi-Ngan Pham, Van-Quang Nguyen, Van-Hien Tran, Tri-Thanh Nguyen, and Quang-Thuy Ha
+A semi-supervised multi-label classification framework with feature reduction and enrichment
+Journal of Information and Telecommunication (TJIT), 1(2): (141-154)
+Thi-Ngan Pham, Van-Quang Nguyen, Duc-Trong Dinh, Tri-Thanh Nguyen, and Quang-Thuy Ha
+MASS: a semi-supervised multi-label classification algorithm with specific features
+Asian Conference on Intelligent Information and Database Systems ACIIDS 2017, (ISI conference) (37-47)
+Hong Hai Le, Ngoc Hoa Nguyen, Tri-Thanh Nguyen
+Automatic Detection of Singular Points in Fingerprint Images using Convolution Neural Network
+Asian Conference on Intelligent Information and Database Systems ACIIDS 2017, (ISI conference) (207-216)
+Thi-Ngan Pham, Van-Hien Tran, Tri-Thanh Nguyen, and Quang-Thuy Ha
+Exploiting Distance graph and Hidden Topic Models for Multi-label Text Classification
+Asian Conference on Intelligent Information and Database Systems ACIIDS 2017, (ISI conference) (321-331)
+2016
+Thuong Pham Thi, Xuan Hoai Nguyen, and Tri-Thanh Nguyen
+A study on fitness representation in Genetic Programming
+The Advanced of International Conference on Advances in Information and Communication Technology, (104-112)
+Quang-Thuy Ha, Hong-Nhung Bui, Tri-Thanh Nguyen
+A trace clustering solution based on using the distance graph model
+The 8th International Conference on Computational Collective Intelligence (ICCCI 2016) (313-322)
+Hong-Hai LE, Ngoc-Hoa NGUYEN, Tri-Thanh NGUYEN
+A complete fingerprint matching algorithm on GPU for a large scale identification system
+The 7th international conference on information science and applications, LNEE, Springer (ISI) (679-688)
+Hong-Hai LE, Ngoc-Hoa NGUYEN, Tri-Thanh NGUYEN
+Exploiting GPU for Large Scale Fingerprint Identification
+The 8th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2016), Lecture Notes in Computer Science, Springer (ISI) pp. 688-697
+2015
+Minh-Tien Nguyen, Quang-Thuy Ha, Thi-Dung Nguyen, Tri-Thanh Nguyen and Le-Minh Nguyen
+Recognizing Textual Entailment in Vietnamese Text: An Experimental Study
+KSE 2015, pp.108-113
+Minh-Tien Nguyen, Tri-Thanh Nguyen
+DESRM: a Disease Extraction System for Real-time Monitoring
+IJCVR, Vol.5, No.3, pp.282-301
+Minh-Tien Nguyen, Asanobu Kitamoto, Tri-Thanh Nguyen
+TSum4act: A Framework for Retrieving and Summarizing Actionable Tweets during a Disaster for Reaction, 19th Pacific-Asia Conference, PAKDD 2015, Ho Chi Minh City, Vietnam, May 19-22, 2015. Proceedings, Part II.
+Lecture Notes in Computer Science Volume 9078, Advances in Knowledge Discovery and Data Mining, ISBN 978-3-319-18032-8, pp.64-75
+2014
+Tri-Thanh Nguyen, Quang-Thuy Ha
+Novel Operations for FP-tree Data Structure and Their Applications
+International Conference on Computer Science, Applied Mathematics and,Applications (ICCSAMA 2014), (ISI convered conference), Springer, ISBN 978-3-319-06568-7, pp.229-242
+Dinh-Luyen Bui, Tri-Thanh Nguyen, Quang-Thuy Ha
+Measuring the Influence of Bloggers in Their Community Based on the H-Index Family
+ICCSAMA 2014, Springer, ISBN 978-3-319-06568-7, pp.313-324
+2013
+Tri-Thanh Nguyen
+A Compact FP-tree for Fast Frequent Pattern Retrieval
+PACLIC27, ACL Anthology, (SCOPUS indexed), ISBN 978-986-03-8567-0, pp.430-439
+Thi-Tuoi Nguyen, Tri-Thanh Nguyen, Quang-Thuy Ha
+Applying Hidden Topics in Ranking Social Update Streams on Twitter
+The 10th IEEE RIVF International Conference on Computing and Communication, (IEEE Explorer), ISBN 978-1-4799-1349-7, pp. 180-185
+Minh-Tien Nguyen, Tri-Thanh Nguyen
+Extraction of Disease Events for Real-time Monitoring System
+4th SoICT, ACM Digital Library, (DBLP indexed), ISBN 978-1-4503-2454-0, pp.139-147
+2012
+Duc-Trong Le, Mai-Vu Tran, Tri-Thanh Nguyen, Quang-Thuy Ha
+Kết hợp luật ngữ nghĩa và học máy cho bài toán phân lớp văn bản chứa sự kiện dịch bệnh
+Tạp chí Nghiên cứu và Công nghệ Quân sự, ISSN 1859 - 1043, pp.50-58
+2011
+Duc-Trong Le, Mai-Vu Tran, Tri-Thanh Nguyen, Quang-Thuy Ha
+Co-reference Resolution in Vietnamese Documents Based on Support Vector Machines
+IALP, (IEEE explorer), ISBN: 978-1-4577-1733-8, pp.89-92
+2010
+Van-Nam Huynh, Tri Thanh Nguyen, Cuong Anh Le
+Adaptively entropy-based weighting classifiers in combination using Dempster-Shafer theory for word sense disambiguation
+Computer Speech and Language (SCIE indexed journal), Elsevier, ISSN 0885-2308, Vol.24, Issue 3, pp.461-473
+2008
+Tri,Thanh Nguyen, Le Minh Nguyen, Akira Shimazu
+Using Semi-supervised Learning for Question Classification
+Journal of Natural Language Processing, The Association for Natural Language Processing, ISSN 1340-7619, Vol.15, No.1, pp.3-22
+2007
+Minh Le Nguyen, Thanh Tri Nguyen, Akira Shimazu
+Subtree mining for question classification problem
+Proceedings of the 20th IJCAI, ISBN 978-1-57735-298-3, pp.1695-1700
+Nguyen Thanh Tri, Minh Le Nguyen, Akira Shimazu
+Improving the Accuracy of Question Classification with Machine Learning
+IEEE International Conference on Research, Innovation and Vision for the Future, ISBN 1-4244-0694-3, pp.234-241
+Nguyen Thanh Tri, Akira Shimazu
+Automatic Extraction of the Fine Category of Person Named Entities from Text Corpora
+IEICE TRANSACTIONS on Information and Systems, ISSN 1745-1361, Vol.E90-D, No.10, pp.1542-1549
+Nguyen Thanh Tri, Akira Shimazu
+Acquisition of Named-Entity-Related Relations for Searching
+PACLIC21, ACL anthology, ISBN 4-921112-1108, pp.349-357
+2006
+Nguyen Thanh Tri, Nguyen Minh Le, Akira Shimazu
+Using Semi-supervised Learning for Question Classification
+21st International Conference, ICCPOL 2006, Lecture notes in Artificial Intelligence (LNAI), Springer, ISBN 978-3-540-49668-7, pp.31-41
+Nguyen Thanh Tri, Akira Shimazu, Le Cuong Anh, Nguyen Minh Le
+Applying RST Relations to Semantic Search
+Proceedings of the 9th International Conference on Text, Speech and Dialog, LNAI, Springer, ISBN 978-3-540-39091-6, pp.189-196
+2001
+Nguyen Ngoc Minh, Nguyen Tri Thanh, Ha Quang Thuy, Luong Song Van, Nguyen Thi Van
+A Knowledge Discovery Model in Fulltext Databases
+Proceedings of International Conference on East-Asian Language Processing and Internet Information Technology 2002, pp.42-51
+Last updated: June 2023

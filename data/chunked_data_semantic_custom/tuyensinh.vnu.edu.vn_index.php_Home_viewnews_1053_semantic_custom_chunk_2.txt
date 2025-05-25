@@ -1,0 +1,217 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_1053.txt
+
+C
+h
+ỉ
+t
+i
+ê
+u
+t
+u
+y
+ể
+n
+s
+i
+nh
+đại học chính quy năm 2022
+STT
+Trình độ đào tạo
+Mã ngành xét tuyển
+Tên ngành xét tuyển
+Mã phương thức xét tuyển
+Tên phương thức xét tuyển
+% Chỉ tiêu (dự kiến)
+Chỉ tiêu (dự kiến)
+Tổ hợp môn xét tuyển 1
+Tổ hợp môn xét tuyển 2
+Tổ hợp môn xét tuyển 3
+Tổ hợp môn xét tuyển 4
+Tổ hợp môn
+Môn chính
+Tổ hợp môn
+Môn chính
+Tổ hợp môn
+Môn chính
+Tổ hợp môn
+Môn chính
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+(12)
+(13)
+(14)
+(15)
+1
+Cử nhân
+7310613
+Nhật Bản học
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2022
+30%
+15
+A01
+D28
+D01
+D06
+D14
+D63
+D78
+D81
+401
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQGHN tổ chức
+20%
+11
+301
+Xét tuyển thẳng theo Quy chế tuyển sinh hiện hành của Bộ GD&ĐT (Điều 8)
+10%
+5
+303
+Xét tuyển thẳng theo Quy định đặc thù và hướng dẫn tuyển sinh của ĐHQGHN
+501
+Xét hồ sơ năng lực thí sinh (xét hồ sơ và phỏng vấn)
+30%
+19
+502
+Xét tuyển chứng chỉ ngoại ngữ quốc tế (tiếng Anh, tiếng Nhật), kết hợp học bạ THPT và phỏng vấn
+409
+Xét tuyển chứng chỉ ngoại ngữ quốc tế (tiếng Anh, tiếng Nhật), kết hợp 02 môn thi tốt nghiệp THPT năm 2022
+10%
+5
+408
+Xét tuyển kết quả trong kỳ thi chuẩn hóa SAT
+408
+Xét tuyển chứng chỉ A-Level
+408
+Xét tuyển chứng chỉ ACT
+2
+Cử nhân
+7480204
+Khoa học và Kỹ thuật máy tính
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2022
+30%
+25
+A00
+A01
+D28
+D07
+D23
+D08
+D33
+401
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQGHN tổ chức
+20%
+16
+301
+Xét tuyển thẳng theo Quy chế tuyển sinh hiện hành của Bộ GD&ĐT (Điều 8)
+10%
+8
+303
+Xét tuyển thẳng theo Quy định đặc thù và hướng dẫn tuyển sinh của ĐHQGHN
+501
+Xét hồ sơ năng lực thí sinh (xét hồ sơ và phỏng vấn)
+30%
+23
+502
+Xét tuyển chứng chỉ ngoại ngữ quốc tế (tiếng Anh, tiếng Nhật), kết hợp học bạ THPT và phỏng vấn
+409
+Xét tuyển chứng chỉ ngoại ngữ quốc tế (tiếng Anh, tiếng Nhật), kết hợp 02 môn thi tốt nghiệp THPT năm 2022
+10%
+8
+408
+Xét tuyển kết quả trong kỳ thi chuẩn hóa SAT
+408
+Xét tuyển chứng chỉ A-Level
+408
+Xét tuyển chứng chỉ ACT
+3
+Kỹ sư
+7620122
+Nông nghiệp thông minh và bền vững
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2022
+30%
+15
+A00
+B00
+D07
+D23
+D08
+D33
+401
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQGHN tổ chức
+20%
+10
+301
+Xét tuyển thẳng theo Quy chế tuyển sinh hiện hành của Bộ GD&ĐT (Điều 8)
+10%
+5
+303
+Xét tuyển thẳng theo Quy định đặc thù và hướng dẫn tuyển sinh của ĐHQGHN
+501
+Xét hồ sơ năng lực thí sinh (xét hồ sơ và phỏng vấn)
+30%
+15
+502
+Xét tuyển chứng chỉ ngoại ngữ quốc tế (tiếng Anh, tiếng Nhật), kết hợp học bạ THPT và phỏng vấn
+409
+Xét tuyển chứng chỉ ngoại ngữ quốc tế (tiếng Anh, tiếng Nhật), kết hợp 02 môn thi tốt nghiệp THPT năm 2022
+10%
+5
+408
+Xét tuyển kết quả trong kỳ thi chuẩn hóa SAT
+408
+Xét tuyển chứng chỉ A-Level
+408
+Xét tuyển chứng chỉ ACT
+4
+Kỹ sư
+7580201
+Kỹ thuật xây dựng
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2022
+30%
+23
+A00
+A01
+D28
+D07
+D23
+401
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQGHN tổ chức
+20%
+15
+301
+Xét tuyển thẳng theo Quy chế tuyển sinh hiện hành của Bộ GD&ĐT (Điều 8)
+10%
+7
+303
+Xét tuyển thẳng theo Quy định đặc thù và hướng dẫn tuyển sinh của ĐHQGHN
+501
+Xét hồ sơ năng lực thí sinh (xét hồ sơ và phỏng vấn)
+30%
+23
+502
+Xét tuyển chứng chỉ ngoại ngữ quốc tế (tiếng Anh, tiếng Nhật), kết hợp học bạ THPT và phỏng vấn
+409
+Xét tuyển chứng chỉ ngoại ngữ quốc tế (tiếng Anh, tiếng Nhật), kết hợp 02 môn thi tốt nghiệp THPT năm 2022
+10%
+7
+408
+Xét tuyển kết quả trong kỳ thi chuẩn hóa SAT
+408
+Xét tuyển chứng chỉ A-Level
+408
+Xét tuyển chứng chỉ ACT
+Ghi chú: Chỉ tiêu dành cho phương thức xét tuyển sử dụng chứng chỉ ngoại ngữ quốc tế kết hợp kết quả học tập bậc THPT và phỏng vấn được cộng gộp với phương thức xét hồ sơ năng lực thí sinh
+1.5.

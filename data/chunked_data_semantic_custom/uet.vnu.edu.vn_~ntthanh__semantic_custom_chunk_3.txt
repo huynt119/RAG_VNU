@@ -1,0 +1,61 @@
+Nguồn: uet.vnu.edu.vn_~ntthanh_.txt
+
+Lecture Notes in Computer Science Volume 9078, Advances in Knowledge Discovery and Data Mining, ISBN 978-3-319-18032-8, pp.64-75
+2014
+Tri-Thanh Nguyen, Quang-Thuy Ha
+Novel Operations for FP-tree Data Structure and Their Applications
+International Conference on Computer Science, Applied Mathematics and,Applications (ICCSAMA 2014), (ISI convered conference), Springer, ISBN 978-3-319-06568-7, pp.229-242
+Dinh-Luyen Bui, Tri-Thanh Nguyen, Quang-Thuy Ha
+Measuring the Influence of Bloggers in Their Community Based on the H-Index Family
+ICCSAMA 2014, Springer, ISBN 978-3-319-06568-7, pp.313-324
+2013
+Tri-Thanh Nguyen
+A Compact FP-tree for Fast Frequent Pattern Retrieval
+PACLIC27, ACL Anthology, (SCOPUS indexed), ISBN 978-986-03-8567-0, pp.430-439
+Thi-Tuoi Nguyen, Tri-Thanh Nguyen, Quang-Thuy Ha
+Applying Hidden Topics in Ranking Social Update Streams on Twitter
+The 10th IEEE RIVF International Conference on Computing and Communication, (IEEE Explorer), ISBN 978-1-4799-1349-7, pp. 180-185
+Minh-Tien Nguyen, Tri-Thanh Nguyen
+Extraction of Disease Events for Real-time Monitoring System
+4th SoICT, ACM Digital Library, (DBLP indexed), ISBN 978-1-4503-2454-0, pp.139-147
+2012
+Duc-Trong Le, Mai-Vu Tran, Tri-Thanh Nguyen, Quang-Thuy Ha
+Kết hợp luật ngữ nghĩa và học máy cho bài toán phân lớp văn bản chứa sự kiện dịch bệnh
+Tạp chí Nghiên cứu và Công nghệ Quân sự, ISSN 1859 - 1043, pp.50-58
+2011
+Duc-Trong Le, Mai-Vu Tran, Tri-Thanh Nguyen, Quang-Thuy Ha
+Co-reference Resolution in Vietnamese Documents Based on Support Vector Machines
+IALP, (IEEE explorer), ISBN: 978-1-4577-1733-8, pp.89-92
+2010
+Van-Nam Huynh, Tri Thanh Nguyen, Cuong Anh Le
+Adaptively entropy-based weighting classifiers in combination using Dempster-Shafer theory for word sense disambiguation
+Computer Speech and Language (SCIE indexed journal), Elsevier, ISSN 0885-2308, Vol.24, Issue 3, pp.461-473
+2008
+Tri,Thanh Nguyen, Le Minh Nguyen, Akira Shimazu
+Using Semi-supervised Learning for Question Classification
+Journal of Natural Language Processing, The Association for Natural Language Processing, ISSN 1340-7619, Vol.15, No.1, pp.3-22
+2007
+Minh Le Nguyen, Thanh Tri Nguyen, Akira Shimazu
+Subtree mining for question classification problem
+Proceedings of the 20th IJCAI, ISBN 978-1-57735-298-3, pp.1695-1700
+Nguyen Thanh Tri, Minh Le Nguyen, Akira Shimazu
+Improving the Accuracy of Question Classification with Machine Learning
+IEEE International Conference on Research, Innovation and Vision for the Future, ISBN 1-4244-0694-3, pp.234-241
+Nguyen Thanh Tri, Akira Shimazu
+Automatic Extraction of the Fine Category of Person Named Entities from Text Corpora
+IEICE TRANSACTIONS on Information and Systems, ISSN 1745-1361, Vol.E90-D, No.10, pp.1542-1549
+Nguyen Thanh Tri, Akira Shimazu
+Acquisition of Named-Entity-Related Relations for Searching
+PACLIC21, ACL anthology, ISBN 4-921112-1108, pp.349-357
+2006
+Nguyen Thanh Tri, Nguyen Minh Le, Akira Shimazu
+Using Semi-supervised Learning for Question Classification
+21st International Conference, ICCPOL 2006, Lecture notes in Artificial Intelligence (LNAI), Springer, ISBN 978-3-540-49668-7, pp.31-41
+Nguyen Thanh Tri, Akira Shimazu, Le Cuong Anh, Nguyen Minh Le
+Applying RST Relations to Semantic Search
+Proceedings of the 9th International Conference on Text, Speech and Dialog, LNAI, Springer, ISBN 978-3-540-39091-6, pp.189-196
+2001
+Nguyen Ngoc Minh, Nguyen Tri Thanh, Ha Quang Thuy, Luong Song Van, Nguyen Thi Van
+A Knowledge Discovery Model in Fulltext Databases
+Proceedings of International Conference on East-Asian Language Processing and Internet Information Technology 2002, pp.42-51
+Last updated: June 2023

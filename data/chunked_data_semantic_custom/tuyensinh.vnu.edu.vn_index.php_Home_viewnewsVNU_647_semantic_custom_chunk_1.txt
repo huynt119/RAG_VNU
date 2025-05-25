@@ -1,0 +1,637 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_647.txt
+
+Danh sách giảng viên cơ hữu chủ trì giảng dạy và tính chỉ tiêu tuyển sinh trình độ đại học
+Stt
+Họ và tên
+Giới tính
+Chức danh khoa học
+Trình độ
+chuyên môn
+Chuyên môn đào tạo
+Ngành/ trình độ chủ trì giảng dạy và tính chỉ tiêu tuyển sinh
+Đại học
+Mã ngành
+Tên ngành
+1
+Lê Văn Cảm
+Nam
+GS
+TSKH
+Luật học
+7380101
+Luật
+2
+Nguyễn Bá Diến
+Nam
+GS
+TS
+Luật học
+7380110
+Luật KD
+3
+Nguyễn Đăng Dung
+Nam
+GS
+TS
+Luật học
+7380101
+Luật
+4
+Phan Trung Lý
+Nam
+GS
+TS
+Luật học
+7380110
+Luật KD
+5
+Đỗ Ngọc Quang
+Nam
+GS
+TS
+Luật học
+7380109
+Luật TMQT
+6
+Hoàng Thị Kim Quế
+Nữ
+GS
+TS
+Luật học
+7380101
+Luật
+7
+Phạm Hồng Thái
+Nam
+GS
+TS
+Luật học
+7380110
+Luật KD
+8
+Đào Trí Úc
+Nam
+GS
+TSKH
+Luật học
+7380101
+Luật
+9
+Nguyễn Hoàng Anh
+Nữ
+PGS
+TS
+Luật học
+7380101
+Luật
+10
+Nguyễn Thị Quế Anh
+Nữ
+PGS
+TS
+Luật học
+7380101
+Luật
+11
+Ngô Huy Cương
+Nam
+PGS
+TS
+Luật học
+7380101
+Luật
+12
+Nguyễn Ngọc Chí
+Nam
+PGS
+TS
+Luật học
+7380101
+Luật
+13
+Dương Đức Chính
+Nam
+PGS
+TS
+Luật học
+7380110
+Luật KD
+14
+Vũ Công Giao
+Nam
+PGS
+TS
+Luật học
+7380101
+Luật
+15
+Đỗ Đức Minh
+Nam
+PGS
+TS
+Luật học
+7380101
+Luật
+16
+Đoàn Năng
+Nam
+PGS
+TS
+Luật học
+7380110
+Luật KD
+17
+Doãn Hồng Nhung
+Nữ
+PGS
+TS
+Luật học
+7380101
+Luật
+18
+Trần Quang Tiệp
+Nam
+PGS
+TS
+Luật học
+7380101
+Luật
+19
+Trịnh Quốc Toản
+Nam
+PGS
+TS
+Luật học
+7380101
+Luật
+20
+Đặng Minh Tuấn
+Nam
+PGS
+TS
+Luật học
+7380110
+Luật KD
+21
+Nguyễn Minh Tuấn
+Nam
+PGS
+TS
+Luật học
+7380110
+Luật KD
+22
+Chu Hồng Thanh
+Nam
+PGS
+TS
+Luật học
+7380110
+Luật KD
+23
+Lê Thị Hoài Thu
+Nữ
+PGS
+TS
+Luật học
+7380101
+Luật
+24
+Kiều Đình Thụ
+Nam
+PGS
+TS
+Luật học
+7380109
+Luật TMQT
+25
+Lê Thị Thu Thủy
+Nữ
+PGS
+TS
+Luật học
+7380109
+Luật TMQT
+26
+Trịnh Tiến Việt
+Nam
+PGS
+TS
+Luật học
+7380110
+Luật KD
+27
+Nguyễn Tiến Vinh
+Nam
+PGS
+TS
+Luật học
+7380109
+Luật TMQT
+28
+Trần Quốc Bình
+Nam
+TS
+Luật học
+7380101
+Luật
+29
+Nguyễn Thị Phương Châm
+Nữ
+TS
+Luật học
+7380101
+Luật
+30
+Lê Lan Chi
+Nữ
+TS
+Luật học
+7380101
+Luật
+31
+Trương Thị Kim Dung
+Nữ
+TS
+Luật học
+7380101
+Luật
+32
+Bùi Tiến Đạt
+Nam
+TS
+Luật học
+7380109
+Luật TMQT
+33
+Mai Hải Đăng
+Nam
+TS
+Luật học
+7380101
+Luật
+34
+Nguyễn Trọng Điệp
+Nam
+TS
+Luật học
+7380101
+Luật
+35
+Nguyễn Thị Minh Hà
+Nữ
+TS
+Luật học
+7380101
+Luật
+36
+Nguyễn Khắc Hải
+Nam
+TS
+Luật học
+7380101
+Luật
+37
+Trần Thu Hạnh
+Nữ
+TS
+Luật học
+7380101
+Luật
+38
+Đặng Vũ Huân
+Nam
+TS
+Luật học
+7380101
+Luật
+39
+Nguyễn Thanh Huyền
+Nữ
+TS
+Luật học
+7380101
+Luật
+40
+Nguyễn Vinh Hưng
+Nam
+TS
+Luật học
+7380110
+Luật KD
+41
+Ngô Thanh Hương
+Nữ
+TS
+Luật học
+7380109
+Luật TMQT
+42
+Ngô Thị Minh Hương
+Nữ
+TS
+Luật học
+7380110
+Luật KD
+43
+Nguyễn Thị Lan Hương
+Nữ
+TS
+Luật học
+7380110
+Luật KD
+44
+Nguyễn Thị Thu Hương
+Nữ
+TS
+Luật học
+7380101
+Luật
+45
+Đào Thị Thu Hường
+Nữ
+TS
+Luật học
+7380109
+Luật TMQT
+46
+Trần Kiên
+Nam
+TS
+Luật học
+7380110
+Luật KD
+47
+Nguyễn Thị Lan
+Nữ
+TS
+Luật học
+7380109
+Luật TMQT
+48
+Đặng Thị Bích Liễu
+Nữ
+TS
+Luật học
+7380101
+Luật
+49
+Nguyễn Thị Minh
+Nữ
+TS
+Luật học
+7380101
+Luật
+50
+Đỗ Giang Nam
+Nam
+TS
+Luật học
+7380109
+Luật TMQT
+51
+Nguyễn Thành Nam
+Nam
+TS
+Luật học
+7380101
+Luật
+52
+Lê Thị Phương Nga
+Nữ
+TS
+Luật học
+7380110
+Luật KD
+53
+Chu Thị Ngọc
+Nữ
+TS
+Luật học
+7380101
+Luật
+54
+Nguyễn Lan Nguyên
+Nữ
+TS
+Luật học
+7380101
+Luật
+55
+Phan Quốc Nguyên
+Nam
+TS
+Luật học
+7380110
+Luật KD
+56
+Lê Kim Nguyệt
+Nữ
+TS
+Luật học
+7380110
+Luật KD
+57
+Bùi Xuân Nhự
+Nam
+TS
+Luật học
+7380101
+Luật
+58
+Nguyễn Văn Phương
+Nam
+TS
+Luật học
+7380101
+Luật
+59
+Phan Thị Lan Phương
+Nữ
+TS
+Luật học
+7380110
+Luật KD
+60
+Nguyễn Văn Quân
+Nam
+TS
+Luật học
+7380109
+Luật TMQT
+61
+Hoàng Văn Quynh
+Nam
+TS
+Luật học
+7380110
+Luật KD
+62
+Nguyễn Sơn
+Nam
+TS
+Luật học
+7380109
+Luật TMQT
+63
+Nguyễn Thị Xuân Sơn
+Nữ
+TS
+Luật học
+7380110
+Luật KD
+64
+Nguyễn Văn Tuân
+Nam
+TS
+Luật học
+7380101
+Luật
+65
+Hoàng Anh Tuấn
+Nam
+TS
+Luật học
+7380101
+Luật
+66
+Lã Khánh Tùng
+Nam
+TS
+Luật học
+7380109
+Luật TMQT
+67
+Nguyễn Bích Thảo
+Nữ
+TS
+Luật học
+7380110
+Luật KD
+68
+Phạm Thị Duyên Thảo
+Nữ
+TS
+Luật học
+7380110
+Luật KD
+69
+Mai Văn Thắng
+Nam
+TS
+Luật học
+7380110
+Luật KD
+70
+Nguyễn Mạnh Thắng
+Nam
+TS
+Luật học
+7380101
+Luật
+71
+Trần Nho Thìn
+Nam
+TS
+Luật học
+7380101
+Luật
+72
+Nguyễn Lê Thu
+Nữ
+TS
+Luật học
+7380109
+Luật TMQT
+73
+Nguyễn Thị Anh Thu
+Nữ
+TS
+Luật học
+7380101
+Luật
+74
+Phan Thị Thanh Thủy
+Nữ
+TS
+Luật học
+7380101
+Luật
+75
+Trần Trí Trung
+Nam
+TS
+Luật học
+7380101
+Luật
+76
+Nguyễn Khắc Chinh
+Nam
+ThS
+Luật học
+7380101
+Luật
+77
+Nguyễn Đăng Duy
+Nam
+ThS
+Luật học
+7380101
+Luật
+78
+Nguyễn Thùy Dương
+Nữ
+ThS
+Luật học
+7380101
+Luật
+79
+Nguyễn Anh Đức
+Nam
+ThS
+Luật học
+7380110
+Luật KD
+80
+Nguyễn Thị Mỹ Hạnh
+Nữ
+ThS
+Luật học
+7380110
+Luật KD
+81
+Lê Thị Bích Huệ
+Nữ
+ThS
+Luật học
+7380110
+Luật KD
+82
+Khuất Quang Phát
+Nam
+ThS
+Luật học
+7380109
+Luật TMQT
+83
+Nguyễn Thị Hoài Phương
+Nữ
+ThS
+Luật học
+7380109
+Luật TMQT
+84
+Trần Công Thịnh
+Nam
+ThS
+Luật học
+7380109
+Luật TMQT
+85
+Nguyễn Anh Thư
+Nữ
+CN
+Luật học
+7380109
+Luật TMQT
+2.2.

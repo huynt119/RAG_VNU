@@ -1,0 +1,169 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-xay-dung-7_.txt
+
+KHỐI KIẾN THỨC BỔ SUNG
+6
+1
+CTE 3047
+Quản lí dự án và rủi ro/
+2
+25
+5
+0
+Project and Risk
+Management
+2
+CTE 3016
+Phong thủy trong xây
+dựng/
+2
+25
+5
+0
+Feng sui in Civil
+Engineering
+3
+CTE 4011
+Những vấn đề hiện đại
+trong lĩnh vực công nghệ và Kĩ thuật xây dựng/
+2
+25
+5
+0
+Frontier Problems in Civil Engineering and
+Technologys
+PHẦN
+2. KHỐI
+KIẾN
+THỨC
+THEO
+CHƯƠNG
+TRÌNH ĐÀO TẠO THẠC SĨ
+27
+I
+Khối kiến thức chung
+3
+4
+PHI 5001
+Triết học/
+3
+30
+15
+0
+Philosophy
+II
+Khối kiến thức cơ sở và chuyên ngành
+24
+II.1
+Học phần bắt buộc
+9
+5
+CTE 6101
+Phát triển đô thị thông minh/
+3
+30
+15
+0
+Smart City Development
+6
+CTE 6102
+Quản lí quy hoạch, kiến
+trúc và xây dựng đô thị/
+3
+30
+15
+0
+Management of Urban Planning, Architecture and
+Construction
+7
+INT 6120
+Phương pháp luận nghiên
+cứu khoa học/
+3
+30
+0
+15
+Research Methodology
+II.2
+Các học phần lựa chọn
+15/21
+8
+CTE 6105
+Hầm và công trình ngầm/
+Tunnels and underground construction
+3
+30
+15
+0
+9
+CTE 6106
+Tự động hóa thiết kế công trình xây dựng/
+3
+30
+15
+0
+CAD in Civil Engineering
+10
+CTE 6107
+Nhận diện mối nguy và đánh giá rủi ro/
+3
+30
+15
+0
+Harazd Analysis and Risk Assessment
+11
+CTE 6108
+Kết cấu bê tông cốt thép nâng cao/
+3
+30
+15
+0
+Advanced reinforced concrete structures
+12
+CTE 6109
+Nền móng nâng cao/
+3
+30
+15
+0
+Advanced foundation engineering
+13
+CTE 6110
+Vật liệu xây dựng nâng cao/
+3
+30
+15
+0
+Advanced construction materials
+14
+CTE 6111
+Đánh giá độ tin cậy công trình/
+Structural reliability analysis
+3
+30
+15
+0
+15
+CTE 6112
+Công nghệ xây dựng đặc biệt/
+Special construction technology
+3
+30
+15
+0
+16
+CTE 6113
+Cơ học môi trường liên tục nâng cao/
+3
+30
+15
+0
+Advanced Continuum Mechanics
+17
+CTE 6114
+Cơ sở khoa học bền vững/
+Sustainability Science
+3
+30
+15
+0
+PHẦN 3.

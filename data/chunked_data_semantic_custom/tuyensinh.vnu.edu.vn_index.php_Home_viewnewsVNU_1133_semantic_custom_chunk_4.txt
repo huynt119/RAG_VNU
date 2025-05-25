@@ -1,0 +1,56 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_1133.txt
+
+Thông tin danh mục ngành được phép đào tạo
+Đường link công khai danh mục ngành được phép đào tạo trên trang thông tin điện tử của đơn vị đào tạo: https://vju.ac.vn/dao-tao/chuong-trinh-dai-hoc-st116.html
+TT
+Tên ngành
+Mã ngành
+Số văn bản mở ngành
+Ngày tháng năm ban hành văn bản cho phép mở ngành
+Số văn bản chuyển đổi mã hoặc tên ngành (gần nhất)
+Ngày tháng năm ban hành văn bản chuyển đổi mã hoặc tên ngành (gần nhất)
+Trường tự chủ ban hành hoặc Cơ quan có thẩm quyền cho phép
+Năm bắt đầu đào tạo
+Năm đã tuyển sinh và đào tạo gần nhất với năm tuyển sinh
+Nhật Bản học
+7310613
+1022/QĐ
+ĐHQGHN
+06/04/2020
+ĐHQGHN
+2020
+2022
+Khoa học và Kỹ thuật máy tinh
+7480204
+1221/QĐ-ĐHQGHN
+29/04/2021
+ĐHQGHN
+2021
+2022
+Nông nghiệp thông minh và bền vững
+7620122
+1879/QĐ-ĐHQGHN
+07/06/2022
+ĐHQGHN
+2022
+2022
+Kỹ thuật xây dựng
+7580201
+1878/QĐ-ĐHQGHN
+07/06/2022
+ĐHQGHN
+2022
+2022
+Kỹ thuật cơ điện tử
+7520114
+1841/QĐ-ĐHQGHN
+30/05/2023
+ĐHQGHN
+2023
+Công nghệ thực phẩm
+7540118QTD
+1850/QĐ-ĐHQGHN
+30/05/2023
+ĐHQGHN
+2023
+10.

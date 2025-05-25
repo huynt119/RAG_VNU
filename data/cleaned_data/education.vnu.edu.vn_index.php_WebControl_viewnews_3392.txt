@@ -1,0 +1,105 @@
+Khơi nguồn sáng tạo – Lan tỏa tinh thần nghiên cứu: Hội nghị Sinh viên Nghiên cứu Khoa học Khoa Giáo dục Sớm và Giáo dục Tiểu học năm 2025
+Ngày 4/4/2025, Khoa Giáo dục Sớm và Giáo dục Tiểu học – Trường Đại học Giáo dục, Đại học Quốc gia Hà Nội đã tổ chức Hội nghị Sinh viên Nghiên cứu Khoa học năm học 2024 – 2025 lần thứ nhất, đánh dấu một bước tiến quan trọng trong việc xây dựng văn hóa học thuật và khơi dậy tinh thần đổi mới sáng tạo trong sinh viên.
+Các đại biểu tham dự Hội nghị
+Hội nghị là nơi quy tụ các đề tài nghiên cứu tiêu biểu của sinh viên trong Khoa, thể hiện sự đa dạng trong hướng tiếp cận, chiều sâu trong tư duy học thuật và tinh thần chủ động giải quyết vấn đề thực tiễn giáo dục. Ban giám khảo từ 02 hội đồng của Khoa đã lựa chọn được 11 đề tài trình bày tại Hội nghị trải rộng trên nhiều lĩnh vực: từ giáo dục trẻ mầm non, giáo dục tiểu học, ứng dụng công nghệ, phát triển ngôn ngữ cho trẻ em có hoàn cảnh đặc biệt, đến tích hợp giáo dục môi trường và STEAM trong đào tạo giáo viên.
+Đặc biệt, xu hướng ứng dụng trí tuệ nhân tạo (AI) trong thiết kế bài giảng, sửa lỗi phát âm, xây dựng học liệu số, cho thấy sinh viên đã chủ động tiếp cận công nghệ hiện đại và bắt nhịp với quá trình chuyển đổi số đang diễn ra mạnh mẽ trong ngành giáo dục.
+Phát biểu chỉ đạo tại Hội nghị, GS.TS.NGƯT Nguyễn Quý Thanh – Hiệu trưởng Trường Đại học Giáo dục – đã khẳng định vai trò then chốt của hoạt động nghiên cứu khoa học trong việc hình thành năng lực tư duy phản biện, khả năng học tập suốt đời và đạo đức nghề nghiệp cho sinh viên sư phạm. Theo thầy, sinh viên cần được khơi dậy niềm đam mê khám phá tri thức và phải dám bước ra khỏi vùng an toàn để tìm kiếm những giải pháp mới cho các vấn đề giáo dục đương đại. Thầy cũng đánh giá cao các đề tài nghiên cứu năm nay, không chỉ về tính khoa học mà còn ở sự kết nối sâu sắc với thực tiễn giáo dục trẻ em tại Việt Nam.
+GS.TS.NGƯT Nguyễn Quý Thanh - Hiệu trưởng trường ĐHGD phát biểu chỉ đạo tại Hội nghị.
+Đồng quan điểm, PGS.TS Trần Thành Nam – Phó Hiệu trưởng Trường Đại học Giáo dục – nhấn mạnh rằng, môi trường đại học không chỉ là nơi truyền thụ kiến thức mà còn phải là cái nôi nuôi dưỡng tinh thần khoa học và đổi mới sáng tạo. Thầy cho rằng, việc sinh viên tham gia nghiên cứu sẽ giúp hình thành nền tảng vững chắc cho năng lực nghề nghiệp, đồng thời mở ra cơ hội kết nối học thuật, trao đổi quốc tế và khởi nghiệp trong lĩnh vực giáo dục. Thầy kỳ vọng trong thời gian tới, các nhóm sinh viên sẽ tiếp tục phát triển nghiên cứu theo hướng chuyên sâu, có công bố quốc tế và đóng góp vào hệ sinh thái học thuật của Nhà trường.
+PGS.TS Trần Thành Nam - Phó hiệu trưởng trường ĐHGD phát biểu chỉ đạo tại Hội nghị.
+Trong phần phát biểu khai mạc, PGS.TS Phạm Quang Tiệp – Trưởng Khoa Giáo dục Sớm và Giáo dục Tiểu học – đã chia sẻ đầy tâm huyết về hành trình của từng đề tài và sự cố gắng của các sinh viên dưới sự hướng dẫn của giảng viên. Thầy khẳng định rằng, Hội nghị không chỉ là nơi đánh giá kết quả mà còn là bước khởi đầu cho những ý tưởng mang tính đổi mới, đóng góp vào cải tiến thực hành giáo dục. Khoa sẽ tiếp tục đồng hành, tạo điều kiện tối đa về cơ sở vật chất, học thuật và kết nối thực tiễn để các ý tưởng nghiên cứu của sinh viên có thể được phát triển lâu dài, mang lại giá trị thực tiễn cao.
+PGS.TS Phạm Quang Tiệp - Trưởng khoa Giáo dục sớm và Tiểu học phát biểu khai mạc Hội nghị.
+Những đề tài tiêu biểu được trình bày tại Hội nghị:
+STT
+Tên đề tài
+Tác giả
+Tóm tắt nội dung
+1
+Ứng dụng GEN AI trong thiết kế quy trình dạy học môn khoa học nhằm phát triển năng lực khoa học cho học sinh lớp 5
+Lưu Thị Thu Hường, Đỗ Mai Linh
+Nghiên cứu đề xuất quy trình dạy học tích hợp Gen AI để trực quan hóa, cá nhân hóa và nâng cao tư duy khoa học của học sinh.
+2
+Thực trạng sử dụng phương tiện truyền thông trong giáo dục trẻ từ 0 đến 36 tháng tuổi ở gia đình và khuyến nghị cho cha mẹ và người chăm sóc trẻ
+Vũ Thị Thanh Mai, Phạm Thị Hà Trang, Lô Hoài Lâm, Bùi Hiền Lương, Lê Khánh Ly
+Khảo sát tình hình sử dụng thiết bị truyền thông trong gia đình, đánh giá tác động tới sự phát triển trẻ nhỏ và đề xuất khuyến nghị giáo dục phù hợp.
+3
+Vận dụng thuyết đa trí tuệ trong dạy học viết bài văn miêu tả cho học sinh lớp 5
+Nguyễn Thị Ánh Lệ, Phạm Thị Hồng Nhung, Phạm Thu Chinh
+Áp dụng lý thuyết đa trí tuệ vào dạy học viết văn miêu tả nhằm phát triển toàn diện các loại hình trí thông minh cho học sinh.
+4
+Thiết kế bộ kit thai giáo phát triển ngôn ngữ cho thai nhi ở các giai đoạn khác nhau
+Phạm Thị Giang, Thào Thị Pàng, Phạm Thị Yến Nhi, Cao Phương Thảo, Chu Hà Ly, Nguyễn Thị Huệ
+Thiết kế bộ tài liệu, công cụ hỗ trợ thực hành thai giáo ngôn ngữ nhằm kích thích phát triển ngôn ngữ thai nhi qua môi trường tương tác tích cực.
+5
+Ứng dụng phần mềm Plickers trong dạy học môn Toán theo hướng tiếp cận học thông qua chơi nhằm phát triển năng lực toán cho học sinh tiểu học
+Nguyễn Thị Kim Ngân, Nguyễn Thị Thu Hằng, Hà Thị Thanh Thảo
+Tích hợp phần mềm Plickers trong kiểm tra toán theo hình thức trò chơi để phát triển năng lực tư duy toán học và tăng hứng thú học tập.
+6
+Vận dụng công cụ AI trong sửa lỗi phát âm tiếng Việt cho sinh viên ngành giáo dục mầm non, giáo dục tiểu học
+Châu Ngọc Thảo Nhi, Nguyễn Thị Chiên, Sầm Thị Hải Chung, Lê Đoan Trang, Triệu Thị Trang, Vũ Thùy Dương, Hồ Thị Nga
+Ứng dụng AI để chẩn đoán và điều chỉnh lỗi phát âm của sinh viên sư phạm, góp phần nâng cao năng lực ngôn ngữ nghề nghiệp.
+7
+Thực trạng giáo dục ngôn ngữ cho trẻ khiếm thị 3-4 tuổi ở các cơ sở giáo dục
+Lăng Thanh Tâm
+Phân tích thực trạng giáo dục ngôn ngữ cho trẻ khiếm thị, đề xuất hướng cải tiến về học liệu, phương pháp và môi trường học tập.
+8
+Tác động của khóa học dạy học dự án STEAM đối với năng lực giảng dạy của sinh viên sư phạm tiểu học
+Quàng Thị Quý
+Đánh giá ảnh hưởng tích cực của khóa học STEAM tới việc phát triển năng lực tích hợp liên môn và đổi mới phương pháp của sinh viên.
+9
+Xây dựng bộ giáo cụ tích hợp đa giác quan chủ đề thực vật và động vật để dạy học môn Tự nhiên và Xã hội, khoa học ở tiểu học
+Nguyễn Thị Hồng Linh, Trương Thị Thảo, Nguyễn Thị Lan Anh, Trần Thành Luân, Nguyễn Minh Tuấn
+Thiết kế bộ giáo cụ kích thích đa giác quan nhằm phát triển tư duy hệ thống và khả năng nhận thức thế giới tự nhiên của học sinh.
+10
+Trò chơi ngôn ngữ phát triển kỹ năng nói tiếng Anh của trẻ mầm non: Phân tích trắc lượng thư mục
+Trần Thị Huyền, Nguyễn Thị Thu, Phùng Thu Hà, Định Thị Mai Anh, Vũ Thị Thanh Mai
+Tổng hợp nghiên cứu quốc tế qua phân tích trắc lượng thư mục để xác định hiệu quả của trò chơi ngôn ngữ trong phát triển kỹ năng nói tiếng Anh cho trẻ.
+11
+Giáo dục bảo vệ môi trường cho trẻ 5-6 tuổi qua trò chơi điện tử
+Vũ Thị Thanh Mai, Nhữ Hồng Linh, Vũ Thị Thảo, Trần Thị Ngọc Thêu, Lan Tiểu Vy, Nùng Thị Lan Anh
+Thiết kế trò chơi điện tử phù hợp với tâm lý trẻ mẫu giáo nhằm nâng cao nhận thức và hành vi bảo vệ môi trường.
+Hội nghị Sinh viên Nghiên cứu Khoa học năm 2025 không chỉ là một sự kiện học thuật thường niên mà còn là minh chứng rõ nét cho chất lượng đào tạo, định hướng đổi mới và tinh thần sáng tạo mà Khoa Giáo dục Sớm và Giáo dục Tiểu học đang theo đuổi. Các đề tài, các nhà nghiên cứu sinh viên và các giảng viên hướng dẫn chính là những hạt giống tốt được gieo trồng trong môi trường học thuật lý tưởng. Với sự quan tâm sâu sát từ lãnh đạo Nhà trường, sự tận tâm của đội ngũ giảng viên và sự chủ động của sinh viên, chắc chắn rằng trong thời gian tới, các hoạt động nghiên cứu khoa học sinh viên của Khoa sẽ tiếp tục phát triển, góp phần xây dựng nền giáo dục.
+Một số hình ảnh tại Hội nghị:
+Khoa Giáo dục sớm và Tiểu học
+10:04 05/04/2025
+Tóm tắt và luận án tiến sĩ của NCS Ngô Văn Định trước bảo vệ
+Thông tin về luận án tiến sĩ của NCS Ngô Văn Định
+Thông báo về việc giới thiệu danh sách thành viên Hội đồng Giáo sư cơ sở Trường Đại học Giáo dục, ĐHQGHN năm 2025
+Thông báo tổ chức buổi bảo vệ luận án cấp Đại học Quốc gia của NCS Nguyễn Công Ước
+Thông báo tổ chức đánh giá luận án tiến sĩ của nghiên cứu sinh Lê Phương Thúy
+Thông báo về việc thu hồ sơ xét tốt nghiệp đợt tháng 6 năm 2025
+Thông báo thu học phí học kỳ II năm học 2024 - 2025 chương trình đào tạo cử nhân khóa QH2023S ngành
+Thông báo thu học phí học kỳ II năm học 2024-2025 chương trình đào tạo cử nhân khoá QH2021-S ngành GD3
+Tuyển sinh
+Đại học
+Sau đại học
+Chương trình bồi dưỡng
+Đào tạo
+Cử nhân Sư phạm Toán
+Cử nhân Sư phạm Vật lý
+Cử nhân Sư phạm Hóa học
+Cử nhân Sư phạm Sinh học
+Cử nhân Sư phạm Ngữ văn
+Cử nhân Sư phạm Lịch sử
+Cử nhân Sư phạm Khoa học Tự nhiên
+Cử nhân Quản trị trường học
+Cử nhân Quản trị Công nghệ Giáo dục
+Cử nhân Quản trị Chất lượng giáo dục
+Cử nhân Tham vấn học đường
+Cử nhân Khoa học Giáo dục
+Cử nhân Giáo dục mầm non
+Cử nhân Giáo dục tiểu học
+Cử nhân Sư phạm Lịch sử và Địa lý
+Cử nhân Tâm lí học
+Thạc sĩ Quản lý giáo dục
+Thạc sĩ LL&PPDH bộ môn (Toán, Vật lý, Hóa học, Sinh học, Ngữ văn, Lịch sử)
+Thạc sĩ Tâm lý học Lâm sàng TE&VTN
+Thạc sĩ Đo lường & Đánh giá trong GD
+Thạc sĩ Quản trị trường học
+Thạc sĩ Tham vấn học đường
+Thạc sĩ Giáo dục mầm non, giáo dục tiểu học
+Thạc sĩ Quản trị Công nghệ Giáo dục
+Tiến sĩ Quản lý Giáo dục
+Tiến sĩ Tâm lý học Lâm sàng TE&VTN
+Tiến sĩ Đo lường & Đánh giá trong GD
+Tiến sỹ Lý luận, phương pháp và công nghệ dạy học

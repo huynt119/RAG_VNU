@@ -1,0 +1,31 @@
+Bio:
+Xuan-Hieu Phan (Phan Xuan Hieu) was born and grew up in NgheAn, a province in the North-Central Vietnam.
+Right after high school (1997), he moved to Hanoi where he earned his B.S. (2001) and M.S. (2003) degrees,
+both in information technology and computer science from College of Technology (Coltech, now UET),
+Vietnam National University in Hanoi (VNUH). In late 2003, he moved to Japan to start pursuing his higher education.
+He obtained a Ph.D. degree in computer and information science in late 2006 from
+Graduate School of Information Science, Japan Advanced Institute of Science and Technology (JAIST).
+He was a JSPS postdoctoral fellow at Graduate School of Information Science (GSIS),
+Tohoku University from 2006 to 2008. He was also a research fellow at Centre for Health Informatics (CHI),
+University of New South Wales (UNSW), Sydney, Australia from 2008 to 2010.
+Education:
+- BS in information technology (2001): Coltech (now University of Engineering and Technology - UET),
+Vietnam National University, Hanoi (VNUH)
+- MS in computer science (2003): Coltech (now UET), Vietnam National University, Hanoi (VNUH)
+- PhD in computer and information science (2006): School of Information Science,
+Japan Advanced Institute of Science and Technology (JAIST)
+Employment:
+- 2011 - present: lecturer & researcher at University of Engineering and Technology (UET),
+Vietnam National University, Hanoi (VNU)
+- 2008 - 2010: research fellow at Centre for Health Informatics (CHI),
+University of New South Wales (UNSW), Sydney, Australia
+- 2006 - 2008: JSPS postdoctoral fellow at Graduate School of Information Sciences (GSIS), Tohoku University, Japan
+- 2001 - 2003: teaching assistant at Coltech (now UET), Vietnam National University, Hanoi (VNUH)
+Contact:
+Xuan-Hieu Phan
+Faculty of Information Technology,
+University of Engineering and Technology (UET),
+Vietnam National University, Hanoi (VNU)
+Office address: Room 318, E3 Building, 144 Xuan Thuy street, Cau Giay district, Hanoi, Vietnam
+Email: hieupx {at} vnu {dot} edu {dot} vn | pxhieu {at} gmail {dot} com
+URL: http://uet.vnu.edu.vn/~hieupx

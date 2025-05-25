@@ -1,0 +1,9 @@
+Nguồn: uet.vnu.edu.vn_thong_tin_luan_cua_ncs_luong_thanh_nhan_.txt
+
+Phương pháp đề xuất đã được triển khai thành công cụ kiểm chứng
+VeRA
+để hỗ trợ quá trình kiểm chứng tự động các hệ thống web theo phương pháp đề xuất. Đề xuất phương pháp kiểm chứng chính sách điều khiển truy cập theo thuộc tính
+. Các quy tắc truy cập của ứng dụng web được phân tích từ mã an ninh truy cập của dự án. Sự phù hợp của chính sách điều khiển truy cập theo thuộc tính được triển khai trong ứng web và đặc tả của nó được kiểm chứng thông qua các định nghĩa hình thức và các thuật toán kiểm tra tính bảo mật, tính toàn vẹn và tính sẵn sàng của chính sách truy cập. Sau đó, công cụ kiểm chứng
+APVer
+đã được phát triển từ phương pháp đã đề xuất và tiến hành thực nghiệm với các kịch bản triển khai chính sách truy cập trong hệ thống quản lý hồ sơ y tế. Khả năng ứng dụng trong thực tiễn: Phát hiện một số sai sót tại giai đoạn lập trình khi triển khai chính sách RBAC và ABAC của các hệ thống web. Những hướng nghiên cứu tiếp theo:
+Kiểm chứng đối với các hệ thống phần mềm có sự thừa kế vai trò trong mô hình chính sách RBAC hoặc tài nguyên của các tổ chức liên kết được chia sẻ qua các dịch vụ web trong mô hình ABAC. Kiểm chứng các tính chất an ninh phần mềm khác như tính trách nhiệm, tính chống chối bỏ.

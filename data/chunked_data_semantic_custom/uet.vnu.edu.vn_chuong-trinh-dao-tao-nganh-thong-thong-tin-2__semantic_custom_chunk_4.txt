@@ -1,0 +1,20 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-thong-thong-tin-2_.txt
+
+Vị trí việc làm mà học viên có thể đảm nhiệm sau khi tốt nghiệp
+Sau khi tốt nghiệp, Thạc sĩ HTTT có thể đáp ứng tốt các yêu cầu của thực tế tại các cơ sở nghiên cứu, giảng dạy, sản xuất, dịch vụ khoa học kỹ thuật hoạt động trong lĩnh vực CNTT. Thạc sĩ HTTT có thể:
+a. Đảm đương những vị trí quan trọng về HTTT sau đây trong các tổ chức (cơ quan / doanh nghiệp):
+Giảng viên đại học về lĩnh vực MT&CNTT…
+Giám đốc thông tin (Chief Information Officer: CIO),
+Kiến trúc sư HTTT (IS Architect),
+Quản lý dự án (Project Manager),
+Trưởng bộ phận CNTT (Head of the Information Technology Office),
+Chuyên gia tích hợp hệ thống (Systems Integrator),
+Chuyên gia phân tích-thiết kế hệ thống (Systems Analyst/Designer),
+Quản trị CSDL (Database Administrator),
+Chuyên gia phân tích kinh doanh (Business Analyst),
+Chuyên gia về khoa học dữ liệu (Data Scientist),
+b.
+Đảm bảo tính sáng tạo trong việc lãnh đạo nhóm, đội, đơn vị thực hiện hoạt động tăng cường tài nguyên tri thức và tài nguyên quy trình của tổ chức (doanh nghiệp, cơ quan) dựa trên CNTT. Khả năng học tập, nâng cao trình độ sau khi tốt nghiệp
+Thạc sĩ HTTT có thể tiếp tục thực hiện chương trình đào tạo Tiến sĩ về chuyên ngành HTTT cũng như các chuyên ngành khác của MT&CNTT theo các hướng: cơ sở dữ liệu, công nghệ tri thức và khai phá dữ liệu, an toàn và an ninh dữ liệu, tính toán hiệu năng cao, khoa học dich vụ…
+6. Các chương trình, tài liệu chuẩn quốc tế mà đơn vị đào tạo tham khảo để xây dựng chương trình đào tạo
+Chương trình đào tạo thạc sỹ HTTT được xây dựng trên cơ sở tham chiếu tới các khung chương trình đào tạo chuẩn của các tổ chức ACM/AIS và chương trình đào tạo Thạc sỹ Tính toán tại Trường Tính toán, ĐHQG Singapore (NUS-SoC).

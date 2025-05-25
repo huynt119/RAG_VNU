@@ -1,0 +1,272 @@
+Nguồn: uet.vnu.edu.vn_~anh.ld_.txt
+
+Anh, L. D.
+, Hoang, P. T., Hung, T. T., 2021, “Assessment of a Homogeneous Model for
+Simulating
+a
+Ca
+vitating
+Flow
+in
+Water
+under
+a
+W
+ide
+Range
+of
+Temper
+atures,”
+ASME
+Journal
+of
+Fluids
+En
+gineering
+143(10):
+101204,
+https://doi.org/10.1115/1.4051078
+(ISSN: 0098-2202)
+4. Anh, L.
+D.
+, 2022, “
+Study of
+Thermodynamic Effect
+on the
+Mechanism of Flashing
+Flow
+under
+Pre
+ssurized
+Hot
+Water
+by
+a
+Homo
+gene
+ous
+Model,”
+ASME
+J
+ournal
+of
+Fluids
+Engineering 144(1): 011206 (I
+SSN: 0098-2202
+)
+5. Hung
+, T. T.,
+Masayuki, A.,
+Takuji, N.,
+Keigo,
+S.,
+Anh, L. D.
+, 2022,
+“Exp
+erimental study
+of
+the
+skin-f
+riction
+topolog
+y
+around
+th
+e
+Ahmed
+body
+in
+cross-
+wind
+condition,”
+ASME
+Journal of Fluids Engineering 144(3), 031209 (I
+SSN: 0098
+-2202)
+6. Anh
+,
+L.
+D.
+,
+Hung,
+T.
+T.,
+2022,
+“
+I
+mprovement
+of
+Mass
+Tr
+ansfer
+Rate
+Modeling
+for
+Prediction
+of
+Cavitating
+Flow,”
+Journal
+of
+Applied
+Fluid
+Mechanics
+15(2),
+551-561
+(ISSN: 1735-3645)
+7. Anh,
+L.
+D.
+, L
+inh, N. L.,
+Anh,
+T.
+V.,
+Hung,
+T. T.,
+2022,
+“Assessment
+of
+Flow F
+luctuation
+Pressure
+Models
+for
+Simulating
+the
+Cavitating
+Flow,”
+Technical
+Physics
+Letters,
+48(4)
+(ISSN: 1090-6533), DOI: 10.21883/TPL.2022.04.53487.19136
+8. Anh,
+L.
+D.
+,
+Minh,
+B.
+D.,
+Tam,
+H.
+V.,
+Hung,
+T.
+T.,
+2022,
+“Modified
+S
+avonius
+W
+ind
+Turbine for Wind
+Energy Harvesting in
+Urban Environments,” ASME
+Journal of
+Fluids
+Engineering 144(8): 081501 (I
+SSN: 0098-2202
+)
+9. Anh,
+L.
+D.
+,
+Minh,
+B.,
+D.,
+Hung,
+T.
+T.,
+Trinh,
+C.
+D.,
+2022,
+“High
+Efficiency
+Energy
+Harvesting
+Using
+a
+Savonius
+Turbine
+With
+Multicurve
+and
+Auxiliary
+Blade,”
+ASME
+Journal of Fluids Engineering 144(11): 111207-1 (ISSN: 0098-2202)
+10. Minh,
+B.
+D.,
+Hun
+g,
+T.
+T.,
+Trinh,
+C.
+D.,
+Duc,
+N.
+D.,
+Anh,
+L.
+D
+,
+2023
+,
+“Performance
+enhancement
+of savonius
+wind
+turbine
+by
+multicurve blade
+shape,”
+Energy
+Source
+Part
+A:
+Recovery,
+Utilization,
+and
+Environmental
+Effects
+45(1),
+1624-1642
+(ISSN:
+1556-
+7230)
+International Journals
+1. Tran,
+T.
+H.,
+Nguyen,
+D.
+D.,
+Anh,
+L.
+D.
+,
+2022,
+“Design
+of
+a
+low
+-cost
+pressure
+measurement
+device:
+va
+lidation
+and
+testing,”
+I
+nternational
+Journal
+of
+Sustainable
+Aviation 8(4),
+336-352, https://doi.org/10.1504/IJSA.2022.126558 (ISSN: 2050-0475)
+2.

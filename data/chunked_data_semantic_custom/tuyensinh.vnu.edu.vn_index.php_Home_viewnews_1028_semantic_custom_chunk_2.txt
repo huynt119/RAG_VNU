@@ -1,0 +1,197 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_1028.txt
+
+Chỉ tiêu tuyển sinh
+TT
+Mã
+trường
+Mã
+nhóm
+ngành
+xét tuyển
+Tên nhóm ngành xét tuyển
+Mã phương thức xét tuyển
+Chỉ tiêu (dự kiến)
+Tổ hợp xét tuyển 1
+Tổ hợp xét tuyển 2
+Tổ hợp xét tuyển 3
+Tổ hợp xét tuyển 4
+Xét
+tuyển
+theo
+kết
+quả
+thi
+tốt
+nghiệp
+THPT
+2022
+Xét
+tuyển
+theo
+kết
+quả
+thi
+ĐGNL
+năm
+2022
+của
+ĐHQG
+Xét
+tuyển
+theo
+các
+phương
+thức
+khác
+Xét
+tuyển
+theo
+kết
+quả
+thi
+tốt
+nghiệp
+THPT
+2022
+Xét
+tuyển
+theo
+kết
+quả
+thi
+ĐGNL
+năm
+2022
+của
+ĐHQG
+Xét
+tuyển
+theo
+các
+phương
+thức
+khác
+Tổ
+hợp
+môn
+Môn
+chính
+Tổ hợp môn
+Môn
+chính
+Tổ hợp môn
+Môn
+chính
+Tổ hợp môn
+Môn
+chính
+(1)
+(2)
+(3)
+(4)
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+(12)
+(13)
+(14)
+(15)
+(16)
+(17)
+(18)
+(19)
+Nhóm ngành: Sư phạm Toán và Khoa học tự nhiên (chỉ tiêu dự kiến: 300)
+a
+100
+401
+301;
+303;
+409;
+411;
+500;
+501
+250
+30
+20
+A00
+A01
+B00
+D01
+1. QHS
+GD1
+Sư phạm Toán học
+120
+Sư phạm Vật lý
+50
+Sư phạm Hoá học
+40
+Sư phạm Sinh học
+20
+Sư phạm Khoa học tự nhiên
+70
+Nhóm ngành: Sư phạm Ngữ văn, Lịch sử, Lịch sử và Địa lý (chỉ tiêu dự kiến: 200)
+a
+100
+401
+301;
+303;
+409;
+411;
+500;
+501
+170
+20
+10
+C00
+D01
+D14
+D15
+2. QHS
+GD2
+Sư phạm Ngữ văn
+120
+Sư phạm Lịch sử
+20
+Sư phạm Lịch sử và Địa lý
+60
+Nhóm ngành: Khoa học giáo dục và khác (chỉ tiêu: 310)
+a
+100
+401
+301;
+303;
+409;
+411;
+500;
+501
+190
+110
+10
+A00
+B00
+C00
+D01
+3. QHS
+GD3
+Quản trị trường học
+65
+Quản trị công nghệ giáo dục
+80
+Khoa học giáo dục
+100
+401
+301;
+303;
+409;
+411;
+500;
+501
+40
+Quản trị chất lượng giáo dục
+55
+Tham vấn học đường
+70
+4.

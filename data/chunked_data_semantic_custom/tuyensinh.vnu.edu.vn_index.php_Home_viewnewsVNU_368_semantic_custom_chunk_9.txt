@@ -1,0 +1,135 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_368.txt
+
+Các thông tin khác (nếu có)
+Thông tin về ngành/nhóm ngành, chỉ tiêu, tổ hợp xét tuyển (chương trình đào tạo chất lượng cao, chương trình đào tạo chuẩn)
+TT
+Mã trường
+Mã xét tuyển
+Tên ngành
+Chỉ tiêu
+(
+Dự kiến
+)
+Tổ hợp môn xét tuyển 1
+Tổ hợp môn xét tuyển 2
+Tổ hợp môn xét tuyển 3
+Tổ hợp môn xét tuyển 4
+Theo KQ thi THPT QG
+Theo phương thức khác
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+I
+Chương trình đào tạo chất lượng cao
+(
+đáp ứng Thông tư 23/2014-TT-BGDĐT của Bộ GDĐT)
+QHE
+QHE40
+Quản trị kinh doanh
+180
+20
+D01
+(Toán, Ngữ văn, Tiếng Anh)
+Toán
+D09
+(Toán, Lịch sử, Tiếng Anh)
+Toán
+D10
+(Toán, Địa lý, Tiếng Anh
+Toán
+A01
+(Toán, Vật lý, Tiếng Anh)
+Toán
+QHE41
+Tài chính - Ngân hàng
+121
+13
+D01
+(Toán, Ngữ văn, Tiếng Anh)
+Toán
+D09
+(Toán, Lịch sử, Tiếng Anh)
+Toán
+D10
+(Toán, Địa lý, Tiếng Anh
+Toán
+A01
+(Toán, Vật lý, Tiếng Anh)
+Toán
+QHE42
+Kế toán
+121
+13
+D01
+(Toán, Ngữ văn, Tiếng Anh)
+Toán
+D09
+(Toán, Lịch sử, Tiếng Anh)
+Toán
+D10
+(Toán, Địa lý, Tiếng Anh
+Toán
+A01
+(Toán, Vật lý, Tiếng Anh)
+Toán
+QHE43
+Kinh tế quốc tế
+216
+24
+D01
+(Toán, Ngữ văn, Tiếng Anh)
+Toán
+D09
+(Toán, Lịch sử, Tiếng Anh)
+Toán
+D10
+(Toán, Địa lý, Tiếng Anh
+Toán
+A01
+(Toán, Vật lý, Tiếng Anh)
+Toán
+II
+Chương trình đào tạo chuẩn
+QHE
+QHE0
+2
+Kinh tế
+221
+25
+D01
+(Toán, Ngữ văn, Tiếng Anh)
+Toán
+A00
+(Toán, Vật lý, Hóa học)
+Toán
+C04
+(Ngữ văn, Toán, Địa lý)
+Toán
+A01
+(Toán, Vật lý, Tiếng Anh)
+Toán
+QHE01
+Kinh tế phát triển
+221
+25
+D01
+(Toán, Ngữ văn, Tiếng Anh)
+Toán
+A00
+(Toán, Vật lý, Hóa học)
+Toán
+C04
+(Ngữ văn, Toán, Địa lý)
+Toán
+A01
+(Toán, Vật lý, Tiếng Anh)
+Toán
+Ghi chú:
+- Đối với các chương trình đào tạo chất lượng cao:
+(1) Điểm môn Tiếng Anh nhân hệ số 2;
+(2) Xét tuyển có điều kiện môn Tiếng Anh đầu vào của kỳ thi THPT quốc gia năm 2019 tối thiểu từ điểm 4.0 trở lên (thang điểm 10).

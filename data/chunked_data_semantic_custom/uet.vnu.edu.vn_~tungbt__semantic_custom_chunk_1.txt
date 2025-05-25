@@ -1,0 +1,130 @@
+Nguồn: uet.vnu.edu.vn_~tungbt_.txt
+
+Patents
+§
+Hệ
+thống
+giám
+sát
+bệnh
+nhân
+từ
+xa
+,
+Bằng
+độc
+quyền
+giải
+pháp
+hữu
+ích
+,
+Số
+1018,
+QĐ
+số
+7086/QĐ-SHTT
+§
+半導体装置の製造方法、及び半導体製造装置
+(Method of manufacturing a semiconductor device, and
+semiconductor manufacturing device)
+JP 5967678 B2
+§
+Method of manufacturing
+semiconductor device and semiconductor device manufacturing apparatus
+US9627347 B2
+§
+Through electrode, manufacturing
+method thereof, and semiconductor device and manufacturing method
+thereof
+US9818645 B2
+§
+Through electrode, manufacturing
+method thereof, and semiconductor device and manufacturing method
+thereof
+US9984956B2
+§
+半導体装置、インターポーザ及びその製造方法
+(Semiconductor device, interposer, and manufacturing
+method of interposer
+)
+JP6430153B2
+§
+貫通電極及びその製造方法、並びに半導体装置及びその製造方法
+(
+Through electrode and manufacturing method of through
+electrode and semiconductor device and manufacturing method of
+semiconductor device
+)
+JP6519785B2
+§
+Bằng
+độc
+quyền
+Kiểu
+dáng
+công
+nghiệp
+Robot
+thuyết
+minh
+và
+hướng
+dẫn
+Số: 30780,
+QĐ số
+6740w/QĐ-SHTT
+§
+Bằng
+độc
+quyền
+Kiểu
+dáng
+công
+nghiệp
+:
+Thiết
+bị
+đếm
+tế
+bào
+Số:
+33690, QĐ số 17275w/QĐ-SHTT
+§
+Bằng độc quyền Giải pháp hữu ích:
+Thiết
+bị
+vi
+lỏng
+để
+phát
+hiện
+dòng
+tế
+bào
+ung
+thư
+phổi
+A549
+và
+quy
+trình
+phát
+hiện
+dòng
+tế
+bào
+ung
+thư
+phổi
+này
+Số: 2841
+,
+QĐ số 1558w/QĐ-SHTT
+Honors and awards
+2009,
+2010
+Honors Scholarship of
+Society for the Advancement of Science and Technology at
+Ritsumeikan
+(ASTER).

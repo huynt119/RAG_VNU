@@ -1,0 +1,25 @@
+Nguồn: education.vnu.edu.vn_index.php_WebControl_viewpage_178.txt
+
+Trong 15 xây dựng và phát triển, Trường Đại học giáo dục đã thực hiện hàng chục dự án lớn, nhỏ cấp nhà nước, liên chính phủ với các đối tác trong và ngoài nước, có mạng lưới kết nối nghiên cứu với các viện nghiên cứu, trường đại học nghiên cứu và các tổ chức phi chính phủ tại nhiều quốc gia như Pháp, Hà Lan, Hoa Kì, Hongkong, Trung Quốc...
+Trong bối cảnh cuộc cách mạng công nghiệp 4.0 đang có ảnh hưởng mạnh mẽ tới mọi lĩnh vực trong đời sống nói chung và giáo dục nói riêng, việc sử dụng công nghệ hình ảnh trong giảng dạy đã và đang trở thành vấn đề nóng đối với việc đổi mới phương pháp dạy học. Đón đầu xu thế này, trường Đại học Giáo dục- ĐHQGHN đã gửi thuyết minh đề xuất tài trợ cho Chương trình khoa học, công nghệ và đổi mới sáng tạo thuộc dự án FIRST thuộc Bộ Khoa học và Công Nghệ (vốn vay từ Ngân hàng Thế giới). Ngày 6/3/ 2018, Trường Đại học Giáo dục đã chính thức nhận tài trợ thông qua Lễ ký thỏa thuận tài trợ cho dự án nghiên cứu mang tên “Chương trình đào tạo giáo viên - học giả nghiên cứu cho khu vực Thái Bình Dương: Ứng dụng công nghệ hình ảnh trong nghiên cứu giảng dạy và học tập”. Các giảng viên của trường Đại học Giáo dục sẽ cùng với các chuyên gia hàng đầu về công nghệ hình ảnh trong dạy học của Hoa Kỳ thực hiện dự án nhằm số hóa các tư liệu dạy học thông qua các phần mềm như: StoryMap, AR, FreshAIR, GIS và 3D Lidar. Mục tiêu dự án
+Trên cơ sở các yêu cầu của Chương trình FIRST, trường ĐH Giáo dục thực hiện nghiên cứu nhằm thiết lập sự kết nối mang tính học thuật, sáng tạo và bền vững, được tích hợp giữa công nghệ thực địa và tình huống thực tế với việc giảng dạy và học tập. Nhóm nghiên cứu gồm chuyên gia của các trường đại học, các học giả nghiên cứu và đội ngũ giáo viên giàu kinh nghiệm ở trường phổ thông sẽ thực hiện một số mục tiêu sau:
+Lựa chọn các nội dung giàu thông tin, kiến thức mang tính chủ đề phục vụ cho các nghiên cứu xuyên quốc gia, tập trung vào giáo dục công dân, đất nước, tổ quốc…gắn với thực địa và thực tế;
+Thiết kế hệ thống các câu hỏi nghiên cứu khởi đầu, thực hiện nghiên cứu theo lĩnh vực đã nêu và công bố trên ấn phẩm truyền thống và số
+Thu hút và tuyển lựa được nhóm giáo viên có kinh nghiệm dạy học các môn Khoa học, Công nghệ, Kĩ thuật và Toán, các môn khoa học xã hội nhân văn để làm việc cùng với các chuyên gia, các nhà nghiên cứu theo lĩnh vực. Qua đó, họ sẽ được đào tạo để tích hợp các công nghệ mới, sáng tạo, tổ chức các hoạt động dạy học thực hành, thực địa, gắn với thực tế cho lớp học của mình
+Phổ biến, truyền bá rộng rãi các kết quả nghiên cứu đạt được như một mô hình được số hóa để hướng dẫn, gợi mở cho các nghiên cứu chủ đề và môn học khác
+Đưa ra các khuyến nghị, đề xuất cho việc tích hợp và nâng cao sử dụng công nghệ trong giáo dục đại học và giáo dục phổ thông theo chu trình liên tục, thường xuyên. Tóm lại, mô hình được đề xuất trong nghiên cứu này sẽ giải thích rõ lí do
+Vì sao
+công nghệ mới lại đóng vai trò là bộ phận quan trọng trong nghiên cứu và giảng dạy,
+Công nghệ mới nào
+là phù hợp để hiểu hơn về văn hóa, lịch sử,
+Làm thế nào
+để ứng dụng các công nghệ này một cách tương thích và hiệu quả. Các nội dung chính của dự án
+Để thực hiện mục tiêu của dự án, chúng tôi tập trung vào  các nội dung chính như sử dụng công nghệ trong dạy học các môn Khoa học tự nhiên, Khoa học xã hội và mô hình STEM. Khoa học, công nghệ, k
+ĩ
+thuật và
+T
+oán (STEM) ngày càng trở nên quan trọng trong
+bối cảnh
+nền kinh tế tăng trưởng
+mạnh
+và cạnh tranh toàn cầu.

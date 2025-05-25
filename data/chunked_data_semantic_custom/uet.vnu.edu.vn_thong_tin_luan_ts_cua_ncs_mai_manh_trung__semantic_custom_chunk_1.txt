@@ -1,0 +1,10 @@
+Nguồn: uet.vnu.edu.vn_thong_tin_luan_ts_cua_ncs_mai_manh_trung_.txt
+
+Tóm tắt các
+kết quả mới
+của luận án:
+– Luận án đề xuất các thuật toán mật mã trên đường cong
++ Thuật toán mật mã trên đường cong elliptic – CECC
+Ý tưởng của thuật toán dựa trên ý tưởng mật mã CAESAR, sử dụng khóa đối xứng K, khóa K là một giá trị số. Luận án kết hợp giữa ý tưởng này với đặc điểm, phép toán trên đường cong elliptic để đề xuất thuật toán mật mã trên đường cong elliptic – CECC. + Thuật toán mật mã trên đường cong elliptic – AECC
+Ý tưởng của thuật toán dựa trên ý tưởng mật mã AFFINE, sử dụng khóa đối xứng K, khóa K là một cặp khóa K(u, v). Luận án kết hợp giữa ý tưởng này với đặc điểm, phép toán trên đường cong elliptic để đề xuất thuật toán mật mã trên đường cong elliptic – AECC. + Thuật toán mật mã trên đường cong elliptic – VECC
+Ý tưởng của thuật toán dựa trên ý tưởng mật mã Vigenere, sử dụng khóa đối xứng K, khóa K là một giá trị chuỗi văn bản. Luận án kết hợp giữa ý tưởng này với đặc điểm, phép toán trên đường cong elliptic để đề xuất thuật toán mật mã trên đường cong elliptic – VECC. – Luận án phát triển hai hệ mật mã trên đường cong elliptic để mã hóa văn bản tiếng Việt.

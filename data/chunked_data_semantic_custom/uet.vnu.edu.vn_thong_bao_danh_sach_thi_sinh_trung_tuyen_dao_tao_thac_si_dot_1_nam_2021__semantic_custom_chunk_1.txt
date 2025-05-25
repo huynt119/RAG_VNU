@@ -1,0 +1,126 @@
+Nguồn: uet.vnu.edu.vn_thong_bao_danh_sach_thi_sinh_trung_tuyen_dao_tao_thac_si_dot_1_nam_2021_.txt
+
+THÔNG BÁO DANH SÁCH THÍ SINH TRÚNG TUYỂN ĐÀO TẠO THẠC SĨ ĐỢT 1 NĂM 2021
+1.THÍ SINH XÉT TUYỂN THẲNG
+STT
+Họ và tên
+Giới tính
+Ngày sinh
+Nơi sinh
+Chuyên ngành
+đăng ký đào tạo
+Điểm xét tuyển
+Ghi chú
+Điểm hồ sơ bậc đại học
+Ngoại ngữ
+CHUYÊN NGÀNH KHOA HỌC MÁY TÍNH
+1
+Đỗ Xuân Anh
+Nam
+13/10/1998
+Hà Nội
+Khoa học máy tính
+3.68
+76
+2
+Nguyễn Xuân Việt Cường
+Nam
+18/04/1998
+Thanh Hóa
+Khoa học máy tính
+4.2
+Miễn thi
+3
+Trần Minh Đức
+Nam
+10/04/1998
+Nam Định
+Khoa học máy tính
+3.73
+84
+4
+Đồng Việt Hoàng
+Nam
+13/05/1998
+Thái Bình
+Khoa học máy tính
+3.2
+82
+5
+Ngô Minh Hoàng
+Nam
+02/07/1998
+Thanh Hóa
+Khoa học máy tính
+4.33
+Miễn thi
+6
+Nguyễn Văn Hoàng
+Nam
+19/01/1998
+Bắc Ninh
+Khoa học máy tính
+3.59
+87
+7
+Dương Quang Khải
+Nam
+16/11/1998
+Hà Nội
+Khoa học máy tính
+3.81
+87
+8
+Nguyễn Văn Phi
+Nam
+03/04/1998
+Hà Nội
+Khoa học máy tính
+3.49
+82
+CHUYÊN NGÀNH KỸ THUẬT PHẦN MỀM
+9
+Vũ Đình Hướng
+Nam
+11/09/1998
+Hải Dương
+Kỹ thuật phần mềm
+3.48
+75
+10
+Trần Quang Linh
+Nam
+01/05/1998
+Phú Thọ
+Kỹ thuật phần mềm
+3.56
+82
+CHUYÊN NGÀNH MẠNG MÁY TÍNH VÀ TRUYỀN THÔNG DỮ LIỆU
+11
+Lê Đức Toàn
+Nam
+07/08/1998
+Bắc Ninh
+Mạng máy tính và truyền thông
+dữ liệu
+3.78
+82
+12
+Nguyễn Đăng Bảo Long
+Nam
+15/03/1998
+Hà Nội
+Mạng máy tính và truyền thông
+dữ liệu
+3.67
+90
+CHUYÊN NGÀNH KỸ THUẬT CƠ ĐIỆN TỬ
+13
+Đặng Hải Ninh
+Nam
+04/09/1998
+Tuyên Quang
+Kỹ thuật cơ diện tử
+3.71
+69
+Danh sách này gồm 13 người./.

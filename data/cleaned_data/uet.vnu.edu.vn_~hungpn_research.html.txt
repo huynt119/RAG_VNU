@@ -1,0 +1,31 @@
+Home
+Research
+Students
+Publications
+Associate  Professor
+PHẠM NGỌC HÙNG
+Vice Dean of
+Faculty of Information Technology,
+University of Engineering and Technology,
+Vietnam National University, Hanoi
+Building E3, 144 Xuan Thuy, Cau Giay
+hungpn "at" vnu-mail
++84 243 754 9359
+Teaching Courses
+ĐẠI HỌC
+Công nghệ phần mềm
+Quản lý dự án phần mềm
+SAU ĐẠI HỌC
+Công nghệ phần mềm nâng cao
+Phương pháp luận thiết kế phần mềm
+Các phương pháp hình thức cho phát triển phần mềm
+Kiểm thử và đảm bảo chất lượng phần mềm
+Quản lý chất lượng phần mềm
+Research Interests
+Software Verification and Testing
+Quality Assurance for Machine Learning Systems
+Assume-Guarantee Verification
+Conformance Testing and Modular
+Software Evolution
+Program Analysis
+Research Partners

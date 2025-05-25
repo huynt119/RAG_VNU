@@ -1,0 +1,94 @@
+Nguồn: education.vnu.edu.vn_index.php_WebControl_viewnews_2824.txt
+
+Đối với thí sinh đăng ký xét tuyển vào ngành Giáo dục Mầm non, Trường ĐH Giáo dục
+tổ chức đánh giá năng khiếu. Thông tin về đánh giá năng khiếu dự tuyển ngành Giáo dục Mầm non, thí sinh tra cứu tại địa chỉ:
+http://education.vnu.edu.vn/index.php/WebControl/viewnews/2488
+Chi tiết dự kiến chỉ tiêu tuyển sinh:
+S
+TT
+Mã trường
+Ngành
+học
+Tên
+nhóm ngành
+Mã nhóm ngành
+Chỉ tiêu (dự kiến)
+Chỉ tiêu (dự kiến) theo
+các phương thức xét tuyển
+Xét tuyển theo
+kết quả thi tốt nghiệp THPT 2023
+Xét tuyển theo
+kết quả thi ĐGNL năm 2023 của ĐHQGHN
+Xét tuyển theo các phương thức khác
+1
+QHS
+Sư phạm Toán
+Sư phạm Toán và Khoa học Tự nhiên *
+GD1
+190
+140
+40
+10
+2
+Sư phạm Vật lý
+3
+Sư phạm Hóa học
+4
+Sư phạm Sinh học
+5
+Sư phạm Khoa học Tự nhiên
+6
+Sư phạm Ngữ Văn
+Sư phạm  Ngữ văn
+,
+Lịch sử
+, Lịch sử
+Địa lý
+GD2
+150
+115
+30
+5
+7
+Sư phạm Lịch sử
+8
+Sư phạm Lịch sử
+Địa lý
+9
+QHS
+Quản trị trường học
+Khoa học giáo dục và khác
+GD3
+600
+500
+75
+25
+10
+Quản trị công nghệ giáo dục
+11
+Quản trị chất lượng giáo dục
+12
+Tham vấn học đường
+13
+Khoa học giáo dục
+14
+QHS
+Giáo dục Tiểu học
+GD4
+90
+65
+20
+5
+15
+QHS
+Giáo dục Mầm non
+GD5**
+70
+50
+15
+5
+1100
+870
+180
+50
+Lưu ý: * Chỉ tiêu các ngành đào tạo sư phạm (GD1, GD2, GD4, GD5) sẽ thực hiện theo chi tiêu do Bộ GD&ĐT giao. Năm 2023, Trường Đại học Giáo dục dự kiến tuyển sinh 1100 chỉ tiêu cho các nhóm ngành đào tạo sư phạm và ngoài sư phạm.

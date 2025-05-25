@@ -1,0 +1,9 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-thong-tin-chat-luong-cao-5_.txt
+
+Định hướng Công nghệ phần mềm
+Trang bị kiến thức cơ bản và chuyên sâu về Công nghệ phần mềm: quy trình xây dựng, quản lý và bảo trì hệ thống phần mềm; phân tích, thiết kế và quản lý các dự án phần mềm; khả năng tổ chức thực hiện và quản lý được các công việc trong lĩnh vực công nghệ phần mềm, xây dựng mô hình và áp dụng các nguyên tắc của công nghệ phần mềm vào thực tế; khả năng nghiên cứu, đề xuất các hướng phát triển cho công nghệ phần mềm. Định hướng Hệ thống thông tin
+Trang bị kiến thức cơ bản và chuyên sâu về Hệ thống thông tin, đáp ứng các yêu cầu về nghiên cứu phát triển và ứng dụng công nghệ thông tin của xã hội; khả năng tham mưu, tư vấn và xây dựng được các hệ thống thông tin cấp cao cho việc quản lý kinh tế, hành chính và dịch vụ. Định hướng Mạng và truyền thông máy tính
+Trang bị kiến thức cơ bản và chuyên sâu về Mạng và truyền thông máy tính, đáp ứng yêu cầu về nghiên cứu, ứng dụng trong lĩnh vực mạng và truyền thông máy tính; khả năng thiết kế, chế tạo, bảo trì, sản xuất, thử nghiệm, quản lý các hệ thống mạng và truyền thông máy tính; khả năng tiếp tục nghiên cứu và phát triển công nghệ trong lĩnh vực mạng và truyền thông máy tính. Định hướng Khoa học
+máy tính và
+dịch vụ
+Trang bị kiến thức cơ bản và chuyên sâu về máy tính và dịch vụ Công nghệ thông tin, đáp ứng các vấn đề về phân tích, xây dựng giải pháp nền tảng cho các dịch vụ Công nghệ thông tin và dịch vụ dựa trên Công nghệ thông tin trong thực tế; khả năng tổ chức thực hiện và quản lý được các công việc trong lĩnh vực máy tính và dịch vụ Công nghệ thông tin, xây dựng mô hình và áp dụng các nguyên tắc của Dịch vụ Công nghệ thông tin vào thực tế; khả năng tiếp tục nghiên cứu và phát triển các mô hình liên quan đến dịch vụ Công nghệ thông tin.

@@ -1,0 +1,19 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-thong-thong-tin-13_.txt
+
+Một số thông tin về chương trình đào tạo
+Tên ngành đào tạo:
+– Tiếng Việt: Hệ thống thông tin
+– Tiếng Anh: Information Systems
+Mã số ngành đào tạo: 8480104
+Tên chuyên ngành đào tạo:
+– Tiếng Việt: Hệ thống thông tin
+– Tiếng Anh: Information Systems
+Trình độ đào tạo: Thạc sĩ
+Thời gian đào tạo: 2 năm
+Tên văn bằng tốt nghiệp:
+– Tiếng Việt: Thạc sĩ ngành Hệ thống thông tin
+– Tiếng Anh: The Degree of Master in Information Systems
+2. Mục tiêu của chương trình đào tạo
+2.1.Mục tiêu chung
+Mục tiêu chung của Chương trình đào tạo Thạc sĩ chuyên ngành Hệ thống thông tin (HTTT) là đào tạo nguồn nhân lực HTTT trình độ Thạc sĩ chất lượng cao, có năng lực và phẩm chất của các chuyên gia phân tích dữ liệu, tích hợp hệ thống thông tin và văn hóa tổ chức, tích hợp giải pháp công nghệ thông tin (CNTT) với quy trình kinh doanh, phục vụ quá trình phát triển các tiến bộ khoa học – công nghệ hiện đại về HTTT. Mục tiêu cụ thể
+Trang bị cho người học các kiến thức và kỹ năng chuyên môn theo các nhóm chủ đề về cơ sở dữ liệu (CSDL) và nền tảng HTTT, khai phá dữ liệu và phát hiện tri thức trong dữ liệu, an toàn thông tin, khoa học dịch vụ.

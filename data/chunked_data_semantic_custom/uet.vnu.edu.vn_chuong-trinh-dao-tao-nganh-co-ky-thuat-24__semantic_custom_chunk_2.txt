@@ -1,0 +1,293 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-co-ky-thuat-24_.txt
+
+Khối kiến thức định hướng chuyên sâu về
+Thủy khí công nghiệp và môi trường
+27
+V.3.1.1
+Các học phần bắt buộc
+18
+47
+EMA3147
+Động lực học – môi trường nước và đồ án
+Hydrodynamic and Term Project
+4
+30
+30
+EMA2008
+48
+EMA3092
+Động lực học – môi trường không khí và đồ án
+Air Environmental Dynamics and Term Project
+4
+36
+24
+EMA2004
+49
+EMA3093
+Máy – thiết bị thủy khí và đồ án
+Hydraulic and Pneumatic Devices and Term Project
+4
+42
+18
+EMA2008
+50
+EMA3104
+Cơ học chất lỏng thực nghiệm
+Experimental Fluid Mechanics
+3
+15
+30
+EMA2015 EMA2039
+51
+EMA3110
+Kỹ thuật đường ống
+Pipelines Engineering
+3
+39
+6
+EMA2008 EMA2012
+V.3.1.2
+Các học phần tự  chọn
+4/8
+52
+EMA3027
+Kỹ thuật môi trường
+Introduction to Environment Engineerng
+2
+15
+15
+EMA2004 EMA3093
+53
+EMA3022
+Dòng chảy hai pha
+Two-phase Flow
+2
+24
+6
+EMA2004 EMA2008 EMA2038
+54
+EMA3023
+Dòng chảy trong môi trường rỗng
+Fuid Flow in Porous Media
+2
+24
+6
+EMA2004 EMA2008
+55
+EMA2030
+Cơ sở dữ liệu và GIS
+Database and GIS
+2
+20
+10
+INT1008 MAT1093 MAT1042
+V.3.1.3
+Học phần thực tập
+5
+56
+EMA3049
+Thực tập kỹ thuật định hướng Thủy khí công nghiệp và môi trường
+Engineering Practice
+5
+15
+60
+EMA3147
+EMA3092
+EMA3093
+EMA3104
+V.3.2. Khối kiến thức định hướng chuyên sâu về
+Cơ học kỹ thuật biển
+27
+V.3.2.1
+Các học phần bắt buộc
+18
+57
+EMA3094
+Thủy động lực học – môi trường biển
+Hydrodynamics for Marine  Environment
+4
+60
+EMA2037 EMA2006 EMA2008
+58
+EMA3105
+Đồ án thủy động lực học – môi trường biển
+Project on Hydrodynamics for Marine Environment
+3
+14
+7
+24
+EMA3094
+59
+EMA3096
+Công trình biển ngoài khơi, độ tin cậy và đồ án
+Off-Shore Structures, Reliability and Term Project
+4
+30
+22
+8
+EMA2012 EMA2050
+60
+EMA3097
+Công trình biển ven bờ (đê, cảng, đường ống, bể chứa) và đồ án
+In-Shore Structures: Dykes, Habours, Pipeline and Term Project
+4
+30
+30
+EMA2007 EMA2012
+61
+EMA3146
+Kỹ thuật đo đạc môi trường biển
+Experimental Measurement in Marine Environment
+3
+15
+30
+V.3.2.2
+Các học phần tự  chọn
+4/10
+62
+EMA3043
+Thiết kế và thi công công trình biển
+Marine Structures Design and Manufacturing
+4
+45
+15
+EMA2007 EMA2012
+63
+EMA2030
+Cơ sở dữ liệu và GIS
+Database and GIS
+2
+20
+10
+INT1008 MAT1093 MAT1042
+64
+EMA3063
+Điều khiển kết cấu
+Structural Control
+2
+26
+4
+EMA2037 EMA2012
+65
+EMA3013
+Cơ học phá hủy
+Mechanical Destruction
+2
+30
+EMA2004 EMA2007 EMA2012
+V.3.2.3
+Học phần thực tập
+5
+66
+EMA3050
+Thực tập kỹ thuật định hướng Cơ học kỹ thuật biển
+Engineering Practice
+5
+15
+60
+EMA3094 EMA3105 EMA3096 EMA3097 EMA3146
+V.3.3. Khối kiến thức định hướng chuyên sâu về
+Cơ điện tử
+27
+V.3.3.1
+Các học phần bắt buộc
+18
+67
+EMA2027
+Nhập môn cơ điện tử
+Introduction to Mechatronics
+3
+30
+15
+EMA2037 EMA2005 EMA2013
+68
+EMA3098
+Mô phỏng và thiết kế hệ cơ điện tử và đồ án
+Simulation and Design of Mechatronic Systems and Term Project
+4
+30
+30
+EMA2006
+69
+EMA3099
+Kỹ thuật đo lường, đầu đo và đồ án
+Measurement Techniques, Sensors and Term Project
+4
+30
+30
+EPN1096 MAT1093 MAT1042
+70
+EMA3100
+Điện tử công suất, điều khiển động cơ và đồ án
+Power Electronics, Drives Control and Term Project
+4
+30
+30
+MAT1093 MAT1042 EMA2005
+71
+EMA3108
+Tự động hóa quá trình sản xuất
+Automation in Manufacturing
+3
+30
+15
+EMA2037 EMA2006 EMA2013
+V.3.3.2
+Các học phần tự chọn
+4/10
+72
+EMA3016
+Cơ điện thực nghiệm
+Experimental Mechatronics
+2
+12
+18
+EMA2037 EMA2007
+73
+EMA3068
+Động cơ và cơ sở truyền động điện
+Motors and Fundamentals of Electrical Drive
+2
+26
+4
+EMA2013
+74
+EMA3020
+Robot
+Robotics
+2
+22
+8
+EMA2037 EMA2013
+75
+EMA3060
+Vi điều khiển và các hệ nhúng
+Micro-controller and Embedded Systems
+2
+24
+6
+EMA2005 ELT2012
+76
+ELT2012
+Lý thuyết mạch
+Circuit Theory
+2
+24
+6
+EMA2005
+V.3.3.3
+Học phần thực tập
+5
+77
+EMA3051
+Thực tập kỹ thuật định hướng Cơ điện tử
+Engineering Practice
+5
+15
+60
+EMA2027
+EMA3098
+EMA3099
+EMA3100
+EMA3108
+V.3.4.

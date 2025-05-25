@@ -1,0 +1,280 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_433.txt
+
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ
+Thứ tự
+Mã trường
+Mã xét tuyển
+Tên ngành/Nhóm ngành
+Điểm trúng tuyển
+Năm
+2017
+Năm
+2018
+1
+QHI
+CN1
+Công nghệ thông tin định hướng thị trường Nhật Bản
+26,00
+23,75
+2
+QHI
+CN1
+Công nghệ thông tin
+26,00
+23,75
+3
+QHI
+CN2
+Kỹ thuật máy tính
+26,00
+21,00
+4
+QHI
+CN2
+Kỹ thuật Robot
+Chưa có
+21,00
+5
+QHI
+CN3
+Kỹ thuật năng lượng
+19,00
+18,75
+6
+QHI
+CN3
+Vật lý kỹ thuật
+19,00
+18,75
+7
+QHI
+CN4
+Cơ kỹ thuật
+23,50
+20,50
+8
+QHI
+CN6
+Công nghệ kỹ thuật cơ điện tử**
+21,00
+20,00
+9
+QHI
+CN7
+Công nghệ hàng không vũ trụ
+Chưa có
+19,00
+10
+QHI
+CN8
+Hệ thống thông tin**
+26,00 <
+23,50 <
+11
+QHI
+CN8
+Khoa học máy tính**
+26,00 <
+22,00
+12
+QHI
+CN9
+Công nghệ kỹ thuật điện tử-viễn thông**
+21,00
+20,00
+13
+QHI
+CN10
+Công nghệ nông nghiệp
+Chưa có
+Chưa có
+14
+QHI
+CN11
+Kỹ thuật điểu khiển và tự động hóa
+Chưa có
+Chưa có
+Ghi chú
+: Các ngành đào tạo có ký hiệu (**) có mức học phí khoảng 35.000.000 đồng/năm. TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN
+Thứ tự
+Mã trường
+Mã xét tuyển
+Tên ngành/Nhóm ngành
+Điểm trúng tuyển
+Năm
+2017
+Năm
+2018
+1
+QHT
+QHT01
+Toán học
+18,75
+18,10
+2
+QHT
+QHT02
+Toán tin
+18,75
+19,25
+3
+QHT
+QHT40
+Máy tính và khoa học thông tin
+27,75
+20,15
+4
+QHT
+QHT90
+Máy tính và khoa học thông tin** (Chất lượng cao)
+18,75
+5
+QHT
+QHT03
+Vật lý học
+17,50
+17,25
+6
+QHT
+QHT04
+Khoa học vật liệu
+17,25
+16,00
+7
+QHT
+QHT05
+Công nghệ kỹ thuật hạt nhân
+17,50
+16,05
+8
+QHT
+QHT06
+Hóa học
+19,75
+19,70
+9
+QHT
+QHT41
+Hóa học** (CT Tiên tiến)
+Chưa có
+17,00
+10
+QHT
+QHT07
+Công nghệ kỹ thuật hoá học
+21,00
+20,20
+11
+QHT
+QHT42
+Công nghệ kỹ thuật hoá học**
+17,25
+17,05
+12
+QHT0
+QHT43
+Hóa dược**
+20,35
+13
+QHT
+QHT08
+Sinh học
+18,00
+17,70
+14
+QHT
+QHT09
+Công nghệ sinh học
+23,50
+20,55
+15
+QHT
+QHT44
+Công nghệ sinh học**
+27,75
+18,10
+16
+QHT
+QHT10
+Địa lý tự nhiên
+17,00
+15,00
+17
+QHT
+QHT91
+Khoa học thông tin địa không gian
+Chưa có
+15,20
+18
+QHT
+QHT12
+Quản lý đất đai
+17,50
+16,35
+19
+QHT
+QHT13
+Khoa học môi trường
+17,50
+16,00
+20
+QHT
+QHT45
+Khoa học môi trường**
+Chưa có
+15,05
+21
+QHT
+QHT14
+Khoa học đất
+20,75
+không có
+22
+QHT
+QHT15
+Công nghệ kỹ thuật môi trường
+17,50
+16,45
+23
+QHT
+QHT46
+Công nghệ kỹ thuật môi trường**
+Chưa có
+Chưa có
+24
+QHT
+QHT16
+Khí tượng và khí hậu học
+18,75
+15,05
+25
+QHT
+QHT17
+Hải dương học
+17,75
+15,05
+26
+QHT
+QHT92
+Tài nguyên và môi trường nước
+Chưa có
+Chưa có
+27
+QHT
+QHT18
+Địa chất học
+17,00
+15.20
+28
+QHT
+QHT19
+Kỹ thuật địa chất
+18,00
+15,20
+29
+QHT
+QHT20
+Quản lý tài nguyên và môi trường
+17,75
+15,20
+Ghi chú: Các ngành đào tạo có ký hiệu (**) có mức học phí khoảng 35.000.000 đồng/năm.

@@ -1,0 +1,7 @@
+Nguồn: uet.vnu.edu.vn_hanh-trinh-chinh-phuc-giai-nhat-sinh-vien-nckh-cap-truong-cua-hai-nam-sinh-uet_.txt
+
+Hành trình chinh phục giải nhất sinh viên NCKH cấp trường của hai nam sinh UET
+Hai sinh viên Nguyễn Đức Anh và Nguyễn Trọng Đạt, khóa QH-2019-I/CQ của Khoa Công nghệ thông tin, Trường Đại học Công nghệ – ĐHQGHN (VNU-UET) cùng “chí hướng” và niềm đam mê nghiên cứu đã song hành, bứt phát để cùng giành giải nhất đầy thuyết phục tại Hội nghị sinh viên NCKH cấp trường với đề tài mang tính ứng dụng cao “Ensembling novel adaptive loss functions in parallel for face-based authentication” (Kết hợp song song có trọng số các mô hình mạng tích chập sâu được huấn luyện với các hàm mất mát dựa trên lề cho bài toán xác thực khuôn mặt
+). Cùng nhau nuôi dưỡng đam mê với nghiên cứu khoa học
+Là bạn cùng lớp, ngay từ năm thứ hai, Nguyễn Đức Anh và Nguyễn Trọng Đạt đã có những điểm chung khi cùng có đam mê đối với nghiên cứu khoa học, đặc biệt là giải quyết các bài toán liên quan đến trí tuệ nhân tạo và học máy. Vì cùng chung chí hướng và mục tiêu, nên hai bạn trẻ luôn tâm niệm
+: “Nghiên cứu khoa học là cách tốt nhất để tìm ra những góc nhìn mới, đem lại đóng góp lớn lao cho giới học thuật cũng như lĩnh vực công nghệ thông tin nói chung.

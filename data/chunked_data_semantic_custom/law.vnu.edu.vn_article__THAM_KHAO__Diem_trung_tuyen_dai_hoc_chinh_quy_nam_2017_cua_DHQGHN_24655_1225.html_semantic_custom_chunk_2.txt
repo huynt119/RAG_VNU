@@ -1,0 +1,321 @@
+Nguồn: law.vnu.edu.vn_article__THAM_KHAO__Diem_trung_tuyen_dai_hoc_chinh_quy_nam_2017_cua_DHQGHN_24655_1225.html.txt
+
+TT
+Mã trường
+Mã ngành
+Tên ngành
+Điểm trúng tuyển theo nhóm ngành/ ngành
+Ghi chú
+I. TRƯỜNG ĐẠI HỌC   CÔNG NGHỆ, ĐHQGHN
+1.1
+1.1 Nhóm ngành Công   nghệ thông tin và Công nghệ kỹ thuật điện, điện tử và viễn thông (điểm theo   nhóm ngành)
+26.00
+1
+QHI
+52480101
+Khoa học Máy tính
+2
+QHI
+52480201
+Công nghệ Thông tin
+3
+QHI
+52480201   (Nhật Bản)
+Công nghệ Thông tin   định hướng thị trường Nhật Bản
+4
+QHI
+52480104
+Hệ thống Thông tin
+5
+QHI
+52480102
+Truyền thông và Mạng   máy tính
+6
+QHI
+52510302
+Công nghệ kỹ thuật   điện tử, truyền thông
+7
+QHI
+52520214
+Kỹ thuật máy tính
+1.2
+Nhóm ngành Vật lí kĩ   thuật
+19.00
+7
+QHI
+QHI.TĐ1
+Kỹ thuật năng lượng
+8
+QHI
+52520401
+Vật lí kỹ thuật
+1.3
+Nhóm ngành Công nghệ   kĩ thuật cơ điện tử và Cơ kĩ thuật
+23.50
+9
+QHI
+52520101
+Cơ kỹ thuật
+10
+QHI
+52510203
+Công nghệ kỹ thuật   cơ điện tử
+11
+QHI
+QHI.TĐ2
+Công nghệ kỹ thuật   Xây dựng-Giao thông
+1.4
+Các CTĐT chất lượng   cao đáp ứng Thông tư 23/2014
+12
+QHI
+52480101   CLC
+Khoa học Máy tính   (CLC TT23)
+24.00
+13
+QHI
+52510302   CLC
+Công nghệ kỹ thuật   điện tử, truyền thông (CLC TT23)
+21.00
+II. TRƯỜNG ĐẠI HỌC   KHOA HỌC TỰ NHIÊN, ĐHQGHN
+1
+QHT
+52460101
+Toán học
+18.75
+2
+QHT
+Thí   điểm
+Toán – Tin ứng dụng
+18.75
+3
+QHT
+52460115
+Toán cơ
+19.75
+4
+QHT
+52480105
+Máy tính và khoa học   thông tin
+21.75
+5
+QHT
+52440102
+Vật lí học
+17.50
+6
+QHT
+52430122
+Khoa học vật liệu
+17.25
+7
+QHT
+52520403
+Công nghệ hạt nhân
+17.50
+8
+QHT
+52440221
+Khí tượng học
+18.50
+9
+QHT
+52440224
+Thủy văn
+17.75
+10
+QHT
+52440228
+Hải dương học
+17.75
+11
+QHT
+52440112
+Hoá học
+19.75
+12
+QHT
+52510401
+Công nghệ kỹ thuật   hoá học
+21.00
+13
+QHT
+52720403
+Hoá dược
+24.00
+14
+QHT
+52510401   CLC
+Công nghệ kỹ thuật   hoá học (CTĐT CLC TT23)
+17.25
+15
+QHT
+52440217
+Địa lí tự nhiên
+17.00
+16
+QHT
+52850103
+Quản lý đất đai
+17.50
+17
+QHT
+52440201
+Địa chất học
+17.00
+18
+QHT
+52520501
+Kỹ thuật địa chất
+18.00
+19
+QHT
+52850101
+Quản lý tài nguyên   và môi trường
+17.75
+20
+QHT
+52420101
+Sinh học
+18.00
+21
+QHT
+52420201
+Công nghệ sinh học
+23.50
+22
+QHT
+52420201   CLC
+Công nghệ sinh   học  (CTĐT CLC TT23)
+21.75
+23
+QHT
+52440301
+Khoa học môi trường
+17.50
+24
+QHT
+52440306
+Khoa học đất
+20.75
+25
+QHT
+52510406
+Công nghệ kỹ thuật   môi trường
+17.50
+III. TRƯỜNG ĐẠI HỌC   KHOA HỌC XÃ HỘI VÀ NHÂN VĂN, ĐHQGHN
+1
+QHX
+52320101
+Báo chí
+26.50
+2
+QHX
+52310201
+Chính trị học
+23.75
+3
+QHX
+52760101
+Công tác xã hội
+25.50
+4
+QHX
+52220213
+Đông phương học
+28.50
+5
+QHX
+52220104
+Hán Nôm
+23.75
+6
+QHX
+52340401
+Khoa học quản lí
+25.00
+7
+QHX
+52320202
+Khoa học thư viện
+20.75
+8
+QHX
+52220310
+Lịch sử
+23.75
+9
+QHX
+52320303
+Lưu trữ học
+22.75
+10
+QHX
+52220320
+Ngôn ngữ học
+24.50
+11
+QHX
+52310302
+Nhân học
+20.75
+12
+QHX
+52360708
+Quan hệ công chúng
+26.50
+13
+QHX
+52340103
+Quản trị dịch vụ du   lịch và lữ hành
+27.75
+14
+QHX
+52340107
+Quản trị khách sạn
+27.00
+15
+QHX
+52340406
+Quản trị văn phòng
+26.25
+16
+QHX
+52220212
+Quốc tế học
+26.00
+17
+QHX
+52310401
+Tâm lí học
+26.25
+18
+QHX
+52320201
+Thông tin học
+23.00
+19
+QHX
+Thí   điểm (52220309)
+Tôn giáo học
+20.25
+20
+QHX
+52220301
+Triết học
+21.25
+21
+QHX
+52220330
+Văn học
+23.75
+22
+QHX
+52220113
+Việt Nam học
+25.25
+23
+QHX
+52310301
+Xã hội học
+24.25
+IV.

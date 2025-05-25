@@ -1,0 +1,8 @@
+Nguồn: uet.vnu.edu.vn_truong_dhcn_tham_gia_trien_lam_quoc_te_dau_tien_ve_doi_moi_sang_tao_viet_nam_.txt
+
+Nguyên Hữu Đức và các cộng sự triển khai gồm Linh kiện cảm biến đo từ trường đơn trục độ nhạy và độ phân giải cao dùng cho tích hợp mạch điện tử, Hệ thống thiết bị đo và định vị từ trường trái đất dựa trên hiệu ứng Từ giảo – Áp điện, tích hợp kỹ thuật định vị GPS phục vụ thăm dò và xây dựng bản đồ từ trường trái đất, Thiết bị la bàn điện tử độ chính xác cao dùng cho hàng hải, Trạm thu di động thông tin vệ tinh dùng cho tàu biển. Nhóm thực hiện đề tài nghiên cứu sản phẩm trạm thu di động tín hiệu truyền hình vệ tinh ứng dụng trên tàu biển
+– 02 sản phẩm do nhóm tác giả TS Hoàng Văn Xiêm và TS Đinh Triều Dương triển khai có Camera giám sát thông minh và Hệ thống nén và truyền các luồng video streams dùng kỹ thuật phân tán;
+– 02 sản phẩm của PGS.TS Lê Thanh Hà có BLife: Hệ thống trợ giúp giao tiếp cho người tổn thương chức năng vận động và Phần mềm ứng dụng công nghệ thực tại ảo trong bảo tồn văn hóa phi vật thể ở Việt Nam;
+– 02 sản phẩm do TS. Bùi Quang Hưng triển khai có Bản đồ số Việt Nam (http://vmap.vn), Mạng lưới AirNet giám sát bụi mịn trong không khí (https://airnet.vn);
+Sản phẩm Bản đồ số Việt Nam và Mạng lưới AirNet giám sát bụi mịn trong không khí
+– 02 sản phẩm do PGS.TS.

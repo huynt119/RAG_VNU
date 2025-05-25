@@ -1,0 +1,11 @@
+Nguồn: ulis.vnu.edu.vn_gioi_thieu_ve_kho_ngu_lieu_ngon_ngu_trung_gian_tieng_han_cua_nguoi_viet_nam_.txt
+
+Hiện nay, giáo sư Thôi Hi Lượng và đồng nghiệp đang tiến hành xây dựng
+Kho ngữ liệu ngôn ngữ trung gian tiếng Hán toàn cầu
+, thu thập một lượng lớn ngữ liệu bút ngữ của sinh viên quốc tế trên toàn thế giới. Việc xây dựng kho ngữ liệu ngôn ngữ trung gian tiếng Hán của người Việt Nam có một ý nghĩa hết sức quan trọng trong công tác nghiên cứu và giảng dạy tiếng Trung Quốc ở giai đoạn hiện nay. Kho ngữ liệu do nhóm tác giả thực hiện được định hướng xây dựng bằng cách thu thập ngữ liệu bút ngữ chân thực của người Việt Nam trong quá trình học tiếng Hán, tiến hành chẩn đoán và phân loại ngữ liệu, tạo các chức năng tìm kiếm cơ bản để giúp người dùng có thể tiếp cận tới những thông tin cần thiết và nguồn ngữ liệu tự nhiên, chân thực. Kho ngữ liệu ngôn ngữ trung gian tiếng Hán của người học Việt Nam được lưu trữ tại địa chỉ:
+http://chinese-ulis.edu.vn/
+Kho ngữ liệu ngôn ngữ trung gian tiếng Hán của người học Việt Nam đã được nhóm dày công sưu tập, được lưu trữ tại địa chỉ:
+http://chinese-ulis.edu.vn/
+. Kho bao gồm những nội dung sau:
+Một là kho bài viết nguyên bản của người học:
+Kho lưu giữ nhiều bài viết chủ yếu là bài thi môn Viết, bài thi môn Dịch, môn Văn hóa văn minh của sinh viên khoa Ngôn ngữ và văn hóa Trung Quốc, trường Đại học Ngoại ngữ, Đại học Quốc gia Hà Nội. Ngoài ra còn có các bài viết của sinh viên một số trường đại học khác như Đại học Hải Phòng, Đại học Ngoại thương v.v… Số lượng bài viết được thu thập là trên 3000 bài, chủ yếu là bài gồm bài viết của sinh viên các khóa từ QH.2007 đến QH.2012, trong đó các khóa QH.2009 đến QH.2012 chiếm đa số. Các bài viết được thu thập trải dọc theo thời gian học tập của sinh viên, từ năm thứ nhất đến năm thứ tư, tức là từ trình độ sơ cấp đến trung cấp và cao cấp.

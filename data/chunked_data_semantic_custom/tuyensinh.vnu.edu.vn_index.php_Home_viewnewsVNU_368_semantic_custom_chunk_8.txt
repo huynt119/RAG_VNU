@@ -1,0 +1,260 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_368.txt
+
+Thông tin về ngành đào tạo/ chỉ tiêu/ tổ hợp môn xét tuyển/ thi tuyển
+TT (1)
+Mã trường (2)
+Mã ngành/Mã xét tuyển
+(3)
+Tên ngành (4)
+Chỉ tiêu
+(
+Dự kiến
+)
+Tổ hợp môn xét tuyển 1 (6)
+Tổ hợp môn xét tuyển 2 (7)
+Tổ hợp môn xét tuyển 3 (8)
+Tổ hợp môn xét tuyển 4 (9)
+theo xét KQ thi THPT QG
+Theo phương thức khác
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+1
+QHF
+7220201
+Ngôn ngữ  Anh
+108
+12
+D01
+Tiếng Anh
+D78
+Tiếng Anh
+D90
+Tiếng Anh
+2
+QHF
+7140231
+Sư phạm tiếng Anh
+159
+16
+D01
+Tiếng Anh
+D78
+Tiếng Anh
+D90
+Tiếng Anh
+3
+QHF
+7220202
+Ngôn ngữ  Nga
+69
+6
+D01
+Tiếng Anh
+D02
+Tiếng Nga
+D78
+Tiếng Anh
+D90
+Tiếng Anh
+4
+QHF
+7220203
+Ngôn ngữ Pháp
+69
+6
+D01
+Tiếng Anh
+D03
+Tiếng Pháp
+D78
+Tiếng Anh
+D90
+Tiếng Anh
+5
+QHF
+7140234
+Sư phạm tiếng Trung Quốc
+23
+2
+D01
+Tiếng Anh
+D04
+Tiếng Trung
+D78
+Tiếng Anh
+D90
+Tiếng Anh
+6
+QHF
+7220205
+Ngôn ngữ Đức
+45
+5
+D01
+Tiếng Anh
+D05
+Tiếng Đức
+D78
+Tiếng Anh
+D90
+Tiếng Anh
+7
+QHF
+7140236
+Sư phạm tiếng Nhật
+23
+2
+D01
+Tiếng Anh
+D06
+Tiếng Nhật
+D78
+Tiếng Anh
+D90
+Tiếng Anh
+8
+QHF
+7140237
+Sư phạm tiếng Hàn Quốc
+23
+2
+D01
+Tiếng Anh
+D78
+Tiếng Anh
+D90
+Tiếng Anh
+9
+QHF
+7220211
+Ngôn ngữ  Ả Rập
+27
+3
+D01
+Tiếng Anh
+D78
+Tiếng Anh
+D90
+Tiếng Anh
+10
+QHF
+7220201CLC
+Ngôn ngữ  Anh**         (CTĐT CLC TT23)
+203
+22
+D01
+Tiếng Anh
+D78
+Tiếng Anh
+D90
+Tiếng Anh
+11
+QHF
+7220203CLC
+Ngôn ngữ Pháp**         (CTĐT CLC TT23)
+69
+6
+D01
+Tiếng Anh
+D03
+Tiếng Pháp
+D78
+Tiếng Anh
+D90
+Tiếng Anh
+12
+QHF
+7220204CLC
+Ngôn ngữ Trung Quốc** (CTĐT CLC TT23)
+159
+16
+D01
+Tiếng Anh
+D04
+Tiếng Trung
+D78
+Tiếng Anh
+D90
+Tiếng Anh
+13
+QHF
+7220205CLC
+Ngôn ngữ Đức**           (CTĐT CLC TT23)
+69
+6
+D01
+Tiếng Anh
+D05
+Tiếng Đức
+D78
+Tiếng Anh
+D90
+Tiếng Anh
+14
+QHF
+7220209CLC
+Ngôn ngữ Nhật**           (CTĐT CLC TT23)
+159
+16
+D01
+Tiếng Anh
+D06
+Tiếng Nhật
+D78
+Tiếng Anh
+D90
+Tiếng Anh
+15
+QHF
+7220210CLC
+Ngôn ngữ  Hàn Quốc** (CTĐT CLC TT23)
+159
+16
+D01
+Tiếng Anh
+D78
+Tiếng Anh
+D90
+Tiếng Anh
+Tổng: 1.500 chỉ tiêu
+1.364
+136
+CÁC CHƯƠNG TRÌNH LKĐTQT DO ĐỐI TÁC
+NƯỚC NGOÀI CẤP BẰNG
+16
+QHF
+7903124QT
+Kinh tế - Tài chính***
+126
+14
+D01
+Tiếng Anh
+A01
+Tiếng Anh
+D78
+Tiếng Anh
+D90
+Tiếng Anh
+17
+QHF
+7310101QT
+Kinh tế - Quản lý***
+45
+5
+D01
+Tiếng Anh
+D03
+Tiếng Pháp
+D78
+Tiếng Anh
+D90
+Tiếng Anh
+Ghi chú:
+- Yêu cầu điền đầy đủ thông tin vào các cột: (2), (3), (4), (5), (6), (7), (8), (9). - Cột Mã ngành (3), Tên ngành (4): Quy định theo Thông tư 24/2017/TT-BGDĐT ngày 20/10/2017; Trình độ CĐSP theo quy định theo Thông tư số 15/VBHN-BGD ĐT ngày 08/5//2014 hợp nhất Danh mục giáo dục đào tạo cấp IV trình độ cao đẳng, đại học; Trình độ TCSP theo quy định tại Thông tư 34/2011/TT-BGD ĐT ngày 11/8/2011
+- Cột Chỉ tiêu (5): Là tổng chỉ tiêu của tất cả phương thức tuyển sinh. - Mã tổ hợp: Mỗi ngành chỉ được xét tuyển/ thi tuyển tối đa 04 tổ hợp môn quy định Mã tổ hợp trong Sheet "Bảng tổ hợp môn xét tuyển".

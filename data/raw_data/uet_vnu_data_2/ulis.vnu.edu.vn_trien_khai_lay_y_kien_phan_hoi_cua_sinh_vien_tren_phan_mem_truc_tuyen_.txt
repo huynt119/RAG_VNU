@@ -1,0 +1,16 @@
+Triển khai lấy ý kiến phản hồi của sinh viên trên phần mềm trực tuyến
+Th5 27, 2024
+in
+Khảo sát ý kiến
+Từ ngày 24/5 đến hết ngày 7/6/2024, Trường Đại học Ngoại ngữ – Đại học Quốc gia Hà Nội thực hiện tiếp nhận ý kiến phản hồi của sinh viên các chương trình đào tạo đại học chính quy đối với hoạt động giảng dạy của giảng viên học kỳ II năm học 2023-2024.
+Đáng chú ý, việc lấy ý kiến được thực hiện trên Hệ thống khảo sát, đánh giá trực tuyến của Nhà trường. Đây là lần đầu tiên Nhà trường sử dụng phần mềm khảo sát chuyên dụng, đảm bảo cao nhất tính thuận tiện, khách quan, bảo mật.
+Giao diện hệ thống khảo sát
+Công tác khảo sát ý kiến phản hồi là hoạt động thường niên giúp Nhà trường có thông tin để cải tiến, nâng cao chất lượng giảng dạy và đáp ứng tốt hơn yêu cầu của người học. Việc thực hiện khảo sát là trách nhiệm, nghĩa vụ của sinh viên. Sinh viên không hoàn thành yêu cầu khảo sát có thể bị nhắc nhở và trừ điểm rèn luyện.
+Sinh viên làm khảo sát trên phần mềm bằng cách:
+– Truy cập đường link:
+http://khaosat.ulis.vnu.edu.vn
+– Tên truy cập và mật khẩu sử dụng giống tài khoản trên trang portal đào tạo (
+https://daotao.vnu.edu.vn
+)
+Tagged with:
+20232024.tuan48

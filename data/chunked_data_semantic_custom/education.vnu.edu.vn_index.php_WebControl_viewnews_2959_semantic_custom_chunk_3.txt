@@ -1,0 +1,94 @@
+Nguồn: education.vnu.edu.vn_index.php_WebControl_viewnews_2959.txt
+
+Tổ hợp xét tuyển
+S
+TT
+Mã trường
+Ngành
+học
+Tên nhóm ngành
+Mã nhóm ngành
+Tổ hợp môn thi/bài thi
+THPT
+Phương thức khác
+Quy định trong xét tuyển
+1
+QHS
+Sư phạm Toán
+Sư phạm Toán và Khoa học Tự nhiên
+GD1
+Toán, Vật lý, Hóa học (A00)
+Toán, Vật lý, Tiếng Anh (A01)
+Toán, Hóa học, Sinh học (B00)
+Toán, Ngữ văn, Tiếng Anh (D01)
+- Xét
+tuyển
+thẳng, ưu tiên xét tuyển theo quy định của Bộ, của ĐHQGHN;
+- Các phương thức tuyển sinh khác theo quy định của ĐHQGHN;
+- Xét tuyển theo kết quả bài thi ĐGNL năm 2024 của ĐHQGHN; của ĐHQG Tp HCM
+Sau khi hoàn thành các học phần chung bắt buộc trong năm thứ nhất sẽ phân ngành. 2
+Sư phạm Vật lý
+3
+Sư phạm Hóa học
+4
+Sư phạm Sinh học
+5
+Sư phạm Khoa học Tự nhiên
+6
+Sư phạm Ngữ Văn
+Sư phạm  Ngữ văn
+,
+Lịch sử
+, Lịch sử và Địa lý
+GD2
+Ngữ văn, Lịch Sử, Địa lý (C00)
+Toán, Ngữ văn, Tiếng Anh (D01)
+Ngữ văn, Lịch sử, Tiếng Anh (D14)
+Ngữ văn, Địa lý, Tiếng Anh (D15)
+7
+Sư phạm Lịch sử
+8
+Sư phạm Lịch sử
+Địa lý
+9
+QHS
+Quản trị trường học
+Khoa học giáo dục và khác
+GD3
+Toán, Vật lý, Hóa học (A00)
+Toán, Hóa học, Sinh học (B00)
+Ngữ văn, Lịch Sử, Địa lý (C00)
+Toán, Ngữ văn, Tiếng Anh (D01)
+10
+Quản trị công nghệ giáo dục
+11
+Quản trị chất lượng giáo dục
+12
+Tham vấn học đường
+13
+Khoa học giáo dục
+14
+Tâm lý học (dự kiến)
+15
+QHS
+Giáo dục Tiểu học
+GD4
+Toán, Vật lý, Hóa học (A00)
+Toán, Hóa học, Sinh học (B00)
+Ngữ văn, Lịch Sử, Địa lý (C00)
+Toán, Ngữ văn, Tiếng Anh (D01)
+16
+QHS
+Giáo dục Mầm non
+GD5
+Toán, Vật lý, Hóa học (A00)
+Toán, Hóa học, Sinh học (B00)
+Ngữ văn, Lịch Sử, Địa lý (C00)
+Toán, Ngữ văn, Tiếng Anh (D01)
+Lưu ý:
+Điểm trúng tuyển theo từng nhóm ngành không phân biệt tổ hợp xét tuyển. P
+hân ngành cho sinh viên nhóm ngành GD1, GD2, GD3:
+Sau hai học kỳ chính của năm thứ nhất, Trường xét phân ngành cho sinh viên nhóm ngành GD1, GD2, GD3
+dựa trên các căn cứ:
+Điều kiện để được phân ngành:
+Học đủ số học phần theo kế hoạch học tập của Trường.

@@ -1,0 +1,279 @@
+Nguồn: uet.vnu.edu.vn_danh-sach-cac-de-tai-nhiem-vu-nam-2020-2_.txt
+
+Hồ Anh Tâm
+PTN CN Micro-nano
+T5/2020
+T9/2020
+CN20.02
+Nghiên cứu xây dựng hệ thống tự động phát hiện người không đeo khẩu trang và nhắc nhở đeo khẩu trang, tăng cường phòng chống dịch viêm phổi COVID-19
+Phan Hoàng Anh
+TT ĐTVT
+T5/2020
+T7/2020
+CN20.03
+Đánh giá tiền khả thi hệ thống hỗ trợ giao tiếp cho bệnh nhân bị tổn thương chức năng vận động
+Lê Thanh Hà
+Khoa CNTT
+T5/2020
+T9/2020
+CN20.04
+Phân tích đáp ứng động lực học phi tuyến và dao động của kết cấu tấm phân lớp có lõi làm bằng vật liệu Auxetic trên nền đàn hồi chịu tải trọng nổ
+Vũ Đình Quang
+BM CN GT&XD
+T7/2020
+T7/2021
+CN20.05
+Nghiên cứu tính chất quang phổ và điện hóa của màng tổ hợp nano ôxit kim loại chuyển tiếp (Ti, W) chế tạo bằng phương pháp điện hóa – hóa lý
+Nguyễn Năng Định
+Khoa VLKT&CNNN
+T8/2020
+T2/2021
+CN20.06
+Nghiên cứu chế tạo và khảo sát tính chất của vật liệu tổ hợp Bi0,5(NaK)0,5TiO3/Fe3O4 định hướng ứng dụng trong lĩnh vực năng lượng
+Nguyễn Đăng Cơ
+Khoa VLKT&CNNN
+T7/2020
+T7/2021
+CN20.07
+Nghiên cứu tính phù hợp của vỏ hạt mắc ca cho quá trình khí hóa sinh năng lượng
+Vũ Ngọc Linh
+Khoa VLKT&CNNN
+T7/2020
+T7/2021
+CN20.08
+Xây dựng mô hình nhận dạng thực thể định danh cho văn bản y sinh tiếng Việt
+Cấn Duy Cát
+Khoa CNTT
+T7/2020
+T7/2021
+CN20.09
+Mô hình phân tích cường độ cảm xúc trong các bình luận tiếng Việt để hỗ trợ kinh doanh
+Trần Mai Vũ
+Khoa CNTT
+T7/2020
+T7/2021
+CN20.10
+Nhận dạng thiết bị điện dựa trên đặc trưng dòng điện tiêu thụ
+Dương Lê Minh
+Khoa CNTT
+T7/2020
+T7/2021
+CN20.11
+Nghiên cứu mở rộng dải phổ phát quang của đèn LED từ các vật liệu phát quang dựa trên nền phosphor
+Mai Thị Ngọc Ánh
+Khoa VLKT&CNNN
+T7/2020
+T7/2021
+CN20.12
+Nghiên cứu tính chất quang phổ và điện hóa của màng mỏng tổ hợp nano chế tạo bằng phương pháp Langmuir-Blodgett
+Vũ Thị Thao
+Khoa VLKT&CNNN
+T7/2020
+T7/2021
+CN20.13
+Nghiên cứu tích hợp và ứng dụng cảm biến đo áp suất không khí phục vụ cảnh báo ngưỡng an toàn trong các ứng dụng công nghiệp
+Bùi Hồng Son
+Khoa CHKT&TĐH
+T7/2020
+T7/2021
+CN20.14
+Thuật toán cải thiện chất lượng tín hiệu điện tâm đồ gắng sức
+Hoàng Văn Mạnh
+Khoa CHKT&TĐH
+T7/2020
+T7/2021
+CN20.15
+Nghiên cứu tính toán, mô phỏng máy phát điện tịnh tiến sử dụng cấu trúc nam châm dãy Halbach trong thiết bị chuyển đổi năng lượng sóng
+Đỗ Huy Điệp
+Khoa CHKT&TĐH
+T7/2020
+T7/2021
+CN20.16
+Nghiên cứu nâng cao hiệu suất tua-bin gió trục đứng Savonius ở tỉ tốc cao
+Lê Đình Anh
+Viện CN HKVT
+T7/2020
+T7/2021
+CN20.17
+Phát triển mô hình ước tính chất lượng nước sông quanh các khu trang trại trồng trọt
+Nguyễn Thị Ngọc Ánh
+Khoa CNNN
+T7/2020
+T7/2021
+CN20.18
+Nghiên cứu chế tạo màng sợi nano bằng phương pháp kéo sợi lực điện trường
+Nguyễn Như Cường
+Khoa ĐTVT
+T7/2020
+T7/2021
+CN20.20
+Nghiên cứu điều khiển hệ thống đa robot di chuyển theo bầy
+Phạm Duy Hưng
+Khoa ĐTVT
+T7/2020
+T7/2021
+CN20.21
+Xây dựng hệ thống quản lý hồ sơ cán bộ
+Trần Thị Minh Châu
+Khoa CNTT
+T10/2020
+T10/2021
+CN20.22
+Xây dựng phần mềm đa nền tảng IQ-TREE giao diện đồ họa người dùng tăng cường hỗ trợ nghiên cứu về sự tiến hóa và lây truyền của virus
+Hoàng Thị Điệp
+Khoa CNTT
+T10/2020
+T10/2021
+CN20.23
+Xây dựng mô hình gợi ý giỏ hàng kế tiếp dựa trên mô hình hóa các chuỗi giỏ hàng đa ý định
+Lê Đức Trọng
+Khoa CNTT
+T10/2020
+T10/2021
+CN20.24
+Nghiên cứu các phương pháp tăng tính bảo mật cho bài toán giấu tin trong ảnh dựa trên kiến trúc mạng học sâu
+Tạ Việt Cường
+Khoa CNTT
+T10/2020
+T10/2021
+CN20.25
+Cá nhân hóa sinh mô tả sản phẩm trong thương mại điện tử
+Nguyễn Minh Thuận
+Khoa CNTT
+T10/2020
+T10/2021
+CN20.26
+Nghiên cứu phương pháp phân loại các cảnh báo của công cụ phân tích tĩnh
+Nguyễn Thu Trang
+Khoa CNTT
+T10/2020
+T10/2021
+CN20.27
+Nghiên cứu phương pháp xác định nhịp tim trong khoảng thời gian ngắn sử dụng thiết bị Radar Doppler, ứng dụng phân loại bệnh nhân sốt xuất huyết
+Lưu Mạnh Hà
+Viện tiên tiến về KT&CN
+T10/2020
+T10/2021
+CN20.28
+Nghiên cứu phát triển hệ thống điều khiển nhiệt độ tích hợp trong chip vi lỏng phục vụ cho xét nghiệm y sinh học
+Phạm Xuân Lộc
+Khoa ĐTVT
+T10/2020
+T10/2021
+CN20.29
+Nghiên cứu và phát triển cảm biến vận tốc góc hai bậc tự do kiểu khí
+Nguyễn Thu Hằng
+Khoa ĐTVT
+T10/2020
+T10/2021
+CN20.30
+Nghiên cứu hoàn thiện và sản xuất máy sát khuẩn tay tự động dạng xách tay được phục vụ công tác phòng chống dịch Covid-19 tại Đại học Quốc gia Hà Nội
+Hồ Anh Tâm
+PTN CN Micro-nano
+T11/2020
+T11/2021
+CN20.31
+Nghiên cứu, thiết kế và chế tạo hệ thống gắp đặt linh kiện cho hệ thống kiểm tra linh kiện tự động
+Hoàng Bảo Anh
+TT ĐTVT
+T11/2020
+T11/2021
+CN20.33
+Sàng lọc, đánh giá, lựa chọn một số loại cây phù hợp cho canh tác trong mô hình nhà máy sản xuất sinh khối thực vật dùng ánh sáng nhân tạo
+Nguyễn Lê Khanh
+Khoa CNNN
+T11/2020
+T11/2021
+CN20.34
+Nghiên cứu chế tạo chấm carbon (carbon dots) để định hướng ứng dụng trong trồng trọt
+Vũ Thị Huyền
+Khoa CNNN
+T11/2020
+T11/2021
+CN20.35
+Nghiên cứu chế tạo hệ thống bẫy sâu keo kết nối mạng ứng dụng trong cảnh báo sâu bệnh hại
+Phạm Minh Triển
+Khoa CNNN
+T11/2020
+T11/2021
+CN20.36
+Nghiên cứu ảnh hưởng của từ trường lên khả năng nảy mầm của hạt và cây nuôi cấy mô
+Lê Huy Hàm
+Khoa CNNN
+T12/2020
+T12/2021
+CN20.37
+Phân tích dầm áp điện có vết nứt chịu tải trọng tĩnh
+Trần Thanh Hải
+Khoa CHKT&TĐH
+T12/2020
+T12/2021
+CN20.38
+Nghiên cứu các yếu tố ảnh hưởng đến chất lượng phân vùng ảnh trong phát hiện vết nứt sử dụng thị giác máy tính
+Đinh Trần Hiệp
+Khoa CHKT&TĐH
+T12/2020
+T12/2021
+CN20.39
+Thiết kế và mô phỏng hệ thống bơm nước bằng năng lượng mặt trời độc lập phục vụ trong nông nghiệp bằng Matlab/Simulink/Simscape
+Trần Cường Hưng
+Khoa CHKT&TĐH
+T12/2020
+T12/2021
+CN20.40
+Nghiên cứu, thiết kế và tích hợp hệ thống điều khiển truyền động ứng dụng trên máy in 3D
+Nguyễn Ngọc Linh
+Khoa CHKT&TĐH
+T12/2020
+T12/2021
+CN20.41
+Phân tích động lực học tàu dưới tác động tải trọng sóng
+Đào Như Mai
+Khoa CHKT&TĐH
+T12/2020
+T12/2021
+CN20.42
+Nghiên cứu, phát triển giải thuật Trí tuệ nhân tạo đa thể thức cho Robot thông minh
+Đinh Bảo Minh
+Khoa ĐTVT
+T12/2020
+T12/2021
+CN20.43
+Nghiên cứu phát triển hệ thống tạo vi giọt có điều khiển
+Trần Thanh Hằng
+Khoa ĐTVT
+T12/2020
+T12/2021
+CN20.44
+Nghiên cứu phát triển đầu gắp mềm cho cánh tay robot
+Nguyễn Đức Tiến
+Khoa ĐTVT
+T12/2020
+T12/2021
+CN20.45
+Thiết kế và chế tạo mô hình mẫu máy bay có hiệu ứng khó động tối ưu nhất về hệ số lực nâng
+Dương Việt Dũng
+Viện CN HKVT
+T12/2020
+T12/2021
+CN20.46
+Thiết kế, chế tạo và thử nghiệm xe đạp nước
+Hà Minh Cường
+Viện CN HKVT
+T12/2020
+T12/2021
+CN20.47
+Nghiên cứu xây dựng hệ thống quản lý tham số môi trường (sử dụng các cảm biến nhiệt độ, độ ẩm và khí CO2) trên nền tảng IoT nhằm ứng dụng cho nuôi trồng nấm ăn
+Phạm Đình Tuân
+Khoa ĐTVT
+T12/2020
+T12/2021
+DA20.01
+Nâng cao năng lực nghiên cứu và đào tạo cho Bộ môn Công nghệ Xây dựng – Giao thông
+Nguyễn Đình Đức
+BM CN GT&XD
+T7/2020
+T7/2022
+QG.20.52
+Nghiên cứu, mô hình hóa và tối ưu truyền tin trong mạng thông tin vô tuyến siêu dày đặc sử dụng sóng milimet
+TS.

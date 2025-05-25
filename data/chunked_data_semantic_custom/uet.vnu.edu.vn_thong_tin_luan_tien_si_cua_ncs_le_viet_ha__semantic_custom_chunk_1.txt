@@ -1,0 +1,16 @@
+Nguồn: uet.vnu.edu.vn_thong_tin_luan_tien_si_cua_ncs_le_viet_ha_.txt
+
+Khả năng ứng dụng trong thực tiễn:
++ Khung kiến trúc dựa trên phân tích mã nguồn ứng dụng web bằng cách kết hợp giữa kỹ
+thuật so khớp mẫu với thuật toán học sâu là chỉ dẫn để phát triển các mô hình phát hiện
+tấn công webshell cụ thể phù hợp với các ngôn ngữ lập trình khác nhau có khả năng triển
+khai trong thực tiễn. + Mô hình học sâu thực hiện phân tích chuyên sâu các truy vấn HTTP có khả năng tích
+hợp vào hệ thống IDS/IPS cho phép phát hiện các tấn công webshell và tự động chặn các
+địa chỉ nguồn đáng ngờ trong thời gian thực. Những hướng nghiên cứu tiếp theo:
++ Tiến hành khảo sát tổng thể các bộ dữ liệu webshell được sử dụng trong nghiên cứu
+hiện tại, từ đó xây dựng bộ dữ liệu làm chuẩn cho các nghiên cứu sau này liên quan đến
+webshell. + Tiếp tục nghiên cứu và thử nghiệm các mô hình DL/ML đơn lẻ và các mô hình tổng
+hợp mới nhất để cải thiện khả năng phát hiện chính xác các webshell nâng cao. + Nghiên cứu sâu hơn về cơ chế hoạt động và đặc điểm của webshell cho phép xây dựng
+các bộ công cụ tự động hóa quá trình tạo quy tắc YARA. + Mở rộng nghiên cứu về webshell viết bằng các ngôn ngữ khác như JSP, Ruby,
+Python,… hướng tới xây dựng mô hình tổng quát có thể phát hiện hiệu quả tất cả các loại
+webshell mà không phụ thuộc vào ngôn ngữ lập trình.

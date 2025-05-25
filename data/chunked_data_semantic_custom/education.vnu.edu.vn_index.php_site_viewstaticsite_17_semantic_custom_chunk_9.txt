@@ -1,0 +1,78 @@
+Nguồn: education.vnu.edu.vn_index.php_site_viewstaticsite_17.txt
+
+Đỗ Trung Tùng
+5
+Báo cáo xây dựng Bài giảng trên hệ thống Moodle môn PPDH môn Toán
+6
+Cao học
+Hướng dẫn chính
+7
+Cao học
+Hướng dẫn chính
+8
+Cao học
+Hướng dẫn chính
+9
+Sinh viên
+Hướng dẫn chính
+Tổng
+Ghi chú:
+Ở mục
+Phân loại hoạt động KHCN
+, ghi các số tương ứng: (1.1) Đề tài, dự án cấp nhà nước và tương đương; (1.2) Đề tài, dự án cấp ĐHQGHN, cấp Bộ, đề tài nhánh cấp Nhà nước và tương đương; (1.3) Đề tài, dự án cấp Trường hoặc tương đương; (1.4) Đề tài dự án nghiên cứu hợp tác quốc tế, tham gia cùng các nhóm nghiên cứu quốc tế; (2.1) Theo giá trị tài trợ thu hút được từ dịch vụ khoa học và công nghệ và chuyển giao tri thức (mức giá trị do các đơn vị quy định chi tiết); (2.2) Triển khai các hoạt động hợp tác theo mô hình Trường-Viện-Doanh nghiệp với các đối tác trong và ngoài nước theo đơn đặt hàng của ĐHQGHN và các đơn vị (có quyết định giao nhiệm vụ)
+B2. HƯỚNG DẪN NGHIÊN CỨU KHOA HỌC (SINH VIÊN, HỌC VIÊN SAU ĐẠI HỌC) VÀ SEMINAR TẠI BỘ MÔN, KHOA, TRƯỜNG
+Tên báo cáo NCKH hoặc Seminar tại Bộ môn, Khoa, Trường
+Vai trò trong báo cáo
+(Hướng dẫn chính; Hướng dẫn phụ; Đồng hướng dẫn) (với báo cáo NCKH SV, HVSĐH)
+Tên SV, HVSĐH
+(với hướng dẫn NCKH)
+1
+Thiết kế chủ đề dạy học theo định hướng giáo dục STEM Chương Oxi - Lưu huỳnh, Hóa học 10 nâng cao nhằm phát triển năng lực giải quyết vấn đề cho học sinh
+Hướng dẫn chính
+Nguyễn Thị Kim Oanh
+2
+Dạy học đọc hiểu các đoạn trích trong Truyện Kiều của Nguyễn Du theo định hướng  phát triển NL
+Hướng dẫn chính
+Nguyễn Thị Hoài
+3
+Xây dựng một số bài tập hỗ trợ dạy học phần văn bản nhật dụng cho học sinh lớp 9
+Hướng dẫn chính
+Nguyễn Thị Hạnh
+4
+Dạy học làm văn nghị luận cho HS lớp 11 theo hướng phát triển tư duy phản biện
+Hướng dẫn chính
+Nguyễn Hồng Ngọc
+5
+Dạy học nhóm bài phong cách ngôn ngữ cho HS lớp 11 theo hướng tích hợp
+Hướng dẫn chính
+Phạm Thị Nga
+6
+Xây dựng hệ thống thí nghiệm ảo phần
+hóa học hữu cơ lớp 11 trung học phổ thông
+Hướng dẫn chính
+Vũ Thu Trang
+7
+Xây dựng hệ thống thí nghiệm vui - Phần Halogen - Hóa học 10 nhằm tạo hứng thú học tập cho học sinh
+Hướng dẫn chính
+Nguyễn Minh Ngọc
+8
+Phát triển năng lực nghiên cứu khoa học cho học sinh thông qua dạy học theo định hướng giáo dục STEM phần axit cacboxylic, cacbon và hợp chất
+Hướng dẫn chính
+Nguyễn Thuý Quỳnh
+Phạm Thị Thuỳ Trang
+QH2015- S SP Hoá học
+9
+Phát triển năng lực vận dụng kiến thức vào cuộc sống thông qua hoạt động trải nghiệm sáng tạo chương este-lipit (Hóa học 12)
+Hướng dẫn chính
+Hoàng Thị Diêu Linh
+Hà Minh Tuấn
+QH2015- S SP Hoá học
+10
+Seminar: Triển khai Website môn học tại Khoa Sư phạm: Thực trạng và thách thức (Developing subject websites at Faculty of Teacher Education: reality and challenge)
+Báo cáo viên
+11
+Vận dụng mô hình lớp học đảo ngược để dạy học chủ đề tích hợp liên môn trong chương trình sinh học 10 trung học phổ thông
+Hướng dẫn chính
+Bùi Thị Thanh Thanh
+12
+Xây dựng hệ thống câu hỏi - bài tập theo định hướng phát triển năng lực để dạy học chương III.

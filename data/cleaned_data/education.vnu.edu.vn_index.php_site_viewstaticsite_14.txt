@@ -1,0 +1,202 @@
+Đội ngũ giảng viên
+Đội ngũ giảng viên
+STT
+Họ tên
+Học hàm/vị
+Chức vụ
+Email vnu
+Chuyên môn
+Lý lịch khoa học
+Bộ môn Sư phạm Khoa học Tự nhiên
+1
+Lê Thị Thu Hiền
+PGS.TS
+PTK
+hienltt@vnu.edu.vn
+LL&PPDH Vật lý
+Lý lịch khoa học
+2
+Lê Thị Phượng
+PGS.TS
+Sinh học
+Lý lịch khoa học
+3
+Lê Chí Nguyện
+TS
+lechinguyen@vnu.edu.vn
+LL&PPDH Vật lý
+Lý lịch khoa học
+4
+Nguyễn Thị Lan Ngọc
+TS
+LL&PPDH Vật lý
+Lý lịch khoa học
+5
+Lê Khắc Quynh
+TS
+Lý lịch khoa học
+6
+Vũ Minh Trang
+TS
+PTBM
+trangvm@vnu.edu.vn
+Hoá học
+Lý lịch khoa học
+7
+Nguyễn Hoàng Trang
+TS
+trangnh.ksp@vnu.edu.vn
+Hoá học
+Lý lịch khoa học
+8
+Phạm Thị Kim Giang
+TS
+kimgiang0378@vnu.edu.vn
+Hoá học
+Lý lịch khoa học
+9
+Vũ Thị Thu Hoài
+PGS.TS
+Lý lịch khoa học
+10
+Mai Văn Hưng
+GS.TS
+hungmv@vnu.edu.vn
+Nhân chủng sinh học
+Lý lịch khoa học
+11
+Nguyễn Thị Thuý Quỳnh
+TS
+quynhntt-bio@vnu.edu.vn
+Sinh học phân tử thực vật
+Lý lịch khoa học
+12
+Nguyễn Thị Hà
+TS
+Lý lịch khoa học
+13
+Lại Phương Liên
+TS
+lienlp@vnu.edu.vn
+LL&PPDH Sinh
+Lý lịch khoa học
+14
+Đỗ Thuỳ Linh
+TS
+Lý lịch khoa học
+15
+Nguyễn Hữu Chung
+TS
+chungnh@vnu.edu.vn
+Hoá vô cơ
+Lý lịch khoa học
+16
+Vũ Phương Liên
+TS
+lienvp@vnu.edu.vn
+Lý lịch khoa học
+17
+Khuất Thị Thanh Huyền
+ThS
+huyenkhuat@vnu.edu.vn
+Lý lịch khoa học
+Bộ môn Sư phạm Ngữ văn và Khoa học xã hội
+1
+Lê Hải Anh
+PGS.TS
+PTK
+lehaianh@vnu.edu.vn
+LL&PPDH Ngữ văn
+Lý lịch khoa học
+2
+Phạm Thị Thu Hiền
+PGS.TS
+TBM
+pthien@vnu.edu.vn
+LL&PPDH Ngữ văn
+Lý lịch khoa học
+3
+Phạm Thị Thanh Phượng
+PGS.TS
+phuongptt@vnu.edu.vn
+Lý lịch khoa học
+4
+Nguyễn Ngọc Ánh
+TS
+anhnn.vnu@vnu.edu.vn
+Lý lịch khoa học
+5
+Nguyễn Văn Ngọ
+TS
+nvngodhgd@vnu.edu.vn
+Lịch sử
+Lý lịch khoa học
+6
+Nguyễn Phùng Tám
+TS
+nguyenphungtam@vnu.edu.vn
+GD Quốc tế và So sánh
+Lý lịch khoa học
+7
+Phạm Thị Mỹ Duyên
+CN
+Lý lịch khoa học
+8
+Hoa Đình Dũng
+CN
+Lý lịch khoa học
+Bộ môn Sư phạm Toán
+1
+Nguyễn Chí Thành
+PGS.TS
+Trưởng khoa
+thanhnc@vnu.edu.vn
+Didactic Toán
+Lý lịch khoa học
+2
+Nguyễn Minh Tuấn
+PGS.TS
+TBM
+nguyentuan@vnu.edu.vn
+Toán giải tích
+Lý lịch khoa học
+3
+Cao Thị Hà
+PGS.TS
+caoha @vnu.edu.vn
+LL&PPDH Toán
+Lý lịch khoa học
+4
+Đào Thị Hoa Mai
+ThS
+maidth @vnu.edu.vn
+PP toán sơ cấp
+Lý lịch khoa học
+5
+La Đức Minh
+TS
+Lý lịch khoa học
+6
+Nguyễn Phụ Hoàng Lân
+TS
+Lý lịch khoa học
+7
+Nguyễn Thị Thảo Linh
+ThS
+nguyenthithaolinh1601
+@vnu.edu.vn
+LL&PPDH Toán
+Lý lịch khoa học
+Hành chính
+1
+Đặng Việt Hà
+ThS-NCS
+Giáo vụ
+dangvietha1982
+@vnu.edu.vn
+2
+Vũ Thị Thu
+ThS
+Hành chính
+thuvu90
+@vnu.edu.vn

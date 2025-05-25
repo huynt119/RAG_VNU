@@ -1,0 +1,34 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-ky-thuat-xay-dung-2_.txt
+
+Ki
+ế
+n th
+ứ
+c v
+ậ
+t l
+ý
+Biết được các kiến thức cơ bản về Vật lý đại cương;
+Hiểu được các hiện tượng và quy luật Vật lý và các ứng dụng liên quan trong khoa học kỹ thuật và đời sống;
+Vận dụng kiến thức để học tập và nghiên cứu các học phần khác của các ngành kỹ thuật và công nghệ. Ki
+ế
+n th
+ứ
+c to
+á
+n h
+ọ
+c
+Vận dụng các kiến thức liên quan đến Giải tích toán học như tính giới hạn, tính đạo hàm, tính tích phân của các hàm một biến và hàm nhiều biến;
+Có khả năng vận dụng được các kiến thức liên quan đến Đại số cao cấp như ma trận và các phép biến đổi, giải các hệ phương trình nhiều biến số. Ki
+ế
+n th
+ứ
+c tin h
+ọ
+c
+Giải thích được các kiến thức cơ bản về thông tin;
+Sử dụng được công cụ xử lý thông tin thông dụng (hệ điều hành, các phần mềm hỗ trợ công tác văn phòng và khai thác Internet,…);
+Có khả năng phân tích, đánh giá và lập trình một ngôn ngữ lập trình;
+Có khả năng phân tích, đánh giá phương pháp lập trình hướng thủ tục và lập trình hướng đối tượng; phân biệt được ưu và nhược điểm của hai phương pháp lập trình;
+Hiểu các kiến thức cơ bản về nguyên lý hoạt động của hệ thống phần cứng, phần mềm, tối ưu hóa hệ thống kết hợp giữa phần cứng và phần mềm.

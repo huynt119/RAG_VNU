@@ -1,0 +1,123 @@
+Tuyển sinh ĐHQGHN
+Trang chủ
+Tin tức
+Danh sách ngành
+Đề án tuyển sinh 2022
+Thông báo tuyển sinh 2022
+TIN TỨC
+Khoa Quốc tế - ĐHQGHN: Hướng dẫn viết phiếu điều chỉnh nguyện vọng xét tuyển ĐH 2019
+Sau khi có kết quả thi THPT Quốc gia 2019, thí sinh muốn điều chỉnh các nguyện vọng đã đăng ký trước đó, thí sinh sẽ có 2 cách để sửa lại thông tin nguyện vọng xét tuyển. Đối với thí sinh lựa chọn thay đổi nguyện vọng xét tuyển bằng phiếu cần tải phiếu điều chính nguyện vọng và in phiếu điều chỉnh NV, sau đó điền các thông tin như hướng dân dưới đây.
+>> Tải mẫu phiếu điều chỉnh nguyện vọng ĐKXT ĐH, CĐ, TC năm 2019
+tại đây
+Video hướng dẫn điều chỉnh nguyện vọng xét tuyển 2019
+HƯỚNG DẪN ĐIỀN THÔNG TIN VÀO PHIẾU ĐIỀU CHỈNH
+NGUYỆN VỌNG ĐĂNG KÝ XÉT TUYỂN
+VÀO ĐẠI HỌC, CAO ĐẲNG
+,
+TRUNG CẤP
+1. Thông tin điều chỉnh ĐKXT được khai trên 02 phiếu (Phiếu số 1 Nơi tiếp nhận lưu, Phiếu số 2 Thí sinh lưu).
+2. Phần
+THÔNG TIN CÁ NHÂN
+: Cần ghi chính xác và thống nhất với thông tin trong Phiếu đăng ký dự thi THPT quốc gia và xét tuyển vào đại học, cao đẳng, trung cấp.
+3.  Mục "Đề nghị điều chỉnh chế độ ưu tiên": Nếu thí sinh có sửa “Khu vực ưu tiên tuyển sinh“ hoặc “Đối tượng ưu tiên tuyển sinh" thì đánh dấu X vào ô tương ứng (
+trong mục "Khu vực ưu tiên tuyển sinh" điền một trong các mã KV1, KV2-NT, KV2 hoặc KV3 tương ứng với khu vực ưu tiên của thí sinh được hưởng; trong mục "Đối tượng ưu tiên tuyển sinh" điền một trong các ký hiệu từ 01 đến 07 tương ứng với đối tượng ưu tiên của thí sinh được hưởng. Nếu không thuộc đối tượng ưu tiên thì để trống).
+4. Bảng "
+Nội dung0 các nguyện vọng (NV) đăng ký xét tuyển sau điều chỉnh
+":
+Bước 1:
+Thí sinh ghi đầy đủ thông tin về NV đăng ký xét tuyển sau khi đã điều chỉnh vào bảng mới từ cột (1) đến cột (5);
+Bước 2:
+So sánh bảng mới với bảng cũ (đã đăng ký khi làm thủ tục dự thi) để ghi "Nội dung thay đổi " vào cột (6) như sau:
+- Nếu không thay đổi thứ tự  NV ưu tiên và các nội dung đã đăng ký thì thí sinh ghi số
+0
+tại cột (6) cùng hàng;
+- Nếu chỉ thay đổi thứ tự  NV ưu tiên và giữ nguyên các nội dung khác đã đăng ký thì thí sinh ghi số thứ tự NV ưu tiên cũ tại cột (6) cùng hàng;
+- Những thay đổi khác thì ghi
+TĐ
+tại cột 6 cùng hàng.
+Ví dụ:
+Bảng danh sách nguyện vọng cũ đã đăng ký khi làm thủ tục dự thi
+(bảng cũ)
+Thứ tự
+NV ưu tiên
+Mã trường
+(chữ in hoa)
+Mã ngành/
+Nhóm ngành
+Tên ngành/Nhóm ngành
+Mã tổ hợp môn xét tuyển
+1
+BVH
+7480201
+Công nghệ thông tin
+A00
+2
+QHQ
+QHQ01
+Kinh doanh quốc tế
+A00
+3
+BKA
+7480201
+Công nghệ thông tin
+A00
+4
+VHD
+7480201
+Công nghệ thông tin
+A00
+……
+Bảng nội dung điều chỉnh nguyện vọng đăng ký xét tuyển
+(bảng mới)
+Thứ tự NV
+ưu tiên
+(1)
+Mã trường
+(chữ in hoa)
+(2)
+Mã ngành/
+Nhóm ngành
+(3)
+Tên ngành/Nhóm ngành
+(4)
+Mã tổ hợp môn xét tuyển
+(5)
+Nội dung thay đổi
+(6)
+1
+QHQ
+QHQ01
+Kinh doanh quốc tế
+A00
+2
+2
+QHQ
+QHQ02
+Kế toán, Phân tích và Kiểm toán
+A01
+TĐ
+3
+QHQ
+QHQ03
+Hệ thống thông tin quản lý
+D01
+TĐ
+4
+VHD
+7480201
+Công nghệ thông tin
+A00
+0
+……
+Trong ví dụ trên
+:
+-          Nguyện vọng 1 của bảng mới trùng với nguyện vọng 2 của bảng cũ:  Điền số
+2
+(số thứ tự NV ưu tiên cũ)
+vào cột 6, hàng 1;
+-          Nguyện vọng 2 của bảng mới thay đổi so với bảng cũ: Điền
+TĐ
+vào cột 6, hàng 2;
+-           Nguyện vọng 4 của bảng mới không thay đổi so với bảng cũ: Điền số
+0
+vào cột 6, hàng 4.

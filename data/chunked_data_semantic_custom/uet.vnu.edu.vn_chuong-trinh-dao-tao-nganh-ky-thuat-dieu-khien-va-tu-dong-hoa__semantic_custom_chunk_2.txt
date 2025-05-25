@@ -1,0 +1,11 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-dieu-khien-va-tu-dong-hoa_.txt
+
+Về kiến thức
+Sinh viên được trang bị kiến thức có hệ thống và hiện đại về:
+Kiến thức tổng hợp về toán, khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ;
+Có kiến thức cơ bản về lý thuyết điều khiển, tự động hóa trong sản xuất; nhận dạng hệ thống. Hiểu được bài bản các quy trình, nguyên lý, phương pháp phân tích, kỹ thuật thiết kế, lập trình điều khiển và vận hành các hệ thống và thiết bị tự động. Có kiến thức về các hệ thống điều khiển tự động ứng dụng PLC và SCADA, các chuẩn mạng truyền thông trong công nghiệp; các hệ truyền động, các thiết bị tự động;
+Vận hành, lập trình trên các loại PLC và các phần mềm SCADA thông dụng, các chuẩn mạng truyền thông trong công nghiệp, các cách thức vận hành và lắp đặt cho các hệ truyền động, các thiết bị tự động, các lý thuyết cơ bản của hệ thống điều khiển tự động. Về năng lực
+Trang bị cho sinh viên:
+Tư duy logic tốt, có năng lực sáng tạo để giải quyết các bài toán ứng dụng cụ thể; có năng lực tự học để nắm bắt các công nghệ, công cụ, kỹ năng mới trong thiết kế các hệ thống điều khiển và tự động hóa;
+Năng lực làm việc với vị trí lập trình viên trình độ cao cho các công ty phát triển phần mềm nhúng và phần mềm điều khiển của các công ty trong và ngoài nước. Đặc biệt thích hợp cho các vị trí trong các lĩnh vực đòi hỏi công nghệ hiện đại và sáng tạo như phát triển các hệ thống điều khiển thông minh, điều khiển thích nghi;
+Khả năng làm việc ở nhiều vị trí khác nhau trong các cơ quan tổ chức phát triển và ứng dụng tự động hóa trong nước.

@@ -1,0 +1,18 @@
+Dr. Dinh Trieu Duong
+Publications
+Journals:
+M.-C. Hwang, J.-H. Kim, Dinh Trieu Duong, and S.-J. Ko, "Hybrid Temporal Error Concealment Methods for Block-Based Compressed Video Transmission", IEEE Trans. on Broadcasting, Vol. 54, no. 2, pp. 198-207, Jun. 2008.
+Dinh Trieu Duong, B.-D. Choi, M.-C. Hwang, and S.-J. Ko, "Frame Error Concealment Using Pixel Correlation in Overlapped Motion Compensation Regions", ETRI Journal, Vol. 31, no. 1, pp. 21-30, Feb. 2009.
+Dinh Trieu Duong, M.-C. Hwang, B.-D. Choi, J.-H. Kim, and S.-J. Ko, "Efficient Frame Error Concealment Using Bilateral Motion Estimation for Low Bit-Rate Video Transmission," IEICE Trans. Communications, Vol. E92-B, no. 2, pp. 461-472, Feb. 2009.
+Conferences:
+L. T. Ha, Dinh Trieu Duong, H.-S. Kim, M.-C. Hwang, and S.-J. Ko, "Error concealment using adaptive mode selection for video communication in multipath transport" IMQA2007, Japan, pp. 65-69, 2007.
+Dinh Trieu Duong, H.-S. Kim, L.T. Ha, J.-Y. Jeong, and S.-J. Ko, "Adaptive GOP Bit Allocation to Provide Seamless Video Streaming in Vertical Handoff" PSIVT2006, Lecture Notes in Computer Science, Vol. 4319, pp. 791-801, 2006.
+L. T. Ha, Dinh Trieu Duong, H.-S. Kim, B.-D. Choi, and S.-J. Ko, "Error Concealment Using Adaptive Spatial Interpolation for H.264" HUT-ICCE 2006, Vietnam, pp. 37-41, 2006.
+H.-S. Kim, Dinh Trieu Duong, J.-Y. Jeong, B.-K. Dan, and S.-J. Ko, "Power-Aware Rate Control for Mobile Multimedia Communications" Lecture Notes in Computer Science, Vol. 4104, pp. 458-471, 2006.
+Copyright © 2013 Dr. Dinh Trieu Duong
+VNU University of Engineering and Technology
+Home
+Research
+Publications
+Lectures
+Contact

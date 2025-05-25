@@ -1,0 +1,76 @@
+INT2202 - Advanced Programming - Lập trình nâng cao
+Semester II, 2017-2018
+Credits: 3
+Instructor:
+Tran Quoc Long
+(tqlong at vnu.edu.vn)
+Group:
+Facebook
+,
+Group email
+News - Announcement
+(10/04)
+Báo cáo dự án - điền link video/report ở đây
+(06/02)
+Code / Mã ví dụ trên lớp
+(22/01)
+CodePower
+Course contents: Problem solving with advanced programming
+Expressing ideas and programming solutions
+Advanced programming techniques: array, pointer, linked list, STL
+Introduction to Object Oriented Programming (OOP)
+Language: C++
+Course materials:
+Lecture notes (Giáo trình Lập trình nâng cao)
+(bản nháp)
+Slides and document links to the Internet provided in this page.
+Assessment (tentative):
+Individual programming project (progress reports, final report and presentation):
+40%
+Final exam (programming techniques and problem solving):
+60%
+Schedule:
+#
+Contents
+Practice
+Deadline
+01
+Lecture 0 - Game Over
+Lecture 1 - Simple Calculator
+02
+Lecture 2 - Guess It
+Learning how to learn, week 1
+03
+Lecture 3 - Hangman
+04
+Lecture 4 - Refactor - Optimize
+Functions
+Project proposal due
+05
+Lec5 File access - Error handling
+Learning how to learn, week 2
+05
+Lec6 Multiple Files - Project
+07
+Structs
+Lec8 Graphics with SDL
+Project progress report 1 due
+08
+Class
+Lec8 Graphics with SDL
+Learning how to learn, week 3
+09
+Linked Lists
+Lec9 Sname Game
+10
+Linked Lists
+Lec10 Sname Game (continued)
+11
+Project progress report 2 due
+12
+Learning how to learn, week 4
+13
+14
+Final presentation
+15
+Final presentation and Final project report due

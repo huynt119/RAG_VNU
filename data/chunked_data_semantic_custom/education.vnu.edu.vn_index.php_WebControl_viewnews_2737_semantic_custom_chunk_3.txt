@@ -1,0 +1,94 @@
+Nguồn: education.vnu.edu.vn_index.php_WebControl_viewnews_2737.txt
+
+Danh mục hồ sơ kiểm tra đánh giá nộp về phòng Đào tạo và lưu trữ tại đơn vị
+Đề nghị các đơn vị chuẩn bị đầy đủ danh mục hồ sơ kiểm tra đánh giá trong các bảng dưới đây và nộp về phòng Đào tạo đúng thời gian quy định, đồng thời thực hiện lưu trữ tại đơn vị 01 bản sao. Riêng các học phần đánh giá tiểu luận, tiểu luận của sinh viên được lưu trữ tại đơn vị. Đối với học phần đánh giá tiểu luận
+TT
+Mẫu số
+Danh mục hồ sơ
+Số lượng bản gốc
+Ghi chú
+1
+01-ĐGHP
+Danh sách điều kiện dự thi
+01 bản/1 lớp học phần
+2
+02-ĐGHP
+Danh sách điểm danh có đóng dấu
+01 bản/1 lớp học phần
+3
+03-ĐGTL
+Danh mục tên đề tài tiểu luận
+01 bản/1 học phần
+Lưu trữ tại đơn vị
+4
+Đề thi; Đáp án; Phiếu đánh giá
+Theo quy định
+5
+04-ĐGTL
+Danh sách sinh viên nộp tiểu luận
+01 bản/1 lớp học phần
+6
+Tiểu luận của sinh viên
+Mỗi SV 01 tiểu luận
+Lưu trữ tại đơn vị
+7
+05-ĐGHP
+Danh sách giảng viên chấm thi
+01 bản/1 khoa đào tạo
+8
+06-ĐGHP
+Kết quả đánh giá tiểu luận
+01 bản/1 lớp học phần
+9
+07-ĐGHP
+Bảng điểm tổng hợp học phần
+01 bản/1 lớp học phần
+9.2. Đối với học phần thi thực hành; vấn đáp
+TT
+Mẫu số
+Danh mục hồ sơ
+Số lượng bản gốc
+Ghi chú
+1
+01-ĐGHP
+Danh sách điều kiện dự thi
+01 bản/1 lớp học phần
+2
+02-ĐGHP
+Danh sách điểm danh có đóng dấu
+01 bản/1 lớp học phần
+3
+Đề thi; Đáp án; Phiếu đánh giá
+Theo quy định
+Lưu trữ tại đơn vị
+4
+05-ĐGHP
+Danh sách giảng viên chấm thi
+01 bản/1 khoa đào tạo
+5
+06-ĐGHP
+Kết quả thi thực hành, vấn đáp
+01 bản/1 ca thi
+6
+07-ĐGHP
+Bảng điểm tổng hợp học phần
+01 bản/1 lớp học phần
+9.3. Đối với học phần thi tự luận; trắc nghiệm; kết hợp
+TT
+Mẫu số
+Danh mục hồ sơ
+Số lượng bản gốc
+Ghi chú
+1
+01-ĐGHP
+Danh sách điều kiện dự thi
+01 bản/1 lớp học phần
+2
+Đề thi; Đáp án
+Theo quy định
+3
+05-ĐGHP
+Danh sách giảng viên chấm thi,
+coi thi
+01 bản/1 khoa đào tạo
+Link tải các biểu mẫu, xem tại đây: https://bit.ly/3FwE8Gv .

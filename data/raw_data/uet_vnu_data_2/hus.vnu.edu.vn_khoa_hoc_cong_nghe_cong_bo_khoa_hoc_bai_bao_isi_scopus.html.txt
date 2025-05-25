@@ -1,0 +1,173 @@
+Khoa học - Công nghệ
+Công bố khoa học
+Bài báo ISI/SCOPUS
+Năm
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+Tìm kiếm
+Tổng số có: 
+                        3830
+                                    Bản ghi
+Hiển thị
+30
+50
+100
+số lượng / trang
+Tác giả
+Tác giả HUS
+Tên công trình
+Năm công bố
+Cấp công bố
+Impact Factor
+Nơi công bố
+Tập số trang
+Mai, Nga T, Mai, Phuong T, Dinh, Thanh T.M, Nguyen, Dong V, Nguyen, Phuong T, Nguyen, Nam H
+Mai Thị Nga, Nguyễn Thị Phương Mai
+Towards cost-effective CO2 adsorption materials: Case of CuBTC - Hydrochar composite
+2024
+Materials Today Communications
+10.1016/j.mtcomm.2023.107619
+Xu, Hongbo, Wang, Bi, Nutakki, Tirumala Uday Kumar, Wabaidur, Saikh Mohammad, Nháng, Huýnh, Ye, Xixi
+Nháng, Huýnh
+Improving energy enterprise efficiency: Multi-aspect assessment and financially-driven optimization of a tri-generation plant
+2024
+Process Safety and Environmental Protection
+10.1016/j.psep.2023.11.010
+Pham, Thang
+Phạm Văn Thắng
+Group action and L2-norm estimates of geometric problems
+2024
+Journal of Mathematical Analysis and Applications
+10.1016/j.jmaa.2023.127748
+Su, Tzu-Cheng, Vu-Dinh, Hien, Lin, Shu-Hui, Do Quang, Loc, Chu Duc, Trinh, Jen, Chun-Ping
+Đỗ Quang Lộc
+The effect of magnetic bead size on the isolation efficiency of lung cancer cells in a serpentine microchannel with added cavities
+2024
+Biomedical Microdevices
+10.1007/s10544-023-00689-5
+Dang, Kinh Bac, Nguyen, Cong Quan, Tran, Quoc Cuong, Nguyen, Hieu, Nguyen, Trung Thanh, Nguyen, Duc Anh, Tran, Trung Hieu, Bui, Phuong Thao, Giang, Tuan Linh, Lenh, Tu Anh, Ngo, Van Liem, Yasir, Muhammad, Nguyen, Thu Thuy (56106333900), Ngo, Huu Hao
+Đặng Kinh Bắc, Trần Trung Hiếu, Ngô Văn Liêm
+Comparison between U-shaped structural deep learning models to detect landslide traces
+2024
+Science of the Total Environment
+10.1016/j.scitotenv.2023.169113
+Nguyen, Hai Yen, Tran, Thu Hue, Do, Ha Nam, Van Do, Dang, Ngo, Quoc-Anh, Tien, Nguyen Quyet, Thanh Nga, Truong Thi, Nguyen, Hien, Hung, Tran Quang, Dang, Tuan Thanh
+Đỗ Văn Đăng, Đặng Thanh Tuấn
+LiOtBu-promoted synthesis of bis(3-indolyl)methanes by the alkylation of indoles with alcohols under air
+2024
+RSC Advances
+10.1039/d3ra07115d
+Tran, Dinh-Trinh, Bui, Thi-Thuy-Uyen, Phan, Anh-Tuan, Pham, Tran-Bao
+Trần Đình Trinh
+Boosting tetracycline degradation by integrating MIL-88A (Fe) with CoFe2O4 persulfate activators
+2024
+Environmental Technology and Innovation
+10.1016/j.eti.2023.103502
+Lin, Kuen-Song, Hussain, Abrar, Thao, Nguyen Tien, Hussain, Jamshid, Chiang, Chao-Lung
+Nguyễn Tiến Thảo
+Two-stage conversion of CO2 to methanol and dimethyl ether using CuO–ZnO–Al2O3/protonated Y-type zeolite catalysts
+2024
+Journal of Environmental Chemical Engineering
+10.1016/j.jece.2023.111800
+Abdelrahman, Kamal, Viet Nguyen, Dat, Prasad, K.N.D, Thanh Vo, Quynh, Van Le, Dung, Thanh Pham, Luan, Gomez-Ortiz, David, Fnais, Mohammed S, Eldosouky, Ahmed M
+Nguyễn Văn Đạt, Võ Thanh Quỳnh, Phạm Thành Luân
+Structural mapping of the west central Arabian Shield (Saudi Arabia) using downward continued magnetic data
+2024
+Journal of King Saud University - Science
+10.1016/j.jksus.2023.103039
+Nguyen, Minh D.N, Pham, Phuc H, Ngo, Khang V, Do, Van H, Li, Shengkai, Phan, Trung V
+Pham, Phuc H (HV_SV)
+Remark on the entropy production of adaptive run-and-tumble chemotaxis
+2024
+Physica A: Statistical Mechanics and its Applications
+10.1016/j.physa.2023.129452
+Dang, Dinh Duc, Anh, Tran Ngoc
+Đặng Đình Đức, Trần Ngọc Anh
+Coupling duo-assimilation to hydrological model to enhance flood forecasting
+2024
+Journal of Applied Water Engineering and Research
+10.1080/23249676.2023.2201475
+Nguyen, Hong-Loan T, Nguyen, Nhu-Quynh T, Le, The-Thai, Pham, Xuan-Dieu T, Pham, Hai-Long, Le, Hong-Nhung T, Phan, Tuan-Nghia, Dinh, Nho-Thai
+Nguyễn Thị Hồng Loan, Phan Tuấn Nghĩa, Đinh Nho Thái
+Improved expression and purification of highly-active 3 chymotrypsin-like protease from SARS-CoV-2
+2024
+Protein Expression and Purification
+10.1016/j.pep.2023.106414
+Yasir, Muhammad, Liu, Shanwei, Mingming, Xu, Wan, Jianhua, Pirasteh, Saied, Dang, Kinh Bac
+Đặng Kinh Bắc
+ShipGeoNet: SAR Image-Based Geometric Feature Extraction of Ships Using Convolutional Neural Networks
+2024
+IEEE Transactions on Geoscience and Remote Sensing
+10.1109/TGRS.2024.3352150
+Smith, Andrew C, Leng, Melanie J, McGowan, Suzanne, Panizzo, Virginia N, Ngo, Thi Thu Trang, Luu, Thi Nguyet Minh, Matiatos, Ioannis, Do, Thu Nga, Ta, Thi Thao, Trinh, Anh Duc
+Tạ Thị Thảo
+Identifying the controls on nitrate and metabolic state within the Red River delta (Vietnam) with the use of stable isotopes
+2024
+Journal of Hydrology
+10.1016/j.jhydrol.2023.130467
+Do, Van Tiep
+Đỗ Văn Tiệp
+Multi-component separation, inpainting and denoising with recovery guarantees
+2024
+Research in Mathematical Sciences
+10.1007/s40687-023-00416-9
+Pham, Tam Minh, Dinh, Hang Thi, Pham, Tuan Anh, Nguyen, Tung Song, Duong, Nghia Thi
+Duong, Nghia Thi
+Modeling of water scarcity for spatial analysis using Water Poverty Index and fuzzy-MCDM technique
+2024
+Modeling Earth Systems and Environment
+Volume 10 pages 2079–2097
+Chu, Luan Luong, My, Linh Quyen, Quang, Huy Nguyen
+Chử Lương Luân, Nguyễn Quang Huy
+Microbial alkaloids and their pharmaceutical and agricultural application
+2024
+Fungal Secondary Metabolites: Synthesis and Applications in Agroecosystem 2024
+Pages 73-90 10.1016/B978-0-323-95241-5.00018-6
+Danh, Tran Nguyen Thanh, Dung, Hoang Tuan, Hung, Pham Viet, Kien, Nguyen Dinh, Thinh, Nguyen An, Toan, Khuc Dinh, Tho, Nguyen Xuan
+Pham Viet Hung (HV_HS)
+AN IMPROVEMENT TO A THEOREM OF LEONETTI AND LUCA
+2024
+BULLETIN OF THE AUSTRALIAN MATHEMATICAL SOCIETY
+Volume 109  Issue 3
+Loat Bui Van· Van-Hao Duong,  · Nguyen Thanh Duong, Somsavath Leuangtakoun· Thang Duong Duc Hung Vu Anh· Duc Vu Anh, Hoai-Nam Tran, Van-Dung, Nguyen  Huyen-Trang Vuong Thi
+Bùi Văn Loát, Vũ Anh Đức (HV_CH)
+Natural radionuclides andradiological hazard assessment of building materials in North Vietnam..
+2024
+Journal of Radioanalytical and Nuclear Chemistry
+Volume 333 pages 2577–2586
+Cao Thi Vi Ba, Nguyen Quang Bau,Tran Anh Tuan, Tang Thi Dien.
+Cao Thị Vi Ba, Nguyễn Quang Báu
+Theoretical stusy of Non-linear Absorption  of  strong Electromagnetic wave in infinite  Semi-parabolic Plus Semi-inverse Squared Quantum wells  by Using Quantum Kinetic Equation.
+2024
+2988
+Physica B : Physics of Condensed Matter 673 (2024)415497
+https://doi.org/10.1016/j.physb.2023.415497. (ISI/Q2-IF=2988)
+Trang 1 trong 192
+Đầu tiên
+Trước
+[1]
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Tiếp
+Cuối

@@ -1,0 +1,184 @@
+Nguồn: uet.vnu.edu.vn_lich_hoc_bo_sung_kien_thuc_ky_thi_tuyen_sinh_sau_dai_hoc_dot_2_nam_2022_danh_cho_thi_sinh_du_thi_cac_chuyen_nganh_thuoc_khoa_cong_nghe_.txt
+
+LỊCH HỌC BỔ SUNG KIẾN THỨC KỲ THI TUYỂN SINH SAU ĐẠI HỌC ĐỢT 2 NĂM 2022 (DÀNH CHO THÍ SINH DỰ THI CÁC CHUYÊN NGÀNH THUỘC KHOA CÔNG NGHỆ THÔNG TIN)
+TT
+Ngày
+Thứ
+Giờ
+học
+Học phần
+Giảng viên
+Hình thức giảng dạy
+Lưu ý
+1
+22/8/2022
+2
+18h
+Cấu trúc dữ liệu và giải thuật
+TS. Hoàng Thị Điệp
+Online
+2
+24/8/2022
+4
+18h
+Cấu trúc dữ liệu và giải thuật
+TS. Đặng Cao Cường
+Online
+3
+29/8/2022
+2
+18h
+Cấu trúc dữ liệu và giải thuật
+TS. Đặng Cao Cường
+Online
+4
+31/8/2022
+4
+18h
+Cấu trúc dữ liệu và giải thuật
+TS. Đặng Cao Cường
+Online
+5
+05/9/2022
+2
+18h
+Cấu trúc dữ liệu và giải thuật
+TS. Hoàng Thị Điệp
+Online
+6
+07/9/2022
+4
+18h
+Cấu trúc dữ liệu và giải thuật
+TS. Hoàng Thị Điệp
+Online
+7
+23/8/2022
+3
+18h
+Lập trình nâng cao
+TS. Nguyễn Văn Vinh
+Online
+Học phần dành cho các chuyên ngành thuộc Khoa CNTT
+8
+25/8/2022
+5
+18h
+Lập trình nâng cao
+TS. Nguyễn Văn Vinh
+Online
+9
+30/8/2022
+3
+18h
+Lập trình nâng cao
+TS. Nguyễn Văn Vinh
+Online
+10
+01/9/2022
+5
+18h
+Lập trình nâng cao
+TS. Nguyễn Văn Vinh
+Online
+11
+06/9/2022
+3
+18h
+Lập trình nâng cao
+TS. Nguyễn Văn Vinh
+Online
+12
+08/9/2022
+5
+18h
+Lập trình nâng cao
+TS. Nguyễn Văn Vinh
+Online
+13
+26/8/2022
+6
+18h
+Toán học rời rạc
+TS. Tô Văn Khánh
+Online
+Học phần dành cho thí sinh tốt nghiệp ĐH ngành gần với các chuyên ngành thuộc Khoa CNTT
+14
+27/8/2022
+7
+8h
+Toán học rời rạc
+TS. Tô Văn Khánh
+Online
+15
+09/9/2022
+6
+18h
+Toán học rời rạc
+TS. Tô Văn Khánh
+Online
+16
+10/9/2022
+7
+8h
+Toán học rời rạc
+TS. Tô Văn Khánh
+Online
+17
+12/9/2022
+2
+18h
+Toán học rời rạc
+TS. Tô Văn Khánh
+Online
+18
+14/9/2022
+4
+18h
+Toán học rời rạc
+TS. Tô Văn Khánh
+Online
+19
+27/8/2022
+7
+18h
+Cơ sở dữ liệu
+TS.Trần Trọng Hiếu
+Online
+20
+28/8/2022
+CN
+18h
+Cơ sở dữ liệu
+TS.Trần Trọng Hiếu
+Online
+21
+03/9/2022
+7
+18h
+Cơ sở dữ liệu
+TS.Trần Trọng Hiếu
+Online
+22
+04/9/2022
+CN
+18h
+Cơ sở dữ liệu
+TS.Trần Trọng Hiếu
+Online
+23
+10/9/2022
+7
+18h
+Cơ sở dữ liệu
+TS.Trần Trọng Hiếu
+Online
+24
+11/9/2022
+CN
+18h
+Cơ sở dữ liệu
+TS.Trần Trọng Hiếu
+Online
+Ghi chú:
++  Học phần “Toán học rời rạc” chỉ dành cho các bạn thí sinh tốt nghiệp đại học thuộc các ngành gần phải học bổ sung kiến thức để phù hợp với các chuyên ngành đăng ký dự thi bậc thạc sĩ thuộc Khoa Công nghệ thông tin (CNTT).

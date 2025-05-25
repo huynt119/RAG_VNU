@@ -1,0 +1,207 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_1148.txt
+
+Trường Đại học Công nghệ
+(Mã trường QHI)
+Tên ngành
+Mã ngành
+Điểm chuẩn theo phương thức thi THPT
+Công nghệ thông tin
+CN1
+27.85
+Công nghệ nông nghiệp
+CN10
+22
+Kỹ thuật điều khiển và tự động hóa
+CN11
+27.1
+Trí tuệ nhân tạo
+CN12
+27.2
+Kỹ thuật năng lượng
+CN13
+23.8
+Hệ thống thông tin
+CN14
+26.95
+Mạng máy tính và truyền thông dữ liệu
+CN15
+26.25
+Công nghệ thông tin định hướng thị trường Nhật Bản
+CN16
+27.5
+Kỹ thuật Robot
+CN17
+25.35
+Kỹ thuật máy tính
+CN2
+27.25
+Vật lý kỹ thuật
+CN3
+24.2
+Cơ kỹ thuật
+CN4
+25.65
+Công nghệ kỹ thuật xây dựng
+CN5
+23.1
+Công nghệ kỹ thuật cơ - điện tử
+CN6
+25
+Công nghệ hàng không vũ trụ
+CN7
+24.1
+Khoa học máy tính
+CN8
+27.25
+Công nghệ kỹ thuật điện tử - viễn thông
+CN9
+25.15
+2. Trường ĐH Khoa hoc Tự nhiên
+(Mã trường QHT)
+TT
+Mã xét tuyển
+Tên ngành
+Tổ hợp
+Điểm chuẩn
+1
+QHT01
+Toán học
+A00: A01; D07: D08
+33.4
+2
+QHT02
+Toán tin
+A00: A01: D07: D08
+34.25
+3
+QHT98
+Khoa học máy tính và thông tin*
+A00: A01: D07: D08
+34.7
+4
+QHT93
+Khoa học dữ liệu
+A00: A01: D07: D08
+34.85
+5
+QHT03
+Vật lý học
+A00: A01: B00: C01
+24.2
+6
+QHT04
+Khoa học vật liệu
+A00: A01: B00: C01
+22.75
+7
+QHT05
+Công nghệ kỹ thuật hat nhân
+A00: A01: B00: C01
+21.3
+8
+QHT94
+Kỹ thuật điện tử và tin học*
+A00: A01: B00: C01
+25.65
+9
+QHT06
+Hoá học
+A00: B00: D07
+23.65
+10
+QHT07
+Công nghệ kỹ thuật hoá học
+A00: B00: D07
+23.25
+11
+QHT43
+Hoá dươc
+A00: B00: D07
+24.6
+12
+QHT08
+Sinh học
+A00: A02: B00: B08
+23
+13
+QHT81
+Sinh dươc học*
+A00: A02: B00: B08
+23
+14
+QHT09
+Công nghệ sinh học
+A00: A02: B00: B08
+24.05
+15
+QHT10
+Đia lý tư nhiên
+A00: A01: B00: D10
+20.3
+16
+QHT91
+Khoa học thông tin đia không gian*
+A00: A01: B00: D10
+20.4
+17
+QHT12
+Quản lý đất đai
+A00: A01: B00: D10
+20.9
+18
+QHT95
+Quản lý ohát triển đô thi và bất đông sản*
+A00: A01: B00: D10
+22.45
+19
+QHT13
+Khoa học môi trường
+A00: A01: B00: D07
+20
+20
+QHT82
+Môi trường, Sức khỏe và An toàn*
+A00: A01: B00: D07
+20
+21
+QHT15
+Công nghệ kỹ thuật môi trường
+A00: A01: B00: D07
+20
+22
+QHT96
+Khoa học và công nghệ thưc phẩm*
+A00: A01: B00: D07
+24.35
+23
+QHT16
+Khí tượng và khí hậu học
+A00: A01: B00: D07
+20
+24
+QHT17
+Hải dương học
+A00: A01: B00: D07
+20
+25
+QHT92
+Tài nguyên và môi trường nước*
+A00: A01: B00: D07
+20
+26
+QHT18
+Đia chất học
+A00: A01: B00: D07
+20
+27
+QHT20
+Quản lý tài nguyên và môi trường
+A00: A01: B00: D07
+21
+28
+QHT97
+Công nghệ quan trắc và giám sát tài nguyên môi trường*
+A00: A01: B00: D07
+20
+Điểm chuẩn
+là tổng điểm của 3 bài thi (theo tổ hợp tương ứng) cộng với điểm ưu tiên theo khu vực, đối tượng (nếu có) và áp dụng cho tất cả các tổ hợp của ngành. Riêng với 4 ngành Toán học, Toán tin, Khoa học máy tính và thông tin(*), Khoa học dữ liệu: Điểm chuẩn tính theo thang điểm 40 là tổng Điểm môn Toán (nhân hệ số 2) cộng với điểm hai môn còn lại trong tổ hợp xét tuyển và cộng với điểm ưu tiên khu vực, đối tượng (nếu có) theo quy định của Bộ Giáo dục và Đào tạo (đã quy sang thang điểm 40).

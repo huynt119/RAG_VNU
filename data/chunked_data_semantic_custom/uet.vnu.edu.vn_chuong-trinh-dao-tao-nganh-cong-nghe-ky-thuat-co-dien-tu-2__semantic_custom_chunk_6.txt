@@ -1,0 +1,13 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-ky-thuat-co-dien-tu-2_.txt
+
+Các kiến thức định hướng chuyên sâu
+Định hướng chuyên sâu về Hệ thống cơ điện tử
+Biết và sử dụng thành thạo kỹ thuật máy tính để đánh giá phân tích thiết kế hệ thống hoặc quá trình; sử dụng các công cụ hiện đại để phát triển các hệ thống cơ điện tử ở dạng mẫu thử; có khả năng phát triển giải pháp để thiết kế và phát triển hệ cơ điện tử, tạo ra các công cụ sản xuất “thông minh”, cũng như các hệ thống công nghiệp hiện đại. Định hướng chuyên sâu về Chế tạo thiết bị
+Biết và sử dụng được công nghệ chế tạo cơ khí tiên tiến, có khả năng vận hành, hiệu chỉnh, thiết kế và chế tạo các máy công cụ CNC, dây chuyền sản xuất thiết bị, và các thiết bị cơ điện tử;
+Biết và có thể áp dụng kiến thức vào việc thiết kế khuôn mẫu máy công cụ CNC;
+Có khả năng vận hành các hệ thống sản xuất tự động “mềm”, các hệ thống sản xuất linh hoạt. Định hướng chuyên sâu về Đo lường và điều khiển
+Hiểu và có thể áp dụng các kiến thức chuyên sâu về cảm biến, cơ cấu tác động, phần cứng và phần mềm điều khiển, theo dõi và giám sát hệ thống. Định hướng chuyên sâu về Hệ thống vi cơ và nanô cơ điện tử
+Hiểu và có thể áp dụng các kiến thức cơ bản về công nghệ MEMS/NEMS;
+Biết và vận dụng kiến thức về công nghệ chế tạo trong phòng sạch và kỹ thuật thiết kế các hệ MEMS/NEMS, các ứng dụng phong phú của các hệ này trong lĩnh vực điện tử viễn thông và y sinh học;
+Hiểu và có thể vận dụng các kiến thức về các hệ vi cơ điện tử và nano cơ điện tử;
+Hiểu về công nghệ chế tạo và tổ hợp các linh kiện thành một hệ MEMS và có khả năng ứng dụng một số các hệ MEMS này trong kỹ thuật và đời sống.

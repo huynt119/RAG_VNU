@@ -1,0 +1,28 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_652.txt
+
+•
+Phòng thí nghiệm Trọng điểm Hệ thống tích hợp thông minh (SISLAB)
+- Thiết bị nghiên cứu chính:
+•         Máy tính HP nguyên chiếc: 20 chiếc (trang bị hệ điều hành Windows XP/RedHat)
+•         Máy tính HP nguyên chiếc dx7400: 24 chiếc (trang bị hệ điều hành Windows XP/RedHat)
+•         Hệ clustering SUN
+•         Máy chủ IBM: 3800, 3820, 3850
+•         Phần mềm thiết kế vi mạch của Mentor Graphics: ModelSim (10 licenses), Leonardo Spectrum (10 licenses), IC Design...
+•         Phần mềm thiết kế mạch & PCB Altium
+•         Phần mềm Place & Route của Xilinx (FPGA): ISE Foundation tool kit
+•         Phần mềm thiết kế & phát triển hệ thống nhúng trên cơ sở vi xử lý ARM
+•         Network Analyser upto 40GHz
+•         Logic Analyser 34 channels
+•         Spectrum Analyser
+•         Digital Storage Oscilloscope
+•         Máy phát tín hiệu (signal generator) Model 8004
+•         Kit phát triển FPGA: Spartan 3E, Virtex-II, Virtex-4, Virtex-5
+•         Kít phát triển ARM
+•         Dao động ký số nhớ 1GHz
+- Hướng nghiên cứu chính: Thiết kế và tích hợp các hệ thống trên chip, mạng trên chip; Kiến trúc phần cứng cho các ứng dụng đa phương tiện; Thiết kế công suất thấp; Phương pháp kiểm tra, kiểm chứng, thiết kế cho kiểm tra; Internet of Things (IoT). •
+Phòng thí nghiệm BM Công nghệ Cơ – Điện tử - Tự động hóa
+- Thiết bị nghiên cứu chính: Hệ thống lập trình điều khiển băng tải, Máy phân tích nhiệt; hệ thống chế tạo mạch in điện tử đa lớp; hệ thống robot công nghiệp. - Hướng nghiên cứu: Đo lường và điều khiển công nghiệp; Điều khiển tự động; Các hệ nhúng trên nền PLC; Vi điều khiển và Vi xử lý; Thiết kế cơ khí; Máy công nghiệp và CNC. •
+Phòng thí nghiệm Cơ điện tử và Thủy khí Công nghiệp
+- Thiết bị nghiên cứu chính: máy đo thông số dòng chảy đa kênh, hệ thống máy đo công nghệ biển và môi trường; hệ thống thí nghiệm đào tạo cao cấp (dùng chung với PTN số 36). - Hướng nghiên cứu chính, bao gồm: Hệ thống Cơ điện tử; Cảm biển công nghiệp; Lập trình PLC; Thủy khí công nghiệp; Mô phỏng dòng chảy; Các giải pháp quản lý sử dụng tổng hợp tài nguyên, thiên nhiên. •
+Phòng thí nghiệm BM Thủy khí Công nghiệp và Môi trường
+- Thiết bị nghiên cứu chính:  máy đo thông số dòng chảy đa kênh, hệ thống máy đo công nghệ biển và môi trường; hệ thống thí nghiệm đào tạo cao cấp (dùng chung với PTN số 35).

@@ -1,0 +1,215 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_1044.txt
+
+* Tùy theo số lượng thí sinh đăng ký vào các phương thức tuyển sinh, Hội đồng tuyển sinh có thể xem xét chuyển đổi tỉ lệ chỉ tiêu giữa các phương thức; riêng diện tuyển thẳng đảm bảo không vượt quá 30% chỉ tiêu. Chỉ tiêu tuyển sinh:
+TT
+Trình độ đào tạo
+Mã ngành xét tuyển
+Tên ngành xét tuyển
+Mã phương thức xét tuyển
+Tên phương thức xét tuyển
+Chỉ tiêu (dự kiến)
+Tổ hợp xét tuyển 1
+Mã tổ hợp
+Môn chính
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+1
+Đại học
+7720101
+Y khoa
+100
+Xét kết quả thi tốt nghiệp THPT
+90
+B00
+301
+Xét tuyển thẳng theo quy định của Quy chế TS
+6
+Y31
+304
+Ưu tiên xét tuyển theo quy định của Quy chế TS
+9
+Y34
+401
+Xét kết quả thi ĐGNL
+36
+Y41
+303
+Xét tuyển thẳng theo đề án TS đối tượng HS trường chuyên, đạt huy chương vàng
+9
+Y33
+304
+Xét tuyển thẳng theo đề án TS đối tượng HS đạt giải HSG cấp tỉnh
+9
+Y34
+409
+Xét tuyển theo CC (IELTS)
+18
+Y49
+2
+Đại học
+7720201
+Dược học
+100
+Xét kết quả thi tốt nghiệp THPT
+80
+A00
+301
+Xét tuyển thẳng theo quy định của Quy chế TS
+5
+Y31
+304
+Ưu tiên xét tuyển theo quy định của Quy chế TS
+8
+Y34
+401
+Xét kết quả thi ĐGNL
+32
+Y41
+303
+Xét tuyển thẳng theo đề án TS đối tượng HS trường chuyên, đạt huy chương vàng
+8
+Y33
+304
+Xét tuyển thẳng theo đề án TS đối tượng HS đạt giải HSG cấp tỉnh
+8
+Y34
+409
+Xét tuyển theo CC (IELTS)
+16
+Y49
+3
+Đại học
+7720501
+Răng Hàm Mặt
+100
+Xét kết quả thi tốt nghiệp THPT
+25
+B00
+301
+Xét tuyển thẳng theo quy định của Quy chế TS
+1
+Y31
+304
+Ưu tiên xét tuyển theo quy định của Quy chế TS
+3
+Y34
+401
+Xét kết quả thi ĐGNL
+10
+Y41
+303
+Xét tuyển thẳng theo đề án TS đối tượng HS trường chuyên, đạt huy chương vàng
+2
+Y33
+304
+Xét tuyển thẳng theo đề án TS đối tượng HS đạt giải HSG cấp tỉnh
+3
+Y34
+409
+Xét tuyển theo CC (IELTS)
+5
+Y49
+4
+Đại học
+7720601
+Kĩ thuật xét nghiệm y học
+100
+Xét kết quả thi tốt nghiệp THPT
+25
+B00
+301
+Xét tuyển thẳng theo quy định của Quy chế TS
+1
+Y31
+304
+Ưu tiên xét tuyển theo quy định của Quy chế TS
+3
+Y34
+401
+Xét kết quả thi ĐGNL
+10
+Y41
+303
+Xét tuyển thẳng theo đề án TS đối tượng HS trường chuyên, đạt huy chương vàng
+2
+Y33
+304
+Xét tuyển thẳng theo đề án TS đối tượng HS đạt giải HSG cấp tỉnh
+3
+Y34
+409
+Xét tuyển theo CC (IELTS)
+5
+Y49
+5
+Đại học
+7720602
+Kĩ thuật hình ảnh y học
+100
+Xét kết quả thi tốt nghiệp THPT
+25
+B00
+301
+Xét tuyển thẳng theo quy định của Quy chế TS
+1
+Y31
+304
+Ưu tiên xét tuyển theo quy định của Quy chế TS
+3
+Y34
+401
+Xét kết quả thi ĐGNL
+10
+Y41
+303
+Xét tuyển thẳng theo đề án TS đối tượng HS trường chuyên, đạt huy chương vàng
+2
+Y33
+304
+Xét tuyển thẳng theo đề án TS đối tượng HS đạt giải HSG cấp tỉnh
+3
+Y34
+409
+Xét tuyển theo CC (IELTS)
+5
+Y49
+6
+Đại học
+7720301
+Điều dưỡng
+100
+Xét kết quả thi tốt nghiệp THPT
+30
+B00
+301
+Xét tuyển thẳng theo quy định của Quy chế TS
+2
+Y31
+304
+Ưu tiên xét tuyển theo quy định của Quy chế TS
+3
+Y34
+401
+Xét kết quả thi ĐGNL
+12
+Y41
+303
+Xét tuyển thẳng theo đề án TS đối tượng HS trường chuyên, đạt huy chương vàng
+3
+Y33
+304
+Xét tuyển thẳng theo đề án TS đối tượng HS đạt giải HSG cấp tỉnh
+3
+Y34
+409
+Xét tuyển theo CC (IELTS)
+6
+Y49
+1.5.

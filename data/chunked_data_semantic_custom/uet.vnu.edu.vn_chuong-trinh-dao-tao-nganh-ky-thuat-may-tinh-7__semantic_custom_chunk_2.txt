@@ -1,0 +1,282 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-may-tinh-7_.txt
+
+1
+Các học phần bắt buộc
+32
+22
+INT2290
+Lập trình
+Programming
+3
+30
+15
+INT1006
+23
+INT2209
+Mạng máy tính
+Computer Networks
+3
+30
+15
+INT1006
+24
+INT2206
+Nguyên lý hệ điều hành
+Principles of Operating Sysstems
+3
+45
+INT1006
+25
+ELT2032
+Linh kiện điện tử
+Electronics Devices
+3
+45
+26
+ELT2030
+Kỹ thuật điện
+Electrical Engineering
+3
+45
+27
+ELT2040
+Điện tử tương tự
+Analog Electronics
+3
+45
+28
+ELT2041
+Điện tử số
+Digital Electronics
+3
+45
+29
+INT2291
+Nhập môn công nghệ phần mềm
+Introduction to Software Engineering
+3
+30
+15
+INT1006
+30
+ELT3144
+Xử lý tín hiệu số
+Digital Signal Processing
+4
+45
+15
+MAT1093
+31
+ELT3102
+Thực tập điện tử tương tự
+Analog Electronic Engineering Practice
+2
+30
+ELT2040
+32
+ELT3103
+Thực tập điện tử số
+Digital Electronic Engineering Practice
+2
+30
+ELT2041
+IV
+. 2
+Các học phần
+tự chọn
+6/12
+33
+INT2292
+Cấu trúc rời rạc
+Discrete Structure
+3
+30
+15
+34
+INT2204
+Lập trình hướng đối tượng
+Object-Oriented Programming
+3
+30
+15
+INT1006
+35
+INT2044
+Lý thuyết thông tin
+Information Theory
+3
+45
+MAT1101
+36
+INT2207
+Cơ sở dữ liệu
+Database
+3
+30
+15
+INT1006
+V
+Khối kiến thức ngành
+63
+V.1
+Các học phần bắt buộc
+29
+37
+ELT3047
+Kiến trúc máy tính
+Computer Architecture
+3
+45
+INT1006
+38
+ELT3048
+Hệ thống vi xử lý
+Microprocessors
+3
+30
+15
+ELT2030
+39
+ELT3051
+Kỹ thuật điều khiển
+Control Engineering
+3
+45
+ELT2035
+40
+ELT3240
+Nhập môn hệ thống nhúng
+Introduction to Embedded Systems
+3
+30
+15
+INT2207
+41
+ELT3207
+Cơ sở đo lường và điều khiển số
+Introduction to
+Measurement and
+Digital C
+ontrol
+3
+30
+15
+42
+INT3217
+Lập trình hệ thống
+System Programing
+3
+30
+15
+INT2207
+43
+ELT3057
+Truyền thông số và mã hóa
+Digital Communications and Coding Theory
+3
+45
+ELT2035
+44
+INT3404
+Xử lý ảnh
+Image Processing
+3
+45
+INT2203
+45
+ELT3241
+Các vấn đề hiện đại của Kỹ thuật Máy tính
+Advanced Topics in Computer Engineering
+2
+15
+15
+46
+ELT3242
+Thực tập ngành Kỹ thuật máy tính
+Computer Engineering Practice
+3
+45
+V.2
+Các học phần tự chọn
+18/33
+47
+ELT3202
+Thiết kế mạch tích hợp số
+Digital Integrated Circuit Design
+3
+30
+15
+48
+ELT3203
+Thiết kế mạch tích hợp tương tự
+Analog Integrated Circuit Design
+3
+30
+15
+49
+ELT3206
+Quản trị mạng máy tính
+Computer Network Administrator
+3
+30
+15
+50
+INT3120
+Phát triển ứng dụng di động
+Mobile Application Development
+3
+30
+15
+INT1006
+51
+ELT3205
+Kỹ thuật cảm biến
+Sensor Engineering
+3
+30
+15
+52
+INT3402
+Chương trình dịch
+Compiler
+3
+45
+INT2203
+53
+ELT3211
+MEMS sinh học và các vi thiết bị y sinh
+Bio-MEMS and BioMedical devices
+3
+30
+15
+ELT2033
+54
+ELT3077
+Hệ thống robot thông minh
+Intelligent Robot Systems
+3
+45
+ELT3051
+55
+INT3405
+Học máy
+Machine Learning
+3
+45
+MAT1101
+56
+ELT3231
+Kỹ thuật xử lý và Truyền thông Đa phương tiện
+Multimedia Processing and Communications
+3
+30
+15
+57
+INT3412
+Thị giác máy
+Computer Vision
+3
+45
+INT2203
+V
+.

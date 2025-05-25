@@ -1,0 +1,71 @@
+
+Đề án tuyển sinh Đại học năm 2024
+Điểm chuẩn ĐHCQ năm 2023 của các trường thành viên, trường, khoa trực thuộc ĐHQGHN
+Hướng dẫn đăng ký nội trú KTX ngoại ngữ và KTX Mễ Trì
+Đề án tuyển sinh trình độ đại học năm 2023 - ĐHQGHN
+Ngành Kỹ thuật Robot – Nhân lực cho kỷ nguyên 4.0
+Thế giới đang bước vào thời kỳ cách mạng công nghiệp 4.0 với sự phát triển mạnh mẽ của Trí tuệ nhân tạo (AI), IoT, và công nghệ Robot. Cùng với Internet vạn vật (IoTs) và điện toán đám mây, Kỹ thuật Robot là một trong những lĩnh vực mũi nhọn, trọng tâm và là nền tảng của cuộc cách mạng công nghiệp lần thứ 4.
+Sự ra đời của các hệ thống tự động trên cơ sở Kỹ thuật Robot đã và đang giải phóng hoàn toàn sức lao động của con người. Một trong những minh chứng cho điều này chính là tỷ lệ tự động hóa trong các dây truyền lắp rắp chế tạo máy
+ngày càng cao
+. Trong nông nghiệp công nghệ cao, Robot cũng ngày càng được khai thác và sử dụng sâu rộng.
+K
+hoảng một thập kỷ trở lại đây, Kỹ thuật Robot đã thâm nhập vào hầu hết mọi mặt của đời sống và phát triển trên diện rộng
+,
+tạo thành một tập hợp các ngành nghề khác nhau từ nghiên cứu phát triển Robot, xây dựng lắp ráp Robot cho tới vận hành và khai thác hệ thống tự động.
+Thủ tướng chính phủ Nguyễn Xuân Phúc phát biểu tại
+Hội thảo - Triển lãm quốc tế “Phát triển công nghiệp thông minh - Smart Industry World 2017”. Ảnh VGP
+Để đón bắt những cơ hội phát triển mới cho đất nước trong kỷ nguyên 4.0, đồng thời hóa giải thách thức, theo Văn phòng Chính phủ, x
+ét báo cáo của Viện Hàn lâm Khoa học và Công nghệ Việt Nam về xu hướng vận động của cuộc Cách mạng công nghiệp 4.0, Thủ tướng Chính phủ
+Nguyễn Xuân Phúc vừa
+giao Bộ Khoa học và Công nghệ chủ trì, phối hợp
+Viện Hàn lâm Khoa học và Công nghệ Việt Nam, Bộ Giáo dục và Đào tạo và các Bộ ngành, cơ quan liên quan tiếp tục đào tạo và nâng cao tr
+ình
+độ, chất lượng nguồn nhân lực, đặc biệt là nguồn nhân lực tr
+ình
+độ cao; nắm bắt và nghiên cứu, ứng dụng những xu hướn
+g và thành tựu mới của Cách mạng công nghiệp 4.0.
+Xây dựng, hoàn thiện chính sách và định hướng ưu tiên phát triển đối với các lĩnh vực công nghệ l
+õi, công nghệ nền tảng nh
+ư: trí tuệ nhân tạo và robot, phân tích
+dữ liệu lớn, Internet vạn vật
+…
+; lựa chọn nhữ
+ng nội dung phù hợp trong báo cáo của Viện để tiếp tục tổ chức triển khai nghiên cứu chuyên sâu các chuyên đề ứng dụng phục vụ yêu cầu phát triển kinh tế - x
+ã hội, an ninh quốc phòng
+, b
+áo cáo Thủ tướng Chính phủ kết quả triển khai vào qu
+ý IV
+/
+2018.
+PGS.TS. Nguyễn Việt Hà (ở giữa)- Hiệu trưởng Trường Đại học Công nghệ ký kết thỏa thuận hợp tác với các lãnh đạo Trường Đại học Chiba, Nhật Bản, về lĩnh vực Robot
+Từ sự c
+hỉ đạo trên của Thủ tướng, các đơn vị đào tạo nguồn nhân lực đang có những bước đi tích cực nhằm chuẩn bị nguồn nhân lực- vốn được xem là yếu tố
+quyết định cho sự thành công của Việt Nam trong kỷ nguyên 4.0.
+PGS.TS. Chử Đức Trình, Phó Hiệu trưởng Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội, cho biết: Việt Nam đang rất cần nguồn nhân lực có trình độ về Kỹ thuật Robot. Các công ty, tập đoàn công nghệ hàng đầu thế giới như SamSung, LG, IBM, Bo
+s
+ch, hay Microsoft đã và đang đầ
+u tư, xây dựng rất nhiều nhà máy hiện đại tại Việt Nam. Hầu hết các nhà máy này đều đang được vận hành tự động, khai thác và sử dụng rất nhiều hệ thống Robot công nghiệp. Tuy nhiên, việc làm chủ được các hệ thống này đòi hỏi một nguồn nhân lực không chỉ đông về số lượng và cả tốt về chất lượng. Trong khi đó, các cơ sở đào tạo chính quy và có năng lực về ngành Kỹ thuật Robot lại chưa có ở Việt Nam.
+Từ thực tế trên, sau quá trình nghiên cứu kỹ lưỡng về nhu cầu của xã hội, cũng như khả năng đào tạo của mình, lần đầu tiên trong mùa tuyển sinh năm 2018, Đại học Công nghệ sẽ mở một ngành đào tạo hoàn toàn mới, đó là Kỹ thuật Robot. Bước đi đột phá này nhằm chủ động chuẩn bị nguồn nhân lực chất lượng cao nhờ được đào tạo bài bản, chuyên sâu theo chuẩn quốc tế, góp phần giúp Việt Nam chủ động đón bắt cơ hội từ cuộc cách mạng công nghiệp 4.0, từ đó mang lại lợi ích đa chiều cho đất nước trong tương lai gần.
+Facebook Chat
+            Widget by CAIT
+Liên kết
+Trường Đại học Khoa học Tự nhiên
+Trường Đại học  Khoa học Xã hội và Nhân văn
+Trường Đại học Ngoại ngữ
+Trường Đại học Công nghệ
+Trường Đại học Giáo dục
+Trường Đại học Luật
+Trường Đại học Y Dược
+Trường Đại học Việt Nhật
+Trường Quốc tế
+Trường Quản trị và Kinh doanh
+Trường Đại học Kinh tế
+Trường Khoa học liên ngành và Nghệ thuật
+Khoa Quốc tế Pháp ngữ
+Địa chỉ
+144 Xuân Thủy, Cầu Giấy, Hà Nội
+Khu đô thị ĐHQGHN tại Hòa Lạc
+024 37547 670
+tsvnu@vnu.edu.vn
+Copyright by Đại học Quốc gia Hà Nội
+×

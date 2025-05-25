@@ -1,0 +1,280 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_1148.txt
+
+Trường Đại hoc Khoa hoc Xã hôi và Nhân văn
+(Mã trường QHX)
+TT
+Tên ngành/Chương trình đào tạo
+Mã ngành
+Phương thức 100 (*)
+A01
+C00
+D01
+D04
+D06
+DD2
+D78
+1
+Báo chí
+QHX01
+25,50
+28,50
+26,00
+26,00
+26,50
+2
+Chính trị học
+QHX02
+23,00
+26,25
+24,00
+24,70
+24,60
+3
+Công tác xã hội
+QHX03
+23,75
+26,30
+24,80
+24,00
+25,00
+4
+Đông Nam Á học
+QHX04
+22,75
+24,75
+25,10
+5
+Đông phương học
+QHX05
+28,50
+25,55
+25,50
+26,50
+6
+Hàn Quốc học
+QHX26
+24,75
+28,25
+26,25
+24,50
+26,50
+7
+Hán Nôm
+QHX06
+25,75
+24,15
+25,00
+24,50
+8
+Khoa học quản lý
+QHX07
+23,50
+27,00
+25,25
+25,25
+25,25
+9
+Lịch sử
+QHX08
+27,00
+24,25
+23,40
+24,47
+10
+Lưu trữ học
+QHX09
+22,00
+23,80
+24,00
+22,75
+24,00
+11
+Ngôn ngữ học
+QHX10
+26,40
+25,25
+24,75
+25,75
+12
+Nhân học
+QHX11
+22,00
+25,25
+24,15
+22,00
+24,20
+13
+Nhật Bản học
+QHX12
+25,50
+24,00
+25,75
+14
+Quan hệ công chúng
+QHX13
+28,78
+26,75
+26,20
+27,50
+15
+Quản lý thông tin
+QHX14
+24,50
+26,80
+25,25
+25,00
+16
+Quản trị dịch vụ du lịch và lữ hành
+QHX15
+25,50
+26,00
+26,40
+17
+Quản trị khách sạn
+QHX16
+25,00
+25,50
+25,50
+18
+Quản trị văn phòng
+QHX17
+25,00
+27,00
+25,25
+25,50
+25,75
+19
+Quốc tế học
+QHX18
+24,00
+27,70
+25,40
+25,25
+25,75
+20
+Tâm lý học
+QHX19
+27,00
+28,00
+27,00
+25,50
+27,25
+21
+Thông tin - Thư viện
+QHX20
+23,00
+25,00
+23,80
+24,25
+22
+Tôn giáo học
+QHX21
+22,00
+25,00
+23,50
+22,60
+23,50
+23
+Triết học
+QHX22
+22,50
+25,30
+24,00
+23,40
+24,50
+24
+Văn hóa học
+QHX27
+26,30
+24,60
+23,50
+24,60
+25
+Văn học
+QHX23
+26,80
+25,75
+24,50
+25,75
+26
+Việt Nam học
+QHX24
+26,00
+24,50
+23,00
+24,75
+27
+Xã hội học
+QHX25
+24,00
+26,50
+25,20
+24,00
+25,70
+(*) Xét tuyển kết quả thi tốt nghiệp THPT năm 2023: Điểm trúng tuyển theo thang điểm 30 (không nhân hệ số) và đã bao gồm điểm ưu tiên đối tượng và khu vực (nếu có). Trường Đại Ngoại ngữ
+(Mã trường QHF)
+STT
+Ngành
+Mã ngành
+Điểm trúng tuyển
+1
+Sư phạm tiếng Anh
+7140231
+37.21
+2
+Sư phạm tiếng Trung
+7140234
+35.90
+3
+Sư phạm tiếng Nhật
+7140236
+35.61
+4
+Sư phạm tiếng Hàn Quốc
+7140237
+36.23
+5
+Ngôn ngữ Anh
+7220201
+35.55
+6
+Ngôn ngữ Nga
+7220202
+33.30
+7
+Ngôn ngữ Pháp
+7220203
+34.12
+8
+Ngôn ngữ Trung Quốc
+7220204
+35.55
+9
+Ngôn ngữ Đức
+7220205
+34.35
+10
+Ngôn ngữ Nhật
+7220209
+34.65
+11
+Ngôn ngữ Hàn Quốc
+7220210
+35.40
+12
+Ngôn ngữ Ả Rập
+7220211
+33.04
+STT
+Ngành
+Mã ngành
+Điểm trúng tuyển
+13
+Văn hóa và truyền thông xuyên quốc gia
+7220212QTD
+34.49
+14
+Kinh tế - Tài chính (CTĐT LTQT)
+7903124
+26.68
+Điểm trúng tuyển là tổng điểm của 3 bài thi trong tổ hợp thí sinh dùng để xét tuyển (điểm môn Ngoại ngữ tính hệ số 2) và điểm ưu tiên khu vực, đối tượng (nếu có).

@@ -1,0 +1,386 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_831.txt
+
+Chỉ tiêu tuyển sinh
+(Chỉ tiêu theo Ngành/Nhóm ngành theo từng phương thức tuyển sinh, tổ hợp môn xét tuyển)
+TT
+Mã trường
+Mã ngành/ nhóm ngành
+(Mã xét tuyển)
+Tên ngành
+Chỉ tiêu
+Tổ hợp môn xét tuyển 1
+Tổ hợp môn xét tuyển 2
+Tổ hợp môn xét tuyển 3
+Tổ hợp môn xét tuyển 4
+Theo KQ thi
+TN THPT
+năm 2021
+Theo
+Phương thức khác
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+Mã tổ hợp môn
+Môn chính
+TRƯỜNG ĐH CÔNG NGHỆ ( 1.500 chỉ tiêu)
+750
+750
+Các CTĐT Chuẩn: 870 (chỉ tiêu)
+435
+435
+Nhóm ngành:
+Công nghệ thông tin (250 chỉ tiêu)
+125
+125
+A00
+A01
+QHI
+CN1
+Công nghệ thông tin
+Công nghệ thông tin định hướng thị trường Nhật Bản
+Nhóm ngành: Máy tính và Robot (140 chỉ tiêu)
+70
+70
+A00
+A01
+QHI
+CN2
+Kỹ thuật máy tính
+Kỹ thuật Robot*
+Nhóm ngành: Vật lý kỹ thuật (120 chỉ tiêu)
+60
+60
+A00
+A01
+QHI
+CN3
+Kỹ thuật năng lượng*
+Vật lý kỹ thuật
+QHI
+CN4
+Cơ kỹ thuật
+40
+40
+A00
+A01
+QHI
+CN5
+Công nghệ kỹ thuật xây dựng
+50
+50
+A00
+A01
+QHI
+CN7
+Công nghệ Hàng không vũ trụ*
+30
+30
+A00
+A01
+QHI
+CN11
+Kỹ thuật điều khiển và tự động hóa
+30
+30
+A00
+A01
+QHI
+CN10
+Công nghệ nông nghiệp*
+30
+30
+A00
+A01
+A02
+B00
+Các CTĐT Chất lượng cao: 630 (chỉ tiêu)
+315
+315
+QHI
+CN6
+Công nghệ kỹ thuật cơ điện tử
+75
+75
+A00
+Toán, Lý
+(hệ số 2)
+A01
+Toán, Anh
+(hệ số 2
+)
+Nhóm ngành: Công nghệ thông tin (CLC)
+QHI
+CN8
+Khoa học Máy tính
+165
+165
+A00
+Toán, Lý
+(
+hệ số 2)
+A01
+Toán, Anh
+(hệ số 2)
+Hệ thống thông tin
+Mạng máy tính và truyền thông dữ liệu
+QHI
+CN9
+Công nghệ kỹ thuật điện tử - viễn thông**
+75
+75
+A00
+Toán, Lý
+(hệ số 2)
+A01
+Toán, Anh
+(hệ số 2)
+2. T
+RƯỜNG ĐH KHOA HỌC TỰ NHIÊN
+(1.610 chỉ tiêu)
+1.370
+240
+QHT
+QHT01
+Toán học
+40
+10
+A00
+A01
+D07
+D08
+QHT
+QHT02
+Toán tin
+40
+10
+A00
+A01
+D07
+D08
+QHT
+QHT40
+Máy tính và khoa học thông tin** (CTĐT CLC)
+70
+10
+A00
+A01
+D07
+D08
+QHT
+QHT93
+Khoa học dữ liệu*
+50
+10
+A00
+A01
+D07
+D08
+QHT
+QHT03
+Vật lý học
+65
+15
+A00
+A01
+B00
+C01
+QHT
+QHT04
+Khoa học vật liệu
+55
+5
+A00
+A01
+B00
+C01
+QHT
+QHT05
+Công nghệ kỹ thuật hạt nhân
+35
+5
+A00
+A01
+B00
+C01
+QHT
+QHT94
+Kỹ thuật điện tử và tin học*
+50
+10
+A00
+A01
+B00
+C01
+QHT
+QHT06
+Hoá học
+50
+10
+A00
+B00
+D07
+QHT
+QHT41
+Hoá học**
+(CTĐT tiên tiến)
+30
+10
+A00
+B00
+D07
+QHT
+QHT42
+Công nghệ kỹ thuật hoá học** (CTĐT CLC)
+65
+15
+A00
+B00
+D07
+QHT
+QHT43
+Hoá dược** (CTĐT CLC)
+65
+15
+A00
+B00
+D07
+QHT
+QHT08
+Sinh học
+75
+15
+A00
+A02
+B00
+D08
+QHT
+QHT44
+Công nghệ sinh học**
+(CTĐT CLC)
+120
+20
+A00
+A02
+B00
+D08
+QHT
+QHT10
+Địa lí tự nhiên
+25
+5
+A00
+A01
+B00
+D10
+QHT
+QHT91
+Khoa học thông tin địa không gian*
+27
+3
+A00
+A01
+B00
+D10
+QHT
+QHT12
+Quản lý đất đai
+70
+10
+A00
+A01
+B00
+D10
+QHT
+QHT95
+Quản lý phát triển đô thị và bất động sản*
+50
+10
+A00
+A01
+B00
+D10
+QHT
+QHT13
+Khoa học môi trường
+85
+15
+A00
+A01
+B00
+D07
+QHT
+QHT46
+Công nghệ kỹ thuật môi trường** (CTĐT CLC)
+52
+8
+A00
+A01
+B00
+D07
+QHT
+QHT96
+Khoa học và công nghệ thực phẩm*
+62
+8
+A00
+A01
+B00
+D07
+QHT
+QHT16
+Khí tượng và khí hậu học
+35
+5
+A00
+A01
+B00
+D07
+QHT
+QHT17
+Hải dương học
+27
+3
+A00
+A01
+B00
+D07
+QHT
+QHT92
+Tài nguyên và môi trường nước*
+27
+3
+A00
+A01
+B00
+D07
+QHT
+QHT18
+Địa chất học
+27
+3
+A00
+A01
+B00
+D07
+QHT
+QHT20
+Quản lý tài nguyên và môi trường
+45
+5
+A00
+A01
+B00
+D07
+QHT
+QHT97
+Công nghệ quan trắc và giám sát tài nguyên môi trường*
+28
+2
+A00
+A01
+B00
+D07
+3.

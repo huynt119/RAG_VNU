@@ -1,0 +1,25 @@
+Danh sách hướng dẫn nghiên cứu khoa học sinh viên
+Năm 2006
+Võ Văn Thành (K48CA): Ứng dụng Ontology và Fuzzy cho biểu diễn dự án phần mềm,
+giải ba
+.
+Nguyễn Thị Nga (K47CA): Nghiên cứu mô hình hỗ trợ sử dụng lại thiết kế phần mềm,
+giải ba
+.
+Năm 2005
+Nguyễn Thị Minh Ánh, Đinh Việt Cường (K46CA), Ngô Trí Hoài (K46CC): Mô hình đa mạng neural cho nhận dạng chữ viết tay tiếng Việt liền nét,
+giải nhất
+.
+Nguyễn Ngọc Bảo (K46CA): Ước lượng dự án phần mềm sử dụng lập luận theo kinh nghiệm,
+giải nhì
+.
+Năm 2004
+Phan Hồ Việt Phương, Hồ Ngân Hương (K45C): Mô hình tri thức cho xây dựng bài giảng điện tử theo ngữ cảnh,
+giải nhất
+.
+Nguyễn Ngọc Bảo, Nguyễn Việt Cường (K46CA): Tổng quan về lập luận theo kinh nghiệm,
+giải nhất
+.
+Nguyễn Thị Minh Ánh, Đinh Việt Cường (K46CA), Ngô Trí Hoài (K46CC): Ứng dụng mạng neural trong nhận dạng văn bản,
+giải ba
+.

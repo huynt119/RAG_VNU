@@ -1,0 +1,12 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-co-ky-thuat-14_.txt
+
+Các kiến thức định hướng chuyên sâu
+Định hướng chuyên sâu về Thủy khí công nghiệp và môi trường
+Biết và có thể áp dụng kiến thức vào tính toán, đánh giá, phân tích các quá trình thủy khí động lực ứng dụng trong công nghiệp: máy thủy khí, vận chuyển và khai thác dầu khí, các quá trình trao đổi thủy nhiệt nhà máy điện hạt nhân…;
+Hiểu và có thể áp dụng các kiến thức để mô phỏng, đánh giá, phân tích các quá trình thủy khí động lực ứng dụng trong môi trường: tính toán, dự báo dòng chảy, phát tán ô nhiễm trong môi trường nước và không khí…;
+Định hướng chuyên sâu về cơ học kỹ thuật biển
+Hiểu và có thể áp dụng kiến thức để mô phỏng, phân tích, đánh giá các công trình ngoài khơi và ven bờ…;
+Biết và có thể vận dụng kiến thức để tính toán, mô phỏng, đánh giá, dự báo các quá trình thủy thạch động lực và môi trường biển. Định hướng chuyên sâu về Cơ điện tử:
+Hiểu và vận dụng kiến thức để đánh giá phân tích thiết kế hệ thống hoặc quá trình; sử dụng các công cụ hiện đại để phát triển các hệ thống cơ điện tử; có khả năng phát triển giải pháp để thiết kế và phát triển hệ cơ điện tử, tạo ra các công cụ sản xuất “thông minh”, cũng như các hệ thống công nghiệp hiện đại. Định hướng chuyên sâu về công nghệ vũ trụ:
+Hiểu và vận dụng kiến thức về khí động lực học và công nghệ phóng đẩy, cơ học cấu trúc, cơ học bay, công nghệ vệ tinh, … phục vụ nghiên cứu và ứng dụng công nghệ vũ trụ. Định hướng chuyên sâu về vật liệu và kết cấu tiên tiến:
+Có kiến thức cơ bản tốt về cơ học vật liệu và tính toán kết cấu; có thể thiết kế các thành phần tối ưu cho vật liệu composite nhiều pha (nền, sợi và hạt); tính toán và thực nghiệm xác định ứng suất-biến dạng, độ bền của các loại vật liệu và độ bền, ổn định của các loại kết cấu tấm, vỏ bằng thép, kim loại loại và hợp kim,…cũng như các kết cấu làm từ vật liệu composite, bê tông, vật liệu nano, vật liệu chức năng FGM,…chịu tải trọng tĩnh và động lực học, từ đó có thể chủ động thiết kế, chế tạo và điều khiển kết cấu.

@@ -1,0 +1,347 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-hang-khong-vu-tru-9_.txt
+
+Các học phần
+lựa chọn định hướng chuyên sâu
+2
+4
+V.3.1
+Các học phần
+chuyên sâu về
+Công nghệ thông tin, Điện tử Hàng không
+2
+4
+/39
+44
+INT2204
+Lập trình hướng đối tượng
+Object Oriented Programming
+3
+30
+15
+INT1008
+45
+INT3108
+Lập trình nhúng và thời gian thực
+Real-time and Embedded Programming
+3
+30
+15
+INT2215
+46
+AER3017
+Phát triển hệ thống nhúng bảo mật
+Development of Secure Embedded Systems
+3
+45
+INT2215
+47
+ELT3048
+Hệ thống vi xử lý
+Microprocessors
+3
+30
+15
+ELT2035
+48
+ELT3057
+Truyền thông số và mã hóa
+Digital Communications and Coding Theory
+3
+45
+49
+ELT3069
+Thiết kế hệ thống máy tính nhúng
+Embedded Computing System Design
+3
+30
+15
+ELT2035
+50
+ELT2036
+Kỹ thuật điện từ
+Electromagnetics Engineering
+3
+45
+ELT2035
+51
+ELT3060
+Kỹ thuật cao tần
+HF Techniques
+3
+45
+ELT2035
+52
+ELT3189
+Kỹ thuật Anten
+Antenna Techniques
+3
+45
+ELT2035
+53
+AER3019
+Nguyên lý Rada
+Rada Principles
+3
+45
+ELT2035
+54
+AER3020
+Mạng truyền dữ liệu
+Data Communication Networks
+3
+45
+ELT2035
+55
+ELT3098
+Truyền thông vệ tinh
+Satellite Communication
+3
+45
+ELT2035
+56
+AIT2004
+Cơ sở trí tuệ nhân tạo
+Foundations
+of
+Artificial
+Intelligence
+3
+30
+15
+V.3.2
+Các học phần
+chuyên sâu về
+Động lực học, Điều khiển và Cơ khí Hàng không
+2
+4
+/42
+57
+AER3054
+Thiết kế UAV
+UAV Design
+3
+30
+15
+58
+AER3023
+Động lực học bay và điều khiển
+Flight Dynamics and Control
+3
+30
+15
+59
+AER3044
+Nguyên lý máy
+Theory of Machinery
+3
+45
+60
+AER3024
+Công nghệ chế tạo, CAM và CNC
+CAM and CNC
+3
+30
+15
+61
+AER3025
+Kỹ thuật mô hình và mô phỏng thiết bị bay
+Modeling and Simulation of Flying Equipment
+3
+30
+15
+62
+AER3026
+Kiểm tra và bảo dưỡng máy bay
+Aviation Diagnostics and Maintenance
+3
+30
+15
+63
+EMA3014
+Cơ học quỹ đạo bay
+Trajectory Mechanics
+3
+30
+15
+MAT1093
+MAT1042
+64
+AER3036
+Vật liệu Hàng không
+Aircraft Materials
+3
+45
+AER2008
+65
+AER3029
+Mô phỏng, phân tích và điều khiển hệ thống động lực học
+Modelling, Analysis & Control
+of Dynamical Systems
+3
+30
+15
+66
+AER3041
+Hệ thống Điều khiển điện thủy khí
+Elec-Hydrolique Control Systems
+3
+45
+67
+AER3042
+Điều khiển tự động bay cho UAV
+Autonomous Flight Control for UAV
+3
+45
+68
+EMA3134
+Hệ thống Điều khiển nhúng
+Embbeded Control Systems
+3
+30
+15
+69
+AER3034
+Phân tích dữ liệu và nhận dạng hệ thống
+Data Analysis and System Identification
+3
+30
+15
+70
+AER3035
+Nguyên lý Định vị và dẫn đường Thiết bị hàng không
+Navigation and Guidance of Aerospace Vehicles Principles
+3
+40
+5
+V.3.3
+Các học phần
+chuyên sâu về
+Vệ tinh và Khoa học dữ liệu không gian
+2
+4
+/33
+71
+AER3015
+Nhập môn viễn thám
+Introduction to Remote Sensing
+3
+30
+15
+72
+AER3006
+Nhập môn Hệ thống thông tin địa lý
+Introduction to GIS
+3
+30
+15
+73
+AER3007
+Xử lý ảnh viễn thám
+Digital Image Processing in Remote Sensing
+3
+30
+15
+INT2210
+74
+AER3008
+Phân tích dữ liệu không gian
+Geospatial Data Analysis
+3
+30
+15
+INT2210
+75
+AER3010
+Tính toán lớn trên dữ liệu không gian
+Spatial Data Computation
+3
+30
+15
+INT2210
+76
+AER3011
+Cơ sở dữ liệu không gian
+Spatial Database Systems
+3
+30
+15
+INT2210
+77
+AER3013
+Hạ tầng thông tin không gian
+Spatial Data Infrastructure
+3
+45
+78
+AER3014
+Các vấn đề hiện đại trong Viễn thám và GIS
+Advanced Topics in Remote Sensing and GIS
+3
+45
+79
+EMA3048
+Thử nghiệm kết cấu thiết bị không gian
+Structure Testing of Aerospace Devices
+3
+30
+15
+80
+AER3027
+Cảm biến, điều khiển vệ tinh và đồ án
+Sensor, Satellite Control and Term Project
+3
+30
+15
+81
+AER3028
+Thiết kế, tích hợp vệ tinh nhỏ và đồ án
+Design and Integration of Small Satellites and Term Project
+3
+30
+15
+V.4
+Thực tập và tốt nghiệp
+1
+8
+V.4.1
+Thực tập
+8
+82
+AER4001
+Dự án thực tế
+Capstone Projects
+5
+30
+45
+83
+AER4002
+Thực tập tốt nghiệp
+Graduate Practice
+3
+45
+V.4.2
+Đồ án hoặc học phần tốt nghiệp
+10
+84
+AER4050
+Đồ án tốt nghiệp
+Thesis
+10
+150
+Học phần tốt nghiệp
+10
+85
+AER4051
+Tiểu luận tốt nghiệp
+Graduation Essay
+4
+60
+86
+Chọn thêm 2 học phần trong khối V.3
+6
+Tổng cộng:
+152
+Ghi
+chú:
+Các học phần Giáo dục thể chất, Giáo dục quốc phòng-an ninh, Kỹ năng bổ trợ không được tính vào tổng số tín chỉ của chương trình đào tạo, không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy, nhưng là điều kiện để xét tốt nghiệp
+01 giờ tín chỉ thực hành tương ứng với 02 giờ thực tế trên lớp.

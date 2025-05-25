@@ -1,0 +1,307 @@
+Thông tin về luận án tiến sĩ của NCS Ngô Văn Định
+Thông tin vỀ luẬn án tiẾn sĩ
+1. Họ và tên nghiên cứu sinh
+: Ngô Văn Định
+2. Giới tính
+: Nam
+3. Ngày sinh
+: 09/06/1981
+4. Nơi sinh
+: Yên Bái
+5. Quyết định công nhận nghiên cứu sinh
+số: 2120/QĐ-ĐHGD, ngày 16 tháng 12 năm 2020
+6. Các thay đổi trong quá trình đào tạo
+:
+Chỉnh sửa tên đề tài thành: “Phát triển năng lực ứng dụng công nghệ thông tin và truyền thông trong nghiên cứu khoa học giáo dục cho sinh viên sư phạm”, tại Quyết định số 1576/QĐ-ĐHGD ngày 16 tháng 9 năm 2022 của Hiệu trưởng Trường Đại học Giáo dục, ĐHQGHN
+Gia hạn thời gian đào tạo 12 tháng, tại quyết định số 1737/QĐ-ĐHGD, ngày 17 tháng 6 năm 2024 của Hiệu trưởng Trường Đại học Giáo dục, ĐHQGHN
+7. Tên đề tài luận án:
+Phát triển năng lực ứng dụng công nghệ thông tin và truyền thông trong nghiên cứu khoa học giáo dục cho sinh viên sư phạm.
+8. Chuyên ngành
+: Lý luận, phương pháp và công nghệ dạy học
+9. Mã số
+: 9140120.01.QTD
+10. Cán bộ hướng dẫn khoa học
+:
+Cán bộ hướng dẫn 1: Giáo sư, tiến sĩ Trần Trung
+Cán bộ hướng dẫn 2: Phó Giáo sư, tiến sĩ Nguyễn Chí Thành
+11. Tóm tắt các kết quả mới của luận án
+: (
+nêu tóm tắt các kết quả mới của luận án
+)
+Luận án đã làm rõ khái niệm, cấu trúc của năng lực ứng dụng công nghệ thông tin và truyền thông (NL ứng dụng CNTT-TT) trong nghiên cứu khoa học giáo dục (NC KHGD) cho sinh viên sư phạm (SVSP). Xây dựng khung NL ứng dụng CNTT-TT trong NC KHGD cho SVSP với 6 thành tố và 22 chỉ báo, xác định biểu hiện và cấp độ của từng chỉ báo. Kết quả này có thể phát triển để làm cơ sở lý luận cho phát triển chương trình đào tạo giáo viên trong bối cảnh đổi mới giáo dục và chuyển đối số. Bên cạnh đó, luận án cũng đã chỉ rõ được một số yếu tố có ảnh hưởng đến việc nâng cao NL ứng dụng CNTT-TT trong NC KHGD cho SVSP.
+Thông qua khảo sát tại 6 trường đại học có đào tạo ngành sư phạm tại Việt Nam, luận án đã phân tích, đánh giá thực trạng NL ứng dụng CNTT-TT trong NC KHGD của sinh viên, chỉ ra các hạn chế về việc nâng cao NL ứng dụng CNTT-TT trong NC KHGD cho SVSP và cơ hội để SVSP thực hành thực tế.
+Luận án đề xuất 3 biện pháp sư phạm nhằm nâng cao NL ứng dụng CNTT-TT trong NC KHGD cho SVSP gồm: 1) Khai thác công cụ số và dữ liệu số hỗ trợ SVSP nghiên cứu khoa học giáo dục; 2) Tổ chức các khóa học kết nối nhằm trang bị cho SVSP về phương pháp nghiên cứu khoa học và ứng dụng công nghệ thông tin và truyền thông trong nghiên cứu khoa học; 3) Thiết kế các tình huống thực tiễn trong NC KHGD vào dạy học một số học phần của chương trình đào tạo cho SVSP.
+Kết quả thực nghiệm tại các trường đại học khẳng định tính khả thi và hiệu quả của các biện pháp đã thực sự góp phần nâng cao NL ứng dụng CNTT-TT trong NC KHGD, thúc đẩy tự học và nghiên cứu khoa học cho SVSP.
+Các kết quả nghiên cứu này không chỉ có ý nghĩa lý luận và thực tiễn mà còn là nguồn tài liệu tham khảo hữu ích cho các nhà quản lý giáo dục, giảng viên và SVSP trong quá trình nâng cao chất lượng NC KHGD trong bối cảnh chuyển đổi số.
+12. Khả năng ứng dụng trong thực tiễn
+:
+Khung NL ứng dụng CNTT-TT trong NC KHGD của SVSP có thể được các cơ sở đào tạo giáo viên sử dụng để chuẩn hóa và đánh giá năng lực của sinh viên.
+Kết quả khảo sát thực trạng NL ứng dụng CNTT-TT trong NC KHGD của SVSP cung cấp thông tin hữu ích cho các nhà quản lý giáo dục và giảng viên về những điểm mạnh và hạn chế của sinh viên của SVSP khi ứng dụng CNTT-TT vào NC KHGD. Việc xác định các yếu tố ảnh hưởng đến NL ứng dụng CNTT-TT trong NC KHGD giúp các cơ sở đào tạo tập trung vào các biện pháp can thiệp hiệu quả.
+Ba biện pháp sư phạm được đề xuất trong luận án có thể được triển khai và tích hợp vào quá trình đào tạo tại các trường sư phạm. Kết quả thực nghiệm sư phạm đã chứng minh tính khả thi và hiệu quả bước đầu của các biện pháp đề xuất. Điều này cho thấy các biện pháp này có tiềm năng ứng dụng rộng rãi trong thực tiễn để nâng cao NL ứng dụng CNTT-TT trong NC KHGD cho SVSP.
+Các khuyến nghị đối với các cơ sở đào tạo giáo viên ở phần Kết luận của luận án cũng trực tiếp hướng đến việc ứng dụng các kết quả nghiên cứu vào thực tiễn quản lý và đào tạo.
+13. Những hướng nghiên cứu tiếp theo
+:
+- Nghiên cứu sâu hơn về tác động lâu dài của các biện pháp sư phạm đã đề xuất.
+- Phát triển các công cụ và phương pháp đánh giá NL ứng dụng CNTT-TT trong NC KHGD của SVSP một cách toàn diện và chi tiết hơn;
+- Nghiên cứu về các yếu tố ảnh hưởng đến việc ứng dụng các công cụ CNTT-TT mới (ví dụ: trí tuệ nhân tạo, dữ liệu lớn) trong NC KHGD của SVSP;
+- Nghiên cứu so sánh hiệu quả của các mô hình và phương pháp đào tạo khác nhau trong việc phát triển NL ứng dụng CNTT-TT trong NC KHGD cho SVSP;
+- Nghiên cứu về vai trò của giảng viên trong việc hỗ trợ và hướng dẫn SVSP ứng dụng CNTT-TT trong NC KHGD;
+- Nghiên cứu về sự khác biệt trong NL ứng dụng CNTT-TT trong NC KHGD giữa sinh viên các chuyên ngành sư phạm khác nhau;
+- Nghiên cứu về việc tích hợp NL ứng dụng CNTT-TT trong NC KHGD với các năng lực sư phạm khác.
+14. Các công trình đã công bố có liên quan đến luận án:
+1. Ngô Văn Định
+. (2022).
+Đề xuất khung năng lực ứng dụng công nghệ thông tin và truyền thông trong NC KHGD của sinh viên sư phạm
+.
+Tạp chí Giáo dục
+,
+22
+(1), 1–7.
+2. Ngô Văn Định
+, Trịnh Thị Phương Thảo, Nguyễn Thị Thu Hằng, & Nguyễn Trường Giang. (2023). Xu hướng ứng dụng công nghệ thông tin và truyền thông trong nghiên cứu khoa học: một phân tích tổng quan trong bối cảnh chuyển đổi số.
+Tạp chí Giáo dục
+,
+23
+(9), 326–333.
+3. Trung, T., Thảo, T. T. P., Bình, P. Đ., &
+Định, N. V
+. (2023). Đánh giá hiệu quả tác động sư phạm của một hướng nghiên cứu khoa học giáo dục: Tiếp cập từ kỹ thuật meta-analysis.
+IC HNMU 2023 Quality Assurance of Application – Oriented Postgraduate Education
+, 498–515.
+4. Phuong, T. T. T., Nguyen, T.-T., Danh, N. N.,
+Ngo Van, D
+., Luong, H. D., Nguyen, L. V. A., & Tran, T. (2023). Digital transformation in education: a bibliometric analysis using Scopus.
+European Science Editing
+,
+49
+(3), e107138. https://doi.org/10.3897/ese.2023.e107138
+5. Ngô Văn Định.
+(2024). Thực trạng năng lực ứng dụng công nghệ thông tin và truyền thông trong NC KHGD của sinh viên sư phạm.
+Tạp
+c
+hí
+G
+iáo
+d
+ục
+,
+24
+(7), 55–60.
+6. Thao, T. T. P., Thi-Nga, H., Hang, N. T. T., Minh Thai, D. T., Linh, H. T. K., Hong Nhung, N. Do, Huong Giang, N. Do, &
+Dinh, N. Van
+. (2024). The influence of gender and training sector on the ICT competency of pre-service teachers in Vietnam: Using the UNESCO ICT Competency Framework.
+International Journal of Learning, Teaching and Educational Researc
+h
+,
+23
+(3), 411–427. https://doi.org/10.26803/ijlter.23.3.20
+(Q3- Scopus)
+7. Lê Thị Tuyết Trinh, Nguyễn Linh Chi, Lê Minh Cường, Đỗ Thị Trinh, &
+Ngô Văn Định
+. (2024). Đánh giá các tạp chí khoa học thuộc lĩnh vực Khoa học giáo dục ở Việt Nam theo các tiêu chí của danh mục tạp chí truy cập mở DOAJ (Directory of Open Access Journals).
+Tạp chí Giáo dục
+,
+24
+(10), 1–6. https://tcgd.tapchigiaoduc.edu.vn/index.php/tapchi/article/view/2490
+8. Trinh, L. T. T., Hang, N. T. T., Cuong, L. M.,
+Dinh, N. Van
+, Linh, H. K., Trinh, D. T., Tram, N. T. P., Nguyen, H., & Ho, M.-T. (2025). State-of-the-arts methods for studying factors driving the utilization of open science resources.
+MethodsX,
+14(September 2024), 103125. https://doi.org/10.1016/j.mex.2024.103125
+9. Dinh, N. Van
+, Trung, T., Thanh, N. C., Thao, N. P., & Thao, T. T. P. (2025). Factors Affecting the Competency of Applying Information and Communication Technology in Educational Scientific Research of Pedagogical Students in Vietnam.
+International Journal of Information and Education Technology
+,
+15
+(1), 164–174. https://doi.org/10.18178/ijiet.2025.15.1.2229
+Ngày 01 tháng 4 năm 2025
+Nghiên cứu sinh
+(Kí và ghi rõ họ tên)
+Ngô Văn Định
+INFORMATION ON DOCTORAL THESIS
+1. Full name: Ngo Văn Dinh.......................... 2. Sex: Male...................................................................
+3. Date of birth: June 9, 1981......................... 4. Place of  birth: Yen Bai
+5. Admission decision number: 2120/QĐ-ĐHGD Dated: December 16, 2020
+6. Changes in academic process: ................... ...................................................................
+(List the forms of change and corresponding times)
+The dissertation title was revised to:
+"Developing ICT Application Competency in Educational Scientific Research for Pedagogical Students"
+, as per Decision No. 1576/QĐ-ĐHGD dated September 16, 2022, issued by the President of the University of Education, Vietnam National University, Hanoi.
+Extending the training period by 12 months, in Decision No. 1737/QD-DHGD, dated June 17, 2024, issued by the President of the University of Education, Vietnam National University, Hanoi.
+7. Official thesis title: Developing ICT Application Competency in Educational Scientific Research for Pedagogical Students.
+8. Major: Learning and Teaching Theories, Methodology and Instructional Technology
+9. Code: 9140120.01.QTD
+10. Supervisors: ........................................... ...................................................................
+Supervisor 1: Professor, Dr. Trần Trung
+Supervisor 2: Associate Professor, Dr. Nguyễn Chí Thành
+11. Summary of the
+new findings
+of the thesis:
+The dissertation has clarified the concept and structure of Information and Communication Technology (ICT) application competency in educational scientific research (ESR) for pedagogical students. It has developed a framework for ICT application competency in ESR for pedagogical students, consisting of six components and 22 indicators, defining their manifestations and proficiency levels. These findings can serve as a theoretical foundation for developing teacher education programs in the context of educational innovation and digital transformation. Additionally, the dissertation has identified several factors influencing the enhancement of ICT application competency in ESR for pedagogical students.
+Through a survey conducted at six universities offering teacher education programs in Vietnam, the dissertation has analyzed and assessed the current state of ICT application competency in ESR among students. It has highlighted limitations in improving this competency and identified opportunities for students to gain practical experience.
+The dissertation proposes three pedagogical measures to enhance ICT application competency in ESR for pedagogical students:
+- Utilizing digital tools and data to support students in conducting educational scientific research;
+- Organizing interdisciplinary courses to equip students with research methodologies and ICT applications in research;
+- Integrating practical research scenarios into teaching selected courses in the teacher education curriculum.
+Experimental results from universities confirm the feasibility and effectiveness of these measures, demonstrating their contribution to improving ICT application competency in ESR, fostering self-directed learning, and promoting scientific research among students.
+These research findings hold theoretical and practical significance, serving as a valuable reference for educational administrators, faculty members, and pedagogical students in enhancing the quality of educational scientific research in the digital transformation era.
+12. Practical applicability, if any:
+Teacher education institutions can use the framework for ICT application competency in educational scientific research (ESR) for pedagogical students to standardize and assess students' competencies.
+The survey results on the current state of ICT application competency in ESR among pedagogical students provide valuable insights for educational administrators and faculty regarding students' strengths and limitations in applying ICT to ESR. Identifying the factors influencing ICT application competency in ESR enables teacher training institutions to focus on practical intervention measures.
+The three pedagogical measures proposed in the dissertation can be implemented and integrated into teacher training programs. The results of pedagogical experiments have demonstrated these measures' feasibility and initial effectiveness. This suggests their potential for widespread application in practice to enhance ICT application competency in ESR for pedagogical students.
+The recommendations for teacher education institutions in the Conclusion section of the dissertation are also directly aimed at applying the research findings to educational management and training practices.
+13. Further research directions, if any:
+- Conduct in-depth research on the long-term impact of the proposed pedagogical measures.
+- Develop more comprehensive and detailed tools and methods for assessing ICT application competency in educational scientific research (ESR) among pedagogical students.
+- Investigate factors influencing the adoption of new ICT tools (e.g., artificial intelligence, big data) in ESR among pedagogical students.
+- Compare the effectiveness of different training models and methods in developing ICT application competency in ESR for pedagogical students.
+- Examine the role of faculty members in supporting and guiding pedagogical students in applying ICT to ESR.
+- Study the differences in ICT application competency in ESR among students from different pedagogical disciplines.
+- Explore the integration of ICT application competency in ESR with other pedagogical competencies.
+14. Thesis-related publications:
+1. Ngô Văn Định
+. (2022). Đề xuất khung năng lực ứng dụng công nghệ thông tin và truyền thông trong NC KHGD của sinh viên sư phạm.
+Tạp chí Giáo dục
+,
+22
+(1), 1–7.
+2. Ngô Văn Định
+, Trịnh Thị Phương Thảo, Nguyễn Thị Thu Hằng, & Nguyễn Trường Giang. (2023). Xu hướng ứng dụng công nghệ thông tin và truyền thông trong nghiên cứu khoa học: một phân tích tổng quan trong bối cảnh chuyển đổi số.
+Tạp chí Giáo dục
+,
+23
+(9), 326–333.
+3.Trung, T., Thảo, T. T. P., Bình, P. Đ., &
+Định, N. V
+. (2023). Đánh giá hiệu quả tác động sư phạm của một hướng nghiên cứu khoa học giáo dục: Tiếp cập từ kỹ thuật meta-analysis.
+IC HNMU 2023 Quality Assurance of Application – Oriented Postgraduate Education
+, 498–515.
+4. Phuong, T. T. T., Nguyen, T.-T., Danh, N. N.,
+Ngo Van, D
+., Luong, H. D., Nguyen, L. V. A., & Tran, T. (2023). Digital transformation in education: a bibliometric analysis using Scopus.
+European Science Editing
+,
+49
+(3), e107138. https://doi.org/10.3897/ese.2023.e107138
+5. Ngô Văn Định.
+(2024). Thực trạng năng lực ứng dụng công nghệ thông tin và truyền thông trong NC KHGD của sinh viên sư phạm.
+Tạp
+c
+hí
+G
+iáo
+d
+ục
+,
+24
+(7), 55–60.
+6. Thao, T. T. P., Thi-Nga, H., Hang, N. T. T., Minh Thai, D. T., Linh, H. T. K., Hong Nhung, N. Do, Huong Giang, N. Do, &
+Dinh, N. Van
+. (2024). The influence of gender and training sector on the ICT competency of pre-service teachers in Vietnam: Using the UNESCO ICT Competency Framework.
+International Journal of Learning, Teaching and Educational Researc
+h
+,
+23
+(3), 411–427. https://doi.org/10.26803/ijlter.23.3.20
+(Q3- Scopus)
+7. Lê Thị Tuyết Trinh, Nguyễn Linh Chi, Lê Minh Cường, Đỗ Thị Trinh, &
+Ngô Văn Định
+. (2024). Đánh giá các tạp chí khoa học thuộc lĩnh vực Khoa học giáo dục ở Việt Nam theo các tiêu chí của danh mục tạp chí truy cập mở DOAJ (Directory of Open Access Journals).
+Tạp chí Giáo dục
+,
+24
+(10), 1–6. https://tcgd.tapchigiaoduc.edu.vn/index.php/tapchi/article/view/2490
+8. Trinh, L. T. T., Hang, N. T. T., Cuong, L. M.,
+Dinh, N. Van
+, Linh, H. K., Trinh, D. T., Tram, N. T. P., Nguyen, H., & Ho, M.-T. (2025). State-of-the-arts methods for studying factors driving the utilization of open science resources.
+MethodsX,
+14(September 2024), 103125. https://doi.org/10.1016/j.mex.2024.103125
+9. Dinh, N. Van
+, Trung, T., Thanh, N. C., Thao, N. P., & Thao, T. T. P. (2025). Factors Affecting the Competency of Applying Information and Communication Technology in Educational Scientific Research of Pedagogical Students in Vietnam.
+International Journal of Information and Education Technology
+,
+15
+(1), 164–174. https://doi.org/10.18178/ijiet.2025.15.1.2229
+Date:
+April 01, 2025
+Signature: …………………
+Full name:
+Ngo Van Dinh
+10:05 09/05/2025
+Tóm tắt và luận án tiến sĩ của NCS Ngô Văn Định trước bảo vệ
+Thông tin về luận án tiến sĩ của NCS Ngô Văn Định
+Thông báo về việc giới thiệu danh sách thành viên Hội đồng Giáo sư cơ sở Trường Đại học Giáo dục, ĐHQGHN năm 2025
+Thông báo tổ chức buổi bảo vệ luận án cấp Đại học Quốc gia của NCS Nguyễn Công Ước
+Thông báo tổ chức đánh giá luận án tiến sĩ của nghiên cứu sinh Lê Phương Thúy
+Thông báo về việc thu hồ sơ xét tốt nghiệp đợt tháng 6 năm 2025
+Thông báo thu học phí học kỳ II năm học 2024 - 2025 chương trình đào tạo cử nhân khóa QH2023S ngành
+Thông báo thu học phí học kỳ II năm học 2024-2025 chương trình đào tạo cử nhân khoá QH2021-S ngành GD3
+Tuyển sinh
+Đại học
+Sau đại học
+Chương trình bồi dưỡng
+Đào tạo
+Cử nhân Sư phạm Toán
+Cử nhân Sư phạm Vật lý
+Cử nhân Sư phạm Hóa học
+Cử nhân Sư phạm Sinh học
+Cử nhân Sư phạm Ngữ văn
+Cử nhân Sư phạm Lịch sử
+Cử nhân Sư phạm Khoa học Tự nhiên
+Cử nhân Quản trị trường học
+Cử nhân Quản trị Công nghệ Giáo dục
+Cử nhân Quản trị Chất lượng giáo dục
+Cử nhân Tham vấn học đường
+Cử nhân Khoa học Giáo dục
+Cử nhân Giáo dục mầm non
+Cử nhân Giáo dục tiểu học
+Cử nhân Sư phạm Lịch sử và Địa lý
+Cử nhân Tâm lí học
+Thạc sĩ Quản lý giáo dục
+Thạc sĩ LL&PPDH bộ môn (Toán, Vật lý, Hóa học, Sinh học, Ngữ văn, Lịch sử)
+Thạc sĩ Tâm lý học Lâm sàng TE&VTN
+Thạc sĩ Đo lường & Đánh giá trong GD
+Thạc sĩ Quản trị trường học
+Thạc sĩ Tham vấn học đường
+Thạc sĩ Giáo dục mầm non, giáo dục tiểu học
+Thạc sĩ Quản trị Công nghệ Giáo dục
+Tiến sĩ Quản lý Giáo dục
+Tiến sĩ Tâm lý học Lâm sàng TE&VTN
+Tiến sĩ Đo lường & Đánh giá trong GD
+Tiến sỹ Lý luận, phương pháp và công nghệ dạy học
+Giới thiệu
+Cơ cấu tổ chức
+Hội đồng Khoa học và Đào tạo
+Ban Giám hiệu
+Lịch sử hình thành
+Sứ mạng - Tầm nhìn
+Kế hoạch chiến lược
+Quy chế hoạt động
+Sơ đồ tổ chức
+Hội đồng trường
+Hội đồng Khoa học và Đào tạo
+Hội đồng Đảm bảo chất lượng
+Ban Giám hiệu
+Đảng ủy
+Công Đoàn
+Đoàn Thanh niên
+Ba công khai
+Tài nguyên
+Cổng thông tin việc làm
+Tra cứu tài liệu thư viện ĐHQGHN
+Tra cứu luận văn, luận án
+Thư viện
+Tạp chí Khoa học
+Cổng thông tin người học
+Cổng thông tin tuyển sinh
+Biểu mẫu dành cho học viên, sinh viên
+Thiết kế website
+Trường đại học giáo dục
+Địa chỉ
+: Nhà G7, số 144 Xuân Thủy
+Điện thoại
+: (024) 7301 7123
+Email
+: education@vnu.edu.vn
+© UED. All Rights Reserved.
+Quay trở lại website cũ

@@ -1,0 +1,88 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewpage_154.txt
+
+Điểm chuẩn và điểm quy đổi theo thang điểm 30
+6.4.1 Điểm chuẩn của các phương thức
+- Điểm chuẩn của các  phương thức xét tuyển cho từng ngành do Hội đồng tuyển sinh quyết định. - Điểm chuẩn của phương thức xét tuyển kết quả thi ĐGNL do ĐHQGHN tổ chức được quy định như sau:
+TT
+Ngành/
+Chương trình đào tạo
+Điểm chuẩn
+1
+Nhật Bản học
+ĐC (BJS) = Điểm Tư duy định tính x2 + Điểm Tư duy định lượng + Điểm Khoa học
+2
+Khoa học và Kỹ thuật máy tính
+ĐC (BCSE) =
+Điểm
+Tư duy định lượng x 2 +
+Điểm
+Tư duy định tính + Điểm Khoa học
+3
+Kỹ thuật cơ điện tử (Cơ điện tử thông minh và sản xuất theo phương thức Nhật Bản)
+ĐC (MJM) =
+Điểm
+Tư duy định lượng x 2 +
+Điểm
+Tư duy định tính + Điểm Khoa học
+4
+Công nghệ thực phẩm và sức khỏe
+ĐC (FTH) =
+Điểm
+Tư duy định lượng x 2 +
+Điểm
+Tư duy định tính + Điểm Khoa học
+5
+Nông nghiệp thông minh và bền vững
+ĐC (ESAS) =
+Điểm
+Tư duy định lượng x 2 +
+Điểm
+Tư duy định tính + Điểm Khoa học
+6
+Kỹ thuật xây dựng
+ĐC (ECE) =
+Điểm
+Tư duy định lượng x 2 +
+Điểm
+Tư duy định tính + Điểm Khoa học
+- Thang điểm xét tuyển theo các phương thức được quy định như sau:
+TT
+Phương thức xét tuyển
+Thang điểm
+xét tuyển
+1
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2024
+30
+2
+Xét tuyển chứng chỉ ngoại ngữ kết hợp kết quả thi tốt nghiệp THPT năm 2024
+3
+Xét tuyển hồ sơ năng lực (đánh giá hồ sơ và phỏng vấn)
+100
+4
+Xét tuyển kết quả trong kỳ thi chuẩn hóa SAT
+1600
+5
+Xét tuyển kết quả trong kỳ thi chuẩn hóa ACT
+36
+6
+Xét tuyển chứng chỉ A-Level
+10
+7
+Xét tuyển kết quả thi ĐGNL do ĐHQG TP HCM tổ chức
+1200
+8
+Xét tuyển kết quả thi ĐGNL do ĐHQGHN tổ chức
+200
+6.4.2 Điểm quy đổi của các phương thức xét tuyển theo thang điểm 30
+- Điểm quy đổi (gọi tắt là ĐQĐ) của các phương thức xét tuyển theo thang điểm 30 dùng để làm căn cứ xếp loại kết quả đầu vào và xét học bổng của thí sinh;
+- Công thức tính ĐQĐ theo từng phương thức được quy định như sau:
+TT
+Phương thức
+xét tuyển
+ĐQĐ theo thang điểm 30
+(làm tròn đến hai chữ số thập phân)
+Ghi chú
+1
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2024
+ĐQĐ (100) = Điểm thi (Môn 1 + Môn 2 + Môn 3) + Điểm ƯT (ĐT, KV)
+Môn 1, 2, 3 là các môn trong tổ hợp xét tuyển tương ứng với các ngành.

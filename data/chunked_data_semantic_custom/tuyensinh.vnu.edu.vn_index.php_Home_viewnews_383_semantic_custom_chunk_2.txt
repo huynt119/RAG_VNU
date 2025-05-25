@@ -1,0 +1,144 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_383.txt
+
+Thông tin về ngành/nhóm ngành, chỉ tiêu, tổ hợp xét tuyển
+TT
+Tên ngành
+Mã xét tuyển
+Chỉ tiêu chung
+Tổ hợp xét tuyển
+Báo chí
+QHX01
+100
+A00, C00, D01, D03, D04, D78, D82, D83
+Báo chí
+CTĐT CLC TT23
+QHX40
+30
+A00, C00, D01, D03, D04, D78, D82, D83
+Chính trị học
+QHX02
+70
+A00, C00, D01, D03, D04, D78, D82, D83
+Công tác xã hội
+QHX03
+80
+A00, C00, D01, D03, D04, D78, D82, D83
+Đông Nam Á học
+QHX04
+50
+A00, C00, D01, D03, D04, D78, D82, D83
+Đông phương học
+QHX05
+100
+C00, D01, D03, D04, D78, D82, D83
+Hán Nôm
+QHX06
+30
+C00, D01, D03, D04, D78, D82, D83
+Khoa học quản lý
+QHX07
+90
+A00, C00, D01, D03, D04, D78, D82, D83
+Khoa học quản lý
+CTĐT CLC TT23
+QHX41
+40
+A00, C00, D01, D03, D04, D78, D82, D83
+Lịch sử
+QHX08
+80
+C00, D01, D03, D04, D78, D82, D83
+Lưu trữ học
+QHX09
+60
+A00, C00, D01, D03, D04, D78, D82, D83
+Ngôn ngữ học
+QHX10
+80
+C00, D01, D03, D04, D78, D82, D83
+Nhân học
+QHX11
+60
+A00, C00, D01, D03, D04, D78, D82, D83
+Nhật Bản học
+QHX12
+30
+D01, D04, D06, D78, D81, D83
+Quan hệ công chúng
+QHX13
+75
+C00, D01, D03, D04, D78, D82, D83
+Quản lý thông tin
+QHX14
+60
+A00, C00, D01, D03, D04, D78, D82, D83
+Quản lý thông tin
+CTĐT CLC TT23
+QHX42
+30
+A00, C00, D01, D03, D04, D78, D82, D83
+Quản trị dịch vụ du lịch và lữ hành
+QHX15
+90
+D01, D03, D04, D78, D82, D83
+Quản trị khách sạn
+QHX16
+80
+D01, D03, D04, D78, D82, D83
+Quản trị văn phòng
+QHX17
+80
+A00, C00, D01, D03, D04, D78, D82, D83
+Quốc tế học
+QHX18
+105
+A00, C00, D01, D03, D04, D78, D82, D83
+Tâm lý học
+QHX19
+110
+A00, C00, D01, D03, D04, D78, D82, D83
+Thông tin – thư viện
+QHX20
+55
+A00, C00, D01, D03, D04, D78, D82, D83
+Tôn giáo học
+QHX21
+55
+A00, C00, D01, D03, D04, D78, D82, D83
+Triết học
+QHX22
+70
+A00, C00, D01, D03, D04, D78, D82, D83
+Văn học
+QHX23
+90
+C00, D01, D03, D04, D78, D82, D83
+Việt Nam học
+QHX24
+80
+C00, D01, D03, D04, D78, D82, D83
+Xã hội học
+QHX25
+70
+A00, C00, D01, D03, D04, D78, D82, D83
+- (**)  Các chương trình đào tạo chất lượng cao đáp ứng Thông tư 23/2014-TT-BGDĐT của Bộ Giáo dục và Đào tạo. - Môn thi/bài thi các tổ hợp xét tuyển:
+A00
+- Toán học, Hóa học, Vật lí;
+C00
+- Ngữ văn, Lịch sử, Địa lí;
+D01
+- Toán học, Ngữ văn, Tiếng Anh;
+D03
+- Toán học, Ngữ văn, Tiếng Pháp;
+D04
+- Toán học, Ngữ văn, Tiếng Trung;
+D06
+- Toán học, Ngữ văn, Tiếng Nhật;
+D78
+- Ngữ văn, KHXH, Tiếng Anh;
+D81
+- Ngữ văn, KHXH, Tiếng Nhật;
+D82
+- Ngữ văn, KHXH, Tiếng Pháp;
+D83
+- Ngữ văn, KHXH, Tiếng Trung.

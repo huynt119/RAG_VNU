@@ -1,0 +1,9 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-nang-luong-2_.txt
+
+Kiến thức theo nhóm ngành
+Nắm được các kiến thức cơ bản về khoa học vật liệu, các nguyên lý trong vật lý, cơ học, nhiệt động học, hóa học để giải được một số bài toán ứng dụng về năng lượng;
+Biết được các kiến thức thực hành về vật lý đại cương, hình họa thiết kế và có thể ứng dụng trong thực tiễn. Kiến thức ngành
+Hiểu được các kiến thức ngành và liên ngành về vật lý và cơ học, vật liệu tiên tiến và linh kiện, hóa sinh học, điều khiển hệ thống. Nắm được các quy luật, nguyên lý, bản chất và mô phỏng về quá trình chuyển hóa về năng lượng;
+Biết các phương pháp, kỹ thuật và vận hành được một số trang thiết bị khoa học kỹ thuật để mô phỏng, chế tạo và nghiên cứu về một số vật liệu sử dụng năng lượng tái tạo, thiết kế và chế tạo các bộ tích trữ, chuyển hóa năng lượng; nắm được các nguyên lý về quản lý năng lượng;
+Nắm được một số kiến thức định hướng chuyên sâu về Công nghệ pin năng lượng mặt trời/Kỹ thuật tích trữ và chuyển hóa năng lượng/An toàn và quản lý hiệu quả các nguồn năng lượng;
+Có khả năng ứng dụng kiến thức chuyên môn để triển khai các công việc về về năng lượng tái tạo và truyền thống.

@@ -1,0 +1,102 @@
+Nguồn: uet.vnu.edu.vn_lich_hoc_bo_sung_kien_thuc_ky_thi_tuyen_sinh_sau_dai_hoc_dot_3_nam_2023_.txt
+
+Trần Hoàng Việt
+PM305-G2
+6
+13/12/2023
+4
+18h00
+Công nghệ phần mềm
+PM307-G2
+7
+18/12/2023
+2
+18h00
+Công nghệ phần mềm
+PM305-G2
+8
+21/12/2023
+5
+18h00
+Công nghệ phần mềm
+PM305-G2
+9
+04/12/2023
+2
+18h00
+Toán học rời rạc
+TS. Tô Văn Khánh
+PM305-G2
+10
+05/12/2023
+3
+18h00
+Toán học rời rạc
+PM305-G2
+11
+06/12/2023
+4
+18h00
+Toán học rời rạc
+PM307-G2
+12
+07/12/2023
+5
+18h00
+Toán học rời rạc
+PM305-G2
+13
+01/12/2023
+6
+8h00
+Lập trình hướng đối tượng
+TS. Lê Khánh Trình
+PM201-G2
+14
+08/12/2023
+6
+18h00
+Lập trình hướng đối tượng
+PM201-G2
+15
+15/12/2023
+6
+8h00
+Lập trình hướng đối tượng
+PM201-G2
+16
+22/12/2023
+6
+18h00
+Lập trình hướng đối tượng
+PM201-G2
++
+Học phí quy định:
+STT
+Học phần
+Số
+tín chỉ
+Học phí/
+Tín chỉ (đ)
+Tổng tiền (đ)
+1
+Toán học rời rạc
+04
+315.000
+1.260.000
+2
+Cấu trúc dữ liệu và giải thuật
+04
+315.000
+1.260.000
+3
+Công nghệ phần mềm
+03
+315.000
+945.000
+4
+Lập trình hướng đối tượng
+03
+315.000
+945.000
++  Quy định đăng ký học: thí sinh đăng ký học theo Học phần.

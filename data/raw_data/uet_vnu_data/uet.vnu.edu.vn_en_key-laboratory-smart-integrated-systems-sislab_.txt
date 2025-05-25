@@ -1,0 +1,55 @@
+Key Laboratory for Smart Integrated Systems (SISLAB)
+Overview
+Established as the result of an investment project funded by the government budget in 2008, the Laboratory for Smart Integrated System (SIS Lab) is also a VNU-UET key laboratory and operates under the university administration and management. The laboratory is assigned the mission to initiate and coordinate concentrated teaching and research activities to develop inter- and cross- disciplinary fields of smart integrated systems engineering, and to strengthen the university’s capability in providing highly qualified human resources and high quality technology products. SIS Lab consists of a central unit – the VLSI Systems Design Laboratory – and four satellite laboratories: the Signal and Systems Laboratory, the Intelligent Networks and Systems Laboratory, the Knowledge Engineering and Information Security Laboratory, and the Embedded Systems Laboratory. With the idea on integrating the diverse competencies in the ICT and electronics engineering domains, SIS Lab draws human resources from the two major faculties of VNU-UET, the Faculty of Information Technology and the Faculty of Electronics and Telecommunications. The laboratory currently enjoys training and research exchanges and collaborations with MINATEC CEA-LETI, CMP, Grenoble INP, University of Paris-Sud (France); Synopsys, eSilicon, Dolphin-IC (USA); JAIST, Osaka University, University of Electronics and Communication (Japan). More information can be found at our website
+http://sis.uet.vnu.edu.vn
+Current research areas
+VLSI (FPGA/ASIC) design: system-on-chip, network-on-chip, design-for-testability, fault tolerance, video codec hardware design, low-power design, hardware/software co-design.
+Embedded systems: embedded software, embedded hardware, and application firmware.
+Signal and image processing, intelligent transmitting networks and systems.
+Knowledge engineering, data mining, information security.
+Research equipment and facilities
+Informatics systems
+: HP computer sets and HP stations (Linux/Windows), SUN clusters, IBM servers (Redhat/Windows Vista), ATM DSLAM, Broadband Accept Servers.
+Computer-Aided Design tools
+: ModelSim, Leonardo Spectrum (Mentor Graphics), Xilinx ISE Foundation tool suite, ChipScope, EDK-DO development kit for embedded systems design, ARM Realview platform.
+Prototyping and testing equipments
+: spectrum analyzer (up to 26.5 GHz), network analyzer (up to 40 GHz), 34-channel portable logic analyzer, vector signal analyzer, analog signal generator, vector signal generator, RFID development tool set, 100 MHz storage oscilloscope, 1 GHz – 4 channel infinium oscilloscope, multi-functional generators, FPGA development kits (Altera, Xilinx, Actel), smart antennas/MIMO integrated solution.
+By admin
+|
+Research Centers, Labs & Institutes
+|
+5179 Views
+admin
+Previous
+List of laboratories and research centers in University of Engineering and Technology
+Next
+Center for Interdisciplinary Integrated Technology Field Monitoring
+Related posts
+The Advanced Institute of Engineering and Technology (AVITECH)
+Key Laboratory for Micro-Nano Technology (Micro-Nano Lab)
+Center for Interdisciplinary Integrated Technology Field Monitoring
+List of laboratories and research centers in University of Engineering and Technology
+ORLab won the first prize in “Optimize Photovoltaic Battery” contest in 2018
+
+Key Laboratory for Smart Integrated Systems (SISLAB)
+Overview
+Established as the result of an investment project funded by the government budget in 2008, the Laboratory for Smart Integrated System (SIS Lab) is also a VNU-UET key laboratory and operates under the university administration and management. The laboratory is assigned the mission to initiate and coordinate concentrated teaching and research activities to develop inter- and cross- disciplinary fields of smart integrated systems engineering, and to strengthen the university’s capability in providing highly qualified human resources and high quality technology products. SIS Lab consists of a central unit – the VLSI Systems Design Laboratory – and four satellite laboratories: the Signal and Systems Laboratory, the Intelligent Networks and Systems Laboratory, the Knowledge Engineering and Information Security Laboratory, and the Embedded Systems Laboratory. With the idea on integrating the diverse competencies in the ICT and electronics engineering domains, SIS Lab draws human resources from the two major faculties of VNU-UET, the Faculty of Information Technology and the Faculty of Electronics and Telecommunications. The laboratory currently enjoys training and research exchanges and collaborations with MINATEC CEA-LETI, CMP, Grenoble INP, University of Paris-Sud (France); Synopsys, eSilicon, Dolphin-IC (USA); JAIST, Osaka University, University of Electronics and Communication (Japan). More information can be found at our website
+http://sis.uet.vnu.edu.vn
+Current research areas
+VLSI (FPGA/ASIC) design: system-on-chip, network-on-chip, design-for-testability, fault tolerance, video codec hardware design, low-power design, hardware/software co-design.
+Embedded systems: embedded software, embedded hardware, and application firmware.
+Signal and image processing, intelligent transmitting networks and systems.
+Knowledge engineering, data mining, information security.
+Research equipment and facilities
+Informatics systems
+: HP computer sets and HP stations (Linux/Windows), SUN clusters, IBM servers (Redhat/Windows Vista), ATM DSLAM, Broadband Accept Servers.
+Computer-Aided Design tools
+: ModelSim, Leonardo Spectrum (Mentor Graphics), Xilinx ISE Foundation tool suite, ChipScope, EDK-DO development kit for embedded systems design, ARM Realview platform.
+Prototyping and testing equipments
+: spectrum analyzer (up to 26.5 GHz), network analyzer (up to 40 GHz), 34-channel portable logic analyzer, vector signal analyzer, analog signal generator, vector signal generator, RFID development tool set, 100 MHz storage oscilloscope, 1 GHz – 4 channel infinium oscilloscope, multi-functional generators, FPGA development kits (Altera, Xilinx, Actel), smart antennas/MIMO integrated solution.
+By admin
+|
+Research Centers, Labs & Institutes
+|
+5179 Views
+

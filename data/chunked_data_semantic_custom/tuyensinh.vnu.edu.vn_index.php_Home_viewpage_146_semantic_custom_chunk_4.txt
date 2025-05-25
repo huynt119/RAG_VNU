@@ -1,0 +1,209 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewpage_146.txt
+
+C
+h
+ỉ
+t
+i
+ê
+u
+t
+u
+y
+ể
+n
+s
+i
+nh
+(xét tuyển theo ngành/nhóm ngành)
+TT
+Trình độ đào tạo
+Mã ngành xét tuyển
+Mã nhóm ngành xét tuyển
+Tên ngành /chương trình đào tạo
+Mã phương thức xét tuyển
+Tên phương thức xét tuyển
+Chỉ tiêu (dự kiến)
+Tổ hợp môn xét tuyển 1
+Tổ hợp môn xét tuyển 2
+Tổ hợp môn xét tuyển 3
+Tổ hợp môn xét tuyển 4
+Tổ hợp môn
+Môn chính
+Tổ hợp môn
+Môn chính
+Tổ hợp môn
+Môn chính
+Tổ hợp môn
+Môn chính
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+(12)
+(13)
+(14)
+(15)
+(16)
+1
+Cử nhân
+7310613
+Nhật Bản học
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2023
+36
+A01
+D28
+D01
+D06
+D14
+D63
+D78
+D81
+401
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQGHN tổ chức
+36
+301
+Xét tuyển thẳng theo Quy chế tuyển sinh hiện hành của Bộ GD&ĐT (Điều 8)
+06
+303
+Xét tuyển thẳng theo Quy định đặc thù và hướng dẫn tuyển sinh của ĐHQGHN
+501
+Xét hồ sơ năng lực thí sinh (đánh giá hồ sơ và phỏng vấn)
+36
+502
+Xét tuyển chứng chỉ ngoại ngữ quốc tế (tiếng Anh, tiếng Nhật), kết hợp học bạ THPT và phỏng vấn
+409
+Xét tuyển chứng chỉ ngoại ngữ quốc tế (tiếng Anh, tiếng Nhật), kết hợp 02 môn thi tốt nghiệp THPT năm 2023
+06
+402
+Xét
+tuyển dựa trên kết quả thi
+ĐGNL
+cho học sinh THPT do ĐHQGTPHCM tổ chức
+408
+Xét tuyển kết quả trong kỳ thi chuẩn hóa SAT
+Xét tuyển chứng chỉ A-Level
+Xét tuyển chứng chỉ ACT
+2
+Cử nhân
+7480204
+Khoa học và Kỹ thuật máy tính
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2023
+45
+A00
+A01
+D28
+D07
+D23
+D08
+D33
+401
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQGHN tổ chức
+45
+301
+Xét tuyển thẳng theo Quy chế tuyển sinh hiện hành của Bộ GD&ĐT (Điều 8)
+07
+303
+Xét tuyển thẳng theo Quy định đặc thù và hướng dẫn tuyển sinh của ĐHQGHN
+501
+Xét hồ sơ năng lực thí sinh (đánh giá hồ sơ và phỏng vấn)
+45
+502
+Xét tuyển chứng chỉ ngoại ngữ quốc tế (tiếng Anh, tiếng Nhật), kết hợp học bạ THPT và phỏng vấn
+409
+Xét tuyển chứng chỉ ngoại ngữ quốc tế (tiếng Anh, tiếng Nhật), kết hợp 02 môn thi tốt nghiệp THPT năm 2023
+08
+402
+Xét
+tuyển dựa trên kết quả thi
+ĐGNL
+cho học sinh THPT do ĐHQGTPHCM tổ chức
+408
+Xét tuyển kết quả trong kỳ thi chuẩn hóa SAT
+Xét tuyển chứng chỉ A-Level
+Xét tuyển chứng chỉ ACT
+3
+Kỹ sư
+VJU1
+Nông nghiệp thông minh và bền vững
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2023
+12
+A00
+B00
+A01
+D28
+D01
+D06
+401
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQGHN tổ chức
+12
+301
+Xét tuyển thẳng theo Quy chế tuyển sinh hiện hành của Bộ GD&ĐT (Điều 8)
+02
+303
+Xét tuyển thẳng theo Quy định đặc thù và hướng dẫn tuyển sinh của ĐHQGHN
+501
+Xét hồ sơ năng lực thí sinh (đánh giá hồ sơ và phỏng vấn)
+12
+502
+Xét tuyển chứng chỉ ngoại ngữ quốc tế (tiếng Anh, tiếng Nhật), kết hợp học bạ THPT và phỏng vấn
+409
+Xét tuyển chứng chỉ ngoại ngữ quốc tế (tiếng Anh, tiếng Nhật), kết hợp 02 môn thi tốt nghiệp THPT năm 2023
+02
+402
+Xét
+tuyển dựa trên kết quả thi
+ĐGNL
+cho học sinh THPT do ĐHQGTPHCM tổ chức
+408
+Xét tuyển kết quả trong kỳ thi chuẩn hóa SAT
+Xét tuyển chứng chỉ A-Level
+Xét tuyển chứng chỉ ACT
+4
+Kỹ sư
+7580201
+Kỹ thuật xây dựng
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2023
+12
+A00
+A01
+D28
+D01
+D06
+401
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQGHN tổ chức
+12
+301
+Xét tuyển thẳng theo Quy chế tuyển sinh hiện hành của Bộ GD&ĐT (Điều 8)
+02
+303
+Xét tuyển thẳng theo Quy định đặc thù và hướng dẫn tuyển sinh của ĐHQGHN
+501
+Xét hồ sơ năng lực thí sinh (đánh giá hồ sơ và phỏng vấn)
+12
+502
+Xét tuyển chứng chỉ ngoại ngữ quốc tế (tiếng Anh, tiếng Nhật), kết hợp học bạ THPT và phỏng vấn
+409
+Xét tuyển chứng chỉ ngoại ngữ quốc tế (tiếng Anh, tiếng Nhật), kết hợp 02 môn thi tốt nghiệp THPT năm 2023
+02
+402
+Xét
+tuyển dựa trên kết quả thi
+ĐGNL
+cho học sinh THPT do ĐHQGTPHCM tổ chức
+408
+Xét tuyển kết quả trong kỳ thi chuẩn hóa SAT
+Xét tuyển chứng chỉ A-Level
+Xét tuyển chứng chỉ ACT
+5.

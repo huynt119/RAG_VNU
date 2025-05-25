@@ -1,0 +1,259 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-hang-khong-vu-tru-7_.txt
+
+Khung chương trình đào tạo
+STT
+Mã
+học phần
+Học phần
+Số tín chỉ
+Số giờ tín chỉ
+Mã số
+học phần
+tiên quyết
+Lí
+thuyết
+Thực
+hành
+Tự
+học
+I
+Khối kiến thức chung
+(chưa tính
+các học phần
+Giáo dục thể chất, Giáo dục quốc phòng
+-an ninh
+, Kĩ năng bổ trợ)
+29
+1
+PHI1004
+Những nguyên lý cơ bản của chủ nghĩa Mác–Lênin 1
+Fundamental Principles of Marxism-Leninism 1
+2
+24
+6
+2
+PHI1005
+Những nguyên lý cơ bản của chủ nghĩa Mác–Lênin 2
+Fundamental Principles of Marxism-Leninism 2
+3
+36
+9
+PHI1004
+3
+POL1001
+Tư tưởng Hồ Chí Minh
+Ho Chi Minh Ideology
+2
+20
+10
+PHI1005
+4
+HIS1002
+Đường lối cách mạng của Đảng Cộng sản Việt Nam
+The Revolutionary Line of the Communist Party of Vietnam
+3
+42
+3
+POL1001
+5
+INT1003
+Tin học cơ sở 1
+Introduction to Informatics 1
+2
+10
+20
+6
+INT1006
+Tin học cơ sở 4
+Introduction to Informatics 4
+3
+20
+23
+2
+INT1003
+7
+FLF2101
+Tiếng Anh cơ sở 1
+General English 1
+4
+16
+40
+4
+8
+FLF2102
+Tiếng Anh cơ sở 2
+General English 2
+5
+20
+50
+5
+FLF2101
+9
+FLF2103
+Tiếng Anh cơ sở 3
+General English 3
+5
+20
+50
+5
+FLF2102
+10
+Giáo dục thể chất
+Physical education
+4
+11
+Giáo dục quốc phòng-an ninh
+National Defence Education
+8
+12
+Kỹ năng bổ trợ
+Soft skills
+3
+II
+Khối kiến thức theo lĩnh vực
+21
+13
+MAT1093
+Đại số
+Algebra
+4
+30
+30
+14
+MAT1041
+Giải tích 1
+Analytics 1
+4
+30
+30
+15
+MAT1042
+Giải tích 2
+Analytics 2
+4
+30
+30
+MAT1041
+16
+PHY1100
+Cơ – Nhiệt
+Mechanic – Thermal
+3
+32
+10
+3
+17
+PHY1103
+Điện và Quang
+Electric – Optic
+3
+32
+10
+3
+PHY1100
+18
+AER1001
+Giới thiệu về Hàng không Vũ trụ
+Introduction to Aerospace Engineering
+3
+10
+30
+5
+III
+Khối kiến thức theo khối ngành
+12
+19
+ELT2035
+Tín hiệu và hệ thống
+Signals and systems
+3
+45
+MAT1093
+20
+EMA2050
+Xác suất thống kê ứng dụng
+Applied Probability and Statistic
+3
+30
+15
+MAT1093
+MAT1042
+21
+EMA2011
+Phương pháp tính trong kỹ thuật
+Computational Methods for Engineering
+3
+30
+15
+INT1006
+MAT1093
+MAT1042
+22
+INT2203
+Cấu trúc dữ liệu và giải thuật
+Data structures and algorithms
+3
+30
+15
+INT1006
+IV
+Khối kiến thức theo nhóm ngành
+23
+23
+AER2001
+Giới thiệu về Khoa học Vật liệu
+Introduction to Materials Science
+3
+30
+15
+24
+EMA2008
+Cơ học chất lỏng
+Fluid Dynamics
+4
+45
+15
+25
+AER2003
+Kỹ thuật Điện – Điện tử Hàng không
+Aerospace Electric-  Electronic Engineering
+3
+45
+PHY1103
+26
+AER2004
+Phương pháp số nâng cao cho Công nghệ Hàng không vũ trụ
+Advanced numerical methods for Aerospace Eng
+3
+45
+EMA2011
+27
+AER2005
+Cơ học kỹ thuật cho Công nghệ Hàng không Vũ trụ
+Engineering Mechanics for Aerospace Eng
+4
+45
+15
+MAT1093
+MAT1042
+28
+EMA2032
+Hình hoạ kỹ thuật và CAD
+Geometric Engineering and CAD
+3
+30
+15
+MAT1093
+MAT1042
+29
+INT2202
+Lập trình nâng cao (C++)
+Advanced Programming
+3
+30
+15
+INT1006
+V
+Khối kiến thức ngành
+75
+V.1.

@@ -1,0 +1,9 @@
+Nguồn: uet.vnu.edu.vn_thong_tin_luan_tien_si_cua_nghien_cuu_sinh_bui_van_tan_.txt
+
+Thứ tư, luận án đề xuất mô hình GraphSim để nâng cao hiệu năng đo lường độ tương tự ngữ nghĩa của cặp từ tiếng Anh dựa trên thuật toán tìm đường đi ngắn nhất trên đồ thị. Thứ năm, Luận án đề xuất mô hình ExtLeskSim, là một cải tiến của thuật toán Lesk để nó hoạt động hiệu quả hơn với đặc trưng của tiếng Việt. Bên cạnh đó, luận án đã xây dựng bốn bộ dữ liệu đánh giá mô hình xác định quan hệ ngữ nghĩa, bao gồm: VLE-999, ViAS-1000, VSimLex-999, và VESim-1000. Khả năng ứng dụng trong thực tiễn:
+Các mô hình xác định quan hệ ngữ nghĩa của từ được đề xuất trong luận án có thể được áp dụng cho một số bài toán về xử lý ngôn ngữ tự nhiên, bao gồm: dịch máy, phân tích cảm xúc từ văn bản ([CT4]), đo lường độ tương tự ngữ nghĩa của câu ([CT3]), gióng hàng câu và xây dựng kho ngữ liệu song ngữ ([CT11]), qua đó nâng cao hiệu năng của những mô hình giải quyết các bài toán này. Những hướng nghiên cứu tiếp theo:
+Một số nghiên cứu gần đây quan tâm đến bài toán
+xếp hạng quan hệ bao thuộc
+(Graded Hypernymy). Trong các nghiên cứu tiếp theo, chúng tôi sẽ khai thác mô hình nhúng từ EDWN và các đặc trưng ngữ nghĩa mức dưới từ cho bài toán
+xếp hạng quan hệ bao thuộc
+. Thêm nữa, chúng tôi cũng quan tâm đến việc cải tiến lược đồ GraphSim theo hướng sử dụng thuật toán Floyd-Warshall để tìm đường đi ngắn nhất trên đồ thị có trọng số mờ.

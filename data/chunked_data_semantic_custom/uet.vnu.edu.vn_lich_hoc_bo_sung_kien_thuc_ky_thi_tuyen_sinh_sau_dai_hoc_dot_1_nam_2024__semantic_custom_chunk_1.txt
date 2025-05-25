@@ -1,0 +1,336 @@
+Nguồn: uet.vnu.edu.vn_lich_hoc_bo_sung_kien_thuc_ky_thi_tuyen_sinh_sau_dai_hoc_dot_1_nam_2024_.txt
+
+LỊCH HỌC BỔ SUNG KIẾN THỨC KỲ THI TUYỂN SINH SAU ĐẠI HỌC ĐỢT 1 NĂM 2024
+Các ngành của Khoa Công nghệ thông tin
+TT
+Ngày
+Thứ
+Giờ học
+Học phần
+Giảng viên
+Giảng
+đường
+1
+18/03/2024
+2
+17h00
+Toán học rời rạc
+TS. Tô Văn Khánh
+3-G3
+2
+25/03/2024
+2
+17h00
+Toán học rời rạc
+3-G3
+3
+01/04/2024
+2
+17h00
+Toán học rời rạc
+3-G3
+4
+08/04/2024
+2
+17h00
+Toán học rời rạc
+3-G3
+5
+15/04/2024
+2
+17h00
+Toán học rời rạc
+3-G3
+6
+22/04/2024
+2
+17h00
+Toán học rời rạc
+3-G3
+7
+29/04/2024
+2
+17h00
+Toán học rời rạc
+3-G3
+8
+23/03/2024
+7
+8h00
+Toán học rời rạc
+101-G2
+9
+30/03/2024
+7
+8h00
+Toán học rời rạc
+101-G2
+10
+06/04/2024
+7
+8h00
+Toán học rời rạc
+101-G2
+1
+19/03/2024
+3
+17h00
+Lập trình nâng cao
+TS. Lê Khánh Trình
+310-GĐ2
+2
+26/03/2024
+3
+17h00
+Lập trình nâng cao
+310-GĐ2
+3
+02/04/2024
+3
+17h00
+Lập trình nâng cao
+310-GĐ2
+4
+09/04/2024
+3
+17h00
+Lập trình nâng cao
+310-GĐ2
+5
+16/04/2024
+3
+17h00
+Lập trình nâng cao
+310-GĐ2
+6
+23/04/2024
+3
+17h00
+Lập trình nâng cao
+310-GĐ2
+7
+22/03/2024
+6
+8h00
+Lập trình nâng cao
+310-GĐ2
+8
+29/03/2024
+6
+8h00
+Lập trình nâng cao
+310-GĐ2
+9
+05/04/2024
+6
+8h00
+Lập trình nâng cao
+310-GĐ2
+10
+12/04/2024
+6
+8h00
+Lập trình nâng cao
+310-GĐ2
+11
+20/03/2024
+4
+17h00
+Cấu trúc dữ liệu và giải thuật
+TS. Lê Nguyên Khôi
+3-G3
+12
+27/03/2024
+4
+17h00
+Cấu trúc dữ liệu và giải thuật
+3-G3
+13
+03/04/2024
+4
+17h00
+Cấu trúc dữ liệu và giải thuật
+3-G3
+14
+10/04/2024
+4
+17h00
+Cấu trúc dữ liệu và giải thuật
+3-G3
+15
+17/04/2024
+4
+17h00
+Cấu trúc dữ liệu và giải thuật
+3-G3
+16
+24/04/2024
+4
+17h00
+Cấu trúc dữ liệu và giải thuật
+3-G3
+17
+04/04/2024
+5
+8h00
+Cấu trúc dữ liệu và giải thuật
+3-G3
+18
+11/04/2024
+5
+8h00
+Cấu trúc dữ liệu và giải thuật
+3-G3
+19
+25/04/2024
+5
+8h00
+Cấu trúc dữ liệu và giải thuật
+3-G3
+20
+02/05/2024
+5
+8h00
+Cấu trúc dữ liệu và giải thuật
+3-G3
+1
+22/03/2024
+6
+17h00
+Công nghệ phần mềm
+TS. Trần Hoàng Việt
+3-G3
+2
+29/03/2024
+6
+17h00
+Công nghệ phần mềm
+3-G3
+3
+05/04/2024
+6
+17h00
+Công nghệ phần mềm
+3-G3
+4
+12/04/2024
+6
+17h00
+Công nghệ phần mềm
+3-G3
+5
+19/04/2024
+6
+17h00
+Công nghệ phần mềm
+3-G3
+6
+26/04/2024
+6
+17h00
+Công nghệ phần mềm
+3-G3
+7
+03/05/2024
+6
+17h00
+Công nghệ phần mềm
+3-G3
+8
+13/04/2024
+7
+8h00
+Công nghệ phần mềm
+3-G3
+9
+20/04/2024
+7
+8h00
+Công nghệ phần mềm
+3-G3
+10
+27/04/2024
+7
+8h00
+Công nghệ phần mềm
+3-G3
+Các ngành của Khoa Điện tử – Viễn thông
+TT
+Ngày
+Thứ
+Giờ học
+Học phần
+Giảng viên
+Giảng
+đường
+1
+22/03/2024
+6
+17h00
+Xử lý tín hiệu số
+TS. Trần Thị Thúy Quỳnh
+103-G2
+2
+29/03/2024
+6
+17h00
+Xử lý tín hiệu số
+103-G2
+3
+05/04/2024
+6
+17h00
+Xử lý tín hiệu số
+103-G2
+4
+12/04/2024
+6
+17h00
+Xử lý tín hiệu số
+103-G2
+5
+19/04/2024
+6
+17h00
+Xử lý tín hiệu số
+103-G2
+6
+26/04/2024
+6
+17h00
+Xử lý tín hiệu số
+103-G2
+7
+03/05/2024
+6
+17h00
+Xử lý tín hiệu số
+103-G2
+8
+13/04/2024
+7
+8h00
+Xử lý tín hiệu số
+PM207-G2
+9
+20/04/2024
+7
+8h00
+Xử lý tín hiệu số
+PM207-G2
+10
+27/04/2024
+7
+8h00
+Xử lý tín hiệu số
+PM207-G2
++
+Học phí quy định:
+STT
+Học phần
+Số
+tín chỉ
+Học phí/
+Tín chỉ (đ)
+Tổng tiền (đ)
+1.

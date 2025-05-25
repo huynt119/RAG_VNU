@@ -1,0 +1,8 @@
+Nguồn: uet.vnu.edu.vn_thong_tin_luan_tien_si_cua_ncs_nguyen_thi_thu_thuy_.txt
+
+Khả năng ứng dụng trong thực tiễn:
+– Nano bạc được chế tạo bằng phương pháp plasma tương tác chất lỏng trực tiếp từ điện cực có độ sạch, độ ổn định và tính kháng khuẩn cao nên có thể ứng dụng trong nhiều lĩnh vực như: công nghiệp dược, công nghiệp mỹ phẩm, nông nghiệp, thuỷ sản…
+– Thiết bị plasma và phương pháp tương tác plasma – chất lỏng dùng cho chế tạo nano bạc có công suất lớn, đáp ứng khả thi các yêu cầu của sản xuất công nghiệp, hoàn toàn có thể chuyển giao và phát triển thương mại hoá. Những hướng nghiên cứu tiếp theo:
+– Như công trình nghiên cứu đã chỉ ra, phương pháp tương tác plasma – chất lỏng (PLI) là một phương cách có công suất và hiệu suất cao cho viêc tổng hợp, chế tạo các hạt nano và vật liệu nano nói chung. Tiềm năng của PLI đối với nhiều lĩnh vực ứng dụng rộng rãi của plasma và công nghệ plasma hiện đang thu hút sự quan tâm lớn của cộng đồng nghiên cứu quốc tế. Do đó, các nghiên cứu sâu hơn về công nghệ plasma, nhất là về phương pháp PLI có thể là lĩnh vực rất đáng quan tâm đối với cộng đồng nghiên cứu trong nước. – Nghiên cứu sử dụng phương pháp tương tác plasma – chất lỏng để xử lý bề mặt: Nghiên cứu hoạt hóa bề mặt các vật liệu nano như TiO
+2
+, Graphene… để chế tạo các vật liệu với các chức năng mới. Nghiên cứu xử lý và hoạt hóa cellulose bằng phương pháp tương tác plasma chất lỏng để gắn các nguyên tố B, P… tăng khả năng chống cháy và chế tạo vật liệu composite từ tre làm vật liệu xây dựng có tính chịu lửa, chịu lực cao.

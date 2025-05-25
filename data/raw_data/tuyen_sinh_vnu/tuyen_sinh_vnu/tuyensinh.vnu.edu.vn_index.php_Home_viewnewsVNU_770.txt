@@ -1,0 +1,42 @@
+
+Đề án tuyển sinh Đại học năm 2024
+Điểm chuẩn ĐHCQ năm 2023 của các trường thành viên, trường, khoa trực thuộc ĐHQGHN
+Hướng dẫn đăng ký nội trú KTX ngoại ngữ và KTX Mễ Trì
+Đề án tuyển sinh trình độ đại học năm 2023 - ĐHQGHN
+“Chúng ta sẽ làm nông nghiệp theo những cách chưa từng có”
+Cho đến thời điểm này, khá nhiều doanh nghiệp lớn của Việt Nam tuyên bố nhảy vào lĩnh vực nông nghiệp thông minh, nông nghiệp công nghệ cao như: Hoàng Anh Gia Lai, Vingroup, Hoà Phát, Thaco… và gần đây là VNPT.
+Ông Trương Gia Bình cho rằng, nông nghiệp số trong thời đại 4.0 là ngành tinh vi nhất trong tất cả các ngành. Nông nghiệp động đến bí mật quan trọng nhất của cuộc sống, đó là công nghệ sinh học, công nghệ gen và đó chính là số.
+Theo Chủ tịch FPT, nhờ ứng dụng công nghệ số hóa, nền nông nghiệp sẽ kết nối với nông dân thông qua smartphone. Qua đó, từng hộ sản xuất có mọi thông tin cần thiết, có thể đặt câu hỏi và robot sẽ trả lời những kiến thức cần biết. Ông Bình đưa ví dụ, trước nay nông dân thường đi bắt sâu, lúc nhìn thấy thì bắt được nhưng không bao giờ nhìn thấy hết. Để chọn cách an toàn, bà con phải phun rất nhiều thuốc bảo vệ thực vật, làm cho nông sản của Việt Nam bẩn hơn, giá thấp.
+“Chúng ta phải nghiên cứu khoa học công nghệ để có thể thả một máy bay không người lái (drone) bay trên những thửa ruộng. Các thiết bị chuyên dụng sẽ tự chụp ảnh cánh đồng và trí tuệ nhân tạo tự đọc bức ảnh đó, phát hiện những vị trí có sâu. Loại sâu đó trị bằng thuốc gì, liều lượng bao nhiêu thì máy tính sẽ báo cho nông dân biết nên lượng thuốc bảo vệ thực vật có thể giảm đi hàng trăm lần”, ông Trương Gia Bình nói.
+"Chúng ta sẽ làm nông nghiệp theo những cách chưa từng có, là quốc gia hiện đại nhất về ngành nông nghiệp, chứ không phải quốc gia chấp nhận đi sau", ông Trương Gia Bình nhấn mạnh và kỳ vọng doanh nghiệp Việt Nam có thể giàu vì nông nghiệp số.
+Gần giống như mô hình mà FPT đưa ra, ông Phạm Đức Long, Chủ tịch VNPT cho biết, để làm nông nghiệp thông minh, VNPT đã chọn mô hình hợp tác với đối tác OPTiM (công ty chuyên về sản xuất các thiết bị IoT, AI và cung cấp hỗ trợ giải pháp từ xa, nông nghiệp thông minh hàng đầu Nhật Bản). Cụ thể, drone sẽ bay trên các cánh đồng lớn chụp ảnh và chuyển về máy chủ phân tích hình ảnh. Ứng dụng trí tuệ nhân tạo (AI) tự động phát hiện ra những điểm bị sâu bệnh và sau đó chính chiếc drone này sẽ làm nhiệm vụ phun thuốc trừ sâu đúng chỗ cây trồng bị sâu bệnh. Như vậy, có thể tiết kiệm đến 99% thuốc trừ sâu. Khi thu hoạch thì phần ruộng đã bị phun thuốc được đánh dấu và bỏ ra, vì vậy sẽ có sản phẩm nông nghiệp sạch 100% không có thuốc trừ sâu.
+Drone còn chụp ảnh và chuyển về phân tích dữ liệu hóa đất đai và chăm sóc cây trồng, dự đoán sự phát triển của cây trồng. Với dữ liệu này, người nông dân có thể tính toán đến khả năng thu hoạch cây trồng của mình.
+“Trước đây, để triển khai giải pháp như vậy phải dùng drone có camera tích hợp AI và giá thiết bị rất đắt. Nhưng với cách làm của VNPT và đối tác thì không cần sử dụng camera AI mà chỉ là camera có độ phân giải cao giá rẻ. Sau khi drone chụp ảnh gửi về máy chủ sẽ được ứng dụng AI phân tích hình ảnh, nhận dạng vùng sâu bệnh để xử lý. Điểm vượt trội của ứng dụng AI là làm được những điều con người không làm được. Ví dụ, AI sẽ nhận định được hình ảnh đồ họa mà mắt người không nhìn thấy. Qua hình ảnh mà camera gửi về có thể phân tích được các loại vi trùng, vi khuẩn phá hoại để có cách điều trị. Bên cạnh đó, ứng dụng AI còn có thể định vị thửa ruộng, sau đó máy cày sẽ tự làm đất, giúp nông dân dễ dàng hơn trong công việc và tăng thu nhập cho họ”, ông Phạm Đức Long nói
+Chủ tịch VNPT cho rằng, đây là mô hình đang được áp dụng tại Nhật với các cánh đồng lúa mẫu lớn, có sản phẩm gạo sạch không có thuốc trừ sâu, nông dân Nhật không phải trồng lúa trong nhà kính tốn kém để tránh sâu bệnh. Cách làm này phù hợp với nông nghiệp Việt Nam nếu có sự hỗ trợ từ các doanh nghiệp công nghệ. VNPT nhận thấy Việt Nam có thể hợp tác với những đối tác của Nhật để triển khai nông nghiệp thông minh theo một cách làm rất khác biệt.
+Theo bà Nguyễn Thị Luyến, Trưởng ban Thể chế kinh tế của Viện Nghiên cứu quản lý kinh tế Trung ương, ngành nông nghiệp có vai trò quan trọng, góp phần vào tăng trưởng kinh tế của Việt Nam. Vấn đề đặt ra là nông nghiệp tăng trưởng dựa vào yếu tố đầu vào truyền thống, công nghệ lạc hậu, năng suất, chất lượng thấp dẫn đến khó cạnh tranh. Nhưng nếu ứng dụng các thành tựu của công nghiệp 4.0 vào nông nghiệp sẽ tăng hiệu quả sử dụng nguồn lực, giảm thiểu công lao động, giảm thất thoát do thiên tai, dịch bệnh, an toàn môi trường, tiết kiệm chi phí trong từng khâu hay toàn bộ quá trình sản xuất - chế biến - tiêu thụ.
+Nguyễn Thái
+Thông tin tuyển sinh ngành Công nghệ nông nghiệp:
+http://fat.uet.vnu.edu.vn/tuyen-sinh-dai-hoc-nganh-cong-nghe-nong-nghiep-tai-dh-cong-nghe-dh-quoc-gia-ha-noi-nam-2020-tsdh?fbclid=IwAR13fK9VrWel2tSkkNr2oaC72_4Qq1HViS3SzEgGRzzJWIB-ikdulcIIEEg
+Facebook Chat
+            Widget by CAIT
+Liên kết
+Trường Đại học Khoa học Tự nhiên
+Trường Đại học  Khoa học Xã hội và Nhân văn
+Trường Đại học Ngoại ngữ
+Trường Đại học Công nghệ
+Trường Đại học Giáo dục
+Trường Đại học Luật
+Trường Đại học Y Dược
+Trường Đại học Việt Nhật
+Trường Quốc tế
+Trường Quản trị và Kinh doanh
+Trường Đại học Kinh tế
+Trường Khoa học liên ngành và Nghệ thuật
+Khoa Quốc tế Pháp ngữ
+Địa chỉ
+144 Xuân Thủy, Cầu Giấy, Hà Nội
+Khu đô thị ĐHQGHN tại Hòa Lạc
+024 37547 670
+tsvnu@vnu.edu.vn
+Copyright by Đại học Quốc gia Hà Nội
+×

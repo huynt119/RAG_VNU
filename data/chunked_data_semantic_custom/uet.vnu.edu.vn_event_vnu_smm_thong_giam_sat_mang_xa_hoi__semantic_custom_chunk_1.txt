@@ -1,0 +1,8 @@
+Nguồn: uet.vnu.edu.vn_event_vnu_smm_thong_giam_sat_mang_xa_hoi_.txt
+
+Sau 4 năm đạt giải Ba tại cuộc thi khởi nghiệp do Đại học Quốc gia Hà Nội vào năm 2017, đến nay “VNU-SMM: Hệ thống giám sát mạng xã hội” (tên mới DSWatcher) do TS.Trần Mai Vũ và các đồng nghiệp (khoa Công nghệ thông tin, Trường
+VNU-SMM: Hệ thống giám sát mạng xã hội
+Bắt đầu
+End
+Sau 4 năm đạt giải Ba tại cuộc thi khởi nghiệp do Đại học Quốc gia Hà Nội vào năm 2017, đến nay “VNU-SMM: Hệ thống giám sát mạng xã hội” (tên mới DSWatcher) do TS.Trần Mai Vũ và các đồng nghiệp (khoa Công nghệ thông tin, Trường Đại học Công nghệ) được sử dụng tại các cơ quan như Sở Thông tin truyềnthông Hà Nội, Công ty Cổ Phần Viễn Thông Di Động Toàn Cầu (GTEL), Công ty VNPT Media… Đồng thời, hệ thống cũng nhận được phản hồi tích cực từ các đơn vị này. Hệ thống thu thập dữ liệu mạng xã hội của người Việt
+Năm 2018, sau khi nhóm nghiên cứu của Phòng thí nghiệm (PTN) Khoa học dữ liệu và công nghệ tri thức hoàn thiện hệ thống VNU-SMM đã được một số đơn vị ứng dụng. Sau thời gian sử dụng, đại diện các đơn vị đều đánh giá cao hiệu quả của hệ thống mang lại vào các hoạt động quản lý thương hiệu, phân tích thông tin đa chiều từ mạng xã hội,… giúp các đơn vị có thể chăm sóc khách hàng dễ dàng hơn cũng như đưa ra các chiến lược kinh doanh phù hợp. Bên cạnh đấy, doanh nghiệp cũng đưa ra các phản hồi và các yêu cầu nâng cấp tính năng nhằm đáp ứng nhiều nhiệm vụ và hoạt động của chính họ.

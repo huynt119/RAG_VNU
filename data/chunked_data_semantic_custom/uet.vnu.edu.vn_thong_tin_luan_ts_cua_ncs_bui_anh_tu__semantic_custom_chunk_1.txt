@@ -1,0 +1,9 @@
+Nguồn: uet.vnu.edu.vn_thong_tin_luan_ts_cua_ncs_bui_anh_tu_.txt
+
+Tóm tắt các
+kết quả mới
+của luận án:
+Các đóng góp chính của luận án bao gồm:
+Đề xuất mô hình tiêu thụ năng lượng trên các thiết bị di động dựa trên phân tích mã nguồn của phần mềm
+. Luận án đã tập trung phân tích một số lượng lớn các đoạn mã nguồn của ứng dụng, xác định sự ảnh hưởng của mã nguồn phần mềm tới mức độ tiêu thụ năng lượng. Từ đó luận án xây dựng mô hình tiêu thụ năng lượng cho từng thành phần phần cứng trong thiết bị và cho toàn bộ thiết bị di động dưới tác động của các câu lệnh điều khiển của phần mềm. Mô hình sử dụng các Otomat chuyển trạng thái để biểu diễn sự thay đổi mức độ tiêu thụ năng lượng dưới sự điều khiển của mã nguồn chương trình. Bằng phương pháp phân tích chương trình tĩnh, luận án đề xuất phương pháp tự động sinh mô hình từ mã nguồn phần mềm, từ đó xây dựng một công cụ (có tên PSA) cho phép trực quan hóa các đồ thị trạng thái nhằm hỗ trợ cho người lập trình quan sát mức độ tiêu thụ năng lượng trực tiếp trên mã nguồn. Đề xuất phương pháp ước lượng mức độ tiêu thụ năng lượng dựa trên mô hình
+. Từ mô hình đãđề xuất, luận án tiếp tục đề xuất các thuật toán để ước lượng mức độ tiêu thụ năng lượng theo thời gian dựa trên mô hình, thuật toán cho phép ước lượng mức độ tiêu thụ năng lượng với mỗi trường hợp sử dụng cụ thể. Đồng thời, luận án xây dựng một công cụ được cải tiến từ PSA nhằm ước lượng mức độ tiêu thụ năng lượng trực tiếp trên mã nguồn.

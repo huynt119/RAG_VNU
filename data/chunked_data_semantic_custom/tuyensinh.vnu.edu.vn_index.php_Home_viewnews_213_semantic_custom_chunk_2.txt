@@ -1,0 +1,24 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_213.txt
+
+Các nguyện vọng xếp theo thứ tự ưu tiên từ trên xuống dưới (nguyện vọng 1 là nguyện vọng cao nhất)
+Thí sinh
+đăng ký nguyện vọng vào Trường Đại học Công nghệ
+cần lưu ý
++ Trường Đại học Công nghệ tuyển sinh theo nhóm ngành (có 9 nhóm từ CN1 đến CN9) trong đó các nhóm từ CN1 đến CN3 có nhiều ngành, các nhóm từ CN4 đến CN9 có một ngành và tên ngành trùng với tên nhóm ngành. Nhóm ngành Công nghệ thông tin (mã CN1) gồm 04 ngành/chương trình đào tạo: Công nghệ Thông tin, Công nghệ thông tin định hướng thị trường Nhật Bản, Hệ thống Thông tin,
+Mạng máy tính và truyền thông dữ liệu
+Nhóm ngành Máy tính và Robot (mã CN2) gồm 02 ngành: Kỹ thuật máy tính, Kỹ thuật Robot
+Nhóm ngành Vật lý kỹ thuật (mã CN3) gồm 02 ngành: Vật lý kỹ thuật; Kỹ thuật năng lượng
++ Cách ghi thông tin đăng ký trong bảng nguyện vọng
+Cột Mã trường: QHI
+Cột Mã ngành/Nhóm ngành: Mã nhóm ngành;
+Cột Tên ngành/Nhóm ngành: Tên nhóm ngành;
+Cột mã tổ hợp xét tuyển: Mã tổ hợp
+Khi thí sinh có nhiều hơn 1 nguyện vọng trong cùng 1 nhóm ngành thì thí sinh cũng chỉ điền một nguyện vọng là mã nhóm ngành và tên nhóm ngành (Sau trúng tuyển vào nhóm ngành đã đăng ký, t
+hí sinh sẽ được phân vào ngành cụ thể trong nhóm dựa theo nguyện vọng, điểm thi và chỉ tiêu của từng ngành
+)
+Ví dụ thí sinh có:
+Nguyện vọng 1: ngành Hệ thống thông tin (thuộc nhóm CN1) mã tổ hợp xét tuyển A00
+Nguyện vọng 2: ngành Mạng máy tính và truyền dữ liệu (thuộc nhóm CN1) mã tổ hợp xét tuyển A00
+Nguyện vọng 3: ngành kỹ thuật máy tính (thuộc nhóm CN2) mã tổ hợp xét tuyển A00
+Nguyện vọng 4: ngành Cơ kỹ thuật (thuộc nhóm CN4) mã tổ hợp xét tuyển A00
+Thì thí sinh khai báo như sau:

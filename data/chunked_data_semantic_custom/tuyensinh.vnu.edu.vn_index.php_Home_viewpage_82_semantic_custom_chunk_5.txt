@@ -1,0 +1,117 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewpage_82.txt
+
+Phương thức tuyển sinh (thi tuyển, xét tuyển hoặc kết hợp thi tuyển và xét tuyển:
+Xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT nặm 2020 theo tổ hợp môn. Chỉ tiêu tuyển sinh:
+Chỉ tiêu theo Ngành/Nhóm ngành/Khối ngành, theo từng phương thức tuyển sinh và trình độ đào tạo
+a) Thông tin danh mục ngành được phép đào tạo: Ghi rõ số, ngày ban hành quyết định chuyển đổi tên ngành của cơ quan có thẩm quyền hoặc quyết định của trường (nếu được cho phép tự chủ) đối với Ngành trong Nhóm ngành, Khối ngành tuyển sinh; theo từng phương thức tuyển sinh và trình độ đào tạo theo quy định của pháp luật;
+STT
+Mã ngành
+Tên ngành
+Số quyết định mở ngành hoặc chuyển đổi tên ngành (gần nhất)
+Ngày tháng năm ban hành Số quyết định mở ngành hoặc chuyển đổi tên ngành (gần nhất)
+Trường tự chủ QĐ hoặc Cơ quan có thẩm quyền cho phép
+Năm bắt đầu đào tạo
+Năm tuyển sinh và đào tạo gần nhất với năm tuyển sinh
+1
+7720101
+Y khoa
+1091
+14/4/2012
+2012
+2019
+2
+7720201
+Dược học
+1091
+14/4/2012
+2012
+2019
+3
+7720501
+Răng hàm mặt
+609
+27/2/2017
+2017
+2019
+4
+7720601
+Kỹ thuật xét nghiệm y học
+1568
+27/2/2019
+2019
+2019
+5
+7720602
+Kỹ thuật hình ảnh y học
+1568
+27/2/2019
+2019
+2019
+6
+7720301
+Điều dưỡng
+816
+13/3/2020
+2020
+b) Chỉ tiêu tuyển sinh đối với từng ngành/ nhóm ngành/ khối ngành tuyển sinh; theo từng phương thức tuyển sinh và trình độ đào tạo. Stt
+Trình độ đào tạo
+Mã ngành
+Ngành học
+Chỉ tiêu (dự kiến)
+Tổ hợp môn xét tuyển 1
+Tổ hợp môn xét tuyển 2
+Tổ hợp môn xét tuyển 3
+Tổ hợp môn xét tuyển 4
+Theo xét KQ thi THPT
+Theo phương thức khác
+Tổ hợp môn
+Môn chính
+Tổ hợp môn
+Môn chính
+Tổ hợp môn
+Môn chính
+Tổ hợp môn
+Môn chính
+1
+ĐH
+7720101
+Y khoa
+65
+35
+B00
+2
+ĐH
+7720201
+Dược học
+65
+35
+A00
+3
+ĐH
+7720501
+Răng hàm mặt
+35
+15
+B00
+4
+ĐH
+7720601
+Kỹ thuật xét nghiệm y học
+35
+15
+B00
+5
+ĐH
+7720602
+Kỹ thuật hình ảnh y học
+35
+15
+B00
+6
+ĐH
+7720301
+Điều dưỡng
+35
+15
+B00
+1.5.

@@ -1,0 +1,339 @@
+Nguồn: education.vnu.edu.vn_index.php_WebControl_viewpage_298.txt
+
+Khung chương trình đào tạo
+STT
+Mã học phần
+Tên học phần
+Số tín chỉ
+Số giờ tín chỉ
+Mã học phần tiên quyết
+Lí thuyết
+Thực hành
+Tự học
+I
+Khối kiến thức chung
+(chưa tính các học phần 5, 6)
+1
+1
+1
+PEC1008
+Kinh tế chính trị Mac-Lenin
+Marxism-Leninism Politic Economy
+2
+24
+6
+0
+2
+POL1001
+Tư tưởng Hồ Chí Minh
+Ho Chi Minh Ideology
+2
+24
+6
+0
+3
+HIS1001
+Lịch sử Đảng Cộng sản Việt Nam
+History of the Communist Party of Vietnam
+2
+24
+6
+0
+4
+FLF1107
+Ngoại ngữ B1
+Foreign Language B1
+5
+20
+35
+20
+5
+Giáo dục quốc phòng và an ninh (Phần II - Công tác quốc phòng và an ninh)
+National Defence Education (Part II)
+2
+6
+Giáo dục quốc phòng và an ninh (Phần IV - Kỹ thuật chiến đấu bộ binh và chiến thuật)
+National Defence Education (Part IV)
+4
+II
+Khối kiến thức theo lĩnh vực
+1
+0
+7
+EDT2001
+Nhập môn công nghệ giáo dục
+Introduction to  Educational Technology
+2
+20
+10
+0
+8
+PSE2009
+Nhập môn khoa học giáo dục
+Introduction to Educational sciences
+3
+35
+10
+0
+9
+EAM2052
+Nhập môn Đo lường và đánh giá trong giáo dục
+Introduction to measurement and evaluation in Education
+2
+24
+6
+0
+10
+PSE2004
+Phương pháp nghiên cứu khoa học giáo dục
+Methodology of Educational Research
+3
+26
+16
+3
+III
+Khối kiến thức theo khối ngành
+21
+11
+PSE3004
+Sinh lý học trẻ em tuổi mầm non
+Childhood & preschool physiology
+3
+30
+15
+0
+12
+PSE3005
+Tâm lý học giáo dục trẻ mầm non
+Psychology of preschool education
+3
+30
+15
+0
+13
+PSE3006
+Giáo dục học mầm non
+Early childhood education
+3
+45
+0
+0
+14
+TMT3009
+Quy tắc đạo đức nghề nghiệp trong lĩnh vực giáo dục
+Code of professional ethics in the field of education
+2
+12
+18
+0
+1
+5
+PSE3009
+Dinh dưỡng trẻ
+em và vệ sinh an toàn thực phẩm
+Child nutrition and food safety
+3
+30
+15
+0
+1
+6
+PSE3059
+Tham
+vấn trong giáo dục mầm non
+Counseling in early childhood education
+3
+30
+12
+3
+17
+PSE3015
+Chăm sóc và vệ sinh trẻ em
+C
+hild care and
+c
+hildren sanitary
+2
+15
+15
+0
+18
+PSE3016
+Bệnh trẻ em
+Child disease
+2
+15
+15
+0
+IV
+Khối kiến thức theo nhóm ngành
+2
+3
+19
+PSE3071
+Thiết kế và làm đồ chơi – đồ dùng dạy học
+Designing and making toys - teaching aids
+2
+10
+15
+5
+20
+PSE3066
+Giáo dục kỹ năng xã hội cho trẻ mầm non
+Social skills education for preschool children
+2
+15
+15
+0
+21
+PSE3061
+Văn học và phương pháp cho trẻ làm quen với các tác phẩm văn học
+Literature and methods for children to become familiar with literary works
+3
+20
+20
+5
+22
+PSE3062
+Toán và phương
+pháp
+hình thành biểu tượng toán cho trẻ mầm non
+Math and math symbols for preschool children
+3
+20
+20
+5
+23
+PSE3065
+Âm
+nhạc và p
+hương pháp giáo dục âm nhạc cho trẻ mầm non
+Methods of music education for preschool children
+3
+20
+20
+5
+2
+4
+PSE3067
+Giáo dục hòa nhập trong giáo dục mầm non
+Inclusive education in early childhood education
+2
+27
+3
+0
+25
+PSE3068
+Kỹ năng giao tiếp với phụ huynh và các bên liên quan
+Communication skills with parents and other stakeholders
+2
+10
+15
+5
+26
+PSE3086
+Kỹ năng sơ cứu cho trẻ mầm non
+First aid skills for preschool children
+2
+10
+15
+5
+27
+PSE3072
+Mỹ học và giáo dục thẩm mỹ cho trẻ mầm non
+Aesthetics and aesthetic education for preschool children
+2
+15
+12
+3
+28
+PSE3073
+Giáo dục an toàn cho trẻ mầm non
+Safe education for preschool children
+2
+10
+15
+5
+V
+Khối kiến thức ngành
+2
+4
+29
+PSE3074
+Phát triển chương trình giáo dục mầm non
+Developing preschool education programs
+3
+25
+15
+5
+30
+PSE3075
+Phương pháp phát triển ngôn ngữ cho trẻ mầm non
+Language development method for preschool children
+3
+25
+15
+5
+31
+PSE3076
+Phương pháp giáo dục thể chất cho trẻ mầm non
+Physical education method for preschool children
+3
+25
+15
+5
+32
+PSE3077
+Phương pháp tổ chức hoạt động tạo hình cho trẻ mầm non
+Method of organizing shaping activities for preschool children
+3
+20
+20
+5
+33
+PSE3078
+Phương
+pháp
+t
+ổ chức hoạt động vui chơi cho trẻ mầm non
+Skills to organize play activities for preschool children
+3
+20
+20
+5
+34
+PSE3079
+Phương pháp tổ chức hoạt động khám phá môi trường xung quanh cho trẻ mầm non
+Methods of organizing activities to explore the surroundings for preschool children
+3
+20
+20
+5
+35
+PSE3081
+Giáo dục tích hợp trong giáo dục mầm non
+Integrated education in early childhood education
+2
+10
+15
+5
+36
+PSE3083
+Ứng dụng phương pháp Montessori trong giáo dục mầm non
+Montessori method application in preschool
+2
+10
+15
+5
+37
+PSE3084
+Các dự án Steam trong giáo dục mầm non
+Steam projects in early childhood education
+2
+10
+15
+5
+Tổng cộng
+89
+Ghi chú:
+- Học phần Ngoại ngữ thuộc khối kiến thức chung được tính vào tổng số tín chỉ của chương trình đào tạo nhưng kết quả đánh giá các học phần này không tính vào điểm trung bình chung học kì, điểm trung bình chung các học phần và điểm trung bình chung tích lũy.

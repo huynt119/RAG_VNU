@@ -1,0 +1,108 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_805.txt
+
+TRƯỜNG ĐH CÔNG NGHỆ - ĐHQGHN
+A. Các CTĐT Chuẩn: 940 (chỉ tiêu)
+Nhóm ngành:
+Công nghệ thông tin
+A00
+28.1
+A01
+28.1
+1
+QHI
+CN1
+Công nghệ thông tin
+Công nghệ thông tin định hướng thị trường Nhật Bản
+Nhóm ngành: Máy tính và Robot
+2
+QHI
+CN2
+Kỹ thuật máy tính
+A00
+27.25
+A01
+27.25
+Kỹ thuật Robot*
+Nhóm ngành: Vật lý kỹ thuật
+3
+QHI
+CN3
+Kỹ thuật năng lượng*
+A00
+25.1
+A01
+25.1
+Vật lý kỹ thuật
+4
+QHI
+CN4
+Cơ kỹ thuật
+A00
+26.5
+A01
+26.5
+5
+QHI
+CN5
+Công nghệ kỹ thuật xây dựng
+A00
+24
+A01
+24
+6
+QHI
+CN7
+Công nghệ Hàng không vũ trụ*
+A00
+25.35
+A01
+25.35
+7
+QHI
+CN10
+Công nghệ nông nghiệp*
+A00
+22.4
+A01
+22.4
+A02
+22.4
+B00
+22.4
+8
+QHI
+CN11
+Kỹ thuật điều khiển và tự động hóa
+A00
+27.55
+A01
+27.55
+B. Các chương trình đào tạo Chất lượng cao
+9
+QHI
+CN6
+Công nghệ kỹ thuật cơ điện tử
+A00
+25.7
+A01
+25.7
+Nhóm ngành: Công nghệ thông tin (CLC)
+10
+QHI
+CN8
+Khoa học Máy tính**
+A00
+27
+A01
+27
+Hệ thống thông tin**
+Mạng máy tính và truyền thông dữ liệu**
+11
+QHI
+CN9
+Công nghệ kỹ thuật điện tử - viễn thông**
+A00
+26
+A01
+26
+2.

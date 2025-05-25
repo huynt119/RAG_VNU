@@ -1,0 +1,35 @@
+Nguồn: education.vnu.edu.vn_index.php_WebControl_viewnews_3153.txt
+
+Xét tuyển kết hợp kết quả thi Tốt nghiệp THPT năm 2024 với chứng chỉ quốc tế, mã phương thức: 409; mã tổ hợp: S49
+Xét trúng tuyển có điều kiện đối với thí sinh sử dụng phương thức xét tuyển kết hợp kết quả thi Tốt nghiệp THPT năm 2024 với chứng chỉ quốc tế (mã: 409) vào các ngành đào tạo đại học, hệ chính quy năm 2024 của Trường Đại học Giáo dục, nếu thoả mãn tiêu chí trúng tuyển sau:
+STT
+Mã
+nhóm ngành
+Tên nhóm ngành/ngành
+Tiêu chí trúng tuyển
+1
+GD1
+Sư phạm Toán và Khoa học tự nhiên, gồm 5 ngành:
+- Sư phạm Toán học;
+- Sư phạm Vật lí;
+- Sư phạm Hoá học;
+- Sư phạm Sinh học;
+- Sư phạm Khoa học
+tự nhiên
+- Điểm IELTS từ 7.5 điểm (hoặc TOEFL iBT từ 102 điểm) trở lên. - Tổng điểm 2 môn trong THXT có Ngoại ngữ đạt từ 14.00 điểm trở lên (xét theo tổ hợp xét tuyển cao nhất trong các tổ hợp D01 hoặc A01)
+2
+GD2
+Sư phạm Ngữ văn, Lịch sử, Lịch sử-Địa lí, gồm 3 ngành:
+- Sư phạm Ngữ văn;
+- Sư phạm Lịch sử;
+- Sư phạm Lịch sử-Địa lí
+- Điểm IELTS từ 7.5 điểm (hoặc TOEFL iBT từ 102 điểm) trở lên. - Tổng điểm 2 môn trong THXT có Ngoại ngữ đạt từ 14.00 điểm trở lên (xét theo tổ hợp xét tuyển cao nhất trong các tổ hợp D01 hoặc D14 hoặc D15)
+3
+GD3
+Khoa học giáo dục và khác, gồm 6 ngành:
+- Quản trị trường học;
+- Quản trị chất lượng giáo dục;
+- Quản trị Công nghệ giáo dục;
+- Tham vấn học đường;
+- Tâm lí học (chuyên ngành Tâm lí học lâm sàng trẻ em và vị thành niên);
+- Khoa học giáo dục.

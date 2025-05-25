@@ -1,0 +1,128 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_849.txt
+
+Phương thức tuyển sinh
+TT
+Phương thức tuyển sinh
+Chỉ tiêu
+1
+Xét tuyển dựa trên kết quả thi THPT năm 2021
+40%
+3
+Xét
+hồ sơ năng lực thí sinh (xét hồ sơ và phỏng vấn)
+40%
+4
+Xét tuyển thẳng và ưu tiên xét tuyển
+10%
+5
+X
+ét tuyển
+theo
+phương thức khác
+10%
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQGHN tổ chức
+Xét tuyển chứng chỉ ngoại ngữ quốc tế (ngành Nhật Bản học xét tuyển chứng chỉ tiếng Anh hoặc tiếng Nhật, ngành Khoa học và Kỹ thuật máy tính chỉ xét tuyển chứng chỉ tiếng Anh), kết hợp 02 môn thi tốt nghiệp THPT năm 2021
+Xét
+tuyển kết quả trong kỳ thi chuẩn hóa SAT
+Xét
+tuyển chứng chỉ A-Level
+Xét tuyển chứng chỉ ACT
+4. C
+h
+ỉ
+t
+i
+ê
+u
+t
+u
+y
+ể
+n
+s
+i
+nh
+đại học chính quy năm 2021
+S
+TT
+Mã ngành
+Tên ngành
+Số quyết định
+mở ngành
+N
+gày tháng năm ban hành quyết định
+mở ngành
+Cơ quan có thẩm quyền cho phép
+Năm bắt đầu đào tạo
+Năm tuyển sinh và đào tạo gần nhất với năm tuyển sinh
+1
+7310613
+Nhật
+Bản học
+86
+/QĐ-ĐHVN
+30/01/2020
+ĐHQGHN
+2020
+2020
+2
+7480204
+Khoa học và Kỹ thuật máy tính
+236/QĐ-ĐHVN
+07/04/2021
+ĐHQGHN
+2021
+2021
+b) Chỉ tiêu tuyển sinh
+S
+T
+T
+Trình độ đào tạo
+Mã ngành
+Ngành học
+Chỉ tiêu
+dự kiến
+Tổ hợp môn
+xét tuyển 1
+Tổ hợp môn xét tuyển 2
+Tổ hợp môn xét tuyển 3
+Tổ hợp môn xét tuyển 4
+Theo xét KQ thi THPT
+Theo phương thức khác
+Tổ
+hợp
+môn
+Môn chính
+Tổ hợp môn
+Môn chính
+Tổ hợp môn
+Môn chính
+Tổ
+hợp
+mô
+n
+Môn chính
+1
+Cử nhân
+7310613
+Nhật
+Bản học
+20
+30
+A01
+D28
+D01
+D06
+D14
+D63
+D78
+D81
+2
+Cử nhân
+7480204
+Khoa học và Kỹ thuật máy tính
+20
+30
+A00
+A01
+5.

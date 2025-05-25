@@ -1,0 +1,36 @@
+Home
+Research
+Students
+Publications
+Associate  Professor
+PHẠM NGỌC HÙNG
+Vice Dean of
+Faculty of Information Technology,
+University of Engineering and Technology,
+Vietnam National University, Hanoi
+Building E3, 144 Xuan Thuy, Cau Giay
+hungpn "at" vnu-mail
++84 243 754 9359
+Selected Publications
+Lam Nguyen Tung, Hoang-Viet Tran, Khoi Nguyen Le, Pham Ngoc Hung
+"An automated test data generation method for void pointers and function pointers in C/C++ libraries and embedded projects", Information and Software Technology, 2022/1/19. [
+DOI
+]
+Duc-Anh Nguyen, Kha Do Minh, Khoi Nguyen Le, Minh Nguyen Le, Pham Ngoc Hung
+“Improving Diversity and Quality of Adversarial Examples in Adversarial Transformation Network”, 05 January 2022, PREPRINT (Version 1) available at Research Square.
+								[
+DOI
+]
+Hoang-Viet Tran, Pham Ngoc Hung, Viet-Ha Nguyen, Toshiaki Aoki
+“A framework for assume-guarantee regression verification of evolving software", Science of Computer Programming, Volume 193, 2020, 102439, ISSN 0167-6423. [
+DOI
+]
+Duc-Anh Nguyen, Tran Nguyen Huong, Hieu Vo Dinh, Pham Ngoc Hung
+“Improvements of Directed Automated Random Testing in Test Data Generation for C++ Projects”, International Journal of Software Engineering and Knowledge Engineering, Vol. 29, No. 09, pp. 1279-1312 (2019). [
+DOI
+]
+Hoang-Viet TRAN, Ngoc Hung PHAM, Viet Ha NGUYEN
+“On Locally Minimum and Strongest Assumption Generation Method for Component-Based Software Verification”, IEICE TRANSACTIONS on Information and Systems, Vol.E102-D, No.8, pp.1449-1461, 2019/08/01. [
+DOI
+]
+View all publications

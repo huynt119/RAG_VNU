@@ -1,0 +1,9 @@
+Nguồn: uet.vnu.edu.vn_vnu_uet_vengme_h_264avc_lam_chu_cong_nghe_thiet_ke_mach_tich_hop_.txt
+
+–
+VNU-UET VENGME H.264/AVC
+có thể ứng dụng ở những đâu, thưa ông? Vi mạch mã hoá tín hiệu video VENGME H.264/AVC được thiết kế nhắm tới các ứng dụng như camera an ninh, camera giao thông, camera giám sát hiện trường hay đơn giản là các camera giám sát toà nhà, trường học, các địa điểm công cộng… và các thiết bị di động như điện thoại thông minh, máy quay video. Hiện tại, Trường Đại học Công nghệ đã ký thoả thuận chuyển giao công nghệ và hợp tác phát triển thiết bị ứng dụng đối với vi mạch mã hoá video VENGME H.264/AVC với:
+– Công ty VNPT Technology (phối hợp triển khai ứng dụng nút (thiết bị) cảm biến xử lý ảnh tốc độ cao trong mạng IoT),
+– Công ty Hanel (phối hợp triển khai thiết bị IP camera),
+– Công ty Giải pháp thông minh Sài Gòn: chuyển giao công nghệ, phát triển ứng dụng camera giám sát, camera thông minh,
+– Bộ Công an: triển khai phát triển hệ thống giám sát an ninh ngày đêm sử dụng đầu thu CMOS. Ngoài ra, sản phẩm công nghệ của đề tài cũng đã được chia sẻ một phần với Viện Điện tử và Tin học thuộc Uỷ ban năng lượng nguyên tử (CEA-LETI) của CH Pháp để tiếp tục phát triển theo hướng giảm sâu công suất tiêu thụ – một trong những yêu cầu ngày càng gắt gao của các thiết bị di động hướng công nghệ xanh và xu thế phát triển IoT.

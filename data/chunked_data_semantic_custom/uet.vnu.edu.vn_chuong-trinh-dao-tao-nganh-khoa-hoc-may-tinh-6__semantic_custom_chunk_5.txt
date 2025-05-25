@@ -1,0 +1,34 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-khoa-hoc-may-tinh-6_.txt
+
+Yêu cầu về kiến thức chuyên môn
+2.1   Kiến thức nhóm chuyên ngành và chuyên ngành
+Đọc hiểu và trình bày tốt các tài liệu tiếng Anh chuyên ngành;
+Làm chủ và vận dụng thành thạo các khái niệm chung về cơ sở dữ liệu trong hệ thống, các phương pháp xây dựng và tối ưu hóa cơ sở dữ liệu của hệ thống; quy trình phát triển phần mềm, các kỹ thuật xây dựng một hệ thống phần mềm có chất lượng; Phân tích và nhận dạng mẫu; Học máy thống kê; Khai phá dữ liệu; Hệ thống thông minh;
+Tổng hợp và vận dụng thành thạo các khái niệm chung liên quan đến kiến thức về các lĩnh vực cơ bản của Công nghệ thông tin như Trí tuệ nhân tạo, Tương tác người máy, Mật mã và an toàn dữ liệu;
+Có kiến thức cập nhật, chuyên sâu ở vị trí hàng đầu về khoa học máy tính;
+Có kiến thức cốt lõi, nền tảng, tư duy hệ thống, tổng hợp các kỹ thuật về Trí tuệ nhân tạo, Tương tác người – máy, xử lý ngôn ngữ tự nhiên, học máy, xử lý ảnh, học máy thống kê, lý thuyết thông tin, thuật toán, …;
+Có kiến thức về tổ chức nghiên cứu khoa học, cập nhật các kiến thức hiện đại trong chuyên ngành khoa học máy tính;
+Vận dụng kiến thức về quản trị tổ chức để giải quyết các vấn đề phức tạp phát sinh trong lĩnh vực của chuyên ngành KHMT. 2.2  Kiến thức học phần và chuyên đề tiến sĩ
+Có kiến thức về quản trị tổ chức;
+Vận dụng tốt phương pháp nghiên cứu và kỹ thuật viết báo cáo khoa học;
+Nắm vững, có khả năng áp dụng và sáng tạo các kiến thức về xử lý ngôn ngữ tự nhiên; khai phá dữ liệu; kiến trúc phân tán và song song; phương pháp tối ưu; học máy thống kê;
+Hiểu biết và áp dụng thành thạo các hệ thống phần mềm chuyên dụng. Yêu cầu về năng lực nghiên cứu
+Có khả năng thực hiện nghiên cứu độc lập;
+Có khả năng trình bày báo cáo khoa học ở hội thảo trong nước, quốc tế;
+Có khả năng công bố kết quả nghiên cứu khoa học ở các tạp chí về tin học, công nghệ thông tin. Yêu cầu về kỹ năng
+Kỹ năng nghề nghiệp
+:
+Có kỹ năng làm chủ các lý thuyết khoa học, phương pháp, công cụ phục vụ nghiên cứu và phát triển về Khoa học máy tính;
+Có khả năng tổng hợp, làm giàu và bổ sung tri thức chuyên môn về Khoa học máy tính;
+Suy luận logic, phân tích các vấn đề khoa học và đưa ra những hướng xử lý một cách sáng tạo, độc đáo;
+Linh hoạt và xử lý tốt các tình huống trong quản lý, điều hành chuyên môn, nghiên cứu và phát triển;
+Tham gia tốt thảo luận trong nước và quốc tế thuộc ngành hoặc lĩnh vực nghiên cứu và phổ biến các kết quả nghiên cứu. Kỹ năng bổ trợ
+Có tư duy logic;
+Có tư duy phân tích, tổng hợp;
+Nắm bắt nhu cầu xã hội đối với kiến thức khoa học chuyên ngành;
+Có năng lực phân tích yêu cầu;
+Có năng lực thiết kế giải pháp;
+Có năng lực thực thi giải pháp;
+Có năng lực vận hành hệ thống;
+Có năng lực tiếp thu công nghệ;
+Biết hợp tác, có khả năng lãnh đạo đối với các thành viên khác trong nhóm.

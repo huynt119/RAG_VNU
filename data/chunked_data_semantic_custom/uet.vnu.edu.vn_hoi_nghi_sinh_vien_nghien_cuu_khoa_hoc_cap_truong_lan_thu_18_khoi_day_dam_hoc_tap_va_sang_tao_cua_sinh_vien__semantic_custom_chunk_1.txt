@@ -1,0 +1,174 @@
+Nguồn: uet.vnu.edu.vn_hoi_nghi_sinh_vien_nghien_cuu_khoa_hoc_cap_truong_lan_thu_18_khoi_day_dam_hoc_tap_va_sang_tao_cua_sinh_vien_.txt
+
+Ảnh các giải thưởng trao tại hội nghị
+Giải nhất cấp Trường
+Công trình “Nghiên cứu và phát triển hệ thống thị giác máy để nâng cao độ tin cậy của Robot gắp và đặt linh kiện tự động trong công nghiệp”
+Công trình” Nghiên cứu thiết kế chế tạo thiết bị tự hành phục vụ nhận dạng và chẩn đoán sớm hư hỏng dây cáp cầu treo”
+Công trình “A distributed framework for the parsimony bootstrap approximation”
+Công trình “Chế tạo cảm biến xác định độ mặn của nước bằng phương pháp không tiếp xúc”
+Công trình “Nghiên cứu hệ số cố kết đứng và ngang của đất sét từ thí nghiệm cố kết trong phòng và mô phỏng số”
+Công trình “Nghiên cứu, thiết kế, chế tạo Drone mang vật phẩm 1kg hạ cánh tự động”
+Giải nhì cấp Trường
+Công trình ”
+Phát hiện người đeo khẩu trang trong điều kiện ánh sáng thay đổi”
+Công trình “
+Cải tiến phương pháp xác định tọa độ vật sử dụng thị giác và học máy trong hệ thống Robot gắp”
+Công trình “
+Multiple Target Multiple Camera Human Tracking Application”
+Công trình “
+Nghiên cứu, ứng dụng UAV và mô hình học sâu cho kiểm soát cỏ dại”
+Công trình “
+Ứng dụng phương pháp Latice Boltzmann trong việc tối ưu hệ số lực nâng của cánh máy bay”
+Công trình “
+Phân tích tần số dao động trong kết cấu nhà nhiều tầng Bê tông cốt thép”
+Giải ba cấp Trường
+Công trình “
+Social profiling using social media data”
+Công trình “
+Thiết bị tạo plasma cầm tay làm sạch và xử lý bề mặt, ứng dụng trong phát triển thiết bị vi lưu”
+Công trình “
+Giải pháp giám sát giãn cách xã hội sử dụng nhiều camera (Social distancing monitoring using multiple cameras)”
+Công trình “
+Nghiên cứu cải tiến quy trình ươm hạt và lựa chọn giống cải bó xôi (Spinacia Oleracea) phù hợp với mô hình sản xuất sinh khối thực vật nhân tạo”
+Công trình “
+Nghiên cứu phát triển hệ thông IoT giám sát và chăm sóc tự động cây trồng thủy canh trong mô hình nhà kính”
+Công trình “
+Nghiên cứu, chế tạo cảm biến từ tổng trở dựa trên dây từ mềm vô định hình nền Fe ứng dụng đo và phân tích xung nhịp thở trong hỗ trợ điều trị Covid”
+Giải Ba được bình chọn nhiều
+Công trình “
+Tổng hợp, nghiên cứu tính chất hóa, lý, sinh và ứng dụng của vật liệu nano porphyrinoid và nano Ag trong kháng khuẩn”
+Danh sách giải thưởng cụ thể như sau:
+STT
+Tên công trình
+Tên sinh viên/nhóm sinh viên thực hiện
+Giải thưởng
+1
+Nghiên cứu và phát triển hệ thống thị giác máy để nâng cao độ tin cậy của Robot gắp và đặt linh kiện tự động trong công nghiệp
+Dương Văn Tân
+Khuất Thị Thu Hằng
+Lưu Đức Thắng
+Nguyễn Thị Mai
+Nguyễn Thị Ánh
+Trần Hữu Quốc Đông
+Giải Nhất cấp Trường
+Giải khuyến khích được bình chọn nhiều
+Giải đặc biệt do Toshiba trao tặng
+2
+Nghiên cứu thiết kế chế tạo thiết bị tự hành phục vụ nhận dạng và chẩn đoán sớm hư hỏng dây cáp cầu treo
+Lê Huy Hoàng
+Lê Minh Hiếu
+Nguyễn Ngọc Hải
+Lê Đức Mạnh
+Giải Nhất cấp Trường
+3
+A distributed framework for the parsimony bootstrap approximation
+Vũ Bình Dương
+Phạm Tuấn Nghĩa
+Giải Nhất cấp Trường
+4
+Chế tạo cảm biến xác định độ mặn của nước bằng phương pháp không tiếp xúc
+Phạm Hồng Phúc
+Phạm Xuân Sơn
+Đỗ Vinh Tân
+Hoàng Thế Lịch
+Giải Nhất cấp Trường
+5
+Nghiên cứu hệ số cố kết đứng và ngang của đất sét từ thí nghiệm cố kết trong phòng và mô phỏng số
+Nguyễn Công Kiên
+Giải Nhất cấp Trường
+6
+Nghiên cứu, thiết kế, chế tạo Drone mang vật phẩm 1kg hạ cánh tự động
+Chu Đình Khởi
+Trần Quang Đạt
+Trần Đăng Huy
+Đỗ Lê Hồng Nhung
+Lương Thị Na
+Nguyễn Thị Nguyệt
+Giải Nhất cấp Trường
+Giải khuyến khích được bình chọn nhiều
+7
+Phát hiện người đeo khẩu trang trong điều kiện ánh sáng thay đổi
+Đoàn Quang Mạnh
+Nguyễn Quốc Huy
+Ngô Tiến Sáng
+Trần Nhật Tân
+Giải Nhì cấp Trường
+8
+Cải tiến phương pháp xác định tọa độ vật sử dụng thị giác và học máy trong hệ thống Robot gắp
+Đỗ Nam
+Lê Minh Hoàng
+Giải Nhì cấp Trường
+9
+Multiple Target Multiple Camera Human Tracking Application
+Nguyễn Phúc Hải
+Lê Duy Sơn
+Giải Nhì cấp Trường
+10
+Nghiên cứu, ứng dụng UAV và mô hình học sâu cho kiểm soát cỏ dại
+Dương Kim Trung
+Đào Đức Anh
+Giải Nhì cấp Trường
+11
+Ứng dụng phương pháp Latice Boltzmann trong việc tối ưu hệ số lực nâng của cánh máy bay
+Nguyễn Văn Đức
+Giải Nhì cấp Trường
+12
+Phân tích tần số dao động trong kết cấu nhà nhiều tầng Bê tông cốt thép
+Cao Thị Phương Anh
+Trần Văn Huynh
+Giải Nhì cấp Trường
+Giải Nhì được bình chọn nhiều
+13
+Social profiling using social media data
+Nguyễn Hải Lưu
+Phan Công Minh
+Bùi Thùy Dương
+Phạm Gia Khiêm
+Giải Ba cấp Trường
+Giải Nhất được bình chọn nhiều
+14
+Thiết bị tạo plasma cầm tay làm sạch và xử lý bề mặt, ứng dụng trong phát triển thiết bị vi lưu
+Lê Ngọc Toản,
+Diêm Đăng Hiếu,
+Viên Đức Vương
+Giải Ba cấp Trường
+15
+Giải pháp giám sát giãn cách xã hội sử dụng nhiều camera
+(Social distancing monitoring using multiple cameras)
+Lê Công Hiếu
+Nguyễn Ngọc Khang
+Nguyễn Văn Duy
+Chu Thiện Huy
+Giải Ba cấp Trường
+16
+Nghiên cứu cải tiến quy trình ươm hạt và lựa chọn giống cải bó xôi
+Nguyễn Thế Ngọc Phượng
+Trương Quốc Tuấn
+Giải Ba cấp Trường
+Giải khuyến khích được bình chọn nhiều
+17
+Nghiên cứu phát triển hệ thông IoT giám sát và chăm sóc tự động cây trồng thủy canh trong mô hình nhà kính
+Nguyễn Hồng Sơn
+Nguyễn Minh Hiếu
+Giải Ba cấp Trường
+18
+Nghiên cứu, chế tạo cảm biến từ tổng trở dựa trên dây từ mềm vô định hình nền Fe ứng dụng đo và phân tích xung nhịp thở trong hỗ trợ điều trị Covid
+Bùi Trọng Sang
+Nguyễn Thị Phương Thảo
+Đỗ Thị Hiên
+Giải Ba cấp Trường
+19
+Tổng hợp, nghiên cứu tính chất hóa, lý, sinh và ứng dụng của vật liệu nano porphyrinoid và nano Ag trong kháng khuẩn
+Phan Tân Khánh
+Nguyễn Đức Thắng
+Hồ Minh Hiếu
+Bùi Thị Thu Thủy
+Nguyễn Đức Thắng
+Hoàng Huy Anh Tuấn
+Giải Ba được bình chọn nhiều
+(UET-News)
+|
+09/05/2022
+|
+Sinh viên NCKH
+.

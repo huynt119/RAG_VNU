@@ -1,0 +1,41 @@
+Nguồn: uet.vnu.edu.vn_ho_cc_a3c_bo_cc_89ng_tai_nang_samsung_samsung_talent_program_stp_2018_.txt
+
+Quy trình xét tuyển
+Lịch trình thi tuyển (dự kiến)
+Bước 1:
+Nộp hồ sơ online từ ngày
+01/10 ~ 04/11/2018
+tại
+www.samsungcareers.com.vn
+=>
+Tuyển dụng sinh viên mới tốt nghiệp
+= >
+Học bổng Tài năng Samsung STP 2018
+(Mã việc làm 253633)
+(Đây là cách ứng tuyển duy nhất) (*)
+(*) Về Hồ sơ: Ứng viên khi nộp hồ sơ online yêu cầu chỉ đính kèm/tải lên file ở định dạng .doc,.docx hoặc .pdf, dung lượng
+nhỏ hơn 1.5 MB
+giấy tờ sau:
+– Bảng điểm chụp từ website tra cứu kết quả học tập chính thức, hoặc có xác nhận của nhà trường (Bắt buộc)
+Bước 2:
+Đào tạo trước thi tuyển:
+Lớp 1
+(13/10 & 20/10),
+Lớp 2
+(27/10 & 03/11) (không bắt buộc)
+Bước 3:
+Thi lập trình cơ bản (*) :
+10/11/2018
+Bước 4:
+Phỏng vấn                   :
+17/11/2018
+Bước 5:
+Lễ trao học bổng         :
+14/12/2018
+(*) Về bài thi lập trình
+Nội dung thi :                       Thuật toán và kỹ năng lập trình cơ bản
+Phương pháp thi :               Lập trình trên máy tính, chấm thi tự động
+Ngôn ngữ bài thi :               Tiếng Việt
+Ngôn ngữ lập trình:               C/C++/Java (chọn 1 trong 3 ngôn ngữ)
+Công cụ (IDE) :                     Microsoft Visual Studio (C/C++) / Eclipse (Java)
+4.

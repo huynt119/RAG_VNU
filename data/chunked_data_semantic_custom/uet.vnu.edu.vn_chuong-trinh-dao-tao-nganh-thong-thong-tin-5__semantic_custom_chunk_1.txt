@@ -1,0 +1,28 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-thong-thong-tin-5_.txt
+
+Chương trình đào tạo ngành Hệ thống thông tin
+1. Một số thông tin về chuyên ngành đào tạo
+Tên chuyên ngành đào tạo:
++ Tên tiếng Việt: Hệ thống thông tin
++ Tên tiếng Anh:
+Information Systems
+Mã số chuyên ngành đào tạo: 01
+Tên ngành đào tạo:
++ Tên tiếng Việt: Hệ thống thông tin
++ Tên tiếng Anh:
+Information Systems
+Trình độ đào tạo: Tiến sĩ
+Tên văn bằng tốt nghiệp:
++ Tên tiếng Việt:Tiến sĩ ngànhHệ thống thông tin
++ Tên tiếng Anh:
+The degree of
+Doctor of Philosophy in Information Systems
+2. Mục tiêu của chương trình đào tạo
+2.1 Mục tiêu chung
+Mục tiêu chung của Chương trình đào tạo Tiến sĩ chuyên ngành Hệ thống thông tin (HTTT) là đào tạo nguồn nhân lực HTTT trình độ Tiến sĩ chất lượng hàng đầu đất nước theo bốn nhóm chủ đề KH-CN định hướng Cơ sở dữ liệu (CSDL), Khai phá dữ liệu và phát hiện tri thức trong dữ liệu, An toàn thông tin, Khoa học dịch vụ, có năng lực và phẩm chất của các chuyên gia cao cấp HTTT sáng tạo các lý thuyết, mô hình và giải pháp khoa học công nghệ tiên tiến trong HTTT và tổ chức triển khai áp dụng các mô hình, giải pháp đó vào đời sống xã hội, góp phần thúc đẩy nền kinh tế tri thức của đất nước. Mục tiêu cụ thể
+Tiến sĩ HTTT tốt nghiệp tại trường ĐHCN là chuyên viên cấp cao về HTTT, có hiểu biết sâu rộng về HTTT hiện đại, có năng lực sáng tạo, hướng dẫn nghiên cứu và tổ chức thi hành ứng dụng kết quả nghiên cứu vào đời sống xã hội;
+Tiến sĩ HTTT tốt nghiệp Trường ĐHCN đủ năng lực đảm nhiệm các chức danh tương ứng sau đây các loại hình tổ chức:
+– Tại các tổ chức nghiên cứu: Nghiên cứu sau Tiến sĩ (PostDoc); Thành viên nhóm nghiên cứu tiên tiến; Trưởng nhóm nghiên cứu; Lãnh đạo nhóm nghiên cứu; Lãnh đạo tổ chức;
+– Tại các tổ chức công nghiệp: Thành viên R&D chủ chốt; Lãnh đạo dự án đổi mới; Lãnh đạo nhóm R&D; Giám đốc R&D;
+– Doanh nhân: Sáng lập viên doanh nghiệp công nghệ cao; Tư vấn cao cấp doanh nghiệp. Tại các trường đại học: Trợ lý giáo sư; Phó Giáo sư; Giáo sư; Lãnh đạo nhóm nghiên cứu;
+Nghiên cứu sinh tiến sĩ HTTT tham gia và đóng góp tích cực vào hoạt động KH-CN và công bố kết quả của các nhóm nghiên cứu trong Bộ môn HTTT, góp phần phát triển quan hệ hợp tác KH-CN trong nước và quốc tế của Bộ môn HTTT.

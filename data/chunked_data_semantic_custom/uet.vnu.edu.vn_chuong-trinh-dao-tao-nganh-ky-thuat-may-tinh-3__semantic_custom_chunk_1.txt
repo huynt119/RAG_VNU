@@ -1,0 +1,317 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-may-tinh-3_.txt
+
+Tóm tắt yêu cầu chương trình đào tạo
+Tổng số tín chỉ của chương trình đào tạo:
+151
+tín chỉ
+(
+Chưa
+tính
+các học phần
+Giáo dục thể chất, Giáo dục Quốc phòng – An ninh
+)
+–
+Khối kiến thức chung
+16 tín chỉ
+–
+Khối kiến thức theo lĩnh vực
+22
+tín chỉ
+–
+Khối kiến thức
+theo
+khối ngành
+10 tín chỉ
+Các học phần
+bắt buộc
+7
+tín chỉ
+Các học phần tự chọn
+3/6
+tín chỉ
+–
+Khối kiến thức
+theo
+nhóm ngành
+41
+tín chỉ
+Các học phần
+bắt buộc
+38
+tín chỉ
+Các học phần tự chọn
+3/9 tín chỉ
+–
+Khối kiến thức ngành
+62
+tín chỉ
+Các học phần bắt buộc
+28 tín chỉ
+Các học phần tự chọn
+15/33 tín chỉ
+Các học phần bổ trợ
+6 tín chỉ
+Thực tập và Tốt nghiệp
+13 tín chỉ
+2. Khung chương trình đào tạo
+Số
+TT
+Mã
+số
+Học phần
+(ghi bằng tiếng Việt và tiếng Anh)
+Số tín chỉ
+Số
+giờ tín chỉ
+M
+ã số học phần
+tiên quyết
+Lý thuyết
+Thực hành
+Tự học
+I
+Khối kiến thức chung
+(
+Chưa
+tính
+các học phần
+Giáo dục thể chất, Giáo dục Quốc phòng – An ninh
+)
+16
+1
+PHI1006
+Triết học Mác – Lênin
+Marxism-Leninism Philosophy
+3
+30
+15
+2
+PEC1008
+Kinh tế chính trị Mác – Lênin
+Marxism-Leninism
+Political Economy
+2
+20
+10
+PHI1006
+3
+PHI1002
+Chủ nghĩa xã hội khoa học
+Science socialism
+2
+30
+4
+HIS1001
+Lịch sử Đảng Cộng sản Việt Nam
+History of the Communist Party of Vietnam
+2
+20
+10
+5
+POL1001
+Tư tưởng Hồ Chí Minh
+Ho Chi Minh Ideology
+2
+20
+10
+6
+FLF1107
+Tiếng Anh B1
+English 1
+5
+20
+35
+20
+7
+Giáo dục thể chất
+Physical Education
+4
+8
+Giáo dục quốc phòng – an ninh
+National Defence Education
+8
+II
+Khối kiến thức theo lĩnh vực
+22
+9
+MAT1093
+Đại số
+Algebra
+4
+30
+30
+10
+MAT1041
+Giải tích 1
+Calculus 1
+4
+30
+30
+11
+MAT1042
+Giải tích 2
+Calculus 2
+4
+30
+30
+MAT1041
+12
+EPN1095
+Vật lý đại cương 1
+General Physics 1
+2
+30
+13
+EPN1096
+Vật lý đại cương 2
+General Physics  2
+2
+30
+EPN1095
+14
+INT1007
+Giới thiệu về Công nghệ thông tin
+Introduction to Information Technology
+3
+15
+30
+15
+INT1008
+Nhập môn lập trình
+Introduction to Programming
+3
+20
+25
+III
+Khối kiến thức
+theo
+khối ngành
+10
+16
+ELT2035
+Tín hiệu và hệ thống
+Signals and systems
+3
+45
+MAT1042
+17
+INT2210
+Cấu trúc dữ liệu và giải thuật
+Data structure and algorithms
+4
+30
+30
+INT1008
+18
+Lựa chọn 1 trong 2 học phần:
+3/6
+ELT2029
+Toán trong Công nghệ
+Engineering Mathematics
+3
+45
+MAT1041
+MAT1101
+Xác suất thống kê
+Probability and Statistics
+3
+30
+15
+MAT1041
+IV
+Khối kiến thức
+theo
+nhóm ngành
+41
+IV
+. 1
+Các học phần bắt buộc
+38
+19
+INT2290
+Lập trình
+Programming
+3
+30
+15
+INT1008
+20
+INT2213
+Mạng máy tính
+Computer Network
+4
+30
+30
+INT1008
+21
+INT2214
+Nguyên lý hệ điều hành
+Principles of operating systems
+4
+45
+15
+INT1008
+22
+ELT2032
+Linh kiện điện tử
+Electronics Devices
+3
+45
+23
+ELT2030
+Kỹ thuật điện
+Electrical Engineering
+3
+45
+24
+ELT2040
+Điện tử tương tự
+Analog Electronics
+3
+45
+25
+ELT2041
+Điện tử số
+Digital Electronics
+3
+45
+26
+INT2291
+Nhập môn công nghệ phần mềm
+Introduction to Software Engineering
+3
+30
+15
+INT1008
+27
+ELT3144
+Xử lý tín hiệu số
+Digital Signal Processing
+4
+45
+15
+MAT1093
+28
+ELT3102
+Thực tập điện tử tương tự
+Analog Electronic Engineering Practice
+2
+30
+ELT2040
+29
+ELT3103
+Thực tập điện tử số
+Digital Electronic Engineering Practice
+2
+30
+ELT2041
+30
+INT2211
+Cơ sở dữ liệu
+Database
+4
+30
+30
+INT1008
+IV
+.

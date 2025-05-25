@@ -1,0 +1,8 @@
+Nguồn: uet.vnu.edu.vn_ke-hoach-ket-thuc-khoa-hoc-cua-cac-lop-qh-2020-k65-ky-su-cac-khoa-cu-va-tn-truoc-han-dot-thang-122024_.txt
+
+– Đại diện Ban cán sự các Lớp khóa học đôn đốc sinh viên của lớp đánh giá kết quả rèn luyện và triển khai duyệt Kết quả rèn luyện cuả từng thành viên trong lớp trên trang
+https://student.uet.vnu.edu.vn/#1
+và xuất file Kết quả rèn luyện của lớp để chuyển cho giáo viên chủ nhiệm (quy chế cũ là cố vấn học tập) phục vụ buổi sinh hoạt lớp. – Triển khai Tổ chức sinh hoạt Lớpkhóa họctheo hình thức và thời gian cụ thể do Khoa/Viện tự chọn với các nội dung sau:
++ Đánh giá điểm rèn luyện Học kỳ I năm học 2024-2025 cấp lớp và cấp Khoa/Viện, nếu sinh viên nào không tham gia mà không có lý do chính đáng sẽ nhận 0 điểm và xếp loại “Kém” cho kết quả rèn luyện của Học kỳ I năm học 2024-2025, khi đó mọi quyền lợi của sinh viên liên quan đến kết quả rèn luyện như khen thưởng, học bổng, in vào bảng điểm..v.v..sẽ không được xem xét; những sinh viên xếp loại “Kém” Ban cán sự (lớp trưởng/lớp phó) ghi rõ lý do trong bảng tổng hợp. + Kiểm tra kết quả rèn luyện các học kỳ (bảng tổng hợp gửi kèm theo), nếu phát hiện có điểm nào chưa chính xác thì làm đơn hiệu chỉnh và nộp cho Lớp trưởng/Lớp phó Lớp khóa học. Ban cán sự nhận được đơn hiệu chỉnh thì báo lại ngay cho phòng Công tác sinh viên để kiểm tra qua email:
+nthue153@vnu.edu.vn
+hoặc ĐT:0243.754.8864 hoặc trực tiếp tại phòng 104 nhà E3.

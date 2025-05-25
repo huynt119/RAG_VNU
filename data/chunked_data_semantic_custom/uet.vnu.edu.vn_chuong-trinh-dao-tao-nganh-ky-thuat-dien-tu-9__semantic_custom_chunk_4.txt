@@ -1,0 +1,37 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-dien-tu-9_.txt
+
+Danh mục các ngành phù hợp
+Nhóm 1 bao gồm các ngành phù hợp không cần phải học bổ sung kiến thức: Công nghệ kỹ thuật điện tử – viễn thông (7510302); Công nghệ kỹ thuật điện, điện tử (7510301); Công nghệ kỹ thuật điều khiển và tự động hóa (7510303); Kỹ thuật điện (7520201); Kỹ thuật điện tử – viễn thông (7520207); Kỹ thuật điều khiển và tự động hóa (7520216); Kỹ thuật máy tính (7480106); Công nghệ kỹ thuật máy tính (7480108), Kỹ thuật điện tử và tin học (7520210); Tin học và Kỹ thuật máy tính (7480111), Khoa học và Kỹ thuật máy tính (7480204); Kỹ thuật Robot (7520217); Công nghệ kỹ thuật cơ điện tử (7510203); Kỹ thuật cơ điện tử (7520114). Nhóm 2 bao gồm các ngành phù hợp phải học bổ sung kiến thức: Vật lý kỹ thuật (7520401); Vật lý (7440102); Sư phạm kỹ thuật công nghiệp (7140214); Mạng máy tính và truyền thông dữ liệu (7480102); Công nghệ hàng không vũ trụ (7519001); Kỹ thuật hàng không (7520120); Công nghệ nông nghiệp (7519002); Công nghệ kỹ thuật xây dựng (7510103); Cơ kỹ thuật (7520101); Kỹ thuật năng lượng (7520406); Khoa học máy tính (7480101); Công nghệ thông tin (7480201); Trí tuệ nhân tạo (7480207); Trí tuệ nhân tạo và IoT (7520220QTD); Kỹ thuật rađa – dẫn đường (7520204); Kỹ thuật thủy âm (7520205). Danh mục các học phần bổ sung kiến thức
+Danh mục các học phần bổ sung kiến thức được dành cho đối tượng có bằng tốt nghiệp đại học phù hợp thuộc nhóm 2, gồm tối đa 05 học phần với 16 tín chỉ như sau:
+STT
+Mã học phần
+Tên học phần
+Số tín chỉ
+1
+ELT2032
+Linh kiện điện tử
+3
+2
+ELT2040
+Điện tử tương tự
+3
+3
+ELT2041
+Điện tử số
+3
+4
+ELT3144
+Xử lý tín hiệu số
+4
+5
+ELT3051
+Kỹ thuật điều khiển
+3
+Tổng
+16
+|
+28/11/2022
+|
+ĐTSĐH
+|
+1808 Views

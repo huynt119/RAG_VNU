@@ -1,0 +1,89 @@
+Opening Ceremony of the First ICPC Asia-Pacific Championship 2024
+On the morning of March 1st, 2024, the University of Engineering and Technology – Vietnam National University, Hanoi (VNU-UET) officially inaugurated the First ICPC Asia-Pacific Championship 2024 hosted by Vietnam.
+Associate Professor Bui The Duy, Deputy Minister of Science and Technology, attended the ceremony. From Vietnam National University (VNU), there were Associate Professor Pham Bao Son – Vice President of VNU, and leaders of various departments. Representing the University of Engineering and Technology were Professor Nguyen Dinh Duc, Chairman of the University Council, Professor Chu Duc Trinh, Rector of VNU-UET, and departmental leaders. The event also welcomed Ms. Veronika Soboleva – Director of Development at ICPC Foundation, Professor Katsuhiko Kakehi – Chairman of ICPC Asia-Pacific, and Regional Directors of ICPC from various countries.
+Long-standing and Prestigious Programming Contest in Information Technology
+The ICPC Asia Pacific Championship 2024 brought together the most outstanding information technology students from top universities in the Asia-Pacific region. It celebrated talent and IT skills on an international scale, making it the largest event of its kind in Vietnam and the Asia-Pacific region.
+Delivering his speech at the ceremony, Professor Chu Duc Trinh – Rector of the University of Engineering and Technology, emphasized once again: “ICPC is the most long-standing, largest, and most prestigious programming contest for university students worldwide. Vietnam first hosted the ICPC Asia Regional Contest at the University of Engineering and Technology in 2006. Eighteen years ago, the University of Engineering and Technology hosted the ICPC Asia Hanoi Regional Contest, marking Vietnam’s presence. In 2024, on the university’s 20th anniversary, we are honored to host the ICPC Asia-Pacific Championship for the first time in Hanoi. Among the 65 participating teams, three are from the University of Engineering and Technology, showcasing our institution’s priority in nurturing and training IT talents. This effort aims to provide the highest quality human resources not only for Vietnam but also for technologically advanced countries. The university will make every effort to make the first ICPC Asia Pacific Championship a great success, leaving the best impression on international friends. On this occasion, I wish Vietnamese IT talents success and affirm their position on the global IT human resources map.”
+Prof. Chu Duc Trinh – Rector of the University of Engineering and Technology, VNU, was giving his speech
+ICPC Asia Pacific Championship 2024 will determine the Asia-Pacific Champion for the first time and reveal the top 16 teams representing the region in the 2024 ICPC World Finals in Kazakhstan in this September. This year, Vietnam is represented by 12 teams from Hanoi, Ho Chi Minh City, and Da Nang, including three teams from the University of Engineering and Technology:
+sudo
+(QH-2023 majoring in Artificial Intelligence, including Tran Xuan Bach, Pham Quoc Hung, and Hoang Ngoc Bao Khue),
+cat
+(QH-2020 majoring in Information Technology, including Nguyen Hai Binh, Dao Quang Thai Duong, and Hoang Phan Huu Duc), and
+rmdir
+(QH-2021 majoring in Computer Science and Information Technology, including Huynh Tien Dung, Nguyen Viet Dung, and Vu Quoc Tuan).
+The 2024 ICPC Asia Pacific Championship brought together 195 IT students (65 teams) and 50 coaches from 40 prestigious universities from Japan, South Korea, Taiwan, Singapore, Thailand, Indonesia, and Vietnam. The teams competing in the championship were selected from the top ranks in the ICPC regional qualifiers in Yokohama, Seoul, Jakarta, and Hue City.
+Programming Skills Enhancement for Students
+At the opening ceremony, Associate Professor Bui The Duy – Deputy Minister of Science and Technology, expressed his joy at seeing the ICPC Asia-Pacific Championship being held in Vietnam. Recalling memories of participating in the competition as a student and later as a coach, Deputy Minister Bui The Duy emphasized: “In addition to helping students enhance their programming skills, the contest also develops self-learning and teamwork skills among different teams. The skills learned from ICPC will be very beneficial when working in enterprises or conducting research at universities. Therefore, when I returned to VNU-UET as an Associate Professor, my colleagues and I were wholeheartedly committed to bringing ICPC to Vietnam so that students could enjoy this fascinating contest. Furthermore, these contests are excellent opportunities for students to develop themselves and for nations to select talents for the future development of the IT industry.”
+Associate Professor Bui The Duy – Deputy Minister of Science and Technology
+As one of the three teams participating in this competition, student Pham Quoc Hung, QH-2023-I/CQ, from the Institute of Artificial Intelligence, expressed his joy and pride as he was about to enter the international arena. Quoc Hung stated that this contest is very important and opens up many opportunities for students in the future. It provides a platform for students to get closer to the world’s scientific and technological fields. Teamwork skills are also crucial, with each member needing to understand each other and maximize their potential. Each individual in the team must have a solid understanding of programming skills and develop specialized thinking. “I hope that with the efforts of both coaches and students during this period, we will bring back many good results for the University of Engineering and Technology and Vietnam as a whole.”
+Organizational Work
+The University of Engineering and Technology ensured the availability of adequate infrastructure and technical facilities, meeting the contest’s requirements according to ICPC standards. Efforts were made to ensure the best technological standards for the contest, creating the most impressive festival atmosphere for talented young algorithm and programming enthusiasts—the highest-quality young IT workforce.
+The Organization Board issued all necessary regulations and rules and released the Handbook of the 2024 ICPC Asia Pacific Championship. The Judge Board, led by Prof. Jonathan Irvin Gunawan (Indonesia), consisted of representatives of leading experts from various countries in the region.
+The entire contest was operated on online judging systems according to international standards, with online supervision systems operated by the Vietnam Olympic Club, led by Professor Rie Shigetomi Yamaguchi (Japan). The contest results were announced in real-time, only “frozen” one hour before the end to ensure the confidentiality of the overall winner until announced at the Awards Ceremony on the evening of March 2nd, 2024.
+On March 2nd, 2024, at VNU-UET, teams participating in the ICPC Asia Pacific Championship 2024 will compete online from 8:00 a.m. to 2:00 p.m. on the same day.
+The Awards Ceremony, announcement, and awarding of the ICPC Asia Pacific Championship took place at 5:00 p.m. on March 2nd, 2024, in Hanoi.
+Prizes for the 2024 ICPC Asia Pacific Championship
+– 01 Champion
+– 03 First Prizes (Gold Medal)
+– 04 Second Prizes (Silver Medal)
+– 04 Third Prizes (Bronze Medal)
+Some pictures at the Opening Ceremony and test teams
+From left to right: Prof. Nguyen Dinh Duc – Chairman of the University of Engineering and Technology; Associate Professor, Pham Bao Son – Vice President of VNU; Associate Professor Bui The Duy – Deputy Minister of Science and Technology
+Ms. Veronika Soboleva – Development Director of ICPC Foudation
+(UET-News)
+By admin
+|
+News & Events
+|
+3200 Views
+admin
+Previous
+Samsung, Vietnam National University link up on semiconductor training
+Next
+The University of Engineering and Technology team achieved the highest ranking for Vietnam at the 2024 ICPC Asia Pacific Championship
+Related posts
+Professor Nguyen Dinh Duc Honored at the 2024 Bao Son Award for Outstanding Contributions to Science and Practical Applications in Vietnam
+Professor Nguyen Dinh Duc: A Distinguished Scientist, a Devoted Teacher, and a Mentor Who Nurtures the Talents of Future Generations
+International Collegiate Programming Contest (ICPC) 2024: UET Contributes to Vietnam’s Mark in the Global Information Technology Sector
+Professor Nguyen Dinh Duc joined the editorial board of a prestigious international journal
+Professor Nguyen Dinh Duc – the aspiring educator who led the Vietnamese emerging generation to the global scientific world
+Opening Ceremony of the First ICPC Asia-Pacific Championship 2024
+On the morning of March 1st, 2024, the University of Engineering and Technology – Vietnam National University, Hanoi (VNU-UET) officially inaugurated the First ICPC Asia-Pacific Championship 2024 hosted by Vietnam.
+Associate Professor Bui The Duy, Deputy Minister of Science and Technology, attended the ceremony. From Vietnam National University (VNU), there were Associate Professor Pham Bao Son – Vice President of VNU, and leaders of various departments. Representing the University of Engineering and Technology were Professor Nguyen Dinh Duc, Chairman of the University Council, Professor Chu Duc Trinh, Rector of VNU-UET, and departmental leaders. The event also welcomed Ms. Veronika Soboleva – Director of Development at ICPC Foundation, Professor Katsuhiko Kakehi – Chairman of ICPC Asia-Pacific, and Regional Directors of ICPC from various countries.
+Long-standing and Prestigious Programming Contest in Information Technology
+The ICPC Asia Pacific Championship 2024 brought together the most outstanding information technology students from top universities in the Asia-Pacific region. It celebrated talent and IT skills on an international scale, making it the largest event of its kind in Vietnam and the Asia-Pacific region.
+Delivering his speech at the ceremony, Professor Chu Duc Trinh – Rector of the University of Engineering and Technology, emphasized once again: “ICPC is the most long-standing, largest, and most prestigious programming contest for university students worldwide. Vietnam first hosted the ICPC Asia Regional Contest at the University of Engineering and Technology in 2006. Eighteen years ago, the University of Engineering and Technology hosted the ICPC Asia Hanoi Regional Contest, marking Vietnam’s presence. In 2024, on the university’s 20th anniversary, we are honored to host the ICPC Asia-Pacific Championship for the first time in Hanoi. Among the 65 participating teams, three are from the University of Engineering and Technology, showcasing our institution’s priority in nurturing and training IT talents. This effort aims to provide the highest quality human resources not only for Vietnam but also for technologically advanced countries. The university will make every effort to make the first ICPC Asia Pacific Championship a great success, leaving the best impression on international friends. On this occasion, I wish Vietnamese IT talents success and affirm their position on the global IT human resources map.”
+Prof. Chu Duc Trinh – Rector of the University of Engineering and Technology, VNU, was giving his speech
+ICPC Asia Pacific Championship 2024 will determine the Asia-Pacific Champion for the first time and reveal the top 16 teams representing the region in the 2024 ICPC World Finals in Kazakhstan in this September. This year, Vietnam is represented by 12 teams from Hanoi, Ho Chi Minh City, and Da Nang, including three teams from the University of Engineering and Technology:
+sudo
+(QH-2023 majoring in Artificial Intelligence, including Tran Xuan Bach, Pham Quoc Hung, and Hoang Ngoc Bao Khue),
+cat
+(QH-2020 majoring in Information Technology, including Nguyen Hai Binh, Dao Quang Thai Duong, and Hoang Phan Huu Duc), and
+rmdir
+(QH-2021 majoring in Computer Science and Information Technology, including Huynh Tien Dung, Nguyen Viet Dung, and Vu Quoc Tuan).
+The 2024 ICPC Asia Pacific Championship brought together 195 IT students (65 teams) and 50 coaches from 40 prestigious universities from Japan, South Korea, Taiwan, Singapore, Thailand, Indonesia, and Vietnam. The teams competing in the championship were selected from the top ranks in the ICPC regional qualifiers in Yokohama, Seoul, Jakarta, and Hue City.
+Programming Skills Enhancement for Students
+At the opening ceremony, Associate Professor Bui The Duy – Deputy Minister of Science and Technology, expressed his joy at seeing the ICPC Asia-Pacific Championship being held in Vietnam. Recalling memories of participating in the competition as a student and later as a coach, Deputy Minister Bui The Duy emphasized: “In addition to helping students enhance their programming skills, the contest also develops self-learning and teamwork skills among different teams. The skills learned from ICPC will be very beneficial when working in enterprises or conducting research at universities. Therefore, when I returned to VNU-UET as an Associate Professor, my colleagues and I were wholeheartedly committed to bringing ICPC to Vietnam so that students could enjoy this fascinating contest. Furthermore, these contests are excellent opportunities for students to develop themselves and for nations to select talents for the future development of the IT industry.”
+Associate Professor Bui The Duy – Deputy Minister of Science and Technology
+As one of the three teams participating in this competition, student Pham Quoc Hung, QH-2023-I/CQ, from the Institute of Artificial Intelligence, expressed his joy and pride as he was about to enter the international arena. Quoc Hung stated that this contest is very important and opens up many opportunities for students in the future. It provides a platform for students to get closer to the world’s scientific and technological fields. Teamwork skills are also crucial, with each member needing to understand each other and maximize their potential. Each individual in the team must have a solid understanding of programming skills and develop specialized thinking. “I hope that with the efforts of both coaches and students during this period, we will bring back many good results for the University of Engineering and Technology and Vietnam as a whole.”
+Organizational Work
+The University of Engineering and Technology ensured the availability of adequate infrastructure and technical facilities, meeting the contest’s requirements according to ICPC standards. Efforts were made to ensure the best technological standards for the contest, creating the most impressive festival atmosphere for talented young algorithm and programming enthusiasts—the highest-quality young IT workforce.
+The Organization Board issued all necessary regulations and rules and released the Handbook of the 2024 ICPC Asia Pacific Championship. The Judge Board, led by Prof. Jonathan Irvin Gunawan (Indonesia), consisted of representatives of leading experts from various countries in the region.
+The entire contest was operated on online judging systems according to international standards, with online supervision systems operated by the Vietnam Olympic Club, led by Professor Rie Shigetomi Yamaguchi (Japan). The contest results were announced in real-time, only “frozen” one hour before the end to ensure the confidentiality of the overall winner until announced at the Awards Ceremony on the evening of March 2nd, 2024.
+On March 2nd, 2024, at VNU-UET, teams participating in the ICPC Asia Pacific Championship 2024 will compete online from 8:00 a.m. to 2:00 p.m. on the same day.
+The Awards Ceremony, announcement, and awarding of the ICPC Asia Pacific Championship took place at 5:00 p.m. on March 2nd, 2024, in Hanoi.
+Prizes for the 2024 ICPC Asia Pacific Championship
+– 01 Champion
+– 03 First Prizes (Gold Medal)
+– 04 Second Prizes (Silver Medal)
+– 04 Third Prizes (Bronze Medal)
+Some pictures at the Opening Ceremony and test teams
+From left to right: Prof. Nguyen Dinh Duc – Chairman of the University of Engineering and Technology; Associate Professor, Pham Bao Son – Vice President of VNU; Associate Professor Bui The Duy – Deputy Minister of Science and Technology
+Ms. Veronika Soboleva – Development Director of ICPC Foudation
+(UET-News)
+By admin
+|
+News & Events
+|
+3200 Views

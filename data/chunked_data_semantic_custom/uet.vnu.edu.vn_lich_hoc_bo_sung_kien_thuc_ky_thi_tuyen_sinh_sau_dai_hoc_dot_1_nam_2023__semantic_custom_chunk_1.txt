@@ -1,0 +1,95 @@
+Nguồn: uet.vnu.edu.vn_lich_hoc_bo_sung_kien_thuc_ky_thi_tuyen_sinh_sau_dai_hoc_dot_1_nam_2023_.txt
+
+LỊCH HỌC BỔ SUNG KIẾN THỨC KỲ THI TUYỂN SINH SAU ĐẠI HỌC ĐỢT 1 NĂM 2023
+TT
+Ngày
+Thứ
+Giờ
+học
+Học phần
+Giảng viên
+Giảng
+đường
+Lưu ý
+1
+01/04/2023
+7
+14h
+Cấu trúc dữ liệu và giải thuật
+TS. Lê Nguyên Khôi
+312-GĐ2
+Học phần dành cho các chuyên ngành thuộc Khoa CNTT
+2
+04/04/2023
+3
+18h
+Cấu trúc dữ liệu và giải thuật
+312-GĐ2
+3
+15/04/2023
+7
+14h
+Cấu trúc dữ liệu và giải thuật
+312-GĐ2
+4
+18/04/2023
+3
+18h
+Cấu trúc dữ liệu và giải thuật
+312-GĐ2
+5
+22/04/2023
+7
+18h
+Cấu trúc dữ liệu và giải thuật
+312-GĐ2
+6
+25/04/2023
+3
+18h
+Cấu trúc dữ liệu và giải thuật
+312-GĐ2
+7
+05/04/2023
+4
+18h
+Lập trình nâng cao
+TS. Nguyễn Văn Vinh
+301-G2
+Học phần dành cho các chuyên ngành thuộc Khoa CNTT
+8
+12/04/2023
+4
+18h
+Lập trình nâng cao
+301-G2
+9
+16/04/2023
+CN
+14h
+Lập trình nâng cao
+312-GĐ2
+10
+19/04/2023
+4
+18h
+Lập trình nâng cao
+301-G2
+11
+23/04/2023
+CN
+14h
+Lập trình nâng cao
+312-GĐ2
+12
+26/04/2023
+4
+18h
+Lập trình nâng cao
+301-G2
+13
+02/04/2023
+CN
+8h
+Công nghệ phần mềm
+PGS.

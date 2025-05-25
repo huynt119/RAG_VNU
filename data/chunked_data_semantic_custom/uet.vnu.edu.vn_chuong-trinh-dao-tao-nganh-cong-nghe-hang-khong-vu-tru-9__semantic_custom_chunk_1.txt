@@ -1,0 +1,301 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-hang-khong-vu-tru-9_.txt
+
+Khung chương trình đào tạo
+STT
+Mã
+học phần
+Học phần
+(ghi bằng tiếng Việt và tiếng Anh)
+Số tín chỉ
+Số giờ tín chỉ
+Mã số
+học phần
+tiên quyết
+Lí thuyết
+Thực hành
+Tự
+học
+I
+Khối kiến thức chung
+(Chưa tính
+các học phần
+Giáo dục thể chất, Giáo dục quốc phòng
+-an ninh, kỹ năng bổ trợ
+)
+21
+1
+PHI1006
+Triết học Mác – Lênin
+Marxist-Leninist Philosophy
+3
+30
+15
+2
+PEC1008
+Kinh tế chính trị Mác – Lênin
+Marx-Lenin Political Economy
+2
+20
+10
+PHI1006
+3
+PHI1002
+Chủ nghĩa xã hội khoa học
+Scientific Socialism
+2
+30
+4
+HIS1001
+Lịch sử Đảng Cộng sản Việt Nam
+Revolutionary Guidelines of Vietnam Communist Party
+2
+20
+10
+5
+POL1001
+Tư tưởng Hồ Chí Minh
+Ho Chi Minh’s Ideology
+2
+20
+10
+6
+THL1057
+Nhà nước và pháp luật đại cương
+State and Law
+2
+20
+5
+5
+7
+FLF1107
+Tiếng Anh B1
+English B1
+5
+20
+35
+20
+8
+INT1009
+Tin học cơ sở
+Introduction to Information
+3
+15
+30
+9
+Kỹ năng bổ trợ
+Soft Skills
+3
+10
+Giáo dục thể chất
+Physical Education
+4
+11
+Giáo dục quốc phòng-an ninh
+National Defence Education
+8
+II
+Khối kiến thức theo lĩnh vực
+19
+12
+MAT1093
+Đại số
+Algebra
+4
+30
+30
+13
+MAT1041
+Giải tích 1
+Analytics 1
+4
+30
+30
+14
+MAT1042
+Giải tích 2
+Analytics 2
+4
+30
+30
+MAT1041
+15
+EPN1095
+Vật lý đại cương 1
+General Physics 1
+2
+30
+16
+EPN1096
+Vật lý đại cương 2
+General Physics 2
+2
+30
+EPN1095
+17
+INT1008
+Nhập môn lập trình
+Introduction to Programming
+3
+20
+25
+III
+Khối kiến thức theo khối ngành
+10
+18
+ELT2035
+Tín hiệu và hệ thống
+Signals and Systems
+3
+45
+MAT1041
+19
+INT2210
+Cấu trúc dữ liệu và giải thuật
+Data Structures and Algorithms
+4
+45
+15
+INT1008
+20
+MAT1101
+Xác suất thống kê
+Probability and Statistic
+3
+30
+15
+MAT1041
+IV
+Khối kiến thức theo nhóm ngành
+29
+21
+AER1001
+Giới thiệu về Hàng không Vũ trụ
+Introduction to Aerospace Engineering
+3
+30
+15
+22
+AER2011
+Phương pháp số
+Numerical Methods
+3
+30
+15
+MAT1093
+MAT1042
+23
+AER2012
+Cơ học chất lỏng
+Fluid Mechanisms
+4
+45
+15
+24
+AER2003
+Kỹ thuật Điện – Điện tử Hàng không
+Aerospace Electric- Electronic Engineering
+3
+45
+ELT2035
+25
+AER2004
+Phương pháp số nâng cao cho Công nghệ Hàng không vũ trụ
+Advanced Numerical Methods for Aerospace Engineering
+3
+30
+15
+AER2011
+26
+EMA2032
+Hình hoạ kỹ thuật và CAD
+Geometric Engineering and CAD
+3
+30
+15
+27
+AER2008
+Sức bền vật liệu
+Strength of Materials
+3
+45
+28
+AER2013
+Cơ học kỹ thuật cho Công nghệ Hàng không Vũ trụ
+Theoretical Mechanics in Aerospace Engineering
+3
+30
+15
+MAT1093
+MAT1042
+29
+INT2215
+Lập trình nâng cao
+Advanced Programming
+4
+30
+30
+INT1008
+V
+Khối kiến thức ngành
+73
+V.1. Các học phần
+bắt buộc
+26
+30
+AER2038
+Nhiệt động lực học
+Thermodynamic E
+ngineering
+3
+45
+0
+31
+AER3051
+Lý thuyết điều khiển tự động
+Theory of Automation and Control
+3
+45
+ELT2035
+32
+EMA2041
+Phương trình vi phân và đạo hàm riêng
+Ordinary and Partial Differential Equations
+4
+45
+15
+MAT1093
+MAT1042
+33
+AER3001
+Kết cấu hàng không
+Aerospace Structures
+3
+45
+34
+AER3002
+Động học hệ thống và dao động
+System Dynamic and Vibration
+3
+30
+15
+35
+AER3004
+Thiết kế thiết bị bay
+Aerospace System Design
+3
+30
+15
+36
+AER3003
+Hệ thống đẩy
+Propulsion Systems
+3
+45
+37
+AER3016
+Khí động lực học
+Aerodynamics
+4
+45
+15
+V.2.

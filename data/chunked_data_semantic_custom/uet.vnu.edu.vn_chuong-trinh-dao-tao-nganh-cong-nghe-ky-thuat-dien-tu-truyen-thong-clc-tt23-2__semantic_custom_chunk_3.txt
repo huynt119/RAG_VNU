@@ -1,0 +1,19 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-ky-thuat-dien-tu-truyen-thong-clc-tt23-2_.txt
+
+Vị trí làm việc mà sinh viên có thể đảm nhiệm sau khi tốt nghiệp
+Người tốt nghiệp có đủ kiến thức để lựa chọn một trong những nhóm nghề nghiệp phù hợp dưới đây:
+Nhóm 1: Giảng viên/nghiên cứu viên
+Nhóm 2: Chuyên gia kỹ thuật
+Nhóm 3: Quản trị dự án kỹ thuật
+Nhóm 4: Doanh nhân trong lĩnh vực ĐTVT
+Một số nhiệm vụ, được thể hiện qua mô tả việc làm từ một số công ty trong lĩnh vực ĐTVT:
+Chuyên gia về hệ thống nhúng:
+Phát triển các phần mềm điều khiển phần cứng trên hệ điều hành Linux cho các hệ thống nhúng;
+Có kiến thức tốt về các kiến trúc vi xử lý đa lõi;
+Xây dựng nhóm và triển khai các hệ nhúng có liên quan tới compiler/debugger;
+Có khả năng phân tích vấn đề và làm chủ dự án, quản lý các thành viên trong nhóm để thực thi dự án;
+Có khả năng giao tiếp tiếng Anh tốt, trao đổi trực tiếp với khách hàng qua email được viết bằng tiếng Anh. Kỹ sư truyền thông:
+Thiết lập, kiểm tra, duy trì và bảo dưỡng các thiết bị của mạng NGN GSM/CDMA, 3G BSS hoặc 3G NSS;
+Đưa ra các giải pháp kỹ thuật hỗ trợ khách hàng từ xa và khắc phục các sự cố kỹ thuật liên quan;
+Có kinh nghiệm trong việc thiết lập và bảo dưỡng các thiết bị tổng đài chuyển mạch di động BSC, trạm gốc BTS; hay trung tâm chuyển mạch MSC, HLR;
+Có khả năng giao tiếp tiếng Anh tốt.

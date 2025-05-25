@@ -1,0 +1,14 @@
+Nguồn: uet.vnu.edu.vn_thong_tin_lats_cua_ncs_pham_van_canh_.txt
+
+Tóm tắt các
+kết quả mới
+của luận án:
+Luận án đã giải quyết 3 bài toán là biến thể của bài toán tối đa ảnh hưởng (IM) và ngăn chặn ảnh hưởng (IB) bao gồm: tối đa ảnh hưởng cạnh tranh có ràng buộc thời gian và ngân sách (BCIM), ngăn chặn thông tin sai lệch với ràng buộc về thời gian và chi phí (MMR), ngăn chặn thông tin sai lệch có chủ đích (TMB). Các kết quả cụ thể như sau:
+Nghiên cứu độ phức tạp và đề xuất các thuật toán giải quyết bài toán tối đa hóa ảnh hưởng cạnh tranh với ràng buộc thời gian và ngân sách BCIM, bao gồm:
+Đề suất thuật toán PBA để xây dựng thuật toán xấp xỉ Sandwich SPBA dựa trên mô hình cạnh tranh ràng buộc thời gian TCLT. Đề xuất thuật toán tham lam Greedy++ giải quyết bài toán tối đa ảnh hưởng cạnh tranh CIM trên mô hình cạnh tranh ngưỡng tuyến tính xác định DCLT
+Nghiên cứu độ phức tạp và đề xuất các thuật toán giải quyết bài toán hạn chế tối đa thông tin sai lệch MMR với ràng buộc về thời gian và ngân sách với ý tưởng xóa bỏ các đỉnh (tiêm vắc xin), bao gồm:
+Thuật toán tham lam tăng tốc SG (cải tiến từ đề xuất FPTAS, IGA) theo tiếp cận xấp xỉ dựa trên mô hình lan truyền LT.
+Thuật toán PR-DAG theo tiếp cận heuristic. Nghiên cứu độ phức tạp và đề xuất các thuật toán giải quyết bài toán ngăn chặn thông tin sai lệch có chủ đích TMB dựa trên mô hình LT và IC, bao gồm:
+Thuật toán heuristic STMB-LT dựa trên mô hình LT
+Thuật toán heuristic STMB-IC dựa trên mô hình IC
+12.

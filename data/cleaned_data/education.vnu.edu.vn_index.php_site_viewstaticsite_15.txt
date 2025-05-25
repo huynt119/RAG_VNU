@@ -1,0 +1,24 @@
+Chương trình đào tạo
+Chương trình đào tạo
+Đào tạo Cử nhân
+- Sư phạm Toán học
+- Sư phạm Vật lý
+- Sư phạm Sinh học
+- Sư phạm Khoa học Tự nhiên
+- Sư phạm Ngữ văn
+- Sư phạm Lịch sử
+- Sư phạm Lịch sử và Địa lý
+Đào tạo Thạc sĩ
+- Thạc sĩ Lí luận và phương pháp dạy học bộ môn Toán học
+- Thạc sĩ Lí luận và phương pháp dạy học bộ môn
+Vật lý
+- Thạc sĩ Lí luận và phương pháp dạy học bộ môn
+Hoá học
+- Thạc sĩ Lí luận và phương pháp dạy học bộ môn
+Sinh học
+- Thạc sĩ Lí luận và phương pháp dạy học bộ môn
+Ngữ văn
+- Thạc sĩ Lí luận và phương pháp dạy học bộ môn
+Lịch sử
+Đào tạo Tiến sĩ
+- Tiến sĩ lí luận, phương pháp và công nghệ dạy học

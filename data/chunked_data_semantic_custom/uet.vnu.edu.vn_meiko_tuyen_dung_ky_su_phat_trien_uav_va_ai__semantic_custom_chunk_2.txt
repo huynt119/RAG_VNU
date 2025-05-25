@@ -1,0 +1,24 @@
+Nguồn: uet.vnu.edu.vn_meiko_tuyen_dung_ky_su_phat_trien_uav_va_ai_.txt
+
+Yêu cầu tuyển dụng
+: KĨ SƯ AI
+Lập trình AI (Python, C++, Java)
+Mô tả công việc:
+– Sử dụng công nghệ A.I (trí tuệ nhân tạo) để phát triển các công cụ và giải pháp Nhận dạng / phát hiện/ điều khiển/ tự động hóa/ Robot…
+– Phân tích và tạo đặc tả phần mềm
+– Tạo thiết kế hệ thống với sự hướng dẫn của Trưởng nhóm
+– Tạo thiết kế chi tiết một cách độc lập
+– Điều chỉnh dữ liệu thô AI để đào tạo máy
+– Viết mã và Unit test cho các dự án
+Yêu cầu công việc:
+– Tốt nghiệp chuyên ngành Khoa học máy tính, Toán tin ứng dụng  các trường ĐH Bách Khoa, Đại học Quốc gia, ĐH Công Nghiệp Hà Nội
+– Có kinh nghiệm lập trình với kiến thức về Python và AI , ưu tiên ứng viên đã làm các dự án về AI và học máy
+– Có kinh nghiệm làm việc với một trong các framework về Machine Learning như tensorflow/keras, scikit-learn, MLib … (optional)
+– Có kinh nghiệm làm việc trong dự án thực tế về Machine Learning (optional)
+– Có tư duy logic và kỹ năng giải quyết vấn đề
+– Kỹ năng quản lý thời gian và khả năng ưu tiên công việc tốt
+– Tiếng Anh: đọc và viết tài liệu CNTT
+–
+Lương hấp dẫn: 9tr – 30tr/tháng
+(tùy thuộc kinh nghiệm và năng lực của ứng viên)
+– Thưởng tháng lương 13, du lịch công ty, khám sức khỏe định kì, chế độ phúc lợi xã hội tốt.

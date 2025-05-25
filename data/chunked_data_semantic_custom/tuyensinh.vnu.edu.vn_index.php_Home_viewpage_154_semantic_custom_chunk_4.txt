@@ -1,0 +1,450 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewpage_154.txt
+
+C
+h
+ỉ
+t
+i
+ê
+u
+t
+u
+y
+ể
+n
+s
+i
+nh
+TT
+Trình độ đào tạo
+Mã xét tuyển
+Ngành/CTĐT
+xét tuyển
+Mã phương
+thức xét tuyển
+Phương thức xét tuyển
+Chỉ tiêu
+Mã tổ hợp xét tuyển theo kết quả thi tốt nghiệp THPT
+Tổ hợp xét tuyển PTXT kết quả thi
+tốt nghiệp THPT năm 2024
+Tổ hợp xét tuyển phương thức khác
+Tổ hợp xét tuyển 1
+Tổ hợp xét tuyển 2
+Tổ hợp xét tuyển 3
+Tổ hợp xét tuyển 4
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+I
+Lĩnh vực Khoa học xã hội và hành vi
+1
+Đại học
+VJU1
+Nhật Bản học
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2024
+36
+A01/D28
+D01/D06
+D14/D63
+D78/D81
+401
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQGHN tổ chức
+36
+Q00
+402
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQG-HCM tổ chức
+501
+Xét
+hồ sơ năng lực thí sinh (đánh giá hồ sơ và phỏng vấn)
+36
+J51
+408
+Xét tuyển kết quả trong kỳ thi chuẩn hóa SAT
+(
+Scholastic Assessment Test, Hoa Kỳ)
+2
+J48
+Xét tuyển kết quả trong kỳ thi chuẩn hóa ACT (American College Testing)
+Xét tuyển chứng chỉ A-Level (Cambridge International Examinations A-Level, UK)
+301
+Xét tuyển thẳng, ưu tiên xét tuyển theo quy định của Quy chế tuyển sinh hiện hành của Bộ GD&ĐT (Điều 8)
+2
+J31
+303
+Xét tuyển thẳng, ưu tiên xét tuyển theo Quy định đặc thù và hướng dẫn tuyển sinh của ĐHQGHN
+J33
+409
+Xét tuyển chứng chỉ ngoại ngữ kết hợp kết quả thi tốt nghiệp THPT năm 2024
+8
+J49
+TT
+Trình độ đào tạo
+Mã xét tuyển
+Ngành/CTĐT
+xét tuyển
+Mã phương
+thức xét tuyển
+Phương thức xét tuyển
+Chỉ tiêu
+Mã tổ hợp xét tuyển theo kết quả thi tốt nghiệp THPT
+Tổ hợp xét tuyển PTXT kết quả thi
+tốt nghiệp THPT năm 2024
+Tổ hợp xét tuyển phương thức khác
+Tổ hợp xét tuyển 1
+Tổ hợp xét tuyển 2
+Tổ hợp xét tuyển 3
+Tổ hợp xét tuyển 4
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+II
+Lĩnh vực máy tính và công nghệ thông tin
+2
+Đại học
+VJU2
+Khoa học và Kỹ thuật máy tính
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2024
+45
+A00
+A01/D28
+D07/D23
+D08/D33
+401
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQGHN tổ chức
+45
+Q00
+402
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQG-HCM tổ chức
+501
+Xét
+hồ sơ năng lực thí sinh (đánh giá hồ sơ và phỏng vấn)
+45
+J51
+408
+Xét tuyển kết quả trong kỳ thi chuẩn hóa SAT
+(
+Scholastic Assessment Test, Hoa Kỳ)
+3
+J48
+Xét tuyển kết quả trong kỳ thi chuẩn hóa ACT (American College Testing)
+Xét tuyển chứng chỉ A-Level (Cambridge International Examinations A-Level, UK)
+301
+Xét tuyển thẳng, ưu tiên xét tuyển theo quy định của Quy chế tuyển sinh hiện hành của Bộ GD&ĐT (Điều 8)
+3
+J31
+303
+Xét tuyển thẳng, ưu tiên xét tuyển theo Quy định đặc thù và hướng dẫn tuyển sinh của ĐHQGHN
+J33
+409
+Xét tuyển chứng chỉ ngoại ngữ kết hợp kết quả thi tốt nghiệp THPT năm 2024
+9
+J49
+TT
+Trình độ đào tạo
+Mã xét tuyển
+Ngành/ CTĐT
+xét tuyển
+Mã phương
+thức xét tuyển
+Phương thức xét tuyển
+Chỉ tiêu
+Mã tổ hợp xét tuyển theo kết quả thi tốt nghiệp THPT
+Tổ hợp xét tuyển PTXT kết quả thi
+tốt nghiệp THPT năm 2024
+Tổ hợp xét tuyển phương thức khác
+Tổ hợp xét tuyển 1
+Tổ hợp xét tuyển 2
+Tổ hợp xét tuyển 3
+Tổ hợp xét tuyển 4
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+III
+Lĩnh vực Kỹ thuật
+3
+Đại học
+VJU3
+Kỹ thuật cơ điện tử (Cơ điện tử thông minh và sản xuất theo phương thức Nhật  Bản)
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2024
+17
+A00
+A01/D28
+D07/D23
+D01/D06*
+401
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQGHN tổ chức
+16
+Q00
+402
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQG-HCM tổ chức
+501
+Xét
+hồ sơ năng lực thí sinh (đánh giá hồ sơ và phỏng vấn)
+17
+J51
+408
+Xét tuyển kết quả trong kỳ thi chuẩn hóa SAT
+(
+Scholastic Assessment Test, Hoa Kỳ)
+1
+J48
+Xét tuyển kết quả trong kỳ thi chuẩn hóa ACT (American College Testing)
+Xét tuyển chứng chỉ A-Level (Cambridge International Examinations A-Level, UK)
+301
+Xét tuyển thẳng, ưu tiên xét tuyển theo quy định của Quy chế tuyển sinh hiện hành của Bộ GD&ĐT (Điều 8)
+2
+J31
+303
+Xét tuyển thẳng, ưu tiên xét tuyển theo Quy định đặc thù và hướng dẫn tuyển sinh của ĐHQGHN
+J33
+409
+Xét tuyển chứng chỉ ngoại ngữ kết hợp kết quả thi tốt nghiệp THPT năm 2024
+2
+J49
+TT
+Trình độ đào tạo
+Mã xét tuyển
+Ngành/ CTĐT
+xét tuyển
+Mã phương
+thức xét tuyển
+Phương thức xét tuyển
+Chỉ tiêu
+Mã tổ hợp xét tuyển theo kết quả thi tốt nghiệp THPT
+Tổ hợp xét tuyển PTXT kết quả thi
+tốt nghiệp THPT năm 2024
+Tổ hợp xét tuyển phương thức khác
+Tổ hợp xét tuyển 1
+Tổ hợp xét tuyển 2
+Tổ hợp xét tuyển 3
+Tổ hợp xét tuyển 4
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+IV
+Lĩnh vực Sản xuất và chế biến
+4
+Đại học
+VJU4
+Công nghệ thực phẩm và sức khỏe
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2024
+17
+A00
+B00
+A01/D28
+D01/D06
+401
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQGHN tổ chức
+16
+Q00
+402
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQG-HCM tổ chức
+501
+Xét
+hồ sơ năng lực thí sinh (đánh giá hồ sơ và phỏng vấn)
+17
+J51
+408
+Xét tuyển kết quả trong kỳ thi chuẩn hóa SAT
+(
+Scholastic Assessment Test, Hoa Kỳ)
+1
+J48
+Xét tuyển kết quả trong kỳ thi chuẩn hóa ACT (American College Testing)
+Xét tuyển chứng chỉ A-Level (Cambridge International Examinations A-Level, UK)
+301
+Xét tuyển thẳng, ưu tiên xét tuyển theo quy định của Quy chế tuyển sinh hiện hành của Bộ GD&ĐT (Điều 8)
+2
+J31
+303
+Xét tuyển thẳng, ưu tiên xét tuyển theo Quy định đặc thù và hướng dẫn tuyển sinh của ĐHQGHN
+J33
+409
+Xét tuyển chứng chỉ ngoại ngữ kết hợp kết quả thi tốt nghiệp THPT năm 2024
+2
+J49
+TT
+Trình độ đào tạo
+Mã xét tuyển
+Ngành/ CTĐT
+xét tuyển
+Mã phương
+thức xét tuyển
+Phương thức xét tuyển
+Chỉ tiêu
+Mã tổ hợp xét tuyển theo kết quả thi tốt nghiệp THPT
+Tổ hợp xét tuyển PTXT kết quả thi
+tốt nghiệp THPT năm 2024
+Tổ hợp xét tuyển phương thức khác
+Tổ hợp xét tuyển 1
+Tổ hợp xét tuyển 2
+Tổ hợp xét tuyển 3
+Tổ hợp xét tuyển 4
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+V
+Lĩnh vực Nông, lâm nghiệp và thủy sản
+5
+Đại học
+VJU5
+Nông nghiệp thông minh và bền vững
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2024
+6
+A00
+B00
+A01/D28
+D01/D06
+401
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQGHN tổ chức
+5
+Q00
+402
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQG-HCM tổ chức
+501
+Xét
+hồ sơ năng lực thí sinh (đánh giá hồ sơ và phỏng vấn)
+6
+J51
+408
+Xét tuyển kết quả trong kỳ thi chuẩn hóa SAT
+(
+Scholastic Assessment Test, Hoa Kỳ)
+1
+J48
+Xét tuyển kết quả trong kỳ thi chuẩn hóa ACT (American College Testing)
+Xét tuyển chứng chỉ A-Level (Cambridge International Examinations A-Level, UK)
+301
+Xét tuyển thẳng, ưu tiên xét tuyển theo quy định của Quy chế tuyển sinh hiện hành của Bộ GD&ĐT (Điều 8)
+1
+J31
+303
+Xét tuyển thẳng, ưu tiên xét tuyển theo Quy định đặc thù và hướng dẫn tuyển sinh của ĐHQGHN
+J33
+409
+Xét tuyển chứng chỉ ngoại ngữ kết hợp kết quả thi tốt nghiệp THPT năm 2024
+1
+J49
+TT
+Trình độ đào tạo
+Mã xét tuyển
+Ngành/
+CTĐT
+xét tuyển
+Mã phương
+thức xét tuyển
+Phương thức xét tuyển
+Chỉ tiêu
+Mã tổ hợp xét tuyển theo kết quả thi tốt nghiệp THPT
+Tổ hợp xét tuyển PTXT kết quả thi
+tốt nghiệp THPT năm 2024
+Tổ hợp xét tuyển phương thức khác
+Tổ hợp xét tuyển 1
+Tổ hợp xét tuyển 2
+Tổ hợp xét tuyển 3
+Tổ hợp xét tuyển 4
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+VI
+Lĩnh vực Kiến trúc và xây dựng
+6
+Đại học
+VJU6
+Kỹ thuật xây dựng
+100
+Xét tuyển kết quả thi tốt nghiệp THPT năm 2024
+15
+A00
+A01/D28
+D07/D23
+D01/D06
+401
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQGHN tổ chức
+15
+Q00
+402
+Xét tuyển dựa trên kết quả thi đánh giá năng lực cho học sinh THPT do ĐHQG-HCM tổ chức
+501
+Xét
+hồ sơ năng lực thí sinh (đánh giá hồ sơ và phỏng vấn)
+15
+J51
+408
+Xét tuyển kết quả trong kỳ thi chuẩn hóa SAT
+(
+Scholastic Assessment Test, Hoa Kỳ)
+2
+J48
+Xét tuyển kết quả trong kỳ thi chuẩn hóa ACT (American College Testing)
+Xét tuyển chứng chỉ A-Level (Cambridge International Examinations A-Level, UK)
+301
+Xét tuyển thẳng, ưu tiên xét tuyển theo quy định của Quy chế tuyển sinh hiện hành của Bộ GD&ĐT (Điều 8)
+1
+J31
+303
+Xét tuyển thẳng, ưu tiên xét tuyển theo Quy định đặc thù và hướng dẫn tuyển sinh của ĐHQGHN
+J33
+409
+Xét tuyển chứng chỉ ngoại ngữ kết hợp kết quả thi tốt nghiệp THPT năm 2024
+2
+J49
+Tổng
+450
+Tổ hợp xét tuyển:
+A01: Toán, Vật lí, Tiếng Anh
+A00: Toán, Vật lí, Hóa học
+D28: Toán, Vật lí, Tiếng Nhật
+B00: Toán, Vật lí, Sinh học
+D01: Ngữ văn, Toán, Tiếng Anh
+D07: Toán, Hóa học, Tiếng Anh
+D06: Ngữ văn, Toán, Tiếng Nhật
+D23: Toán, Hóa học, Tiếng Nhật
+D14: Ngữ văn, Lịch sử, Tiếng Anh
+D08: Toán, Sinh học, Tiếng Anh
+D63: Ngữ văn, Lịch sử, Tiếng Nhật
+D33: Toán, Sinh học, Tiếng Nhật
+D78: Ngữ văn, Khoa học xã hội, Tiếng Anh
+D81: Ngữ văn, Khoa học xã hội, Tiếng Nhật
+5.

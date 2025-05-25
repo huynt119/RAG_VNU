@@ -1,0 +1,45 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-thong-thong-tin-10_.txt
+
+Các kỹ năng nghề nghiệp
+Các kỹ năng nghề nghiệp chung
+Có kỹ năng hoàn thành công việc phức tạp đòi hỏi vận dụng kiến thức lý thuyết và thực tiễn của ngành được đào tạo trong những bối cảnh khác nhau; có kỹ năng phân tích, tổng hợp, đánh giá dữ liệu và thông tin, tổng hợp ý kiến tập thể và sử dụng những thành tựu mới về khoa học công nghệ để giải quyết những vấn đề thực tế hay trừu tượng trong lĩnh vực được đào tạo; có năng lực dẫn dắt chuyên môn để xử lý những vấn đề quy mô địa phương và vùng miền;
+Vận dụng các kiến thực cơ bản về Toán và Vật lý trong khoa học công nghệ và đời sống;
+Biết lập trình và sử dụng các công cụ phần mềm;
+Biết và vận dụng được qui trình thiết kế, phân đoạn qui trình thiết kế và phương pháp tiếp cận;
+Biết và vận dụng qui trình lập kế hoạch, sắp xếp công việc, quản lý thời gian và nguồn lực;
+Biết tìm kiếm, cập nhật, tổng hợp, khai thác thông tin;
+T
+hiết kế cơ hội để cải t
+iến
+tổ chức
+dựa trên
+CNTT
+(Hình thành ý tưởng)
+Liên kết chiến lược CNTT (chiến lược HTTT) và chiến lược tổ chức: từng phần và đầy đủ;
+Cải thiện quy trình tổ chức nhờ các giải pháp CNTT;
+Hiểu và thiết kế vai trò của HTTT quản lý rủi ro của tổ chức và thiết lập giám sát rủi ro;
+Xác định chính xác và khai thác tốt cơ hội được tạo ra thông qua đổi mới công nghệ mới nổi;
+Làm tài liệu về yêu cầu thông tin;
+Nâng cao kinh nghiệm của các bên liên quan (nhà đầu tư) trong tương tác với các tổ chức, bao gồm các vấn đề tương tác người-máy;
+Quản lý được dự án HTTT. Thiết kế
+và thi hành
+giải pháp HTTT
+(Thiết kế và thi hành)
+Thiết kế kiến ​​trúc doanh nghiệp;
+Xác định, đánh giá, và thu thập các giải pháp cụ thể và các tùy chọn tìm nguồn cung ứng, cấu hình và tích hợp các giải pháp tổ chức sử dụng các giải pháp đóng gói;
+Thiết kế và thi hành các giải pháp cung cấp một trải nghiệm người dùng chất lượng cao đối với HTTT;
+Thiết kế an toàn hệ thống và hạ tầng dữ liệu;
+Thiết kế và thi hành các ứng dụng, kiến ​​trúc ứng dụng và hệ thống tích hợp ứng dụng;
+Quản lý và khai thác dữ liệu và thông tin tổ chức, thiết kế các mô hình dữ liệu và thông tin;
+Quản lý tài nguyên phát triển / mua sắm HTTT;
+Quản lý dự án HTTT. Quản lý hoạt động
+CNTT
+đang diễn ra
+(Vận hành)
+Quản lý việc sử dụng các nguồn tài nguyên công nghệ doanh nghiệp;
+Quản lý hiệu suất và năng lực mở rộng ứng dụng;
+Duy trì HTTT hiện có;
+Quản lý mối quan hệ với các nhà cung cấp dịch vụ công nghệ;
+Bảo mật dữ liệu và hạ tầng hệ thống;
+Đảm bảo tính liên tục kinh doanh;
+Cải tiến và tiến hoá HTTT.

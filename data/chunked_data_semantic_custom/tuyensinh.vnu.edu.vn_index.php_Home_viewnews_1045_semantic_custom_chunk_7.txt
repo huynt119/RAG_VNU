@@ -1,0 +1,90 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnews_1045.txt
+
+Tên trường, mã trường, mã ngành, tổ hợp xét tuyển
+Tên trường: Khoa Luật - Đại học Quốc gia Hà Nội
+Mã trường: QHL
+TT
+Tên ngành đào tạo/Tổ hợp xét tuyển
+Mã ngành
+Mã tổ hợp
+Chỉ tiêu
+Ghi chú
+Thi THPT
+Phương thức khác
+1
+Luật
+1.1
+Luật
+7380101
+218
+162
+Ngữ văn, Lịch sử, Địa lý
+C00
+82
+Xét tuyển theo chỉ tiêu từng tổ hợp
+Toán, Vật lý, Hóa học
+A00
+50
+Ngữ văn, Toán, Ngoại ngữ
+D01
+60
+D03
+03
+Ngữ Văn, Ngoại ngữ, KHXH
+D78
+20
+D82
+03
+1.2
+Luật chất lượng cao theo TT23
+(thu học phí  theo điều kiện đảm bảo chất lượng đáp ứng Thông tư 23 của Bộ GD&ĐT)
+7380101CLC
+72
+48
+Xét điểm theo ngành, điểm thi THPT tiếng Anh tối thiểu 6.0/10
+Toán, Vật lý, Tiếng Anh
+A01
+Ngữ văn, Toán, Tiếng Anh
+D01
+Toán, Hóa học, Tiếng Anh
+D07
+Ngữ Văn, Tiếng Anh, KHXH
+D78
+2
+Luật Kinh doanh
+7380110
+111
+79
+Xét điểm theo ngành
+Toán, Vật lý, Hóa học
+A00
+Toán, Vật lý, Tiếng Anh
+A01
+Ngữ văn, Toán, Ngoại ngữ
+D01, D03
+Toán, Ngoại ngữ, KHTN
+D90, D91
+3
+Luật Thương mại quốc tế
+7380109
+33
+27
+Xét điểm theo ngành
+Toán, Vật lý, Hóa học
+A00
+Toán, Vật lý, Tiếng Anh
+A01
+Ngữ văn, Toán, Ngoại ngữ
+D01
+Ngữ Văn, Ngoại ngữ, KHXH
+D78, D82
+1.6.2. Tiêu chí phụ
+Đối với phương thức xét điểm thi THPT
+- Tiêu chí phụ 1:
++ Đối với chương trình chuẩn:
+Trong trường hợp tại ngưỡng điểm trúng tuyển của từng ngành, số thí sinh bằng ngưỡng điểm trúng tuyển nhiều hơn số chỉ tiêu xét tuyển còn lại của từng ngành (số chỉ tiêu xét tuyển còn lại bằng chỉ tiêu xét tuyển trừ số thí sinh có số điểm cao hơn ngưỡng điểm xét tuyển) thì tiêu chí phụ là tổng điểm xét tuyển không bao gồm điểm ưu tiên khu vực và đối tượng;
++ Đối với chương trình CLC thu học phí theo điều kiện đảm bảo chất lượng đáp ứng Thông tư 23 của Bộ GD&ĐT: đối với các thí sinh bằng điểm xét tuyển ở cuối danh sách thì xét trúng tuyển căn cứ theo điểm từ cao xuống thấp của môn thi Tiếng Anh;
+- Tiêu chí phụ 2:
+Theo thứ tự nguyện vọng đăng ký xét tuyển vào Khoa. Đối với phương thức 2, 3, 4, 5, 6: tiêu chí phụ được quy định cụ thể trong
+“Hướng dẫn Xét tuyển thẳng, ưu tiên xét tuyển và Xét tuyển theo phương thức khác vào Khoa Luật, ĐHQGHN năm 2022” được công khai trên website của Khoa
+, đường link: https://law.vnu.edu.vn/acategory-Tin-DHQGHN-1098-1.html.

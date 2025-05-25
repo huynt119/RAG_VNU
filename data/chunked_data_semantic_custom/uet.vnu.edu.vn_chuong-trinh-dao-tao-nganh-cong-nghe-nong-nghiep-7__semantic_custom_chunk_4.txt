@@ -1,0 +1,324 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-cong-nghe-nong-nghiep-7_.txt
+
+Định hướng chuyên sâu về Công nghệ sinh học nông nghiệp
+27
+44
+AGT3120
+Công nghệ sinh học phân tử
+Molecular Biology Technology
+4
+45
+15
+AGT2103
+AGT2111
+45
+AGT3121
+Công nghệ vi sinh nông nghiệp
+Agricultural Microbiology Technology
+4
+45
+15
+AGT2111
+46
+AGT3122
+Công nghệ tế bào động và thực vật
+Animal and Plant Cell Technology
+4
+45
+15
+AGT2111
+47
+AGT3023
+Công nghệ nhân giống cây trồng và vật nuôi
+Plant and Livestock Propagation Technology
+3
+30
+15
+AGT2105
+AGT2106
+48
+AGT2009
+Công nghệ nano trong nông nghiệp
+Nanotechnology in Agriculture
+3
+35
+10
+AGT2103
+49
+AGT3134
+Công nghệ mới trong chọn tạo giống cây trồng, vật nuôi
+Advanced
+T
+echnology in
+P
+lant and
+A
+nimal
+B
+reeding
+3
+30
+15
+AGT3120
+50
+AGT3130
+Công nghệ canh tác nấm và cây trồng ngắn ngày
+Cultivation Technology of Mushroom and Short-day Crops
+3
+20
+25
+AGT2105
+51
+AGT3135
+Nghiên cứu phát triển sản phẩm
+Products Research and Development
+3
+30
+15
+V.2.3. Định hướng chuyên sâu về Tin sinh học nông nghiệp
+27
+52
+AGT3101
+Lập trình Python cho nông nghiệp
+Python Programming for Agriculture
+3
+45
+INT1008
+53
+AGT3102
+Lập trình trực quan hóa dữ liệu
+Programming for Data
+V
+isualization
+3
+45
+54
+AGT3103
+Phân tích dữ liệu nông nghiệp
+Analysis of Agricultural Data
+3
+45
+55
+AGT3104
+Ứng dụng trí tuệ nhân tạo trong nông nghiệp
+AI
+A
+pplication in Agriculture
+3
+45
+56
+AGT3105
+Chuyên đề nông nghiệp số
+Special Problems in Digital Agriculture
+3
+45
+57
+AGT3120
+Công nghệ sinh học phân tử
+Molecular Biology Technology
+4
+45
+15
+AGT2111
+58
+AGT3134
+Công nghệ mới trong chọn tạo giống cây trồng, vật nuôi
+Advanced
+T
+echnology in
+P
+lant and
+A
+nimal
+B
+reeding
+3
+30
+15
+AGT3120
+59
+AGT3023
+Công nghệ nhân giống cây trồng và vật nuôi
+Plant and Livestock Propagation Technology
+3
+30
+15
+AGT2105
+AGT2106
+60
+AGT3112
+Tin sinh học nông nghiệp
+Agricultural Bioinformatics
+2
+20
+10
+AGT3120
+INT1008
+V.3
+Các học phần tự chọn
+15/52
+61
+AGT2012
+Quản trị sản xuất và logistics trong nông nghiệp
+Production Management and Logistics in Agriculture
+3
+45
+62
+AGT3016
+Công nghệ sau thu hoạch
+Postharvest Technology
+3
+30
+15
+AGT2111
+63
+AGT3117
+Quản lý và kiểm nghiệm chất lượng an toàn nông sản và thực phẩm. Quality Management and Control for Food and Agricultural Products
+3
+30
+15
+AGT2103
+AGT2111
+64
+AGT3025
+Thiết kế, quản lý và vận hành các hệ thống thiết bị nông nghiệp
+Design, Management and Operation of
+A
+gricultural
+E
+quipment
+S
+ystems
+3
+30
+15
+EPN1096
+65
+AGT3026
+Marketing trong nông nghiệp
+Marketing in Agriculture
+3
+45
+66
+AGT3128
+Tiếng Anh chuyên ngành
+English for
+S
+pecific
+P
+urpose
+3
+30
+15
+AGT2000
+67
+AGT3129
+Các vấn đề hiện đại trong công nghệ nông nghiệp
+Advanced Topics in Agricultural Technology
+3
+40
+5
+AGT2105
+AGT2106
+AGT2107
+68
+AGT3032
+Kiểm soát ô nhiễm trong sản xuất nông nghiệp
+Pollution
+C
+ontrol in
+A
+gricultural
+P
+roduction
+3
+45
+AGT2105
+AGT2106
+AGT2107
+69
+AGT3109
+Quản lý quy trình sản xuất nông nghiệp
+Manufacturing Procedures Management in Agriculture
+3
+45
+70
+AGT3110
+GIS và viễn thám trong nông nghiệp
+GIS and Remote Sensing in Agriculture
+3
+45
+71
+INT2212
+Kiến trúc máy tính
+Computer Architecture
+4
+60
+INT1009
+72
+INT2213
+Mạng máy tính
+Computer Network
+4
+45
+15
+INT1008
+73
+INT2204
+Lập trình hướng đối tượng
+Object-Oriented Programming
+3
+30
+15
+INT1008
+74
+INT2215
+Lập trình nâng cao
+Advanced Programming
+4
+45
+15
+INT1008
+75
+INT2210
+Cấu trúc dữ liệu và giải thuật
+Data
+S
+tructures and
+A
+lgorithms
+4
+45
+15
+INT1008
+76
+INT3401
+Trí tuệ nhân tạo
+Artificial Intelligence
+3
+45
+INT2210
+V.4
+Các học phần lựa chọn bổ trợ
+6
+77
+UET1002
+Kỹ năng khởi nghiệp
+Entrepreneurship
+2
+30
+78
+Các học phần thuộc các CTĐT do các đơn vị trong ĐHQGHN đào tạo
+4
+V.4
+Đồ án tốt nghiệp
+10
+79
+AGT4000
+Đồ án tốt nghiệp
+Thesis
+10
+Tổng cộng
+150
+Ghi chú:
+Học phần Kỹ năng bổ trợ, Giáo dục thể chất, Giáo dục quốc phòng – an ninh, không được tính vào tổng số tín chỉ của chương trình đào tạo, không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy, nhưng là điều kiện để xét tốt nghiệp.

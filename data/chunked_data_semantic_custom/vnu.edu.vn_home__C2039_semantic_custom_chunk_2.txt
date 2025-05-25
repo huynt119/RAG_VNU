@@ -1,0 +1,106 @@
+Nguồn: vnu.edu.vn_home__C2039.txt
+
+000
+II
+Diện tích sàn xây dựng
+m
+2
+204.933
+1
+Giảng đường
+Số phòng
+phòng
+1.470
+Tổng diện tích
+m
+2
+103.268
+2
+Phòng học máy tính
+Số phòng
+phòng
+83
+Tổng diện tích
+m
+2
+2.639
+3
+Phòng học ngoại ngữ
+Số phòng
+phòng
+64
+Tổng diện tích
+m
+2
+2.016
+4
+Thư­ viện
+m
+2
+6,947
+5
+Phòng thí nghiệm
+Số phòng
+phòng
+68
+Tổng diện tích
+m
+2
+3.415
+6
+Xưởng thực tập, thực hành
+Số phòng
+phòng
+Tổng diện tích
+m
+2
+7
+Ký túc xá thuộc cơ sở đào tạo quản lý
+Số phòng
+phòng
+1.180
+Tổng diện tích
+m
+2
+47.287
+8
+Diện tích nhà ăn của cơ sở đào tạo
+m
+2
+2.446
+9
+Diện tích khác:
+Diện tích hội trường
+m
+2
+3.950
+Diện tích nhà văn hóa
+m
+2
+1.389
+Diện tích nhà thi đấu đa năng
+m
+2
+1.102
+Diện tích bể bơi
+m
+2
+Diện tích sân vận động
+m
+2
+2.306
+In bài viết
+Gửi cho bạn bè
+Từ khóa :
+Thông tin liên quan
+Chất lượng đội ngũ cán bộ  (30/10/2013)
+Cơ sở vật chất (06/04/2013)
+Danh mục các Phòng thí nghiệm ở ĐHQGHN (17/06/2011)
+Cơ sở vật chất của ĐHQGHN (17/06/2011)
+Đội ngũ cán bộ  (17/06/2011)
+Điều kiện cơ sở vật chất (17/06/2011)
+Trang:
+1|
+Bản quyền thuộc về Đại học Quốc gia Hà Nội
+Khu đô thị ĐHQGHN tại Hoà Lạc, Thạch Thất, Hà Nội
+Giấy phép số 993/GP-TTĐT ngày 20/3/2020 của Sở Thông tin và Truyền thông Hà Nội.

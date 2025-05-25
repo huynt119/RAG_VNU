@@ -1,0 +1,99 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_433.txt
+
+TRƯỜNG ĐẠI HỌC NGOẠI NGỮ
+Thứ tự
+Mã trường
+Mã xét tuyển
+Tên ngành/Nhóm ngành
+Điểm trúng tuyển
+Năm 2017
+Năm 2018
+1
+QHF
+7220201
+Ngôn ngữ  Anh
+35.25
+31.85
+2
+QHF
+7220201CLC
+Ngôn ngữ  Anh**         (CTĐT CLC TT23)
+Chưa có
+Chưa có
+3
+QHF
+7140231
+Sư phạm tiếng Anh
+34.50
+31.25
+4
+QHF
+7220202
+Ngôn ngữ  Nga
+30.50
+28.85
+5
+QHF
+7220203
+Ngôn ngữ Pháp
+32.25
+30.25
+6
+QHF
+7220203CLC
+Ngôn ngữ Pháp**         (CTĐT CLC TT23)
+Chưa có
+Chưa có
+7
+QHF
+7220203CLC
+Ngôn ngữ Pháp**         (CTĐT CLC TT23)
+Chưa có
+Chưa có
+8
+QHF
+7140234
+Sư phạm tiếng Trung Quốc
+33.00
+31.35
+9
+QHF
+7220205
+Ngôn ngữ Đức
+32.50
+29.50
+10
+QHF
+7220205CLC
+Ngôn ngữ Đức**           (CTĐT CLC TT23)
+Chưa có
+Chưa có
+11
+QHF
+7220211
+Ngôn ngữ  Ả Rập
+30.00
+27.60
+12
+QHF
+7220210CLC
+Ngôn ngữ  Hàn Quốc** (CTĐT CLC TT23)
+28.00
+13
+QHF
+7140237
+Sư phạm tiếng Hàn Quốc
+33.75
+31.50
+14
+QHF
+7220209CLC
+Ngôn ngữ Nhật**           (CTĐT CLC TT23)
+26.50
+15
+QHF
+7140236
+Sư phạm tiếng Nhật
+34.00
+31.15
+Ghi chú: Các ngành đào tạo có ký hiệu (**) có mức học phí khoảng 35.000.000 đồng/năm.

@@ -1,0 +1,99 @@
+INT3414 - Selected Topics on Technology
+Semester II, 2017-2018
+Credits: 3
+Instructor:
+Tran Quoc Long
+(tqlong at vnu.edu.vn)
+Group:
+Facebook
+,
+Group email
+News - Announcement
+Week 01 Report Template
+(16/01) Semester starts: It was nice to meet you all.
+Course contents: Multiple new and hot technologies, and
+most importantly, how to learn new things
+Full stack Web development: MEAN / MERN framework
+Peer-to-Peer digital asset: Blockchain
+Data visualization: D3JS
+Reinforcement learning: OpenAI Gym
+Course materials:
+Text books:
+Blockchain Basics - A Non-Technical Introduction in 25 Steps (
+BLK
+)
+Interactive Data Visualization for the Web. An Introduction to Designing with D3 (
+D3
+)
+Reinforcement Learning: An Introduction (
+RL
+)
+Slides and document links to the Internet provided in this page.
+Assessment (tentative):
+Studying progress (readings, tutorials, weekly reports, project progress reports):
+40%
+Final project (final report and presentation):
+60%
+All groups should submit weekly reports that show progress on
+Knowledge and skills acquired
+individually (by each student)
+Project issues/challenges met and solution approaches/implementation
+(by group)
+Groups
+Group assignments (Google sheets)
+, please fill in your group members, research topics
+Please post the (read-only) links to weekly reports, project reports to the above Google sheets
+Schedule:
+#
+MEAN / MERN
+Blockchain
+D3
+OpenAI
+Deadline
+01
+Web Developer Roadmap
+HTTP protocol
+MEAN
+MERN
+Terminology and Technical Foundation
+(BLK Ch. 1,2,3)
+What is Ethereum
+D3 setup
+(D3 Ch. 1,2,3,4)
+Setup
+Introduction (RL Ch. 1)
+Setup
+02
+MEAN
+MERN
+Why BlockChain
+(BLK Ch. 4,5,6,7)
+Using an Ethereum client
+Create an account
+Manage your account
+Connect to Ethereum network
+Public blockchain
+Multi-armed Bandits (RL Ch. 2)
+Markov decision process
+Learning how to learn, week 1
+03
+04
+Project proposal due
+05
+Learning how to learn, week 2
+06
+07
+Project progress report 1 due
+08
+Learning how to learn, week 3
+09
+10
+11
+Project progress report 2 due
+12
+Learning how to learn, week 4
+13
+14
+Final presentation
+15
+Final presentation and Final project report due

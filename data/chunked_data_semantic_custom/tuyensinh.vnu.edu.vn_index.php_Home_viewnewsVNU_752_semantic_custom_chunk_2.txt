@@ -1,0 +1,285 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewnewsVNU_752.txt
+
+T
+RƯỜNG ĐH KHOA HỌC TỰ NHIÊN
+(1.650 chỉ tiêu)
+1.485
+165
+QHT
+QHT01
+Toán học
+40
+10
+A00
+A01
+D07
+D08
+QHT
+QHT02
+Toán tin
+42
+8
+A00
+A01
+D07
+D08
+QHT
+QHT90
+Máy tính và khoa học thông tin*
+68
+12
+A00
+A01
+D07
+D08
+QHT
+QHT40
+Máy tính và khoa học thông tin**
+48
+2
+A00
+A01
+D07
+D08
+QHT
+QHT93
+Khoa học dữ liệu*
+42
+8
+A00
+A01
+D07
+D08
+QHT
+QHT03
+Vật lý học
+65
+15
+A00
+A01
+B00
+C01
+QHT
+QHT04
+Khoa học vật liệu
+48
+2
+A00
+A01
+B00
+C01
+QHT
+QHT05
+Công nghệ kỹ thuật hạt nhân
+30
+A00
+A01
+B00
+C01
+QHT
+QHT94
+Kỹ thuật điện tử và tin học*
+53
+7
+A00
+A01
+B00
+C01
+QHT
+QHT06
+Hoá học
+47
+13
+A00
+B00
+D07
+QHT
+QHT41
+Hoá học**
+(CTĐT tiên tiến)
+35
+5
+A00
+B00
+D07
+QHT
+QHT07
+Công nghệ kỹ thuật hoá học
+53
+7
+A00
+B00
+D07
+QHT
+QHT42
+Công nghệ kỹ thuật hoá học**
+36
+4
+A00
+B00
+D07
+QHT
+QHT43
+Hoá dược**
+65
+15
+A00
+B00
+D07
+QHT
+QHT08
+Sinh học
+67
+13
+A00
+A02
+B00
+D08
+QHT
+QHT09
+Công nghệ sinh học
+67
+13
+A00
+A02
+B00
+D08
+QHT
+QHT44
+Công nghệ sinh học**
+76
+4
+A00
+A02
+B00
+D08
+QHT
+QHT10
+Địa lí tự nhiên
+28
+2
+A00
+A01
+B00
+D10
+QHT
+QHT91
+Khoa học thông tin địa không gian*
+30
+A00
+A01
+B00
+D10
+QHT
+QHT12
+Quản lý đất đai
+68
+2
+A00
+A01
+B00
+D10
+QHT
+QHT95
+Quản lý phát triển đô thị và bất động sản*
+38
+2
+A00
+A01
+B00
+D10
+QHT
+QHT13
+Khoa học môi trường
+73
+7
+A00
+A01
+B00
+D07
+QHT
+QHT45
+Khoa học môi trường**
+(CTĐT tiên tiến)
+20
+A00
+A01
+B00
+D07
+QHT
+QHT15
+Công nghệ kỹ thuật môi trường
+56
+4
+A00
+A01
+B00
+D07
+QHT
+QHT46
+Công nghệ kỹ thuật môi trường**
+20
+A00
+A01
+B00
+D07
+QHT
+QHT96
+Khoa học và công nghệ thực phẩm*
+46
+4
+A00
+A01
+B00
+D07
+QHT
+QHT16
+Khí tượng và khí hậu học
+46
+4
+A00
+A01
+B00
+D07
+QHT
+QHT17
+Hải dương học
+30
+A00
+A01
+B00
+D07
+QHT
+QHT92
+Tài nguyên và môi trường nước*
+30
+A00
+A01
+B00
+D07
+QHT
+QHT18
+Địa chất học
+30
+A00
+A01
+B00
+D07
+QHT
+QHT20
+Quản lý tài nguyên và môi trường
+48
+2
+A00
+A01
+B00
+D07
+QHT
+QHT97
+Công nghệ quan trắc và giám sát tài nguyên môi trường*
+40
+A00
+A01
+B00
+D07
+3.

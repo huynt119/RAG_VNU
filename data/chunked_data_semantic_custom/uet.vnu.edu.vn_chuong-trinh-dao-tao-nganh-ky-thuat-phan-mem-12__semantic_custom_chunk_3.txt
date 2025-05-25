@@ -1,0 +1,6 @@
+Nguồn: uet.vnu.edu.vn_chuong-trinh-dao-tao-nganh-ky-thuat-phan-mem-12_.txt
+
+Mục tiêu của chương trình đào tạo
+Mục tiêu chung
+Đào tạo các chuyên gia có khả năng nghiên cứu chuyên sâu về Công nghệ phần mềm, có khả năng nghiên cứu độc lập, biết xây dựng các dự án nghiên cứu, tham gia hoặc lãnh đạo các nhóm nghiên cứu, góp phần phát triển ngành công nghệ phần mềm của nước nhà. Mục tiêu cụ thể
+Về kiến thức: Nâng cao đến mức độ hiện đại nhất các kiến thức về Công nghệ phần mềm (CNPM), bổ sung và nâng cao các kiến thức về logic và biểu diễn hình thức. Về kỹ năng: Hoàn thiện các kỹ năng về phân tích, thiết kế các hệ thống phần mềm, kỹ năng nghiên cứu chuyên sâu về lý thuyết và công nghệ. Về năng lực: Tiến sĩ chuyên ngành Kỹ thuật phần mềm (KTPM) có hiểu biết sâu rộng và cập nhật về lĩnh vực phát triển phần mềm, có năng lực nghiên cứu và hướng dẫn nghiên cứu các vấn đề mang tính lý thuyết về CNPM, có năng lực hình thức hóa cao các vấn đề phát triển phần mềm. Về nghiên cứu: Tiến sĩ chuyên ngành KTPM có khả năng thực hiện việc nghiên cứu theo các hướng sau: Tiến trình phát triển phần mềm, mô hình hóa và kiểm chứng phần mềm, sử dụng lại trong phát triển phần mềm, phát triển hệ thống nhúng, thời gian thực.

@@ -1,0 +1,1137 @@
+Nguồn: tuyensinh.vnu.edu.vn_index.php_Home_viewpage_137.txt
+
+Danh sách giảng viên toàn thời gian
+Stt
+Họ và tên
+Chức danh khoa học
+Trình độ chuyên môn
+Chuyên môn đào tạo
+Ngành tham gia giảng dạy
+CĐ
+Đại học
+1
+Nguyễn Hồng Long
+Tiến sĩ
+Pháp y
+Y khoa
+2
+Phan Thảo Nguyên
+Tiến sĩ
+Nội khoa
+Y khoa
+3
+Cao Văn Tuân
+Tiến sĩ
+Tâm lý học LS
+Y khoa
+4
+Vũ Ngọc Hà
+Tiến sĩ
+Y xã hội học
+Y khoa
+5
+Nguyễn Mạnh Hà
+Tiến sĩ
+Tim mạch
+Y khoa
+6
+Nguyễn Thế Bình
+Thạc sĩ
+Quản lý BV
+Y khoa
+7
+Trần Thu Hương
+PGS
+Tiến sĩ
+Tâm lý học
+Y khoa
+8
+Trần Thiết Sơn
+GS
+Tiến sĩ
+PT tạo hình
+Y khoa
+9
+Đồng Văn Thành
+Tiến sĩ
+Nội TM
+Y khoa
+10
+Trịnh Đình Hải
+GS
+Tiến sĩ
+Răng Hàm Mặt
+Y khoa
+11
+Lê Hưng
+Tiến sĩ
+Răng Hàm Mặt
+Y khoa
+12
+Đặng Trần Tiến
+Tiến sĩ
+Bệnh học
+Y khoa
+13
+Lê Nguyên Vũ
+Tiến sĩ
+Y khoa
+Y khoa
+14
+Nguyễn Ngọc Dũng
+Tiến sĩ
+Y khoa
+Y khoa
+15
+Trần Ngọc Lương
+PGS
+Tiến sĩ
+Y học
+Y khoa
+16
+Đoàn Thị Hồng Hoa
+PGS
+Tiến sĩ
+Tai mũi họng
+Y khoa
+17
+Nguyễn Việt Hoa
+Tiến sĩ
+Ngoại Nhi
+Y khoa
+18
+Lê Hồng Nhân
+Tiến sĩ
+Y học
+Y khoa
+19
+Nguyễn Thái Hoàng
+CK II
+Ngoại khoa
+Y khoa
+20
+Vũ Nam
+PGS
+Tiến sĩ
+YH cổ truyền
+Y khoa
+21
+Lê Thị Hằng
+Tiến sĩ
+Y học
+Y khoa
+22
+Lê Thị Luyến
+PGS
+Tiến sĩ
+Lao
+Y khoa
+23
+Nguyễn Văn Học
+Tiến sĩ
+Ngoại khoa
+Y khoa
+24
+Võ Thanh Quang
+PGS
+Tiến sĩ
+Tai mũi họng
+Y khoa
+25
+Trần Thái Hà
+Tiến sĩ
+YH cổ truyền
+Y khoa
+26
+Nguyễn Hữu Chiến
+Tiến sĩ
+Tâm thần học
+Y khoa
+27
+Nguyễn Thị Thu Hoài
+Tiến sĩ
+Y học
+Y khoa
+28
+Nguyễn Trần Thủy
+Tiến sĩ
+Y học
+Y khoa
+29
+Lê Ngọc Thành
+GS
+Tiến sĩ
+Y học
+Y khoa
+30
+Đoàn Thu Hà
+Thạc sĩ
+Vi sinh y học
+Y khoa
+31
+Hoàng Thị Phượng
+PGS
+Tiến sĩ
+Lao
+Y khoa
+32
+Nguyễn Quốc Kính
+GS
+Tiến sĩ
+Y học
+Y khoa
+33
+Vũ Hồng Anh
+Tiến sĩ
+Nội khoa
+Y khoa
+34
+Đinh Văn Lượng
+Tiến sĩ
+Ngoại lồng ngực
+Y khoa
+35
+Nguyễn Thành Trung
+Tiến sĩ
+YH cổ truyền
+Y khoa
+36
+Đặng Văn Dương
+GS
+Tiến sĩ
+Y học
+Y khoa
+37
+Phạm Thị Hồng Nhung
+Tiến sĩ
+Sinh học
+Y khoa
+38
+Nguyễn Đức Nhự
+Tiến sĩ
+Pháp y
+Y khoa
+39
+Lê Hồng Quang
+Tiến sĩ
+Y học
+Y khoa
+40
+Nguyễn Sinh Hiền
+PGS
+Tiến sĩ
+Y học
+Y khoa
+41
+Trần Bình Giang
+GS
+Tiến sĩ
+Y học
+Y khoa
+42
+Đinh Đoàn Long
+PGS
+Tiến sĩ
+Di truyền học
+Y khoa
+43
+Vũ Thị Thơm
+PGS
+Tiến sĩ
+Y sinh học
+Y khoa
+44
+Nguyễn Công Long
+Tiến sĩ
+Nội tiêu hóa
+Y khoa
+45
+Đào Huyền Quyên
+Tiến sĩ
+Hóa sinh
+Y khoa
+46
+Nguyễn Đình Minh
+Thạc sĩ
+PT tạo hình
+Y khoa
+47
+Thân Mạnh Hùng
+Tiến sĩ
+Truyền nhiễm
+Y khoa
+48
+Phan Minh Đức
+Tiến sĩ
+Y học
+Y khoa
+49
+Dương Quốc Chính
+Tiến sĩ KH
+Sinh học PTYS
+Y khoa
+50
+Dương Trọng Hiền
+Tiến sĩ
+Ngoại khoa
+Y khoa
+51
+Đỗ Anh Tiến
+Tiến sĩ
+Y học
+Y khoa
+52
+Trần Minh Điển
+PGS
+Tiến sĩ
+Nhi khoa
+Y khoa
+53
+Bạch Quốc Khánh
+Tiến sĩ
+Y học
+Y khoa
+54
+Vũ Thị Thu Hương
+Tiến sĩ
+Dược học
+Y khoa
+55
+Nguyễn Tuấn Sơn
+Tiến sĩ
+Tai mũi họng
+Y khoa
+56
+Lê Quang Toàn
+Tiến sĩ
+Y học
+Y khoa
+57
+Đỗ Duy Cường
+PGS
+Tiến sĩ
+Truyền nhiễm
+Y khoa
+58
+Lê Thị Minh Phương
+Thạc sĩ
+Khoa học y sinh
+Y khoa
+59
+Võ Tường Kha
+PGS
+Tiến sĩ
+Y khoa
+Y khoa
+60
+Nguyễn Quang
+PGS
+Tiến sĩ
+Y học
+Y khoa
+61
+Nguyễn Mạnh Khánh
+PGS
+Tiến sĩ
+Y học
+Y khoa
+62
+Ngô Bá Toàn
+Tiến sĩ
+CT chỉnh hình
+Y khoa
+63
+Phạm Hoàng Hà
+PGS
+Tiến sĩ
+Ngoại tiêu hóa
+Y khoa
+64
+Nguyễn Xuân Hiệp
+PGS
+Tiến sĩ
+Nhãn khoa
+Y khoa
+65
+Vũ Thị Thu Thủy
+CK II
+Nội khoa
+Y khoa
+66
+Bùi Thị Vân Anh
+PGS
+Tiến sĩ
+Nhãn khoa
+Y khoa
+67
+Nguyễn Đỗ Huy
+PGS
+Tiến sĩ
+Dinh dưỡng
+Y khoa
+68
+Nguyễn Duy Tuyển
+Tiến sĩ
+Ngoại TK sọ não
+Y khoa
+69
+Nguyễn Duy Ánh
+PGS
+Tiến sĩ
+Sản phụ khoa
+Y khoa
+70
+Phan Hoàng Hiệp
+Tiến sĩ
+Y học
+Y khoa
+71
+Mai Trần Hạnh Linh
+CK I
+Nhi khoa
+Y khoa
+72
+Lê Thị Diễm Hồng
+Thạc sĩ
+Hóa sinh
+Y khoa
+73
+Phùng Thị Hòa
+Tiến sĩ
+Tai mũi họng
+Y khoa
+74
+Phạm Văn Đếm
+Tiến sĩ
+Nhi khoa
+Y khoa
+75
+Phan Hồng Long
+CK I
+Ngoại khoa
+Y khoa
+76
+Trần Quốc Tuấn
+Đại học
+Ngoại khoa
+Y khoa
+77
+Trần Mai Anh
+CK I
+YH cổ truyền
+Y khoa
+78
+Nguyễn Việt Dũng
+CK I
+Nội tim mạch
+Y khoa
+79
+Trần Ngọc Cầm
+CK I
+Nội thần kinh
+Y khoa
+80
+Phạm Thị Quỳnh
+CK I
+Tâm thần
+Y khoa
+81
+Lương Hoàng Thành
+CK I
+Sản phụ khoa
+Y khoa
+82
+Hoàng Phúc Thanh
+CK I
+Ngoại khoa
+Y khoa
+83
+Nguyễn Văn Khanh
+CK I
+Nội khoa
+Y khoa
+84
+Trần Thị Mai Hoa
+CK I
+Nội khoa
+Y khoa
+85
+Đoàn Xuân Trường
+CK II
+Thần kinh
+Y khoa
+86
+Lương Thị Thu Huyền
+Đại học
+YH cổ truyền
+Y khoa
+87
+Lê Văn Đạt
+CK I
+Sản phụ khoa
+Y khoa
+88
+Lưu Quang Long
+CK I
+Ngoại khoa
+Y khoa
+89
+Phạm Quang Thái
+CK I
+Ngoại khoa
+Y khoa
+90
+Nguyễn Huệ Linh
+CK I
+Thần kinh
+Y khoa
+91
+Nguyễn Viết Chung
+CK I
+Tâm thần
+Y khoa
+92
+Nguyễn Quỳnh Hoa
+Thạc sĩ
+Nhãn khoa
+Y khoa
+93
+Nguyễn Ngọc Nghĩa
+Tiến sĩ
+VSXHH và TCYT
+Y khoa
+94
+Nguyễn Thanh Vân
+Tiến sĩ
+Nhãn khoa
+Y khoa
+95
+Nguyễn Trung Tuyến
+Tiến sĩ
+Y học
+Y khoa
+96
+Vũ Thị Huyền
+CK I
+Nội khoa
+Y khoa
+97
+Nguyễn Thị Thuý Mậu
+Thạc sĩ
+Miễn dịch
+Y khoa
+98
+Đinh Như Quỳnh
+CK I
+Nội khoa
+Y khoa
+99
+Huỳnh Thị Nhung
+Thạc sĩ
+Nội khoa
+Y khoa
+100
+Phạm Quang Tuệ
+Tiến sĩ
+Lao phổi
+Y khoa
+101
+Nguyễn Thanh Hằng
+Thạc sĩ
+Vi sinh
+Y khoa
+102
+Nguyễn Thị Phương Lan
+Tiến sĩ
+Dị ứng - MD
+Y khoa
+103
+Nguyễn Thị Lệ Hà
+Tiến sĩ
+YT công cộng
+Y khoa
+104
+Trương Quang Vinh
+Thạc sĩ
+Sản phụ khoa
+Y khoa
+105
+Bùi Thị Thu Hoài
+Tiến sĩ
+Truyền nhiễm
+Y khoa
+106
+Nguyễn Lê Hoa
+Tiến sĩ
+Tai mũi họng
+Y khoa
+107
+Nguyễn Như Đua
+Thạc sĩ
+Tai mũi họng
+Y khoa
+108
+Đỗ Linh Quyên
+Tiến sĩ
+YH cổ truyền
+Y khoa
+109
+Nguyễn Ngọc Minh
+Tiến sĩ
+Sản phụ khoa
+Y khoa
+110
+Lê Vân Anh
+CK I
+Nội khoa
+Y khoa
+111
+Nguyễn Thái Hà Dương
+Thạc sĩ
+Giải phẫu người
+Y khoa
+112
+Phạm Như Hải
+PGS
+Tiến sĩ
+RHM
+Răng - Hàm - Mặt
+113
+Nguyễn Hồng Hà
+PGS
+Tiến sĩ
+PT hàm mặt
+RHM
+114
+Đàm Văn Việt
+Tiến sĩ
+Răng Hàm Mặt
+RHM
+115
+Phạm Dương Hiếu
+Tiến sĩ
+Răng Hàm Mặt
+RHM
+116
+Phạm Thị Huyền
+Thạc sĩ
+Răng Hàm Mặt
+RHM
+117
+Trần Thị Ngọc Anh
+CK I
+Răng Hàm Mặt
+RHM
+118
+Vũ Lê Phương
+Đại học
+Răng Hàm Mặt
+RHM
+119
+Lưu Văn Tường
+Tiến sĩ
+Răng Hàm Mặt
+RHM
+120
+Đinh Diệu Hồng
+CK I
+Răng Hàm Mặt
+RHM
+121
+Chử Thị Thu Hương
+CK I
+Răng Hàm Mặt
+RHM
+122
+Đào Thị Dung
+Tiến sĩ
+Răng Hàm Mặt
+RHM
+123
+Phạm Thị Thu Hiền
+Tiến sĩ
+Răng Hàm Mặt
+RHM
+124
+Trương Thị Mai Anh
+CK I
+Răng Hàm Mặt
+RHM
+125
+Nguyễn Anh Chi
+Thạc sĩ
+Răng Hàm Mặt
+RHM
+126
+Đỗ Trần Quang Anh
+Đại học
+Răng Hàm Mặt
+RHM
+127
+Lâm Thị Sen
+CK I
+Răng Hàm Mặt
+RHM
+128
+Đỗ Thị Thu Hương
+CK I
+Răng Hàm Mặt
+RHM
+129
+Nguyễn Công Hựu
+Tiến sĩ
+Y học
+KT xét nghiệm YH
+130
+Lê Thanh Hải
+Tiến sĩ
+Tai mũi họng
+KTXNYH
+131
+Đỗ Ngọc Sơn
+Tiến sĩ
+Gây mê HS
+KTXNYH
+132
+Phạm Quốc Khánh
+PGS
+Tiến sĩ
+Y học
+KTXNYH
+133
+Lưu Quang Thùy
+Tiến sĩ
+Gây mê HS
+KTXNYH
+134
+Phạm Cẩm Phương
+PGS
+Tiến sĩ
+Ung thư
+KTXNYH
+135
+Võ Hồng Khôi
+Tiến sĩ
+Y học
+KTXNYH
+136
+Trần Nam Chung
+Thạc sĩ
+Nội khoa
+KTXNYH
+137
+Nguyễn Văn Hưng
+PGS
+Tiến sĩ
+Vi sinh y học
+KTXNYH
+138
+Lê Minh Kỳ
+PGS
+Tiến sĩ
+Tai mũi họng
+KTXNYH
+139
+Đặng Hồng Hoa
+PGS
+Tiến sĩ
+Y học
+KTXNYH
+140
+Lê Ngọc Anh
+Tiến sĩ
+Y sinh học PT
+KTXNYH
+141
+Hán Minh Thủy
+CK I
+Hóa sinh y học
+KTXNYH
+142
+Trần Tiến Đạt
+CK I
+Hóa sinh
+KTXNYH
+143
+Nguyễn Thanh Huyền
+Thạc sĩ
+Khoa học Y sinh
+KTXNYH
+144
+Vũ Vân Nga
+Thạc sĩ
+Hóa sinh
+KTXNYH
+145
+Đỗ Thị Lệ Hằng
+Thạc sĩ
+Sinh học TN
+KTXNYH
+146
+Trịnh Hoàng Hà
+PGS
+Tiến sĩ
+Y tế công cộng
+KT hình ảnh YH
+147
+Vũ Văn Du
+PGS
+Tiến sĩ
+Sản phụ khoa
+KT hình ảnh YH
+148
+Nguyễn Quang Bình
+PGS
+Tiến sĩ
+Gây mê HS
+KT hình ảnh YH
+149
+Phạm Ngọc Đông
+PGS
+Tiến sĩ
+Nhãn khoa
+KT hình ảnh YH
+150
+Nguyễn Thế Hùng
+Tiến sĩ
+Hóa và HLCPT
+KT hình ảnh YH
+151
+Lê Thanh Dũng
+Tiến sĩ
+CĐ hình ảnh
+KT hình ảnh YH
+152
+Phạm Duy Hiền
+PGS
+Tiến sĩ
+Nhi khoa
+KT hình ảnh YH
+153
+Nguyễn Văn Tuận
+Tiến sĩ
+Thần kinh
+KT hình ảnh YH
+154
+Nguyễn Văn Sơn
+PGS
+Tiến sĩ
+CĐ hình ảnh
+KT hình ảnh YH
+155
+Doãn Văn Ngọc
+Tiến sĩ
+CĐ hình ảnh
+KT hình ảnh YH
+156
+Lê Đình Khiết
+Thạc sĩ
+Khai phá dữ liệu
+KT hình ảnh YH
+157
+Trần Mai Linh
+CK I
+Hóa sinh y học
+KT hình ảnh YH
+158
+Nguyễn Thị Kim Tiên
+Đại học
+BS đa khoa
+KT hình ảnh YH
+159
+Phùng Thị Thúy
+Thạc sĩ
+KH y sinh (MD)
+KT hình ảnh YH
+160
+Đỗ Thị Quỳnh
+Thạc sĩ
+Mô phôi thai học
+KT hình ảnh YH
+161
+Trịnh Ngọc Dương
+Thạc sĩ
+CN sinh học
+KT hình ảnh YH
+162
+Đặng Anh Phương
+CK I
+Giải phẫu bệnh
+KT hình ảnh YH
+163
+Nguyễn Xuân Bình
+Tiến sĩ
+Y khoa
+KT hình ảnh YH
+164
+Trần Thị Hồng Ngọc
+Đại học
+Y đa khoa
+KT hình ảnh YH
+165
+Nguyễn Xuân Tùng
+Thạc sĩ
+Kiểm nghiệm
+KT hình ảnh YH
+166
+Nguyễn Tiến Vững
+PGS
+Tiến sĩ
+Dược liệu
+Dược học
+167
+Phạm Xuân Viết
+Tiến sĩ
+Dược học
+Dược học
+168
+Bùi Thanh Tùng
+PGS
+Tiến sĩ
+Dược lý PT
+Dược học
+169
+Vũ Thị Thanh Huyền
+Tiến sĩ
+CNDP và BCT
+Dược học
+170
+Nguyễn Xuân Bách
+Thạc sĩ
+Dược lý DLS
+Dược học
+171
+Nguyễn Thị Thanh Bình
+Tiến sĩ
+Hóa dược
+Dược học
+172
+Nguyễn Trung Nghĩa
+Tiến sĩ
+Dược học
+Dược học
+173
+Nguyễn Thanh Hải
+GS
+Tiến sĩ
+Bào chế
+Dược học
+174
+Hà Văn Thúy
+PGS
+Tiến sĩ
+Dược học
+Dược học
+175
+Hồ Mỹ Dung
+CK I
+Dược lý
+Dược học
+176
+Phan Hồng Minh
+CK I
+DL và độc chất
+Dược học
+177
+Đặng Thị Ngần
+Đại học
+Dược học
+Dược học
+178
+Nguyễn Văn Khanh
+Thạc sĩ
+CNDP và BCT
+Dược học
+179
+Lê Hồng Dương
+Đại học
+Dược học
+Dược học
+180
+Nguyễn Thị Mai
+Thạc sĩ
+Dược học
+Dược học
+181
+Nguyễn Thúc Thu Hương
+Thạc sĩ
+Đông dược
+Dược học
+182
+Đỗ Thị Hồng Khánh
+Thạc sĩ
+Dược học
+Dược học
+183
+Lê Anh Tuấn
+Thạc sĩ
+Dược lý và DLS
+Dược học
+184
+Nguyễn Thị Huyền
+Thạc sĩ
+CNDP và BCT
+Dược học
+185
+Lê Hương Giang
+Thạc sĩ
+DL-DHCT
+Dược học
+186
+Nguyễn Thị Hải Yến
+Tiến sĩ
+Hóa Dược - DL
+Dược học
+187
+Hoàng Minh Tuấn
+Thạc sĩ
+Dược lý DLS
+Dược học
+188
+Lê Ngọc An
+Tiến sĩ
+Hóa dược
+Dược học
+189
+Bùi Sơn Nhật
+Thạc sĩ
+Dược học
+Dược học
+190
+Bùi Thị Xuân
+Thạc sĩ
+Dược học
+Dược học
+191
+Nguyễn Thị Thúy
+Thạc sĩ
+CNDP và BCT
+Dược học
+192
+Nguyễn Hải Hà
+Thạc sĩ
+CNDP và BCT
+Dược học
+193
+Bùi Thị Thương
+Thạc sĩ
+Dược học
+Dược học
+194
+Trần Thị Thu Thư
+Thạc sĩ
+Dược học
+Dược học
+195
+Đặng Kim Thu
+Thạc sĩ
+Dược lý và DLS
+Dược học
+196
+Phạm Văn Tuyến
+Thạc sĩ
+Giải phẫu bệnh
+Điều dưỡng
+197
+Ngô Mạnh Hùng
+Tiến sĩ
+Y khoa
+Điều dưỡng
+198
+Nguyễn Thị Như Hoa
+Tiến sĩ
+Y học
+Điều dưỡng
+199
+Nguyễn Thu Hương
+Tiến sĩ
+Nhi khoa
+Điều dưỡng
+200
+Nguyễn Thị Bích Ngọc
+Tiến sĩ
+Nội hô hấp
+Điều dưỡng
+201
+Mai Trọng Khoa
+GS
+Tiến sĩ
+Y học
+Điều dưỡng
+202
+Nguyễn Viết Nhung
+PGS
+Tiến sĩ
+Y học
+Điều dưỡng
+203
+Lê Xuân Hùng
+PGS
+Tiến sĩ
+Ký sinh trùng
+Điều dưỡng
+204
+Phan Văn Đức
+Tiến sĩ
+Y học
+Điều dưỡng
+205
+Trần Thúy Nga
+PGS
+Tiến sĩ
+Dinh dưỡng
+Điều dưỡng
+206
+Phạm Trung Kiên
+PGS
+Tiến sĩ
+Y học
+Điều dưỡng
+207
+Đào Xuân Cơ
+PGS
+Tiến sĩ
+Gây mê HS
+Điều dưỡng
+208
+Mạc Đăng Tuấn
+Thạc sĩ
+YT công cộng
+Điều dưỡng
+209
+Nguyễn Minh Thành
+Đại học
+Điều dưỡng
+Điều dưỡng
+210
+Nguyễn Thị Khuyến
+Thạc sĩ
+Điều dưỡng
+Điều dưỡng
+211
+Nguyễn Thị Dân
+Thạc sĩ
+Điều dưỡng
+Điều dưỡng
+212
+Đinh Thị Yến
+Thạc sĩ
+Điều dưỡng
+Điều dưỡng
+213
+Hà Thị Thu Trang
+Thạc sĩ
+Điều dưỡng
+Điều dưỡng
+214
+Hoàng Thị Thảo Nghiên
+Thạc sĩ
+Dinh dưỡng
+Điều dưỡng
+215
+Nguyễn Thị Nguyệt
+Tiến sĩ
+Điều dưỡng
+Điều dưỡng
+Tổng số GV toàn trường
+1.5.
